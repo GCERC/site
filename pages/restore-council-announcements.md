@@ -1,8 +1,12 @@
 ---
 title: RESTORE Council Announcements
 permalink: /restore-council-announcements
+layout: layouts/page
+sidenav: true
 
 ---
+## Announcements
+
 Title
 
 Post Date
@@ -15,5 +19,5 @@ Post Date
 
 2024-01-19
 
-*   [‹‹](/restore-council-announcements?page=2 "Go to previous page")
-*   4
+[‹‹](/restore-council-announcements?page=2 "Go to previous page")
+4

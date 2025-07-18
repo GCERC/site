@@ -1,0 +1,30 @@
+
+- name: Who We Are
+  url: /who-we-are
+  children:
+    - name: RESTORE Council Members
+      url: /people/council-members
+    - name: RESTORE Act
+      url: /what-is-the-restore-act
+- name: What We Do
+  url: /what-we-do
+  children:
+    - name: Restoration Planning
+      url: /comprehensive-plan
+    - name: How the Council Funds Projects
+      url: /how-council-funds-projects/
+    - name: Council-Selected Restoration Component
+      url: /council-selected-restoration-component/
+    - name: Spill Impact Component
+      url: /spill-impact-component/
+    - name: RESTORE Projects
+      url: /restore-projects
+- name: Resources
+  url: /resources/index.html
+  children:
+    - name: Reports and Plans
+      url: /resources/reports-plans
+    - name: History
+      url: /resources/history
+
+
