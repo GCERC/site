@@ -1,6 +1,8 @@
 ---
 title: Louisiana State Expenditure Plan Efforts
 permalink: /spill-impact-component/louisiana
+layout: layouts/page
+sidenav: true
 
 ---
 Louisiana State Expenditure Plan (SEP) and Amendments 
