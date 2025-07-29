@@ -1,7 +1,7 @@
 ---
 title: Reports
 layout: layouts/page
-permalink: /reports/
+permalink: reports/
 sidenav: false
 ---
 

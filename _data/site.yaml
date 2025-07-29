@@ -1,4 +1,4 @@
-title: Agency Name
+title: RESTORETHEGULF.GOV
 email: contact@example.gov
 description: >- # this means to ignore newlines
   Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -57,24 +57,32 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: Blog
-    url: /blog/
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
-    url: /document-with-sidenav/
-  - name: Document submenu
+  - name: Who We Are
     children:
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
-  - name: Departments
+      - name: Who are the RESTORE Council Members?
+        url: "/people/council-members/"
+      - name: What is the RESTORE Act?
+        url: "/what-is-the-restore-act/"
+  - name: What We Do
     children:
-      use_collection: "staffByDept"
+      - name: Restoration Planning
+        url: "/comprehensive-plan/"
+      - name: How the Council Funds Projects
+        url: "/how-council-funds-projects/"
+      - name: RESTORE Projects
+        url: "/restore-projects/"
+  - name: Resources
+    children:
+      - name: Reports and Plans
+        url: "/resources/reports-plans/"
+      - name: History
+        url: "/resources/history/"
+  - name: Announcements
+    url: /restore-council-announcements/
 
+  #- name: Departments
+  # children:
+  # use_collection: "staffByDept"
 
 secondary_navigation:
   - name: Staff Directory
@@ -106,7 +114,6 @@ footer_navigation:
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
 searchgov:
-
   # Only change this if you're using a CNAME. Learn more here: https://search.gov/manual/cname.html
   endpoint: https://search.usa.gov
 
@@ -122,7 +129,6 @@ searchgov:
   # This allows Search.gov to present relevant type-ahead search suggestions in your website's search box.
   # If you do not want to present search suggestions, set this value to false.
   suggestions: true
-
 ##########################################################################################
 # The values below here are more advanced and should only be
 # changed if you know what they do
