@@ -12,7 +12,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
             {% if nav_section.url == page.url %}
               class="usa-current"
             {% endif %}
-            href="{{ nav_section.url | url }}"
+            href="{{ nav_section.url}}"
           >
             {{- nav_section.name -}}
           </a>
@@ -24,7 +24,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
                     {% if nav_item.url == page.url %}
                       class="usa-current"
                     {% endif %}
-                    href="{{ nav_item.url | url }}"
+                    href="{{ nav_item.url}}"
                   >
                     {{- nav_item.name -}}
                   </a>

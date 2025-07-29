@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /resources/index.html
+permalink: /resources/
 layout: layouts/page
 sidenav: true
 

@@ -20,7 +20,7 @@
     - name: RESTORE Projects
       url: /restore-projects/
 - name: Resources
-  url: /resources/index.html
+  url: /resources/
   children:
     - name: Reports and Plans
       url: /resources/reports-plans/
