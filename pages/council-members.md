@@ -1,13 +1,13 @@
 ---
 title: Council Members
-permalink: /people/council-members
+permalink: people/council-members/
 layout: layouts/page
 sidenav: true
-
 ---
+
 ## Who are the RESTORE Council Members?
 
-The RESTORE Council includes governors of the States of Alabama, Florida, Louisiana, Mississippi and Texas and the Secretaries of the U.S. Departments of Agriculture, the Army, Commerce, Homeland Security, the Interior and the Aministrator of the U.S. Environmental Protection Agency. This unique governance structure institutionalizes collaboration among government agencies with key roles in Gulf coast restoration. 
+The RESTORE Council includes governors of the States of Alabama, Florida, Louisiana, Mississippi and Texas and the Secretaries of the U.S. Departments of Agriculture, the Army, Commerce, Homeland Security, the Interior and the Aministrator of the U.S. Environmental Protection Agency. This unique governance structure institutionalizes collaboration among government agencies with key roles in Gulf coast restoration.
 
 ![U.S. Environmental Protection Agency Administrator](/sites/default/files/styles/image_style/public/2025-02/Lee-Zeldin-EPA-Official-Portrait.jpg?itok=aqQtoeOg "U.S. Environmental Protection Agency Administrator")
 
@@ -17,8 +17,8 @@ The RESTORE Council includes governors of the States of Alabama, Florida, Louisi
 
 Designee:  
 TBD  
-TBD  
-  
+TBD
+
 Representative:  
 Marc Wyatt  
 Gulf of America Division
@@ -31,8 +31,7 @@ Gulf of America Division
 
 Alternate:   
 Chris Blankenship  
-Alabama Department of Conservation and Natural Resources   
- 
+Alabama Department of Conservation and Natural Resources
 
 ![Ron DeSantis State of Florida Governor](/sites/default/files/styles/image_style/public/2024-11/Ron%20DeSantis%20.jpg?itok=7dzlMBxR "Ron DeSantis State of Florida Governor")
 
@@ -42,8 +41,7 @@ Alabama Department of Conservation and Natural Resources 
 
 Alternate:   
 Alexis A. Lambert   
-Florida Department of Environmental Protection   
- 
+Florida Department of Environmental Protection
 
 ![Jeff Landry State of Louisiana Governor](/sites/default/files/styles/image_style/public/2024-11/Jeff%20Landry.png?itok=NOmu08Q_ "Jeff Landry State of Louisiana Governor")
 
@@ -53,8 +51,7 @@ Florida Department of Environmental Protection 
 
 Alternate:   
 Maury Chatellier   
-Louisiana Coastal Protection and Restoration Authority   
- 
+Louisiana Coastal Protection and Restoration Authority
 
 ![Tate Reeves State of Mississippi Governor](/sites/default/files/styles/image_style/public/2024-11/Tate%20Reeves.jpg?itok=v4HkxYWb "Tate Reeves State of Mississippi Governor")
 
@@ -64,8 +61,7 @@ Louisiana Coastal Protection and Restoration Authority 
 
 Alternate:   
 Chris Wells   
-Mississippi Department of Environmental Quality   
- 
+Mississippi Department of Environmental Quality
 
 ![Greg Abbott State of Texas Governor](/sites/default/files/styles/image_style/public/2024-11/Greg%20Abbott.jpg?itok=4IBM2jlt "Greg Abbott State of Texas Governor")
 
@@ -75,8 +71,7 @@ Mississippi Department of Environmental Quality 
 
 Alternate:   
 Steven Schar   
-Texas Commission on Environmental Quality   
- 
+Texas Commission on Environmental Quality
 
 ![Brooke Rollins, U.S.Department of Agriculture Secretary](/sites/default/files/styles/image_style/public/2025-03/sec%20of%20ag.jpg?itok=a_SQmnaA "Brooke Rollins, U.S.Department of Agriculture Secretary")
 
@@ -87,8 +82,7 @@ Texas Commission on Environmental Quality 
 Representative:   
 Doris Washington  
 Director  
-Gulf Coast Ecosytem Restoration   
- 
+Gulf Coast Ecosytem Restoration
 
 ![Daniel P. Driscoll, U.S. Department of the Army Assistant Secretary](/sites/default/files/styles/image_style/public/2025-03/sec%20of%20army.jpg?itok=5bEq3YHl "Daniel P. Driscoll, U.S. Department of the Army Assistant Secretary")
 
@@ -99,9 +93,7 @@ Gulf Coast Ecosytem Restoration 
 Representative:   
 Jeff Trulick   
 Environmental Planner  
-Office of the Asst Secretary for Army Civil Works  
-  
- 
+Office of the Asst Secretary for Army Civil Works
 
 ![Howard Lutnick](/sites/default/files/styles/image_style/public/2025-03/Howard_Lutnick_2025.jpg?itok=EMSiPiOq "Howard Lutnick")
 
@@ -111,8 +103,7 @@ Office of the Asst Secretary for Army Civil Works
 
 Representative:   
 Aileen Smith   
-Senior Policy Analyst   
- 
+Senior Policy Analyst
 
 ![Kristi Noem](/sites/default/files/styles/image_style/public/2025-04/Kristi%20Noem.webp?itok=qB8y61O9 "Kristi Noem")
 
@@ -122,8 +113,7 @@ Senior Policy Analyst 
 
 Representative:   
 TBD   
-TBD   
- 
+TBD
 
 ![Doug Burgum, U.S. Department of the Interior Secretary](/sites/default/files/styles/image_style/public/2025-03/Sec%20of%20the%20Interior.jpg?itok=OToRyT8f "Doug Burgum, U.S. Department of the Interior Secretary")
 
@@ -134,7 +124,6 @@ TBD 
 Representative:   
 Mary Josie Blanchard   
 Director  
-Gulf Coast Restoration   
- 
+Gulf Coast Restoration
 
 \* The governors recommend and the President appoints one federal member to serve as Chair.

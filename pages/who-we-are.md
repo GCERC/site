@@ -1,7 +1,7 @@
 ---
 title: Who We Are
 layout: layouts/page
-permalink: /who-we-are
+permalink: who-we-are/
 sidenav: true
 
 ---

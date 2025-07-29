@@ -1,10 +1,10 @@
 ---
 title: RESTORE Projects
-permalink: /restore-projects
+permalink: restore-projects/
 layout: layouts/page
 sidenav: true
-
 ---
+
 ## RESTORE Projects
 
 The Council supports ecosystem restoration that can enhance local communities by giving people desirable places to live, work, and play, while creating opportunities for new and existing businesses of all sizes, especially those dependent on natural resources.

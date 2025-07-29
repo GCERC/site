@@ -1,10 +1,10 @@
 ---
 title: Reports and Plans
-permalink: /resources/reports-plans
+permalink: resources/reports-plans/
 layout: layouts/page
 sidenav: true
-
 ---
+
 ## Reports and Plans
 
 The RESTORE Council has released reports outlining its progress.

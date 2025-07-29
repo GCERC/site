@@ -1,10 +1,10 @@
 ---
 title: RESTORE Council Announcements
-permalink: /restore-council-announcements
+permalink: restore-council-announcements/
 layout: layouts/page
 sidenav: true
-
 ---
+
 ## Announcements
 
 Title
