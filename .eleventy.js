@@ -12,70 +12,6 @@ const { imageShortcode, imageWithClassShortcode } = require("./config");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 module.exports = function (config) {
-  // Load the YAML data
-  const sidenavLinks = yaml.load(fs.readFileSync('./_data/sidenav_links.yaml', 'utf8'));
-
-  // Add a collection for pages in the "pages" directory
-  config.addCollection("pages", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("pages/**/*.md", "pages/**/*.html"); // Adjust glob pattern as needed
-  });
-
-  // Add a filter to process the navigation data
-  config.addFilter("eleventyNavigation", function(collection, page) {
-    console.log("Collection Argument (After selectattr):", collection);
-    const filteredCollection = collection.filter(item => item.data.eleventyNavigation?.key); // Apply selectattr logic in js
-    if (!page) {
-      console.warn("eleventyNavigation filter: `page` variable not found.");
-      return [];
-    }
-
-    // Get the current page URL
-    const currentPageUrl = page.url;
-
-    // Function to find the parent topic of a given page
-    function findParentTopic(url, links) {
-      for (const section of links) {
-        if (section.url === url) {
-          return section;
-        }
-        if (section.children) {
-          const child = findParentTopic(url, section.children);
-          if (child) {
-            return child;
-          }
-        }
-      }
-      return null;
-    }
-
-    // Find the current page's topic
-    const currentTopic = findParentTopic(currentPageUrl, sidenavLinks);
-    if (!currentTopic) {
-      return []; // Return an empty array if the topic is not found
-    }
-
-    // Build the filtered navigation links
-    const filteredLinks = [];
-
-    // Add the parent topic (if it exists)
-    if (currentTopic.parent) {
-      const parentTopic = findParentTopic(currentTopic.parent, sidenavLinks);
-          if (parentTopic) {
-            filteredLinks.push(parentTopic);
-          }
-    }
-
-    // Add the current topic
-    filteredLinks.push(currentTopic);
-
-    // Add the children of the current topic
-    if (currentTopic.children) {
-      filteredLinks.push(...currentTopic.children);
-    }
-
-    return filteredLinks;
-  });
-
   // Set pathPrefix for site
   let pathPrefix = "/";
 
@@ -91,32 +27,32 @@ module.exports = function (config) {
   config.addPlugin(svgSprite, {
     path: "./node_modules/@uswds/uswds/dist/img/uswds-icons",
     svgSpriteShortcode: "uswds_icons_sprite",
-    svgShortcode: "uswds_icons"
+    svgShortcode: "uswds_icons",
   });
 
   //// SVG Sprite Plugin for USWDS USA icons
   config.addPlugin(svgSprite, {
     path: "./node_modules/@uswds/uswds/dist/img/usa-icons",
     svgSpriteShortcode: "usa_icons_sprite",
-    svgShortcode: "usa_icons"
+    svgShortcode: "usa_icons",
   });
 
   // Allow yaml and CSV to be used in the _data dir
-  config.addDataExtension("yaml", contents => yaml.load(contents));
+  config.addDataExtension("yaml", (contents) => yaml.load(contents));
 
   const csvConfig = {
     columns: true,
     skip_empty_lines: true,
     relax_column_count: true,
     trim: true,
-  }
+  };
 
   config.addDataExtension("csv", (contents) => {
     const records = parse(contents, csvConfig);
     return records;
   });
-  
-config.addDataExtension("csv", (contents) =>
+
+  config.addDataExtension("csv", (contents) =>
     parse(contents, {
       columns: true,
       skip_empty_lines: true,
@@ -193,7 +129,7 @@ config.addDataExtension("csv", (contents) =>
     html: true,
     breaks: true,
     linkify: true,
-  }).use(markdownItNamedHeadings)
+  }).use(markdownItNamedHeadings);
   config.setLibrary("md", markdownLibrary);
 
   // Override Browsersync defaults (used only with --serve)
@@ -226,7 +162,7 @@ config.addDataExtension("csv", (contents) =>
 
   // If BASEURL env variable exists, update pathPrefix to the BASEURL
   if (process.env.BASEURL) {
-    pathPrefix = process.env.BASEURL
+    pathPrefix = process.env.BASEURL;
   }
 
   return {

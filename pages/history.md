@@ -5,6 +5,7 @@ layout: layouts/page
 eleventyNavigation:
   key: history
   parent: resources
+  title: History
 sidenav: true
 ---
 

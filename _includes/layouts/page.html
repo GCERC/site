@@ -10,42 +10,7 @@ This template is for a single page that does not have a date associated with it.
   <div class="grid-container">
     <div class="grid-row grid-gap">
       {% if sidenav == true %}
-        <aside id="section-nav" class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
-          <nav>
-            <ul class="usa-sidenav">
-              {% for nav_section in collections.pages %}
-                {% if nav_section.data.eleventyNavigation.key %}
-                  <li class="usa-sidenav__item">
-                    <a
-                      {% if nav_section.url == page.url %}
-                        class="usa-current"
-                      {% endif %}
-                      href="{{ nav_section.url}}"
-                    >
-                      {{- nav_section.data.title -}}
-                    </a>
-                    {% if nav_section.children %}
-                      <ul class="usa-sidenav__sublist">
-                        {% for nav_item in nav_section.children %}
-                          <li class="usa-sidenav__item">
-                            <a
-                              {% if nav_item.url == page.url %}
-                                class="usa-current"
-                              {% endif %}
-                              href="{{ nav_item.url}}"
-                            >
-                              {{- nav_item.data.title -}}
-                            </a>
-                          </li>
-                        {% endfor %}
-                      </ul>
-                    {% endif %}
-                  </li>
-                {% endif %}
-              {% endfor %}
-            </ul>
-          </nav>
-        </aside>
+        {% include "sidenav.html" %}
       {% endif %}
       <main>
         <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
