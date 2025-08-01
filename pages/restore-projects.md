@@ -1,7 +1,10 @@
 ---
 title: RESTORE Projects
-permalink: restore-projects/
+permalink: /restore-projects/
 layout: layouts/page
+eleventyNavigation:
+  key: restore-projects
+  parent: what-we-do
 sidenav: true
 ---
 

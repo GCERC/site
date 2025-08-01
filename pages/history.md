@@ -1,7 +1,10 @@
 ---
 title: History
-permalink: resources/history/
+permalink: /resources/history/
 layout: layouts/page
+eleventyNavigation:
+  key: history
+  parent: resources
 sidenav: true
 ---
 

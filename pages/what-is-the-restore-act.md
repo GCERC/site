@@ -1,7 +1,10 @@
 ---
-title: What is the RESTORE Act?
-permalink: what-is-the-restore-act/
+title: What is the RESTORE Act
+permalink: /what-is-the-restore-act/
 layout: layouts/page
+eleventyNavigation:
+  key: what-is-the-restore-act
+  parent: who-we-are
 sidenav: true
 ---
 

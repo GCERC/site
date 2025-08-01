@@ -1,7 +1,10 @@
 ---
 title: Resources
-permalink: resources/
+permalink: /resources/
 layout: layouts/page
+eleventyNavigation:
+  key: resources
+  # parent: null (or omit this property)
 sidenav: true
 ---
 

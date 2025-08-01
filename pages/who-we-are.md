@@ -1,7 +1,10 @@
 ---
 title: Who We Are
+permalink: /who-we-are/
 layout: layouts/page
-permalink: who-we-are/
+eleventyNavigation:
+  key: who-we-are
+  # parent: null
 sidenav: true
 
 ---

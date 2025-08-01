@@ -1,6 +1,6 @@
 ---
 title: Initial Funded Priorities List
-permalink: inital-funded-priorities-list
+permalink: inital-funded-priorities-list/
 layout: layouts/page
 sidenav: true
 ---

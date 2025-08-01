@@ -1,7 +1,10 @@
 ---
 title: Council Members
-permalink: people/council-members/
+permalink: /people/council-members/
 layout: layouts/page
+eleventyNavigation:
+  key: council-members
+  parent: who-we-are
 sidenav: true
 ---
 

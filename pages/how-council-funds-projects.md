@@ -1,7 +1,10 @@
 ---
 title: How the Council Funds Projects
-permalink: how-council-funds-projects/
+permalink: /how-council-funds-projects/
 layout: layouts/page
+eleventyNavigation:
+  key: how-council-funds-projects
+  parent: what-we-do
 sidenav: true
 ---
 

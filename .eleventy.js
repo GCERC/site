@@ -12,6 +12,70 @@ const { imageShortcode, imageWithClassShortcode } = require("./config");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 module.exports = function (config) {
+  // Load the YAML data
+  const sidenavLinks = yaml.load(fs.readFileSync('./_data/sidenav_links.yaml', 'utf8'));
+
+  // Add a collection for pages in the "pages" directory
+  config.addCollection("pages", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("pages/**/*.md", "pages/**/*.html"); // Adjust glob pattern as needed
+  });
+
+  // Add a filter to process the navigation data
+  config.addFilter("eleventyNavigation", function(collection, page) {
+    console.log("Collection Argument (After selectattr):", collection);
+    const filteredCollection = collection.filter(item => item.data.eleventyNavigation?.key); // Apply selectattr logic in js
+    if (!page) {
+      console.warn("eleventyNavigation filter: `page` variable not found.");
+      return [];
+    }
+
+    // Get the current page URL
+    const currentPageUrl = page.url;
+
+    // Function to find the parent topic of a given page
+    function findParentTopic(url, links) {
+      for (const section of links) {
+        if (section.url === url) {
+          return section;
+        }
+        if (section.children) {
+          const child = findParentTopic(url, section.children);
+          if (child) {
+            return child;
+          }
+        }
+      }
+      return null;
+    }
+
+    // Find the current page's topic
+    const currentTopic = findParentTopic(currentPageUrl, sidenavLinks);
+    if (!currentTopic) {
+      return []; // Return an empty array if the topic is not found
+    }
+
+    // Build the filtered navigation links
+    const filteredLinks = [];
+
+    // Add the parent topic (if it exists)
+    if (currentTopic.parent) {
+      const parentTopic = findParentTopic(currentTopic.parent, sidenavLinks);
+          if (parentTopic) {
+            filteredLinks.push(parentTopic);
+          }
+    }
+
+    // Add the current topic
+    filteredLinks.push(currentTopic);
+
+    // Add the children of the current topic
+    if (currentTopic.children) {
+      filteredLinks.push(...currentTopic.children);
+    }
+
+    return filteredLinks;
+  });
+
   // Set pathPrefix for site
   let pathPrefix = "/";
 

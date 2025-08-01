@@ -1,7 +1,10 @@
 ---
 title: Restoration Planning
-permalink: comprehensive-plan/
+permalink: /comprehensive-plan/
 layout: layouts/page
+eleventyNavigation:
+  key: comprehensive-plan
+  parent: what-we-do
 sidenav: true
 ---
 

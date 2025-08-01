@@ -1,7 +1,10 @@
 ---
 title: What is the Council-Selected Restoration Component?
-permalink: council-selected-restoration-component/
+permalink: /council-selected-restoration-component/
 layout: layouts/page
+eleventyNavigation:
+  key: council-selected-restoration-component
+  parent: what-we-do
 sidenav: true
 ---
 

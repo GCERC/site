@@ -1,7 +1,10 @@
 ---
 title: What is the Spill Impact Component?
-permalink: spill-impact-component/
+permalink: /spill-impact-component/
 layout: layouts/page
+eleventyNavigation:
+  key: spill-impact-component
+  parent: what-we-do
 sidenav: true
 ---
 

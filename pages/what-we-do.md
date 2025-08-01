@@ -1,7 +1,10 @@
 ---
 title: What We Do
-permalink: what-we-do/
+permalink: /what-we-do/
 layout: layouts/page
+eleventyNavigation:
+  key: what-we-do
+  # parent: null
 sidenav: true
 ---
 
