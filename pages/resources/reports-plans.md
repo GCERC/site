@@ -1,8 +1,10 @@
 ---
-title: Reports and Plans
-permalink: resources/reports-plans/
-layout: layouts/page
-sidenav: true
+title: Reports
+permalink: /resources/reports-plans/
+eleventyNavigation:
+  key: reports
+  parent: resources
+  title: Reports
 ---
 
 ## Reports and Plans

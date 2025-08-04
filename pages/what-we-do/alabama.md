@@ -1,8 +1,6 @@
 ---
 title: Alabama State Expenditure Plan
-permalink: spill-impact-component/alabama/
-layout: layouts/page
-sidenav: true
+permalink: /spill-impact-component/alabama/
 ---
 
 Alabama State Expenditure Plan (SEP) and Amendments

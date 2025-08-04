@@ -1,8 +1,10 @@
 ---
 title: Restoration Planning
-permalink: comprehensive-plan/
-layout: layouts/page
-sidenav: true
+permalink: /comprehensive-plan/
+eleventyNavigation:
+  key: comprehensive-plan
+  parent: what-we-do
+  title: Restoration Planning
 ---
 
 ## Comprehensive Plan
