@@ -1,5 +1,13 @@
-<div class="usa-logo" id="extended-logo">
-  <em class="usa-logo__text"><a href="/" title="Home" aria-label="Home">
-    {% image "./_img/logo.png" site.title  %}
-  </a></em>
-</div>
+<a
+  href="/"
+  class="display-inline-flex flex-align-center margin-y-2 text-white text-no-underline"
+>
+  {% image_with_class "./_img/logo.png" "width-4 desktop:width-10 margin-right-2" site.title %}
+  <span>
+    <span class="display-block font-sans-lg text-bold">{{ site.title }}</span>
+    <span class="display-none desktop:display-block font-sans-xs"
+      >The official website of the Gulf Coast Ecosystem Restoration
+      Council</span
+    >
+  </span>
+</a>

@@ -1,14 +1,23 @@
-@use 'uswds-core' as * with (
+@use "uswds-core" as * with (
   $theme-show-notifications: false,
-  $theme-font-path: '../node_modules/@uswds/uswds/dist/fonts',
-  $theme-image-path: '../node_modules/@uswds/uswds/dist/img',
-  $theme-font-type-sans: 'public-sans',
+  $theme-font-path: "../node_modules/@uswds/uswds/dist/fonts",
+  $theme-image-path: "../node_modules/@uswds/uswds/dist/img",
+  $theme-font-type-sans: "public-sans",
   $theme-color-base-lightest: #f9f6f3,
   $theme-color-primary: #344271,
-  $theme-color-primary-light: #87A0B4,
-  $theme-body-background-color: 'base-lightest',
-  $theme-hero-image: '../_img/slider.jpg'
+  $theme-color-primary-light: #87a0b4,
+  $theme-color-primary-dark: #1b2958,
+  $theme-body-background-color: "base-lightest",
+  $theme-hero-image: "../_img/slider.jpg"
 );
 
-@forward 'uswds';
+@forward "uswds";
 
+.usa-nav__secondary-links a {
+  color: #ffffff;
+}
+
+.usa-nav__primary button,
+.usa-nav__primary > .usa-nav__primary-item > a {
+  color: #1b2958;
+}
