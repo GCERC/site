@@ -1,8 +1,6 @@
 ---
 title: Initial Funded Priorities List
 permalink: inital-funded-priorities-list/
-layout: layouts/page
-sidenav: true
 ---
 
 The Initial Funded Priorities List was approved on December 9, 2015. Below are links to the Council’s first FPL, known as the Initial FPL, along with links to the amendments to this FPL.

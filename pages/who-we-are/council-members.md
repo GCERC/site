@@ -1,11 +1,10 @@
 ---
 title: Council Members
 permalink: /people/council-members/
-layout: layouts/page
 eleventyNavigation:
   key: council-members
   parent: who-we-are
-sidenav: true
+  title: Council Members
 ---
 
 ## Who are the RESTORE Council Members?

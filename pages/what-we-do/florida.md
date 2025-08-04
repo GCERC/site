@@ -1,8 +1,6 @@
 ---
 title: Florida State Expenditure Plan
 permalink: spill-impact-component/florida/
-layout: layouts/page
-sidenav: true
 ---
 
 Florida State Expenditure Plan (SEP) and Amendments

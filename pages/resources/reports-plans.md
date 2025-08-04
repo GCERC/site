@@ -1,11 +1,10 @@
 ---
 title: Reports
 permalink: /resources/reports-plans/
-layout: layouts/page
 eleventyNavigation:
   key: reports
   parent: resources
-sidenav: true
+  title: Reports
 ---
 
 ## Reports and Plans

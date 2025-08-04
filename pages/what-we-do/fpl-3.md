@@ -1,8 +1,6 @@
 ---
 title: Funded Priorities List 3
 permalink: council-selected-restoration-component/fpl-3/
-layout: layouts/page
-sidenav: true
 ---
 
 The Council periodically approves Council-Selected Restoration Component funding for batches of projects and programs in what is called a Funded Priorities List (FPL). The Council occasionally amends these FPLs to add additional funding or otherwise modify previously-approved activities. Below are links to the Council’s FPL 3, which was approved in two parts - FPL 3(a) and FPL 3(b). Links to amendments to FPL 3(a) and 3(b) are also provided below.
