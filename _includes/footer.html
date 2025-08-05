@@ -3,12 +3,16 @@
         <div class="grid-container">
             <div class="usa-footer__logo grid-row grid-gap-2">
                 <div class="grid-col-12 tablet:grid-col-auto">
-                    {% image_with_class "./_img/logo.png" "width-4 desktop:width-10 margin-right-2" site.title %}
+                    <p class="usa-footer__logo-heading text-primary-dark">
+                        STAY IN TOUCH
+                    </p>
                 </div>
                 <div class="grid-col-12 desktop:grid-col-fill">
-                    <p class="usa-footer__logo-heading text-primary-dark">
-                        {{ site.title }}
-                    </p>
+                    <ul class="usa-button-group">
+                         <li class="usa-button-group__item">
+                            <a href="#" class="usa-button usa-button--outline">Subscribe</a>
+                        </li>
+                    </ul>
                 </div>
                 {% if site['social-media'] %}
                 <div class="grid-col-12 tablet:grid-col-auto">
@@ -64,17 +68,21 @@
             </div>
         </div>
     </div>
-    <div class="usa-footer__primary-section bg-primary padding-y-4">
+    <div class="usa-footer__primary-section bg-primary text-white padding-y-4">
         <div class="usa-footer__primary-container grid-row">
             <div class="desktop-lg:grid-col-8">
-                <nav class="usa-footer__nav" aria-label="Footer navigation,">
-                    <ul class="grid-row grid-gap">
-                        {% for nav_item in site.footer_navigation %}
-                        <li class="mobile-lg:grid-col-6 desktop:grid-col-auto usa-footer__primary-content">
-                            <a class="usa-footer__primary-link text-white text-no-underline" href="{{nav_item.url}}">{{ nav_item.name }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
+                <nav class="usa-identifier__section usa-identifier__section--required-links"
+                    aria-label="Important links">
+                    <div class="usa-identifier__container">
+                        <ul class="usa-identifier__required-links-list">
+                            {% for nav_item in site.footer_navigation %}
+                            <li class="usa-identifier__required-links-item">
+                                <a class="usa-identifier__required-link usa-link" href={{nav_item.url}}>
+                                    {{nav_item.name}}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
                 </nav>
             </div>
             <div class="desktop-lg:grid-col-4"></div>

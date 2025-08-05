@@ -1,8 +1,7 @@
 ---
 title: RESTORE Council Announcements
-permalink: restore-council-announcements/
-layout: layouts/page
-sidenav: true
+permalink: /restore-council-announcements/
+sidenav: false
 ---
 
 ## Announcements

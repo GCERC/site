@@ -1,8 +1,6 @@
 ---
 title: Texas State Expenditure Plan
 permalink: spill-impact-component/texas/
-layout: layouts/page
-sidenav: true
 ---
 
 Texas State Expenditure Plan (SEP) and Amendments

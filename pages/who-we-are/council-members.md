@@ -1,8 +1,10 @@
 ---
 title: Council Members
-permalink: people/council-members/
-layout: layouts/page
-sidenav: true
+permalink: /people/council-members/
+eleventyNavigation:
+  key: council-members
+  parent: who-we-are
+  title: Council Members
 ---
 
 ## Who are the RESTORE Council Members?

@@ -1,8 +1,6 @@
 ---
 title: Mississippi State Expenditure Plan
 permalink: spill-impact-component/mississippi/
-layout: layouts/page
-sidenav: true
 ---
 
 Mississippi State Expenditure Plan (SEP) and Amendments
