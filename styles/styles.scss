@@ -13,6 +13,10 @@
 
 @forward "uswds";
 
+img {
+  height: auto;
+}
+
 .usa-nav__secondary-links a {
   color: #ffffff;
 }
@@ -20,4 +24,8 @@
 .usa-nav__primary button,
 .usa-nav__primary > .usa-nav__primary-item > a {
   color: #1b2958;
+}
+
+.usa-identifier__logo {
+  width: 3rem;
 }
