@@ -66,12 +66,10 @@ manage your navigation system {% endcomment %}
       </ul>
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
+          {% include "socialmedia.html" %}
           {% for nav_item in secondary_navigation %}
-          <li class="usa-nav__secondary-item">
             <a href="{{ nav_item.url}}" class="text-white"
-              >{{ nav_item.name | escape }}</a
-            >
-          </li>
+              >{{ nav_item.name | escape }}</a>
           {% endfor %}
         </ul>
         {% include "searchgov/form.html" searchgov: site.searchgov %}
