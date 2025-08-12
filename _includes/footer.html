@@ -1,57 +1,71 @@
 <footer class="usa-footer">
-    <div class="bg-primary-light padding-y-8">
-        <div class="grid-container">
-            <div class="usa-footer__logo text-primary-dark grid-row grid-gap-2">
-                <div class="grid-col-12 tablet:grid-col-auto">
-                    <h2 class="font-heading-xl margin-y-0">Stay in touch</h2>
-                    <p class="usa-intro">Don’t miss out on the latest and greatest from the RESTORE Council. Sign up now and get our latest updates straight in your inbox.</p>
-                </div>
-                <div class="grid-col-12 desktop:grid-col-fill">
-                    <ul class="usa-button-group">
-                         <li class="usa-button-group__item">
-                            <a href="https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx" class="usa-button usa-button--outline text-primary-dark">Subscribe</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+  <div class="bg-primary-light padding-y-8">
+    <div class="grid-container">
+      <div class="usa-footer__logo text-primary-dark grid-row grid-gap-2">
+        <div class="grid-col-12 tablet:grid-col-auto">
+          <h2 class="font-heading-xl margin-y-0">Stay in touch</h2>
+          <p class="usa-intro">
+            Don’t miss out on the latest and greatest from the RESTORE Council.
+            Sign up now and get our latest updates straight in your inbox.
+          </p>
         </div>
-    </div>
-    <div class="usa-footer__primary-section bg-primary text-white padding-y-8">
-        <div class="usa-footer__primary-container grid-row">
-            <div class="desktop-lg:grid-col-8">
-                <nav class="usa-identifier__section usa-identifier__section--required-links"
-                    aria-label="Important links">
-                    <div class="usa-identifier__container">
-                        <ul class="usa-identifier__required-links-list">
-                            {% for nav_item in site.footer_navigation %}
-                            <li class="usa-identifier__required-links-item">
-                                <a class="text-white" href={{nav_item.url}}>
-                                    {{nav_item.name}}</a>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </nav>
-            </div>
-            <div class="desktop-lg:grid-col-4"></div>
+        <div class="grid-col-12 desktop:grid-col-fill">
+          <ul class="usa-button-group">
+            <li class="usa-button-group__item">
+              <a
+                href="https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx"
+                class="usa-button usa-button--outline text-primary-dark"
+                >Subscribe</a
+              >
+            </li>
+          </ul>
         </div>
+      </div>
     </div>
-    <div class="bg-primary padding-y-3 border-top border-base">
-        <div class="grid-container">
-            <div class="usa-footer__logo grid-row grid-gap-2">
-                <div class="grid-col-12 tablet:grid-col-auto">
-                    {% image_with_class "./_img/logo.png" "width-4 desktop:width-10 margin-right-2" site.title %}
-                </div>
-                <div class="grid-col-12 desktop:grid-col-fill">
-                    <p class="usa-footer__logo-heading text-white">
-                    {{ site.title }}
-                    </p>
-                </div>
-                {% include "socialmedia.html" %}
-                <div class="grid-col-12 tablet:grid-col-6 desktop:grid-col-auto">
-                    <a href="mailto:{{ site.email }}" class="text-white">{{ site.email }}</a>
-                </div>
-            </div>
+  </div>
+  <div class="usa-footer__primary-section bg-primary text-white padding-y-8">
+    <div class="usa-footer__primary-container grid-row">
+      <div class="desktop-lg:grid-col-8">
+        <nav
+          class="usa-identifier__section usa-identifier__section--required-links"
+          aria-label="Important links"
+        >
+          <div class="usa-identifier__container">
+            <ul class="usa-identifier__required-links-list">
+              {% for nav_item in site.footer_navigation %}
+              <li class="usa-identifier__required-links-item">
+                <a class="text-white" href="{{nav_item.url}}">
+                  {{nav_item.name}}</a
+                >
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </nav>
+      </div>
+      <div class="desktop-lg:grid-col-4"></div>
+    </div>
+  </div>
+  <div class="bg-primary padding-y-3 border-top border-base">
+    <div class="grid-container">
+      <div class="usa-footer__logo grid-row grid-gap-2">
+        <div class="grid-col-12 tablet:grid-col-auto">
+          <img
+            src="/img/logo.png"
+            class="width-4 desktop:width-10 margin-right-2"
+            alt="{{ site.title }}"
+          />
         </div>
+        <div class="grid-col-12 desktop:grid-col-fill">
+          <p class="usa-footer__logo-heading text-white">{{ site.title }}</p>
+        </div>
+        {% include "socialmedia.html" %}
+        <div class="grid-col-12 tablet:grid-col-6 desktop:grid-col-auto">
+          <a href="mailto:{{ site.email }}" class="text-white"
+            >{{ site.email }}</a
+          >
+        </div>
+      </div>
     </div>
+  </div>
 </footer>

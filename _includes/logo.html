@@ -2,7 +2,11 @@
   href="/"
   class="display-inline-flex flex-align-center margin-y-2 text-white text-no-underline"
 >
-  {% image_with_class "./_img/logo.png" "width-4 desktop:width-10 margin-right-2" site.title %}
+  <img
+    src="/img/logo.png"
+    class="width-4 desktop:width-10 margin-right-2"
+    alt="{{site.title}}"
+  />
   <span>
     <span class="display-block font-sans-lg text-bold">{{ site.title }}</span>
     <span class="display-none desktop:display-block font-sans-xs"

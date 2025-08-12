@@ -8,10 +8,14 @@
   $theme-color-primary-light: #87a0b4,
   $theme-color-primary-dark: #1b2958,
   $theme-body-background-color: "base-lightest",
-  $theme-hero-image: "../_img/slider.jpg"
+  $theme-hero-image: "../img/slider.jpg"
 );
 
 @forward "uswds";
+
+img {
+  height: auto;
+}
 
 .usa-nav__secondary-links a {
   color: #ffffff;
@@ -20,6 +24,10 @@
 .usa-nav__primary button,
 .usa-nav__primary > .usa-nav__primary-item > a {
   color: #1b2958;
+}
+
+.usa-identifier__logo {
+  width: 3rem;
 }
 
 .circular-image {
