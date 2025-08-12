@@ -1,9 +1,7 @@
-{% comment %}
-This appears at the top of the page letting the user know it's an
-official government website
-{% endcomment %}
+{% comment %} This appears at the top of the page letting the user know it's an
+official government website {% endcomment %}
 
-<div class="page-landing-page layout-demo ">
+<div class="page-landing-page layout-demo">
   <a class="usa-skipnav" href="#main-content">Skip to main content</a>
   <div class="usa-banner">
     <div class="usa-accordion">
@@ -14,7 +12,11 @@ official government website
       >
         <div class="usa-banner__inner">
           <div class="grid-col-auto">
-            {% image_with_class "./node_modules/@uswds/uswds/dist/img/us_flag_small.png" "usa-banner__header-flag" "U.S. flag" %}
+            <img
+              src="/node_modules/@uswds/uswds/dist/img/us_flag_small.png"
+              class="usa-banner__header-flag"
+              alt="U.S. flag"
+            />
           </div>
           <div class="grid-col-fill tablet:grid-col-auto">
             <p class="usa-banner__header-text">
@@ -36,7 +38,11 @@ official government website
       <div class="usa-banner__content usa-accordion__content" id="gov-banner">
         <div class="grid-row grid-gap-lg">
           <div class="usa-banner__guidance tablet:grid-col-6">
-            {% comment %} {% image_with_class "./node_modules/@uswds/uswds/dist/img/icon-dot-gov.svg" "usa-banner__icon usa-media-block__img" "Dot gov" %} {% endcomment %}
+            <img
+              src="/node_modules/@uswds/uswds/dist/img/icon-dot-gov.svg"
+              class="usa-banner__icon usa-media-block__img"
+              alt="Dot gov"
+            />
             <div class="usa-media-block__body">
               <p>
                 <strong>The .gov means it’s official.</strong>
@@ -48,7 +54,11 @@ official government website
             </div>
           </div>
           <div class="usa-banner__guidance tablet:grid-col-6">
-            {% comment %} {% image_with_class "./node_modules/@uswds/uswds/dist/img/icon-https.svg" "usa-banner__icon usa-media-block__img" "Https" %} {% endcomment %}
+            <img
+              src="/node_modules/@uswds/uswds/dist/img/icon-https.svg"
+              class="usa-banner__icon usa-media-block__img"
+              alt="Https"
+            />
             <div class="usa-media-block__body">
               <p>
                 <strong>The site is secure.</strong>

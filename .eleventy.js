@@ -6,10 +6,11 @@ const markdownIt = require("markdown-it");
 const markdownItNamedHeadings = require("markdown-it-named-headings");
 const yaml = require("js-yaml");
 const svgSprite = require("eleventy-plugin-svg-sprite");
-const { imageShortcode, imageWithClassShortcode } = require("./config");
-const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
-module.exports = function (config) {
+module.exports = async function (config) {
+  const { EleventyHtmlBasePlugin } = await import("@11ty/eleventy");
+
   // Set pathPrefix for site
   let pathPrefix = "/";
 
@@ -20,8 +21,20 @@ module.exports = function (config) {
   config.addPlugin(pluginRss);
   config.addPlugin(pluginNavigation);
   config.addPlugin(EleventyHtmlBasePlugin);
+  config.addPlugin(eleventyImageTransformPlugin, {
+    failOnError: false,
+    widths: ["auto"],
+    htmlOptions: {
+      imgAttributes: {
+        loading: "lazy",
+        decoding: "async",
+      },
+      pictureAttributes: {},
+      fallback: "largest", // or "smallest"
+    },
+  });
 
-  //// SVG Sprite Plugin for USWDS icons
+  // SVG Sprite Plugin for USWDS icons
   config.addPlugin(svgSprite, {
     path: "./node_modules/@uswds/uswds/dist/img/uswds-icons",
     svgSpriteShortcode: "uswds_icons_sprite",
@@ -51,8 +64,6 @@ module.exports = function (config) {
   config.setLibrary("md", markdownLibrary);
 
   // Set image shortcodes
-  config.addLiquidShortcode("image", imageShortcode);
-  config.addLiquidShortcode("image_with_class", imageWithClassShortcode);
   config.addLiquidShortcode("uswds_icon", function (name) {
     return `
     <svg class="usa-icon" aria-hidden="true" role="img">
@@ -66,40 +77,6 @@ module.exports = function (config) {
   }
 
   return {
-    // Control which files Eleventy will process
-    // e.g.: *.md, *.njk, *.html, *.liquid
-    templateFormats: ["md", "njk", "html", "liquid"],
-
-    // Pre-process *.md files with: (default: `liquid`)
-    // Other template engines are available
-    // See https://www.11ty.dev/docs/languages/ for other engines.
-    markdownTemplateEngine: "liquid",
-
-    // Pre-process *.html files with: (default: `liquid`)
-    // Other template engines are available
-    // See https://www.11ty.dev/docs/languages/ for other engines.
-    htmlTemplateEngine: "liquid",
-
-    // -----------------------------------------------------------------
-    // If your site deploys to a subdirectory, change `pathPrefix`.
-    // Don’t worry about leading and trailing slashes, we normalize these.
-
-    // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
-    // This is only used for link URLs (it does not affect your file structure)
-    // Best paired with the `url` filter: https://www.11ty.dev/docs/filters/url/
-
-    // You can also pass this in on the command line using `--pathprefix`
-
-    // Optional (default is shown)
-    pathPrefix: pathPrefix,
-    // -----------------------------------------------------------------
-
-    // These are all optional (defaults are shown):
-    dir: {
-      input: ".",
-      includes: "_includes",
-      data: "_data",
-      output: "_site",
-    },
+    pathPrefix,
   };
 };
