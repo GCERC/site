@@ -50,8 +50,11 @@
     <div class="grid-container">
       <div class="usa-footer__logo grid-row grid-gap-2">
         <div class="grid-col-12 tablet:grid-col-auto">
-          {% image_with_class "./_img/logo.png" "width-4 desktop:width-10
-          margin-right-2" site.title %}
+          <img
+            src="/img/logo.png"
+            class="width-4 desktop:width-10 margin-right-2"
+            alt="{{ site.title }}"
+          />
         </div>
         <div class="grid-col-12 desktop:grid-col-fill">
           <p class="usa-footer__logo-heading text-white">{{ site.title }}</p>
