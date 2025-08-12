@@ -1,42 +1,68 @@
-<footer class="usa-footer site-footer" role="contentinfo">
-  <div class="usa-identifier site-identifier">
-    <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
-        <div class="usa-identifier__container">
-            <div class="usa-identifier__logos">
-                <a href="https://www.gsa.gov">
-                    <img src="/img/gsa-logo.svg" class="usa-identifier__logo" alt="GSA logo identifier" />
-                </a>
-            </div>
-            <div class="usa-identifier__identity" aria-label="Agency description">
-                <p class="usa-identifier__identity-domain">cloud.gov</p>
-                <p class="usa-identifier__identity-disclaimer">
-                    An official website of the <a class="external_link" href="https://gsa.gov">General Services Administration</a>
-                </p>
-            </div>
+<footer class="usa-footer">
+  <div class="bg-primary-light padding-y-8">
+    <div class="grid-container">
+      <div class="usa-footer__logo text-primary-dark grid-row grid-gap-2">
+        <div class="grid-col-12 tablet:grid-col-auto">
+          <h2 class="font-heading-xl margin-y-0">Stay in touch</h2>
+          <p class="usa-intro">
+            Don’t miss out on the latest and greatest from the RESTORE Council.
+            Sign up now and get our latest updates straight in your inbox.
+          </p>
         </div>
-    </section>
-    <nav class="usa-identifier__section usa-identifier__section--required-links" aria-label="Important links">
-        <div class="usa-identifier__container">
+        <div class="grid-col-12 desktop:grid-col-fill">
+          <ul class="usa-button-group">
+            <li class="usa-button-group__item">
+              <a
+                href="https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx"
+                class="usa-button usa-button--outline text-primary-dark"
+                >Subscribe</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="usa-footer__primary-section bg-primary text-white padding-y-8">
+    <div class="usa-footer__primary-container grid-row">
+      <div class="desktop-lg:grid-col-8">
+        <nav
+          class="usa-identifier__section usa-identifier__section--required-links"
+          aria-label="Important links"
+        >
+          <div class="usa-identifier__container">
             <ul class="usa-identifier__required-links-list">
-                     {% for nav_item in site.footer_navigation %}
-                            <li class="usa-identifier__required-links-item">
-                        <a class="usa-identifier__required-link usa-link" href={{nav_item.url }}
-                          >{{nav_item.name}}</a
-                        >
-                </li>
-                      {% endfor %}
-
-
-
-
+              {% for nav_item in site.footer_navigation %}
+              <li class="usa-identifier__required-links-item">
+                <a class="text-white" href="{{nav_item.url}}">
+                  {{nav_item.name}}</a
+                >
+              </li>
+              {% endfor %}
             </ul>
+          </div>
+        </nav>
+      </div>
+      <div class="desktop-lg:grid-col-4"></div>
+    </div>
+  </div>
+  <div class="bg-primary padding-y-3 border-top border-base">
+    <div class="grid-container">
+      <div class="usa-footer__logo grid-row grid-gap-2">
+        <div class="grid-col-12 tablet:grid-col-auto">
+          {% image_with_class "./_img/logo.png" "width-4 desktop:width-10
+          margin-right-2" site.title %}
         </div>
-    </nav>
-    <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="Government information and services">
-        <div class="usa-identifier__container">
-            <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
-            <a href="https://www.usa.gov/" class="external_link">Visit USA.gov</a>
+        <div class="grid-col-12 desktop:grid-col-fill">
+          <p class="usa-footer__logo-heading text-white">{{ site.title }}</p>
         </div>
-    </section>
+        {% include "socialmedia.html" %}
+        <div class="grid-col-12 tablet:grid-col-6 desktop:grid-col-auto">
+          <a href="mailto:{{ site.email }}" class="text-white"
+            >{{ site.email }}</a
+          >
+        </div>
+      </div>
+    </div>
   </div>
 </footer>
