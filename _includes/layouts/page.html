@@ -9,8 +9,12 @@ associated with it. For example, an about page. {% endcomment %}
   <div class="grid-container">
     <div class="grid-row grid-gap">
       {% if sidenav == true %} {% include "sidenav.html" %} {% endif %}
-      <main class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-        {{ content }}
+      <main class="usa-layout-docs__main desktop:grid-col-9">
+        <h2>{{ title }}</h2>
+        {% if lead %}
+        <p class="usa-intro">{{ lead }}</p>
+        {% endif %}
+        <div class="usa-prose">{{ content }}</div>
       </main>
     </div>
   </div>
