@@ -1,4 +1,31 @@
 @use "uswds-core" as * with (
+  $theme-utility-breakpoints: (
+    "card": false,
+    // 160px
+    "card-lg": false,
+    // 240px
+    "mobile": false,
+    // 320px
+    "mobile-lg": true,
+    // 480px
+    "tablet": true,
+    // 640px
+    "tablet-lg": false,
+    // 880px
+    "desktop": true,
+    // 1024px
+    "desktop-lg": true,
+    // 1200px
+    "widescreen": true,
+    // 1400px
+  ),
+  $theme-identifier-max-width: "desktop-lg",
+  $theme-footer-max-width: "desktop-lg",
+  $theme-header-max-width: "desktop-lg",
+  $theme-banner-max-width: "desktop-lg",
+  $theme-grid-container-max-width: "desktop-lg",
+  $theme-site-margins-breakpoint: "desktop-lg",
+  $theme-site-alert-max-width: "desktop-lg",
   $theme-show-notifications: false,
   $theme-font-path: "../node_modules/@uswds/uswds/dist/fonts",
   $theme-image-path: "../node_modules/@uswds/uswds/dist/img",
@@ -8,6 +35,7 @@
   $theme-color-primary-light: #87a0b4,
   $theme-color-primary-dark: #1b2958,
   $theme-body-background-color: "base-lightest",
+  $theme-lead-font-size: "md",
   $theme-hero-image: "../img/slider.jpg"
 );
 
@@ -28,6 +56,13 @@ img {
 
 .usa-identifier__logo {
   width: 3rem;
+}
+
+.usa-card__img img {
+  display: block;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 }
 
 .circular-image {

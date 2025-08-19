@@ -19,8 +19,8 @@ backend:
 #   name: git-gateway
 # local_backend: true
 
-media_folder: img/uploads
-public_folder: uploads
+media_folder: img
+public_folder: /img
 publish_mode: editorial_workflow
 logo_url: https://pages.cloud.gov/images/logos/pages-logo-blue.svg
 

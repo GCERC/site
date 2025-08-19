@@ -23,7 +23,7 @@ module.exports = async function (config) {
   config.addPlugin(EleventyHtmlBasePlugin);
   config.addPlugin(eleventyImageTransformPlugin, {
     failOnError: false,
-    widths: ["auto"],
+    widths: ["auto", 600],
     htmlOptions: {
       imgAttributes: {
         loading: "lazy",
