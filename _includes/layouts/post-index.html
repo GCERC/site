@@ -1,0 +1,11 @@
+---
+layout: layouts/page
+---
+
+<ul
+  class="grid-container usa-list usa-collection usa-list--unstyled padding-top-2"
+>
+  {%- for post in posts %} {{ page.date }} - {{ post.data.title }}<br />
+  {% endfor -%}
+</ul>
+{% include "pagination-links.html" %}
