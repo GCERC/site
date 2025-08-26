@@ -1,11 +1,12 @@
 ---
-title: Reflections: Alabama Seafood
+title: "Reflections: Alabama Seafood"
 permalink: /release/2025/04/07/reflections-alabama-seafood
-
 ---
+
 2025-04-07
 
-## Reflections on Restoration Progress  
+## Reflections on Restoration Progress
+
 _RESTORE Council- 2025_
 
 ### **Alabama Seafood**
@@ -20,7 +21,7 @@ The Alabama Department of Conservation and Natural Resources (ADCNR) received $2
 
  [Watch the Alabama Seafood Marketing video](https://eatalabamaseafood.com/index.html).
 
-_The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast._ [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) _or_ [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  

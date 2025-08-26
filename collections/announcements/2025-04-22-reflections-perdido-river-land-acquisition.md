@@ -1,8 +1,8 @@
 ---
-title: Reflections: Perdido River Land Acquisition
+title: "Reflections: Perdido River Land Acquisition"
 permalink: /release/2025/04/22/reflections-perdido-river-land-acquisition
-
 ---
+
 2025-04-22
 
 ## Reflections on Restoration Progress
@@ -24,7 +24,7 @@ _Photo Credit: RESTORE Council Staff_
 
 [Watch the Perdido Land Conservation and Habitat Enhancement Land Acquisition Video](https://www.youtube.com/watch?v=5Id2b8a6UCs) 
 
-_The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast._ [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) _or_ [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx) 
+*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx) 
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  

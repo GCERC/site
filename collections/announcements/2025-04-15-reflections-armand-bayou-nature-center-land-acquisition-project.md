@@ -1,11 +1,12 @@
 ---
-title: Reflections: Armand Bayou Nature Center Land Acquisition Project
+title: "Reflections: Armand Bayou Nature Center Land Acquisition Project"
 permalink: /release/2025/04/15/reflections-armand-bayou-nature-center-land-acquisition-project
-
 ---
+
 2025-04-15
 
-## Reflections on Restoration Progress  
+## Reflections on Restoration Progress
+
 _RESTORE Council- 2025_
 
 ### **Armand Bayou Nature Center Land Acquisition Project**
@@ -26,7 +27,7 @@ ABNC’s acquisition of this highly valuable wildlife habitat expands the preser
 
 [Watch the GulfCorps in Texas: Armand Bayou and Port Aranas Nature Preserve video](https://www.youtube.com/watch?v=PGv8lITMdC8)
 
-_The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast._ [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) _or_ [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  

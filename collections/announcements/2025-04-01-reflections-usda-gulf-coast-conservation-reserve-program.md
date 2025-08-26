@@ -1,11 +1,12 @@
 ---
-title: Reflections: USDA Gulf Coast Conservation Reserve Program
+title: "Reflections: USDA Gulf Coast Conservation Reserve Program"
 permalink: /release/2025/04/01/reflections-usda-gulf-coast-conservation-reserve-program
-
 ---
+
 2025-04-01
 
-## Reflections on Restoration Progress  
+## Reflections on Restoration Progress
+
 _RESTORE Council- 2025_
 
 ### **USDA Gulf Coast Conservation Reserve Program**
@@ -26,7 +27,7 @@ Through this program, the USDA’s Natural Resource Conservation Service (NRCS) 
 
 The photo on the top was taken during construction and the one on the bottom was taken after the installation of conservation measures to repair Brock Gully. Photo credit: RESTORE Council
 
-_The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast._ [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) _or_ [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx) 
+*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx) 
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  

@@ -1,11 +1,12 @@
 ---
-title: Reflections: Protecting and restoring valuable coastal habitat
+title: "Reflections: Protecting and restoring valuable coastal habitat"
 permalink: /release/2025/04/10/reflections-protecting-and-restoring-valuable-coastal-habitat
-
 ---
+
 2025-04-10
 
-## Reflections on Restoration Progress  
+## Reflections on Restoration Progress
+
 _RESTORE Council- 2025_
 
 ### **Protecting and restoring valuable coastal habitat**
@@ -26,7 +27,7 @@ _RESTORE funds provided approximately 1,998 acres of land to be added to a 105,0
 
 [Watch Bahia Grande Land Acquisition video](https://www.youtube.com/watch?v=MXPHSGWDnt8)
 
-_The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast._ [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) _or_ [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  

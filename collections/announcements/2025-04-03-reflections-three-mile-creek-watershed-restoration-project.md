@@ -1,11 +1,12 @@
 ---
-title: Reflections: Three Mile Creek Watershed Restoration Project
+title: "Reflections: Three Mile Creek Watershed Restoration Project"
 permalink: /release/2025/04/03/reflections-three-mile-creek-watershed-restoration-project
-
 ---
+
 2025-04-03
 
-## Reflections on Restoration Progress  
+## Reflections on Restoration Progress
+
 _RESTORE Council- 2025_
 
 ### **Three Mile Creek Watershed Restoration Project**
@@ -18,7 +19,7 @@ _Streambank stabilization in Langan Lake Park reduces the erosion that has hist
 
 The project leverages habitat restoration work conducted by the Mobile Bay National Estuary Program, which expands watershed-scale restoration for Three Mile Creek. The coordinated restoration of the creek between the two projects will improve water quality of the creek and lake, providing a healthier natural environment for wildlife and improved recreational opportunities and ultimately reducing pollution in Mobile Bay.
 
-_The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast._ [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) _or_ [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx) 
+*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx) 
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
