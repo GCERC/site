@@ -28,6 +28,23 @@ editor:
   preview: false
 
 collections:
+  - name: "announcements"
+    label: "Announcements"
+    folder: "."
+    create: true
+    editor:
+      preview: false
+    slug: "{{date}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Created",
+          name: "date",
+          date_format: "YYYY-MM-DD",
+          default: "{{now}}",
+          widget: "datetime",
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: "Pages"
     name: "pages"
     files:
