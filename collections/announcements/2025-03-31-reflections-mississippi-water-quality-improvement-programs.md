@@ -1,6 +1,6 @@
 ---
 title: "Reflections: Mississippi Water Quality Improvement Programs"
-permalink: /release/2025/03/31/reflections-mississippi-water-quality-improvement-programs
+permalink: /announcements/2025/03/31/reflections-mississippi-water-quality-improvement-programs/
 ---
 
 2025-03-31

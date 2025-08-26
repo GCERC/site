@@ -1,8 +1,8 @@
 ---
 title: Studies Completed on Sediment and Water Quality in Cotton Bayou & Terry Cove in Orange Beach, Alabama
-permalink: /release/2024/08/20/studies-completed-sediment-and-water-quality-cotton-bayou-terry-cove-orange-beach
-
+permalink: /announcements/2024/08/20/studies-completed-sediment-and-water-quality-cotton-bayou-terry-cove-orange-beach/
 ---
+
 2024-08-20
 
 ![map of study area](/sites/default/files/inline-images/cottonbayou_terrycove_eblast_20240820._4.png)

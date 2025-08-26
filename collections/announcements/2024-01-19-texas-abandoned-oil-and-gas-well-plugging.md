@@ -1,6 +1,6 @@
 ---
 title: Texas Abandoned Oil and Gas Well Plugging
-permalink: /release/2024/01/19/texas-abandoned-oil-and-gas-well-plugging
+permalink: /announcements/2024/01/19/texas-abandoned-oil-and-gas-well-plugging/
 ---
 
 2024-01-19

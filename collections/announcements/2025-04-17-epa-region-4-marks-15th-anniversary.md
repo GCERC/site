@@ -1,8 +1,8 @@
 ---
 title: EPA Region 4 marks 15th anniversary of Deepwater Horizon oil spill
-permalink: /release/2025/04/17/epa-region-4-marks-15th-anniversary
-
+permalink: /announcements/2025/04/17/epa-region-4-marks-15th-anniversary/
 ---
+
 2025-04-17
 
 Regional Administrator McOmber and staff visit coastal restoration initiatives on the Gulf Coast

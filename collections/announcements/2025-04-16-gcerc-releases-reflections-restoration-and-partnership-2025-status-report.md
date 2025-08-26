@@ -1,15 +1,15 @@
 ---
 title: GCERC Releases Reflections on Restoration and Partnership- 2025 Status Report
-permalink: /release/2025/04/16/gcerc-releases-reflections-restoration-and-partnership-2025-status-report
-
+permalink: /announcements/2025/04/16/gcerc-releases-reflections-restoration-and-partnership-2025-status-report/
 ---
+
 2025-04-16
 
 ## Gulf Coast Ecosystem Restoration Council Releases Reflections on Restoration and Partnerships, a 2025 Status Report Commemorating Fifteen Years Since the Deepwater Horizon Oil Spill
 
 **Contact Information**  
 Gulf Coast Ecosystem Restoration Council External Affairs  
-[(keala.hughes@restorethegulf.gov](\(keala.hughes@restorethegulf.gov))
+[(keala.hughes@restorethegulf.gov](<(keala.hughes@restorethegulf.gov)>)
 
 **New Orleans, LA** (April 16, 2025) - Today, the Gulf Coast Ecosystem Restoration Council (RESTORE Council) released its 2025 Status Report, Reflections on Restoration and Partnerships, marking a significant milestone in the ongoing recovery efforts of the Gulf Coast region. This comprehensive report commemorates fifteen years since the Deepwater Horizon oil spill on April 10, 2010, reflecting on the progress made and the critical partnerships that have shaped the restoration process.  
 
@@ -21,9 +21,9 @@ The report highlights the long-term commitment of federal, state, and local agen
 
 Key achievements outlined in the report include:
 
-*   The restoration of critical habitats such as wetlands, marshes, and estuaries that support diverse marine and wildlife populations.
-*   The successful implementation of over 180 restoration projects, with numerous ongoing initiatives focused on habitat recovery, water quality improvement, and coastal protection.
-*   The establishment of long-lasting partnerships that have brought together stakeholders committed to the Gulf’s environmental recovery.
+- The restoration of critical habitats such as wetlands, marshes, and estuaries that support diverse marine and wildlife populations.
+- The successful implementation of over 180 restoration projects, with numerous ongoing initiatives focused on habitat recovery, water quality improvement, and coastal protection.
+- The establishment of long-lasting partnerships that have brought together stakeholders committed to the Gulf’s environmental recovery.
 
 “The Gulf Coast is a vital economic and ecological hub, " said Steven Schar, Texas designee of the RESTORE Council, “and while we’ve made great progress, we know there’s more work to do. This status report reflects the hard work of all involved, and we remain dedicated to furthering this collaboration to restore the economic viability of our coastlines, wildlife, and communities.”
 
@@ -33,7 +33,8 @@ For more information, media inquiries, or to schedule an interview, please conta
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
 (504) 717-7235  
-[keala.hughes@restorethegulf.gov](mailto:keala.hughes@restorethegulf.gov)   
+[keala.hughes@restorethegulf.gov](mailto:keala.hughes@restorethegulf.gov) 
+
  
 
 **About the Gulf Coast Ecosystem Restoration Council**   

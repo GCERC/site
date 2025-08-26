@@ -1,6 +1,6 @@
 ---
 title: "Reflections: Protecting and restoring valuable coastal habitat"
-permalink: /release/2025/04/10/reflections-protecting-and-restoring-valuable-coastal-habitat
+permalink: /announcements/2025/04/10/reflections-protecting-and-restoring-valuable-coastal-habitat/
 ---
 
 2025-04-10

@@ -1,6 +1,6 @@
 ---
 title: "Reflections: Protecting Communities from Coastal Flooding"
-permalink: /release/2025/03/27/reflections-protecting-communities-coastal-flooding
+permalink: /announcements/2025/03/27/reflections-protecting-communities-coastal-flooding/
 ---
 
 2025-03-27

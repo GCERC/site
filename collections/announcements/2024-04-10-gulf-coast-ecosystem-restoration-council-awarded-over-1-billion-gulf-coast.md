@@ -1,8 +1,8 @@
 ---
 title: Gulf Coast Ecosystem Restoration Council Awarded over $1 Billion  in Gulf Coast Restoration Activities
-permalink: /release/2024/04/10/gulf-coast-ecosystem-restoration-council-awarded-over-1-billion-gulf-coast
-
+permalink: /announcements/2024/04/10/gulf-coast-ecosystem-restoration-council-awarded-over-1-billion-gulf-coast/
 ---
+
 2024-04-10
 
 The Gulf Coast Ecosystem Restoration Council (RESTORE Council) announces that it has reached an important milestone: It has awarded over $1 Billion in funding for restoration activities across the gulf coast using funds from the Deepwater Horizon oil spill settlement.  “EPA is thrilled that the RESTORE Council has been able to invest $1 billion dollars in Gulf Coast restoration and in the communities that call this national treasure home,” **said Janet McCabe, EPA Deputy Administrator and RESTORE Council Chair**. “These funds are giving local communities and habitats a second chance to grow and thrive and they will help ensure the long-term health and resilience of the Gulf Coast ecosystem.” The infographic below summarizes this investment.
@@ -17,7 +17,7 @@ The RESTORE Council oversees administration of 60% of the funds made available f
 
 As funds become available, the RESTORE Council works collaboratively and with input from stakeholders across the Gulf to develop Funded Priorities Lists (FPLs), which designate ecosystem projects and programs for funding. FPL funding decisions are guided by criteria set forth in the RESTORE Act and the Council’s Comprehensive Plan for Restoration. In addition, the RESTORE Council oversees funding for State-led restoration and recovery efforts provided in State Expenditure Plans (SEPs)developed under the RESTORE Act. After FPLs and SEPs are approved, funding is administered through federal awards to the sponsors identified to implement the approved activities.
 
-![RESTORE Council by the numbers graphic](/sites/default/files/inline-images/RESTORE%20by%20the%20numbers%20v5.jpg)  
+![RESTORE Council by the numbers graphic](/sites/default/files/inline-images/RESTORE%20by%20the%20numbers%20v5.jpg)
 
 These are just a portion of the metrics being tracked by the Council and are provided to highlight some of the progress being made to improve the health and productivity of the Gulf ecosystem.
 

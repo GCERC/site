@@ -1,8 +1,8 @@
 ---
 title: NOAA RESTORE Science Program Funding Opportunity
-permalink: /release/2024/04/10/noaa-restore-science-program-funding-opportunity
-
+permalink: /announcements/2024/04/10/noaa-restore-science-program-funding-opportunity/
 ---
+
 2024-04-10
 
 This week, the National Oceanic and Atmospheric Administration (NOAA) RESTORE Science Program announced its latest notice of funding opportunity (NOFO-2025), which will provide researchers, resource managers, and other interested parties with funding to carry out projects that will contribute to our knowledge of long-term trends in the Gulf of Mexico ecosystem.

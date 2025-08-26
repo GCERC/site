@@ -1,6 +1,6 @@
 ---
 title: "Reflections: Armand Bayou Nature Center Land Acquisition Project"
-permalink: /release/2025/04/15/reflections-armand-bayou-nature-center-land-acquisition-project
+permalink: /announcements/2025/04/15/reflections-armand-bayou-nature-center-land-acquisition-project/
 ---
 
 2025-04-15

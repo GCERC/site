@@ -1,6 +1,6 @@
 ---
 title: "Reflections: Three Mile Creek Watershed Restoration Project"
-permalink: /release/2025/04/03/reflections-three-mile-creek-watershed-restoration-project
+permalink: /announcements/2025/04/03/reflections-three-mile-creek-watershed-restoration-project/
 ---
 
 2025-04-03

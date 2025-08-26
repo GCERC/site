@@ -1,6 +1,6 @@
 ---
 title: "Reflections: Perdido River Land Acquisition"
-permalink: /release/2025/04/22/reflections-perdido-river-land-acquisition
+permalink: /announcements/2025/04/22/reflections-perdido-river-land-acquisition/
 ---
 
 2025-04-22

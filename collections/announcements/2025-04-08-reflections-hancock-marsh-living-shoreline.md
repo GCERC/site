@@ -1,6 +1,6 @@
 ---
 title: "Reflections: Hancock Marsh Living Shoreline"
-permalink: /release/2025/04/08/reflections-hancock-marsh-living-shoreline
+permalink: /announcements/2025/04/08/reflections-hancock-marsh-living-shoreline/
 ---
 
 2025-04-08

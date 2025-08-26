@@ -1,6 +1,6 @@
 ---
 title: "Reflections: USDA Gulf Coast Conservation Reserve Program"
-permalink: /release/2025/04/01/reflections-usda-gulf-coast-conservation-reserve-program
+permalink: /announcements/2025/04/01/reflections-usda-gulf-coast-conservation-reserve-program/
 ---
 
 2025-04-01

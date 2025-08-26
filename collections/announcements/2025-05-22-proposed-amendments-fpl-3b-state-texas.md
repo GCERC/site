@@ -1,30 +1,27 @@
 ---
 title: Proposed Amendments to FPL 3b in the State of Texas
-permalink: /release/2025/05/22/proposed-amendments-fpl-3b-state-texas
-
+permalink: /announcements/2025/05/22/proposed-amendments-fpl-3b-state-texas/
 ---
+
 2025-05-22
 
 The Gulf Coast Ecosystem Restoration Council (Council) is seeking public comment on proposals for multiple ecosystem restoration activities located in Texas under Funded Priorities List (FPL) 3b. Specifically, the Council is planning to vote on whether to approve the following:
 
 Proposed FPL 3b Amendments for Texas Shoreline Protection Through Living Shorelines Program
 
-*   $753,750 in planning funds to complete necessary living shoreline planning components (originally budgeted for living shoreline program implementation).
-*   $12,859,851 in implementation funding for the Dagger Point Stabilization project (includes $8,150,000 originally budgeted for living shoreline program implementation and reallocation of $4,709,851 originally budgeted for the Texas Coastal Water Quality Program). 
+- $753,750 in planning funds to complete necessary living shoreline planning components (originally budgeted for living shoreline program implementation).
+- $12,859,851 in implementation funding for the Dagger Point Stabilization project (includes $8,150,000 originally budgeted for living shoreline program implementation and reallocation of $4,709,851 originally budgeted for the Texas Coastal Water Quality Program). 
 
-  
 Proposed FPL 3b Amendment for the Texas Coastal Water Quality Program
 
-*   $426,312 in planning funds to complete necessary water quality planning components (originally budgeted for water quality program implementation)
+- $426,312 in planning funds to complete necessary water quality planning components (originally budgeted for water quality program implementation)
 
-  
 Proposed FPL3b Amendments for the Texas Chenier Plain Ecosystem Restoration Program
 
-*   $645,996 in planning funds to complete necessary Chenier Plains restoration planning components (originally budgeted for Chenier Plain restoration implementation).
-*   $4,237,070 in implementation funding for the McFaddin National Wildlife Refuge Shoreline Breakwater project (originally budgeted for Chenier Plain restoration implementation).
-*   $3,562,230 in implementation funding for the J.D. Murphree Wildlife Management Area Levee project (originally budgeted for Chenier Plain restoration implementation).
+- $645,996 in planning funds to complete necessary Chenier Plains restoration planning components (originally budgeted for Chenier Plain restoration implementation).
+- $4,237,070 in implementation funding for the McFaddin National Wildlife Refuge Shoreline Breakwater project (originally budgeted for Chenier Plain restoration implementation).
+- $3,562,230 in implementation funding for the J.D. Murphree Wildlife Management Area Levee project (originally budgeted for Chenier Plain restoration implementation).
 
-  
 These proposed funding approvals are independent of each other; the Council can vote to approve all of the proposed amendments listed above, a subset of them, or none. Background on these proposed approvals is provided below. Before voting on whether to approve funding, the Council is publishing these proposed FPL amendments for a 30-day public comment period beginning on **May 22, 2025 and concluding at 11:59 pm (CST) on June 21, 2025.** You may submit comments using one of the two methods below:
 
 **By Email:**  To [restorecouncil@restorethegulf.gov](mailto:restorecouncil@restorethegulf.gov)  
@@ -35,7 +32,8 @@ Attn: TX FPL 3b Amendment Comments
 500 Poydras Street, Suite 1117   
 New Orleans, LA 70130
 
-Mail must be posted no later than June 21, 2025 to be included in this public comment period.   
+Mail must be posted no later than June 21, 2025 to be included in this public comment period. 
+
  
 
 Learn more about   
@@ -47,7 +45,7 @@ Learn more about 
 [RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)  
 [Modifying your eBlast Subscription](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
 
-[_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) _or_ [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx) 
+[_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx) 
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  

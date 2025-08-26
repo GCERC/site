@@ -1,6 +1,6 @@
 ---
 title: "Reflections: Mississippi River Reintroduction into Maurepas Swamp"
-permalink: /release/2025/03/26/reflections-mississippi-river-reintroduction-maurepas-swamp
+permalink: /announcements/2025/03/26/reflections-mississippi-river-reintroduction-maurepas-swamp/
 ---
 
 2025-03-26

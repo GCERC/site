@@ -1,6 +1,6 @@
 ---
 title: "Reflections: Alabama Seafood"
-permalink: /release/2025/04/07/reflections-alabama-seafood
+permalink: /announcements/2025/04/07/reflections-alabama-seafood/
 ---
 
 2025-04-07

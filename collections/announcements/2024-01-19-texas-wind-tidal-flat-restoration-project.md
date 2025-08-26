@@ -1,8 +1,8 @@
 ---
 title: Texas Wind-Tidal Flat Restoration Project
-permalink: /release/2024/01/19/texas-wind-tidal-flat-restoration-project
-
+permalink: /announcements/2024/01/19/texas-wind-tidal-flat-restoration-project/
 ---
+
 2024-01-19
 
 The Gulf Coast Ecosystem Restoration Council is funding a pilot project to research different ways to restore wind-tidal flats. Wind tidal flats, a unique coastal ecosystem that is subject to flooding by wind-driven tides, existing only in hyper saline micro tidal landscapes. Laguna Madre, on the west side of Padre Island National Seashore (NPS) is the largest hyper saline bay in the world. The Wind-Tidal Flat Restoration Pilot Project is testing various restoration techniques and assessing the efficacy and cost effectiveness of those techniques. The wind-tidal flat areas at Padre Island National Seashore are significant in that they protect portions of the largest freshwater wetland in Texas, conserve protected species, and provide wintering habitat for millions of migratory birds. However, impacts from previous energy exploration have impaired these important habitats.
