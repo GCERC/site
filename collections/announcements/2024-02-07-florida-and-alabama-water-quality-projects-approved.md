@@ -1,9 +1,8 @@
 ---
 title: Florida and Alabama Water Quality Projects Approved
 permalink: /announcements/2024/02/07/florida-and-alabama-water-quality-projects-approved/
+date: 2024-02-07
 ---
-
-2024-02-07
 
 On January 17, 2024, the Gulf Coast Ecosystem Restoration Council (Council) voted to approve funding for two ecosystem restoration activities. Specifically, the Council voted to amend its 2021 Funded Priorities List 3b (FPL 3b) to approve the following:
 

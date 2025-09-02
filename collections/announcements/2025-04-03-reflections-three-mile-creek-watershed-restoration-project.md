@@ -1,9 +1,8 @@
 ---
 title: "Reflections: Three Mile Creek Watershed Restoration Project"
 permalink: /announcements/2025/04/03/reflections-three-mile-creek-watershed-restoration-project/
+date: 2025-04-03
 ---
-
-2025-04-03
 
 ## Reflections on Restoration Progress
 

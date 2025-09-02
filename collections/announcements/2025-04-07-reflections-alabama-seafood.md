@@ -1,9 +1,8 @@
 ---
 title: "Reflections: Alabama Seafood"
 permalink: /announcements/2025/04/07/reflections-alabama-seafood/
+date: 2025-04-07
 ---
-
-2025-04-07
 
 ## Reflections on Restoration Progress
 

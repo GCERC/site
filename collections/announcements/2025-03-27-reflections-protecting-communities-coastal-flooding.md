@@ -1,9 +1,8 @@
 ---
 title: "Reflections: Protecting Communities from Coastal Flooding"
 permalink: /announcements/2025/03/27/reflections-protecting-communities-coastal-flooding/
+date: 2025-03-27
 ---
-
-2025-03-27
 
 ## Reflections on Restoration Progress 
 

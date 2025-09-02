@@ -1,9 +1,8 @@
 ---
 title: GCERC Releases Reflections on Restoration and Partnership- 2025 Status Report
 permalink: /announcements/2025/04/16/gcerc-releases-reflections-restoration-and-partnership-2025-status-report/
+date: 2025-04-16
 ---
-
-2025-04-16
 
 ## Gulf Coast Ecosystem Restoration Council Releases Reflections on Restoration and Partnerships, a 2025 Status Report Commemorating Fifteen Years Since the Deepwater Horizon Oil Spill
 

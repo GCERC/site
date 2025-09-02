@@ -1,9 +1,8 @@
 ---
 title: "Reflections: Armand Bayou Nature Center Land Acquisition Project"
 permalink: /announcements/2025/04/15/reflections-armand-bayou-nature-center-land-acquisition-project/
+date: 2025-04-15
 ---
-
-2025-04-15
 
 ## Reflections on Restoration Progress
 

@@ -1,9 +1,8 @@
 ---
 title: Texas Abandoned Oil and Gas Well Plugging
 permalink: /announcements/2024/01/19/texas-abandoned-oil-and-gas-well-plugging/
+date: 2024-01-19
 ---
-
-2024-01-19
 
 The Gulf Coast Ecosystem Restoration Council is funding the plugging and restoration of eleven abandoned oil and gas wells and the associated roads at Padre Island National Seashore. This restoration project, sponsored by the Department of Interior, helps prevent accidental oil spills into valuable barrier island habitat and coastal waters, while also restoring native vegetation to support a healthy coastal ecosystem.
 

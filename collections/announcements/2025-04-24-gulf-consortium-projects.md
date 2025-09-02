@@ -1,9 +1,8 @@
 ---
 title: Gulf Consortium Projects
 permalink: /announcements/2025/04/24/gulf-consortium-projects/
+date: 2025-04-24
 ---
-
-2025-04-24
 
 ## **Gulf Consortium Projects:** 
 

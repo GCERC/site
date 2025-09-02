@@ -6,9 +6,7 @@ layout: layouts/base
   <div class="grid-container">
     <div class="grid-row grid-gap">
       {% if sidenav == true %}{% include "sidenav.html" %}{% endif %}
-      <main
-        class="usa-layout-docs__main {% if sidenav == true %}desktop:grid-col-9{% else %}desktop:grid-col-12{% endif %}"
-      >
+      <main class="usa-layout-docs__main desktop:grid-col-9">
         <div class="bg-white padding-4 radius-lg shadow-1">
           {% include "breadcrumbs.html" %}
           <div class="usa-prose">

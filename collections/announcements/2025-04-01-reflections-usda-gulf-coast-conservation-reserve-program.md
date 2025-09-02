@@ -1,9 +1,8 @@
 ---
 title: "Reflections: USDA Gulf Coast Conservation Reserve Program"
 permalink: /announcements/2025/04/01/reflections-usda-gulf-coast-conservation-reserve-program/
+date: 2025-04-01
 ---
-
-2025-04-01
 
 ## Reflections on Restoration Progress
 

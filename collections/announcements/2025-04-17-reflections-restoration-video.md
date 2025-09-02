@@ -1,9 +1,8 @@
 ---
 title: Reflections on Restoration Video
 permalink: /announcements/2025/04/17/reflections-restoration-video/
+date: 2025-04-17
 ---
-
-2025-04-17
 
 ## Reflections on Restoration Progress
 

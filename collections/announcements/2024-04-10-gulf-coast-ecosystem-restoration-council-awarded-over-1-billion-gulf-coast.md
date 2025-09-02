@@ -1,9 +1,8 @@
 ---
 title: Gulf Coast Ecosystem Restoration Council Awarded over $1 Billion  in Gulf Coast Restoration Activities
 permalink: /announcements/2024/04/10/gulf-coast-ecosystem-restoration-council-awarded-over-1-billion-gulf-coast/
+date: 2024-04-10
 ---
-
-2024-04-10
 
 The Gulf Coast Ecosystem Restoration Council (RESTORE Council) announces that it has reached an important milestone: It has awarded over $1 Billion in funding for restoration activities across the gulf coast using funds from the Deepwater Horizon oil spill settlement.  “EPA is thrilled that the RESTORE Council has been able to invest $1 billion dollars in Gulf Coast restoration and in the communities that call this national treasure home,” **said Janet McCabe, EPA Deputy Administrator and RESTORE Council Chair**. “These funds are giving local communities and habitats a second chance to grow and thrive and they will help ensure the long-term health and resilience of the Gulf Coast ecosystem.” The infographic below summarizes this investment.
 

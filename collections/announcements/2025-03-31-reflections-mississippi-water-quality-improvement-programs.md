@@ -1,9 +1,8 @@
 ---
 title: "Reflections: Mississippi Water Quality Improvement Programs"
 permalink: /announcements/2025/03/31/reflections-mississippi-water-quality-improvement-programs/
+date: 2025-03-31
 ---
-
-2025-03-31
 
 ## Reflections on Restoration Progress
 

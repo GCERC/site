@@ -1,9 +1,8 @@
 ---
 title: "Reflections: Protecting and restoring valuable coastal habitat"
 permalink: /announcements/2025/04/10/reflections-protecting-and-restoring-valuable-coastal-habitat/
+date: 2025-04-10
 ---
-
-2025-04-10
 
 ## Reflections on Restoration Progress
 

@@ -1,9 +1,8 @@
 ---
 title: "Reflections: Perdido River Land Acquisition"
 permalink: /announcements/2025/04/22/reflections-perdido-river-land-acquisition/
+date: 2025-04-22
 ---
-
-2025-04-22
 
 ## Reflections on Restoration Progress
 
