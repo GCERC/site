@@ -1,5 +1,5 @@
 title: RESTORETHEGULF.GOV
-email:  RestoreCouncil@restorethegulf.gov
+email: RestoreCouncil@restorethegulf.gov
 description: >- # this means to ignore newlines
   Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
@@ -67,10 +67,10 @@ ga:
 primary_navigation:
   - name: Who We Are
     children:
-      - name: Who are the RESTORE Council Members?
-        url: "/people/council-members/"
       - name: What is the RESTORE Act?
         url: "/what-is-the-restore-act/"
+      - name: Council Members
+        url: "/people/council-members/"
   - name: What We Do
     children:
       - name: Restoration Planning

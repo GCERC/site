@@ -3,8 +3,6 @@ title: Louisiana State Expenditure Plan Efforts
 permalink: spill-impact-component/louisiana/
 ---
 
-Louisiana State Expenditure Plan (SEP) and Amendments
-
 - [Louisiana SEP](/sites/default/files/2025-01/SEP_LA_20170118_0.pdf) - March 23, 2017
 - [Louisiana SEP Amendment #1](/sites/default/files/2025-01/Parish%20Matching%20Project%20Selection%20Amendment%20FINAL%20508%20Compliant%20051818_1.pdf) - June 18, 2022
 - [Louisiana SEP Amendment #2](/sites/default/files/2025-01/LA%20SEPAmendment2Jan22Final.508_reduced_1.pdf) - March 17, 2022

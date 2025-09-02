@@ -7,8 +7,6 @@ eleventyNavigation:
   title: RESTORE Projects
 ---
 
-## RESTORE Projects
-
 The Council supports ecosystem restoration that can enhance local communities by giving people desirable places to live, work, and play, while creating opportunities for new and existing businesses of all sizes, especially those dependent on natural resources.
 
 The Council has adopted the following five goals which provide the overarching framework for an integrated and coordinated approach for region-wide Gulf Coast restoration and to help guide the collective actions at the local, state, tribal, and federal levels. These goals were collaboratively developed through and approved through coordination with all eleven members of the RESTORE Council and can be found in the Council approved Comprehensive Plan.

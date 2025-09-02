@@ -3,8 +3,6 @@ title: Alabama State Expenditure Plan
 permalink: /spill-impact-component/alabama/
 ---
 
-Alabama State Expenditure Plan (SEP) and Amendments
-
 - [Alabama Planning SEP](/sites/default/files/2025-01/PSEP%20-%20AL%20-%20Draft%20PSEP%20508%20Compliant%206-26-2018_0.pdf) - August 27, 2018
 - [Alabama SEP](/sites/default/files/2025-01/ALABAMA%20SEP%20-%20FINAL_508_4_1_19_0_0.pdf) - March 29, 2019
 - [Alabama SEP 2022 Amendment](/sites/default/files/2025-01/AL_SEP_Amendment_508_compliant04122022pdf.pdf) - May 25, 2022
