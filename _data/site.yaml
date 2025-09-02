@@ -86,11 +86,7 @@ primary_navigation:
       - name: History
         url: "/resources/history/"
   - name: Announcements
-    url: /restore-council-announcements/
-
-  #- name: Departments
-  # children:
-  # use_collection: "staffByDept"
+    url: /announcements/
 
 secondary_navigation:
   - name: Contact us

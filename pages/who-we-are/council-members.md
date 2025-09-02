@@ -124,5 +124,3 @@ members:
   {% include "card.html", title: member.name, sub_title: sub_title, photo: member.photo, body: body %}
 {% endfor %}
 </ul>
-
-The governors recommend and the President appoints one federal member to serve as Chair.
