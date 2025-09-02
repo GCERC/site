@@ -5,6 +5,7 @@ eleventyNavigation:
   key: council-members
   parent: who-we-are
   title: Council Members
+  order: 2
 lead: >
   The RESTORE Council includes governors of the States of Alabama, Florida,
   Louisiana, Mississippi and Texas and the Secretaries of the U.S. Departments
@@ -124,5 +125,3 @@ members:
   {% include "card.html", title: member.name, sub_title: sub_title, photo: member.photo, body: body %}
 {% endfor %}
 </ul>
-
-The governors recommend and the President appoints one federal member to serve as Chair.

@@ -30,11 +30,12 @@ editor:
 collections:
   - name: "announcements"
     label: "Announcements"
-    folder: "."
+    folder: "collections/announcements"
     create: true
     editor:
       preview: false
     slug: "{{date}}-{{slug}}"
+    summary: "[{{date}}] {{title}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {

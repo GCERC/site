@@ -7,8 +7,6 @@ eleventyNavigation:
   title: Reports
 ---
 
-## Reports and Plans
-
 The RESTORE Council has released reports outlining its progress.
 
 [Annual Financial Reports](/resources/reports-plans/annual-financial-reports)

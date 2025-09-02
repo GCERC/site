@@ -1,9 +1,8 @@
 ---
 title: CPRA and TLDC Announce Houma Navigation Canal Lock Complex Moving to Phase 2 Construction
 permalink: /announcements/2024/02/27/cpra-and-tldc-announce-houma-navigation-canal-lock-complex-moving-phase-2/
+date: 2024-02-27
 ---
-
-2024-02-27
 
 **Contact:** [**coastal@la.gov**](mailto:coastal@la.gov)
 

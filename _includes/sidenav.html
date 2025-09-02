@@ -1,24 +1,18 @@
-{% comment %} 
-The sidenav is not loaded by default on the main pages. To include this navigation you can either use the
-_layouts/page.html layout template, or you can add "sidenav: true" in the front-matter of your pages
-{% endcomment %}
-
 {% assign navPages = collections.all | eleventyNavigation %}
 
-<aside id="section-nav" class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
+<aside
+  id="section-nav"
+  class="usa-layout-docs-sidenav desktop:grid-col-3 padding-y-4"
+>
   <nav>
+    <div class="text-uppercase text-bold margin-left-2 margin-y-2 text-ls-2">In this section:</div>
     <ul class="usa-sidenav">
       {% for entry in navPages %}
         {% if entry.children.length %}
           {% for child in entry.children %}
             {% if child.parent == eleventyNavigation.parent %}
               <li class="usa-sidenav__item">
-                <a
-                  {% if child.url == page.url %}
-                    class="usa-current"
-                  {% endif %}
-                  href="{{ child.url }}"
-                >
+                <a {% if child.url == page.url %}class="usa-current"{% endif %} href="{{ child.url }}">
                   {{- child.title -}}
                 </a>
               </li>

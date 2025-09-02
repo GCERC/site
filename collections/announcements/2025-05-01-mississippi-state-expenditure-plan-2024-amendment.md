@@ -1,9 +1,8 @@
 ---
 title: Mississippi State Expenditure Plan 2024 Amendment - Approved by RESTORE Council Chair
 permalink: /announcements/2025/05/01/mississippi-state-expenditure-plan-2024-amendment/
+date: 2025-05-01
 ---
-
-2025-05-01
 
 On April 18, 2025, the Council Chair, the U.S. Environmental Protection Agency, approved the Mississippi State Expenditure Plan (SEP) 2024 Amendment. Under the Spill Impact Component of the RESTORE Act, commonly referred to as “Bucket 3”, 30 percent of the funds in the Gulf Coast Restoration Trust Fund are disbursed to the five Gulf Coast States. Each state is required to develop SEPs and submit it to the Council Chairperson for approval, the same is true for SEP amendments. These projects, programs, and activities will be implemented in a manner consistent with the requirements of the RESTORE Act, as well as the goals and objectives of the Comprehensive Plan. States amend SEPs to increase funding for projects or programs in existing SEPs and/or to add new activities to the SEP.
 

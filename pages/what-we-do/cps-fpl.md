@@ -9,6 +9,6 @@ The RESTORE Council periodically approves Council-Selected Restoration Component
 <img src="/img/20220518_090145.jpg" alt="Meeting" loading="lazy">
 </br>
 
-- [Comprehensive Plan Commitment and Planning Support FPL](/pdfs/2017_CPS_FPL_Final.pdf) - 2018
+- [Comprehensive Plan Commitment and Planning Support FPL](/uploads/2017_CPS_FPL_Final.pdf) - 2018
 - Amendments:
-  - [Comprehensive Plan Commitment and Planning Support FPL Update](/pdfs/CPS_FPL_2023_Amendment_508.pdf) - 2024
+  - [Comprehensive Plan Commitment and Planning Support FPL Update](/uploads/CPS_FPL_2023_Amendment_508.pdf) - 2024

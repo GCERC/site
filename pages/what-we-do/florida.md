@@ -3,8 +3,6 @@ title: Florida State Expenditure Plan
 permalink: spill-impact-component/florida/
 ---
 
-Florida State Expenditure Plan (SEP) and Amendments
-
 - [Florida Planning SEP](/sites/default/files/2025-01/Florida%20PSEP%20Final_1.pdf) - May 21, 2015
 - [Stand-Up SEP for Florida](/sites/default/files/2025-01/FL%20SSEP_508Compliance-ba_1%20Final.pdf) - April 23, 2018
 - [Florida SEP](/sites/default/files/2025-01/Florida_SEP_FINAL_508_Compliant.pdf) - September 27, 2018

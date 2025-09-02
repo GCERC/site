@@ -3,8 +3,6 @@ title: Mississippi State Expenditure Plan
 permalink: spill-impact-component/mississippi/
 ---
 
-Mississippi State Expenditure Plan (SEP) and Amendments
-
 - [Mississippi Planning SEP](/sites/default/files/2025-01/MS_PSEP_Plan%209.21.2015.pdf) - November 2, 2015
 - [Mississippi SEP](/sites/default/files/2025-01/SEP_MS_20170427.pdf) - April 13, 2017
 - [2017 Mississippi SEP Amendment](/sites/default/files/2025-01/MS%20State%20Expenditure%20Plan%20Amendment%202017%202.12.18_FINAL_508Compliance.pdf) - April 16, 2018

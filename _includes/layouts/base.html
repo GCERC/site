@@ -1,29 +1,20 @@
-<!DOCTYPE html>
-{% comment %}
-This is used for just about every page. It provides the border around the content.
-The home page uses wide.html layout, since it extends full width of page
-{% endcomment %}
+<!doctype html>
+{% comment %} This is used for just about every page. It provides the border
+around the content. The home page uses wide.html layout, since it extends full
+width of page {% endcomment %}
 
 <html lang="en">
+  {% include "meta.html" %}
 
-{% include "meta.html" %}
+  <body>
+    {% include "header.html" %} {% include "menu.html" primary_navigation:
+    site.primary_navigation secondary_navigation: site.secondary_navigation %}
+    {{ content }} {% include "footer.html" %}
 
-<body>
-  {% include "header.html" %}
+    <div style="display: none">
+      {% usa_icons_sprite %} {% uswds_icons_sprite %}
+    </div>
 
-  {% include "menu.html" primary_navigation: site.primary_navigation secondary_navigation: site.secondary_navigation %}
-
-  {{ content }}
-
-  {% include "footer.html" %}
-
-  {% comment %} Hide SVG Sprites {% endcomment %}
-  <div style="display: none;">
-    {% usa_icons_sprite %}
-    {% uswds_icons_sprite %}
-  </div>
-
-  {% include "scripts.html" %}
-</body>
-
+    {% include "scripts.html" %}
+  </body>
 </html>

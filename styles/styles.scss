@@ -36,13 +36,26 @@
   $theme-color-primary-dark: #1b2958,
   $theme-body-background-color: "base-lightest",
   $theme-lead-font-size: "md",
-  $theme-hero-image: "../img/slider.jpg"
+  $theme-hero-image: "../img/slider.jpg",
+  $theme-link-color: "primary",
+  $theme-link-visited-color: "primary",
+  $theme-h1-font-size: "xl",
+  $theme-h2-font-size: "lg",
+  $theme-h3-font-size: "sm",
+  $theme-h4-font-size: "xs",
+  $theme-text-measure: 6
 );
 
 @forward "uswds";
 
 img {
   height: auto;
+}
+
+.usa-prose {
+  a {
+    @include u-text("primary");
+  }
 }
 
 .usa-nav__secondary-links a {

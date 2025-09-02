@@ -1,9 +1,8 @@
 ---
 title: "Reflections: Hancock Marsh Living Shoreline"
 permalink: /announcements/2025/04/08/reflections-hancock-marsh-living-shoreline/
+date: 2025-04-08
 ---
-
-2025-04-08
 
 ## Reflections on Restoration Progress
 

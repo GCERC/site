@@ -1,9 +1,8 @@
 ---
 title: "Reflections: Mississippi River Reintroduction into Maurepas Swamp"
 permalink: /announcements/2025/03/26/reflections-mississippi-river-reintroduction-maurepas-swamp/
+date: 2025-03-26
 ---
-
-2025-03-26
 
 ## Reflections on Restoration Progress
 

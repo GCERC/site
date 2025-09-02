@@ -1,9 +1,8 @@
 ---
 title: Proposed Amendments to FPL 3b in the State of Texas
 permalink: /announcements/2025/05/22/proposed-amendments-fpl-3b-state-texas/
+date: 2025-05-22
 ---
-
-2025-05-22
 
 The Gulf Coast Ecosystem Restoration Council (Council) is seeking public comment on proposals for multiple ecosystem restoration activities located in Texas under Funded Priorities List (FPL) 3b. Specifically, the Council is planning to vote on whether to approve the following:
 
