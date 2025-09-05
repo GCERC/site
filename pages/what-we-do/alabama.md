@@ -1,6 +1,7 @@
 ---
 title: Alabama State Expenditure Plan
 permalink: /spill-impact-component/alabama/
+customHeader: "Council Grant for Activity in Alabama SEP"
 ---
 
 - [Alabama Planning SEP](/sites/default/files/2025-01/PSEP%20-%20AL%20-%20Draft%20PSEP%20508%20Compliant%206-26-2018_0.pdf) - August 27, 2018

@@ -1,0 +1,54 @@
+<style>
+.grants-wrapper { 
+    max-width: 1200px; 
+    margin: 2rem auto; 
+    background: white; 
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1); 
+}
+.grants-header { 
+    background: var(--uswds-color-blue-80);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    font-weight: bold;
+}
+.grants-wrapper table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+.grants-wrapper th, .grants-wrapper td {
+padding: 1rem;
+border: 1px solid var(--uswds-color-gray-30);
+word-wrap: break-word;
+}
+.grants-wrapper td {
+background: var(--uswds-color-gray-5);
+}
+.grants-wrapper a {
+color: var(--uswds-color-blue-80);
+text-decoration: underline;
+}
+.grants-wrapper .fed {
+text-align: center;
+font-family: monospace;
+font-weight: bold;
+width: 25%;
+}
+.grants-wrapper tr:hover td {
+    background: var(--uswds-color-gray-10);
+}
+</style>
+
+<div class="grants-wrapper">
+    <div class="grants-header">{{ page.customHeader }}</div>
+    <table>
+        <tr><th>Project Title</th><th>Federal Award ID Number</th></tr>
+        {% for grant in page.grants %}
+        <tr>
+            <td>{% if grant.pdfLink %}<a href="{{ grant.pdfLink }}">{{ grant.title }}</a>{% else %}{{ grant.title }}{% endif %}</td>
+            <td class="fed">{{ grant.federalID }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>

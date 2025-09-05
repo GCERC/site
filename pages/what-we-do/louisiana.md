@@ -1,6 +1,7 @@
 ---
 title: Louisiana State Expenditure Plan Efforts
 permalink: spill-impact-component/louisiana/
+customHeader: "Council Grant for Activity in Louisiana SEP"
 ---
 
 - [Louisiana SEP](/sites/default/files/2025-01/SEP_LA_20170118_0.pdf) - March 23, 2017

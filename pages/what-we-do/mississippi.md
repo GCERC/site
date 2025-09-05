@@ -1,6 +1,7 @@
 ---
 title: Mississippi State Expenditure Plan
 permalink: spill-impact-component/mississippi/
+customHeader: "Council Grant for Activity in Mississippi SEP"
 ---
 
 - [Mississippi Planning SEP](/sites/default/files/2025-01/MS_PSEP_Plan%209.21.2015.pdf) - November 2, 2015
