@@ -17,6 +17,8 @@ module.exports = async function (config) {
   // Copy the `admin` folders to the output
   config.addPassthroughCopy("admin");
   config.addPassthroughCopy("uploads");
+  config.addPassthroughCopy("css");
+
 
   // Add plugins
   config.addPlugin(pluginRss);
@@ -70,6 +72,29 @@ module.exports = async function (config) {
     <svg class="usa-icon" aria-hidden="true" role="img">
       <use xlink:href="#svg-${name}"></use>
     </svg>`;
+  });
+
+  // Grants Table Shortcode
+  config.addLiquidShortcode("grantsTable", function(grants, header) {
+    // Check if grant exists
+    if (!grants || !Array.isArray(grants) || grants.length === 0) {
+      return '<p>No grants available.</p>';
+    }
+    // Build HTML table
+    let html = '<div class="grants-wrapper"><div class="grants-header">' + (header || 'Grants') + '</div><table><thead><tr><th>Project Title</th><th>Federal Award ID Number</th></tr></thead><tbody>';
+
+    // forLoop
+    grants.forEach(grant => {
+      const title = grant.pdfLink
+       ? '<a href="' + grant.pdfLink + '">' + grant.title + '</a>'
+       : grant.title;
+
+      html += '<tr><td>' + title + '</td><td class="fed">' + grant.federalId + '</td></tr>';
+    });
+
+    html += '</tbody></table></div>';
+
+    return html;
   });
 
   // If BASEURL env variable exists, update pathPrefix to the BASEURL
