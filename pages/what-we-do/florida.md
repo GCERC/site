@@ -2,6 +2,10 @@
 title: Florida State Expenditure Plan
 permalink: spill-impact-component/florida/
 customHeader: "Council Grant for Activity in Florida SEP"
+grants:
+  - title: ""
+  - federalId: ""
+  - pdfLink: ""
 ---
 
 - [Florida Planning SEP](/sites/default/files/2025-01/Florida%20PSEP%20Final_1.pdf) - May 21, 2015

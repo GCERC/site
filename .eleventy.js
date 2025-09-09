@@ -76,17 +76,16 @@ module.exports = async function (config) {
 
   // Grants Table Shortcode
   config.addLiquidShortcode("grantsTable", function(grants, header) {
-    // Check if grant exists
+  // Check if grant exists
     if (!grants || !Array.isArray(grants) || grants.length === 0) {
       return '<p>No grants available.</p>';
     }
-    // Build HTML table
-    let html = '<div class="grants-wrapper"><div class="grants-header">' + (header || 'Grants') + '</div><table><thead><tr><th>Project Title</th><th>Federal Award ID Number</th></tr></thead><tbody>';
-
-    // forLoop
+  // Build HTML table
+    let html = '<div class="grants-wrapper"><div class="grants-header">' + (header || 'Grants') + '</div><table><caption class="sr-only">List of grants with project titles and fedral award ID numbers</caption><thead><tr><th scope="col">Project Title</th><th scope="col">Federal Award ID Number</th></tr></thead><tbody>';
+  // forLoop
     grants.forEach(grant => {
       const title = grant.pdfLink
-       ? '<a href="' + grant.pdfLink + '">' + grant.title + '</a>'
+       ? '<a href="' + grant.pdfLink + '">' + grant.title + '<span class="sr-only">(PDF)</span></a>'
        : grant.title;
 
       html += '<tr><td>' + title + '</td><td class="fed">' + grant.federalId + '</td></tr>';

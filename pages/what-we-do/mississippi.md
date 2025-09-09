@@ -2,6 +2,67 @@
 title: Mississippi State Expenditure Plan
 permalink: spill-impact-component/mississippi/
 customHeader: "Council Grant for Activity in Mississippi SEP"
+grants:
+  - title: "Beneficial Use of Dredge Material for Marsh Creation and Restoration in Mississippi"
+    federalId: "GNSSP21MS0015"
+    pdfLink: "/sites/default/files/2025-01/MS%20SEP%202018%20Amendment%20Final%2002.08.19-508.pdf#page=23"
+  - title: "Coastal Habitat Management Program (#13)"
+    federalId: "GNSSP24MS0060"
+    pdfLink: "/sites/default/files/2025-01/MS_SEP_2021_Amendment_FINAL_04262022.pdf#page=17" 
+  - title: "Compatibility, Coordination and Restoration Planning"
+    federalId: "GNTSP18MS0048"
+    pdfLink: "/sites/default/files/2025-01/MS%20State%20Expenditure%20Plan%20Amendment%202017%202.12.18_FINAL_508Compliance.pdf#page=19"
+  - title: "D’Iberville Working Waterfront and Commercial Seafood Harbor (#16)"
+    federalId: "GNSSP24MS0056"
+    pdfLink: "/sites/default/files/2025-01/MS_2023_State%20Expenditure%20Plan%20Amendment%20for%20Council%20Submission%205.2.2024.pdf#page=17"
+  - title: "Gulf Coast Center of Security and Emerging Technology (CSET) Program (#14)"
+    federalId: "GNSSP23MS0051"
+    pdfLink: "/sites/default/files/2025-01/MS_SEP_2021_Amendment_FINAL_04262022.pdf#page=20"
+  - title: "Gulf of Mexico Citizen Led Initiative"
+    federalId: "GNTSP20MS0084"
+    pdfLink: "/sites/default/files/2025-01/MS%20State%20Expenditure%20Plan%20Amendment%202017%202.12.18_FINAL_508Compliance.pdf#page=21"
+  - title: "Hancock County Marsh Living Shoreline"
+    federalId: "GNTSP20MS0103"
+    pdfLink: "https://www.mdeq.ms.gov/wp-content/uploads/2019/09/2018-Mississippi-State-Expenditure-Plan-Amendment.pdf#page=27"
+  - title: "Health Professions (HEALP) for Our Community: Health Professions Center of Excellence (#20)"
+    federalId: "GNSSP24MS0059"
+    pdfLink: "/sites/default/files/2025-01/MS_SEP_2022%20Amendment.pdf#page=23"
+  - title: "Institute of Marine Mammal Studies Outreach and Ecotourism (#22)"
+    federalId: "GNSSP25MS0061"
+    pdfLink: "/sites/default/files/2025-01/MS_SEP_2022%20Amendment.pdf#page=27"
+  - title: "Laboratory to Support Mississippi Gulf Coast Water Quality Improvement Program"
+    federalId: "GNTSP18MS0053"
+    pdfLink: "/sites/default/files/2025-01/SEP_MS_20170427.pdf#page=17"
+  - title: "Mississippi Beachfront Resilience (#11)"
+    federalId: "GNSSP21MS0017"
+    pdfLink: "/sites/default/files/2025-01/MS_SEP_2021_Amendment_FINAL_04262022.pdf#page=15"
+  - title: "Mississippi Beachfront Resilience (#11)"
+    federalId: "GNSSP21MS0017"
+    pdfLink: "/sites/default/files/2025-01/MS_SEP_2021_Amendment_FINAL_04262022.pdf#page=15"
+  - title: "Mississippi Gulf Coast Water Quality Improvement Program"
+    federalId: "GNTSP18MS0058"
+    pdfLink: "/sites/default/files/2025-01/SEP_MS_20170427.pdf#page=17"
+  - title: "Mississippi Sound Oyster Shell Recycling Program"
+    federalId: "GNTSP20MS0128"
+    pdfLink: "https://www.mdeq.ms.gov/wp-content/uploads/2019/09/2018-Mississippi-State-Expenditure-Plan-Amendment.pdf#page=19"
+  - title: "Pascagoula Oyster Reef Complex Relay and Enhancement"
+    federalId: "GNTSP19MS0075"
+    pdfLink: "/sites/default/files/2025-01/SEP_MS_20170427.pdf#page=21"
+  - title: "Public/Private Partnership (Accelerate MS) #12"
+    federalId: "GNSSP23MS0045"
+    pdfLink: "/sites/default/files/2025-01/MS_SEP_2021_Amendment_FINAL_04262022.pdf#page=16"  
+  - title: "Remote Oyster Setting Facility"
+    federalId: "GNTSP19MS0080"
+    pdfLink: "/sites/default/files/2025-01/MS%20State%20Expenditure%20Plan%20Amendment%202017%202.12.18_FINAL_508Compliance.pdf#page=26"
+  - title: "Round Island Living Shoreline Demonstration and Protection Project (Planning)"
+    federalId: "GNTSP20MS0087"
+    pdfLink: "/sites/default/files/2025-01/MS%20State%20Expenditure%20Plan%20Amendment%202017%202.12.18_FINAL_508Compliance.pdf#page=35"
+  - title: "Walter Anderson Museum of Art Creative Complex (#18)"
+    federalId: "GNSSP25MS0062"
+    pdfLink: "/sites/default/files/2025-01/MS_SEP_2022%20Amendment.pdf#page=18"
+  - title: "Workforce Training - Meeting the Needs of the Supply Chain (#19)"
+    federalId: "GNSSP24MS0058"
+    pdfLink: "/sites/default/files/2025-01/MS_SEP_2022%20Amendment.pdf#page=21"                           
 ---
 
 - [Mississippi Planning SEP](/sites/default/files/2025-01/MS_PSEP_Plan%209.21.2015.pdf) - November 2, 2015
@@ -16,84 +77,4 @@ customHeader: "Council Grant for Activity in Mississippi SEP"
 
 For more information on each project award, use the Federal Award ID Number below to search on [USAspending.gov](https://www.usaspending.gov/search/?hash=d0cede4de5827d24bbd9d27076bf18f2).
 
-Council Grants for Activities in Misssissippi SEP
-
-**Project Title**
-
-**Federal Award ID Number**
-
-[Beneficial Use of Dredge Material for Marsh Creation and Restoration in Mississippi](/sites/default/files/2025-01/MS%20SEP%202018%20Amendment%20Final%2002.08.19-508.pdf#page=23)
-
-GNSSP21MS0015
-
-[Coastal Habitat Management Program (#13)](/sites/default/files/2025-01/MS_SEP_2021_Amendment_FINAL_04262022.pdf#page=17)
-
-GNSSP24MS0060
-
-[Compatibility, Coordination and Restoration Planning](/sites/default/files/2025-01/MS%20State%20Expenditure%20Plan%20Amendment%202017%202.12.18_FINAL_508Compliance.pdf#page=19)
-
-GNTSP18MS0048
-
-[D’Iberville Working Waterfront and Commercial Seafood Harbor (#16)](/sites/default/files/2025-01/MS_2023_State%20Expenditure%20Plan%20Amendment%20for%20Council%20Submission%205.2.2024.pdf#page=17)
-
-GNSSP24MS0056
-
-[Gulf Coast Center of Security and Emerging Technology (CSET) Program (#14)](/sites/default/files/2025-01/MS_SEP_2021_Amendment_FINAL_04262022.pdf#page=20)
-
-GNSSP23MS0051
-
-[Gulf of Mexico Citizen Led Initiative](/sites/default/files/2025-01/MS%20State%20Expenditure%20Plan%20Amendment%202017%202.12.18_FINAL_508Compliance.pdf#page=21)
-
-GNTSP20MS0084
-
-[Hancock County Marsh Living Shoreline](https://www.mdeq.ms.gov/wp-content/uploads/2019/09/2018-Mississippi-State-Expenditure-Plan-Amendment.pdf#page=27)
-
-GNTSP20MS0103
-
-[Health Professions (HEALP) for Our Community: Health Professions Center of Excellence (#20)](/sites/default/files/2025-01/MS_SEP_2022%20Amendment.pdf#page=23)
-
-GNSSP24MS0059
-
-[Institute of Marine Mammal Studies Outreach and Ecotourism (#22)](/sites/default/files/2025-01/MS_SEP_2022%20Amendment.pdf#page=27)
-
-GNSSP25MS0061
-
-[Laboratory to Support Mississippi Gulf Coast Water Quality Improvement Program](/sites/default/files/2025-01/SEP_MS_20170427.pdf#page=17)
-
-GNTSP18MS0053
-
-[Mississippi Beachfront Resilience (#11)](/sites/default/files/2025-01/MS_SEP_2021_Amendment_FINAL_04262022.pdf#page=15)
-
-GNSSP21MS0017
-
-[Mississippi Gulf Coast Water Quality Improvement Program](/sites/default/files/2025-01/SEP_MS_20170427.pdf#page=17)
-
-GNTSP18MS0058
-
-[Mississippi Sound Oyster Shell Recycling Program](https://www.mdeq.ms.gov/wp-content/uploads/2019/09/2018-Mississippi-State-Expenditure-Plan-Amendment.pdf#page=19)
-
-GNTSP20MS0128
-
-[Pascagoula Oyster Reef Complex Relay and Enhancement](/sites/default/files/2025-01/SEP_MS_20170427.pdf#page=21)
-
-GNTSP19MS0075
-
-[Public/Private Partnership (Accelerate MS) #12](/sites/default/files/2025-01/MS_SEP_2021_Amendment_FINAL_04262022.pdf#page=16)
-
-GNSSP23MS0045
-
-[Remote Oyster Setting Facility](/sites/default/files/2025-01/MS%20State%20Expenditure%20Plan%20Amendment%202017%202.12.18_FINAL_508Compliance.pdf#page=26)
-
-GNTSP19MS0080
-
-[Round Island Living Shoreline Demonstration and Protection Project (Planning)](/sites/default/files/2025-01/MS%20State%20Expenditure%20Plan%20Amendment%202017%202.12.18_FINAL_508Compliance.pdf#page=35)
-
-GNTSP20MS0087
-
-[Walter Anderson Museum of Art Creative Complex (#18)](/sites/default/files/2025-01/MS_SEP_2022%20Amendment.pdf#page=18)
-
-GNSSP25MS0062
-
-[Workforce Training - Meeting the Needs of the Supply Chain (#19)](/sites/default/files/2025-01/MS_SEP_2022%20Amendment.pdf#page=21)
-
-GNSSP24MS0058
+{% grantsTable grants, customHeader %}
