@@ -85,6 +85,8 @@ primary_navigation:
         url: "/resources/reports-plans/"
       - name: History
         url: "/resources/history/"
+      - name: Reflections on Restoration
+        url: "/reflections-on-restoration/"
   - name: Announcements
     url: /announcements/
 
