@@ -17,8 +17,6 @@ module.exports = async function (config) {
   // Copy the `admin` folders to the output
   config.addPassthroughCopy("admin");
   config.addPassthroughCopy("uploads");
-  config.addPassthroughCopy("css");
-
 
   // Add plugins
   config.addPlugin(pluginRss);
