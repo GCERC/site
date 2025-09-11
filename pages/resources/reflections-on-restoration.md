@@ -1,6 +1,5 @@
 ---
 title: Reflections on Restoration Progress
-showTitle: false
 permalink: /reflections-on-restoration/
 eleventyNavigation:
   key: reflections
