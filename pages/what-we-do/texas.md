@@ -11,14 +11,14 @@ grants:
     pdfLink: "/uploads/TX_SEP_Amendment_2_508_20231109.pdf"
   - title: "FY22 RESTORE NBT-IB Magee Beach Park (BKT 3)"
     federalId: "GNSSP23TX0053"
-    pdfLink: "/uploads/TX SEP Amendment #1_Fin_20200605..pdf" 
+    pdfLink: "/uploads/TX_SEP_Amendment_#1_Fin_20200605..pdf" 
 ---
 
 <link rel="stylesheet" href="/styles/styles.scss">
 
-- [Texas Planning SEP](/uploads/PSEP-TX-approval letter from the Chair-transmittal letter-and PSEP.pdf) - July 29, 2016
-- [Texas SEP](/uploads/TX SEP_Rev 1_20190129-508.pdf) - March 4, 2019
-- [Texas (SEP) Amendment #1](/uploads/TX SEP Amendment #1_Fin_20200605..pdf) - July 30, 2020
+- [Texas Planning SEP](/uploads/PSEP-TX-approval_letter_from_the_Chair-transmittal_letter-and_PSEP.pdf) - July 29, 2016
+- [Texas SEP](/uploads/TX_SEP_Rev_1_20190129-508.pdf) - March 4, 2019
+- [Texas (SEP) Amendment #1](/uploads/TX_SEP_Amendment_#1_Fin_20200605..pdf) - July 30, 2020
 - [Texas (SEP) Amendment #2](/uploads/TX_SEP_Amendment_2_508_20231109.pdf) - January 17, 2024
 
 For more information on each project award, use the Federal Award ID Number below to search on [USAspending.gov](https://www.usaspending.gov/search/?hash=d0cede4de5827d24bbd9d27076bf18f2).
