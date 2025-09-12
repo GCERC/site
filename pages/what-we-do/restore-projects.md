@@ -24,10 +24,6 @@ cardlinks:
   - url: /restore-impact/leveraging-fund-for-bigger-results/
     photo: /img/Hancock%20County%20Marsh%20Living%20Shoreline%20%28pg%209%29.JPG
     caption: Leveraging Funds for Bigger Results
-secondarycards:
-  - url: https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676
-    photo: /img/StoryMap%20Image%20high%20res.jpg
-    caption: View RESTORE Projects
 ---
 
 The Council supports ecosystem restoration that can enhance local communities by giving people desirable places to live, work, and play, while creating opportunities for new and existing businesses of all sizes, especially those dependent on natural resources.
@@ -69,15 +65,11 @@ By working closely with our restoration partners, the Gulf Coast Ecosystem Resto
 {% endfor %}
 </ul> 
 
-For more information about the progress the Council has made towards achieving the goals defined in the Comprehensive Plan, please view our Progress Dashboard here.
+For more information about the progress the Council has made towards achieving the goals defined in the Comprehensive Plan, please view our Progress Dashboard [here](https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676).
 
-<ul class="usa-card-group padding-top-3">
-{% for secondarycard in secondarycards %}
-  {% assign url = secondarycard.url %}
-  {% assign body_text = secondarycard.caption %}
-  {% capture body %}
-    <a href="{{ url }}" class="text-primary">{{ body_text }}</a>
-  {% endcapture %}
-  {% include "card.html", title: null, photo: secondarycard.photo, url: secondarycard.url, body: body %}
-{% endfor %}
-</ul> 
+<div class="display-flex flex-justify-center padding-top-3">
+  <a href="https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676">
+    <img src="/img/StoryMap%20Image%20high%20res.jpg" alt="Project Story Map">
+  </a>
+</div>
+
