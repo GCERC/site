@@ -43,7 +43,10 @@
   $theme-h2-font-size: "lg",
   $theme-h3-font-size: "sm",
   $theme-h4-font-size: "xs",
-  $theme-text-measure: 6
+  $theme-text-measure: 6,
+  $text-align-settings: (
+    responsive: true,
+  )
 );
 
 @forward "uswds";
@@ -69,6 +72,18 @@ img {
 
 .usa-identifier__logo {
   width: 3rem;
+}
+
+.usa-footer__logo > div {
+  @include u-margin-y(1);
+
+  @include at-media("desktop") {
+    @include u-margin-y(0);
+  }
+}
+
+.usa-footer__secondary-section a {
+  @include u-text("white");
 }
 
 .usa-card__img img {
