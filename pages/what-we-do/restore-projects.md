@@ -7,13 +7,13 @@ eleventyNavigation:
   title: RESTORE Projects
 cardlinks:
   - url: /restore-impact/protecting-and-restoring-valuable-coastal-habitat/
-    photo: /img//20220517_153502_1.4.jpg
+    photo: /img//20220517_153502_1_4.jpg
     caption: Protecting and Restoring Valuable Coastal Habitat
   - url: /restore-impact/protecting-communities-from-coastal-flooding/
     photo: /img//Paradis-Gate_Ribbon-Cutting-900x600%28pg7%29_0.jpg
     caption: Protecting Communities from Coastal Flooding
   - url: /restore-impact/improving-water-quality-and-working-with-private-landowners/
-    photo: /img/USDA%20Gulf%20Cons%20Reserve%20before%20%28pg%208%29.jpg
+    photo: /img/USDA_Gulf_Cons_Reserve_before_pg_8.jpg
     caption: Improving Water Quality and Working with Private Landowners
   - url: /restore-impact/innovation-to-enhance-community-resilience/
     photo: /img/Maurepas%20Swamp%20%28pg%208%29.jpg
