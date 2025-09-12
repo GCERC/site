@@ -4,7 +4,7 @@ manage your navigation system {% endcomment %}
 
 <header class="usa-header usa-header--extended" role="banner">
   <div class="bg-primary">
-    <div class="usa-navbar">
+    <div class="usa-navbar border-bottom-0">
       {% include "logo.html" %}
       <button class="usa-menu-btn">Menu</button>
     </div>
@@ -64,10 +64,11 @@ manage your navigation system {% endcomment %}
       </ul>
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
-          {% include "socialmedia.html" %}
-          {% for nav_item in secondary_navigation %}
-            <a href="{{ nav_item.url}}" class="text-white"
-              >{{ nav_item.name | escape }}</a>
+          {% include "socialmedia.html" %} {% for nav_item in
+          secondary_navigation %}
+          <a href="{{ nav_item.url}}" class="text-white"
+            >{{ nav_item.name | escape }}</a
+          >
           {% endfor %}
         </ul>
         {% include "searchgov/form.html" searchgov: site.searchgov %}
