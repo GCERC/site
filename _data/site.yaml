@@ -107,8 +107,6 @@ footer_navigation:
     url: "/policies/#privacy-policy"
   - name: Vulnerability disclosure policy
     url: "/policies/#vulnerability-disclosure-policy"
-  - name: Budget and performance reports
-    url: "/reports/"
   - name: Have a question about government services? Contact USA.gov.
     url: https://usa.gov/
 
