@@ -117,3 +117,25 @@ img {
   height: auto; /* Or width: auto; depending on how your image is sized */
   object-fit: cover; /*  Important to maintain aspect ratio and fill the circle */
 }
+
+figure {
+  @include at-media("desktop") {
+    &.right {
+      float: right;
+      margin: 1rem 0 1rem 2rem;
+      max-width: 40%;
+    }
+    &.left {
+      float: left;
+      margin: 1rem 2rem 1rem 0;
+      max-width: 40%;
+    }
+    &.center {
+      margin: 1rem;
+    }
+  }
+}
+
+figcaption {
+  @include u-font("body", "3xs");
+}
