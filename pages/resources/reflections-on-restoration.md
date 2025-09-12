@@ -19,7 +19,7 @@ The RESTORE Council is commemorating 15-years since the Deepwater Horizon oil sp
   {% assign pdf = cardlink.pdf %}
   {% assign body_text = cardlink.caption %}
   {% capture body %}
-    <a href="{{ pdf }}" target="_blank">{{ body_text }}</a>
+    <a href="{{ pdf }}" class="text-primary" target="_blank">{{ body_text }}</a>
   {% endcapture %}
   {% include "card.html", title: null, photo: cardlink.photo, pdf: cardlink.pdf, body: body %}
 {% endfor %}

@@ -36,7 +36,7 @@ Comprehensive Plan and Updates:
   {% assign pdf = cardlink.pdf %}
   {% assign body_text = cardlink.caption %}
   {% capture body %}
-    <p><a href="{{ pdf }}" target="_blank">{{ body_text }}</a></p>
+    <p><a href="{{ pdf }}" class="text-primary" target="_blank">{{ body_text }}</a></p>
   {% endcapture %}
   {% include "card.html", title: null, photo: cardlink.photo, pdf: cardlink.pdf, body: body %}
 {% endfor %}
@@ -53,7 +53,7 @@ Planning Framework and Update:
 {% for secondarycard in secondarycards %}
   {% assign pdf = secondarycard.pdf %}
   {% assign body_text = secondarycard.caption %}
-  {% capture body %}<p><a href="{{ pdf }}" target="_blank">{{ body_text }}</a></p>{% endcapture %}
+  {% capture body %}<p><a href="{{ pdf }}" class="text-primary" target="_blank">{{ body_text }}</a></p>{% endcapture %}
   {% include "card.html", title: null, photo: secondarycard.photo, pdf: secondarycard.pdf, body: body %}
 {% endfor %}
 </ul>  

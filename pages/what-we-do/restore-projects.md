@@ -26,7 +26,7 @@ cardlinks:
     caption: Leveraging Funds for Bigger Results
 secondarycards:
   - url: https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676
-    photo: StoryMap%20Image%20high%20res.jpg
+    photo: /img/StoryMap%20Image%20high%20res.jpg
     caption: View RESTORE Projects
 ---
 
@@ -58,12 +58,12 @@ Restore and Revitalize the Gulf Economy - Enhance the sustainability and resilie
 
 By working closely with our restoration partners, the Gulf Coast Ecosystem Restoration Council is making significant progress towards comprehensive Gulf restoration and is providing substantial environmental and economic benefits to current and future generations.
 
-<ul class="usa-card-group padding-y-2">
+<ul class="usa-card-group padding-top-4">
 {% for cardlink in cardlinks %}
   {% assign url = cardlink.url %}
   {% assign body_text = cardlink.caption %}
   {% capture body %}
-    <a href="{{ url }}">{{ body_text }}</a>
+    <a href="{{ url }}" class="text-primary">{{ body_text }}</a>
   {% endcapture %}
   {% include "card.html", title: null, photo: cardlink.photo, url: cardlink.url, body: body %}
 {% endfor %}
@@ -76,7 +76,7 @@ For more information about the progress the Council has made towards achieving t
   {% assign url = secondarycard.url %}
   {% assign body_text = secondarycard.caption %}
   {% capture body %}
-    <a href="{{ url }}">{{ body_text }}</a>
+    <a href="{{ url }}" class="text-primary">{{ body_text }}</a>
   {% endcapture %}
   {% include "card.html", title: null, photo: secondarycard.photo, url: secondarycard.url, body: body %}
 {% endfor %}
