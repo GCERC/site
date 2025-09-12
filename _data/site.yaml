@@ -54,7 +54,7 @@ url: "https://agency-production-url.gov"
 #
 #################################################################
 dap:
-  # agency: your-agency
+  agency: GCERC
 
   # Optional
   # subagency: your-subagency
