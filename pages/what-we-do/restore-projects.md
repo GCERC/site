@@ -5,6 +5,29 @@ eleventyNavigation:
   key: restore-projects
   parent: what-we-do
   title: RESTORE Projects
+cardlinks:
+  - url: /restore-impact/protecting-and-restoring-valuable-coastal-habitat/
+    photo: /img//20220517_153502_1.4.jpg
+    caption: Protecting and Restoring Valuable Coastal Habitat
+  - url: /restore-impact/protecting-communities-from-coastal-flooding/
+    photo: /img//Paradis-Gate_Ribbon-Cutting-900x600%28pg7%29_0.jpg
+    caption: Protecting Communities from Coastal Flooding
+  - url: /restore-impact/improving-water-quality-and-working-with-private-landowners/
+    photo: /img/USDA%20Gulf%20Cons%20Reserve%20before%20%28pg%208%29.jpg
+    caption: Improving Water Quality and Working with Private Landowners
+  - url: /restore-impact/innovation-to-enhance-community-resilience/
+    photo: /img/Maurepas%20Swamp%20%28pg%208%29.jpg
+    caption: Innovation to Enhance Community Resilience
+  - url: /restore-impact/creating-jobs-and-strengthening-coastal-economies/
+    photo: /img/PRDFT-shrimp_boats.jpg-20150624.jpg 
+    caption: Creating Jobs and Strengthening Coastal Economies
+  - url: /restore-impact/leveraging-fund-for-bigger-results/
+    photo: /img/Hancock%20County%20Marsh%20Living%20Shoreline%20%28pg%209%29.JPG
+    caption: Leveraging Funds for Bigger Results
+secondarycards:
+  - url: https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676
+    photo: StoryMap%20Image%20high%20res.jpg
+    caption: View RESTORE Projects
 ---
 
 The Council supports ecosystem restoration that can enhance local communities by giving people desirable places to live, work, and play, while creating opportunities for new and existing businesses of all sizes, especially those dependent on natural resources.
@@ -35,32 +58,26 @@ Restore and Revitalize the Gulf Economy - Enhance the sustainability and resilie
 
 By working closely with our restoration partners, the Gulf Coast Ecosystem Restoration Council is making significant progress towards comprehensive Gulf restoration and is providing substantial environmental and economic benefits to current and future generations.
 
-[Water and trees landscape](/sites/default/files/styles/media_card/public/2025-02/20220517_153502_1.4.jpg?itok=P-RQOufn)
-
-[Protecting and Restoring Valuable Coastal Habitat](/restore-impact/protecting-and-restoring-valuable-coastal-habitat)
-
-[Paradis Gate Ribbon Cutting](/sites/default/files/styles/media_card/public/2025-03/Paradis-Gate_Ribbon-Cutting-900x600%28pg7%29_0.jpg?itok=e0V03iaI)
-
-[Protecting Communities from Coastal Flooding](/restore-impact/protecting-communities-from-coastal-flooding)
-
-[Before picture of conservation area](/sites/default/files/styles/media_card/public/2025-02/USDA%20Gulf%20Cons%20Reserve%20before%20%28pg%208%29.jpg?itok=12CiWtJc)
-
-[Improving Water Quality and Working with Private Landowners](/restore-impact/improving-water-quality-and-working-with-private-landowners)
-
-[Aerial view of Maurepas Swamp](/sites/default/files/styles/media_card/public/2025-02/Maurepas%20Swamp%20%28pg%208%29.jpg?itok=fKT6V28a)
-
-[Innovation to Enhance Community Resilience](/restore-impact/innovation-to-enhance-community-resilience)
-
-[Shrimp boats](/sites/default/files/styles/media_card/public/2025-03/PRDFT-shrimp_boats.jpg-20150624.jpg?itok=WD6oEhn5)
-
-[Creating Jobs and Strengthening Coastal Economies](/restore-impact/creating-jobs-and-strengthening-coastal-economies)
-
-[Marsh living shoreline in Hancock County](/sites/default/files/styles/media_card/public/2025-02/Hancock%20County%20Marsh%20Living%20Shoreline%20%28pg%209%29.JPG?itok=pizNLo9a)
-
-[Leveraging Funds for Bigger Results](/restore-impact/leveraging-fund-for-bigger-results)
+<ul class="usa-card-group padding-y-2">
+{% for cardlink in cardlinks %}
+  {% assign url = cardlink.url %}
+  {% assign body_text = cardlink.caption %}
+  {% capture body %}
+    <a href="{{ url }}">{{ body_text }}</a>
+  {% endcapture %}
+  {% include "card.html", title: null, photo: cardlink.photo, url: cardlink.url, body: body %}
+{% endfor %}
+</ul> 
 
 For more information about the progress the Council has made towards achieving the goals defined in the Comprehensive Plan, please view our Progress Dashboard here.
 
-[RESTORE Story Map](/sites/default/files/styles/media_card/public/2025-03/StoryMap%20Image%20high%20res.jpg?itok=nrBxW8Ub)
-
-[View RESTORE Projects](https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676)
+<ul class="usa-card-group padding-top-3">
+{% for secondarycard in secondarycards %}
+  {% assign url = secondarycard.url %}
+  {% assign body_text = secondarycard.caption %}
+  {% capture body %}
+    <a href="{{ url }}">{{ body_text }}</a>
+  {% endcapture %}
+  {% include "card.html", title: null, photo: secondarycard.photo, url: secondarycard.url, body: body %}
+{% endfor %}
+</ul> 
