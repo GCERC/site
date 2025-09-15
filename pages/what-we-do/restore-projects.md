@@ -7,22 +7,22 @@ eleventyNavigation:
   title: RESTORE Projects
 cardlinks:
   - url: /restore-impact/protecting-and-restoring-valuable-coastal-habitat/
-    photo: /img//20220517_153502_1_4.jpg
+    photo: /img/20220517_153502_1_4_big.jpg
     caption: Protecting and Restoring Valuable Coastal Habitat
   - url: /restore-impact/protecting-communities-from-coastal-flooding/
-    photo: /img//Paradis-Gate_Ribbon-Cutting-900x600%28pg7%29_0.jpg
+    photo: /img/Paradis-Gate_Ribbon-Cutting-900x600_pg7_0_big.jpg
     caption: Protecting Communities from Coastal Flooding
   - url: /restore-impact/improving-water-quality-and-working-with-private-landowners/
-    photo: /img/USDA_Gulf_Cons_Reserve_before_pg_8.jpg
+    photo: /img/USDA_Gulf_Cons_Reserve_before_pg8_big.jpg
     caption: Improving Water Quality and Working with Private Landowners
   - url: /restore-impact/innovation-to-enhance-community-resilience/
-    photo: /img/Maurepas%20Swamp%20%28pg%208%29.jpg
+    photo: /img/Maurepas_Swamp_pg8_big.jpg
     caption: Innovation to Enhance Community Resilience
   - url: /restore-impact/creating-jobs-and-strengthening-coastal-economies/
-    photo: /img/PRDFT-shrimp_boats.jpg-20150624.jpg 
+    photo: /img/PRDFT-shrimp_boats.jpg-20150624_big.jpg
     caption: Creating Jobs and Strengthening Coastal Economies
   - url: /restore-impact/leveraging-fund-for-bigger-results/
-    photo: /img/Hancock%20County%20Marsh%20Living%20Shoreline%20%28pg%209%29.JPG
+    photo: /img/Hancock_County_Marsh_Living_Shoreline_pg9_big.JPG
     caption: Leveraging Funds for Bigger Results
 ---
 
