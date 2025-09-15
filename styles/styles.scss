@@ -97,6 +97,26 @@ img {
   @include u-text("white");
 }
 
+.no-hover,
+.no-hover:hover,
+.no-hover:focus,
+.no-hover:active {
+  background-color: inherit !important;
+  color: #ffffff !important;
+  box-shadow: none !important;
+  border-color: inherit !important;
+}
+
+.usa-button_hero,
+.usa-button_hero:hover,
+.usa-button_hero:focus,
+.usa-button_hero:active {
+  background-color: "primary";
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  box-shadow: none;
+}
+
 .usa-card__img img {
   display: block;
   height: 100%;
