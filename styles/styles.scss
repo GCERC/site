@@ -105,7 +105,12 @@ img {
 }
 
 .circular-image {
+  width: 100%; /* Or height: 100%; depending on how your image is sized */
+  height: auto; /* Or width: auto; depending on how your image is sized */
+  aspect-ratio: 1 / 1;
+  object-fit: cover; /*  Important to maintain aspect ratio and fill the circle */
   border-radius: 50%;
+  display: block;
   overflow: hidden; /* Important to clip the image */
   /* Optional: Add a border if you want */
   /* border: 2px solid #your-border-color; */

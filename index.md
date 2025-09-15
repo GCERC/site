@@ -17,5 +17,5 @@ manage in the long term.
 {% endcomment %}
 
 {% include "hero.html" %}
-{% include "highlights.html" %}
+{% include "test.html" %}
 
