@@ -1,9 +1,8 @@
 ---
 title: What is the Council-Selected Restoration Component?
-permalink: /council-selected-restoration-component/
 eleventyNavigation:
   key: council-selected-restoration-component
-  parent: what-we-do
+  parent: our-work
   title: What is the Council-Selected Restoration Component?
 ---
 
@@ -12,6 +11,7 @@ Congress directed the Council to administer two different sources of RESTORE Act
 <img src="/img/Buckets Graphic.png" alt="Clean Water Act Penatlies Graph" loading="lazy">
 </br>
 The Council has approved the following FPLs:
-- <a href="/inital-funded-priorities-list/">Initial FPL</a>
-- <a href="/council-selected-restoration-component/cps-fpl/">Commitment and Planning Support (CPS) FPL</a>
-- <a href="/council-selected-restoration-component/fpl-3/">FPL 3</a>
+
+- <a href="{{ './inital-funded-priorities-list.md' | inputPathToUrl }}">Initial FPL</a>
+- <a href="{{ './cps-fpl.md' | inputPathToUrl }}">Commitment and Planning Support (CPS) FPL</a>
+- <a href="{{ './fpl-3.md' | inputPathToUrl }}">FPL 3</a>

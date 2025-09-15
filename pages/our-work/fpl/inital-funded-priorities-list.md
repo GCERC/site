@@ -1,6 +1,9 @@
 ---
 title: Initial Funded Priorities List
-permalink: inital-funded-priorities-list/
+eleventyNavigation:
+  key: inital-funded-priorities-list
+  parent: council-selected-restoration-component
+  title: Initial Funded Priorities List
 ---
 
 The Initial Funded Priorities List was approved on December 9, 2015. Below are links to the Council’s first FPL, known as the Initial FPL, along with links to the amendments to this FPL.

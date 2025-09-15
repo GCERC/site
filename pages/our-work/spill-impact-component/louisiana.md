@@ -1,6 +1,9 @@
 ---
 title: Louisiana State Expenditure Plan Efforts
-permalink: spill-impact-component/louisiana/
+eleventyNavigation:
+  key: louisiana
+  parent: spill-impact-component
+  title: Louisiana State Expenditure Plan
 ---
 
 - [Louisiana SEP](/uploads/SEP_LA_20170118_0.pdf) - March 23, 2017

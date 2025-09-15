@@ -1,6 +1,9 @@
 ---
 title: Florida State Expenditure Plan
-permalink: spill-impact-component/florida/
+eleventyNavigation:
+  key: florida
+  parent: spill-impact-component
+  title: Florida State Expenditure Plan
 ---
 
 - [Florida Planning SEP](/uploads/Florida%20PSEP%20Final_1.pdf) - May 21, 2015

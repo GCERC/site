@@ -1,9 +1,8 @@
 ---
 title: Restoration Planning
-permalink: /comprehensive-plan/
 eleventyNavigation:
   key: comprehensive-plan
-  parent: what-we-do
+  parent: our-work
   title: Restoration Planning
 cardlinks:
   - pdf: /uploads/2022_Comp-Plan_Update_Final.pdf

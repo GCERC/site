@@ -5,6 +5,7 @@ title: RESTORE Council Announcements
 permalink: "/announcements{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
 eleventyNavigation:
   key: announcements
+  parent: home
   title: Announcements
   order: 4
 pagination:

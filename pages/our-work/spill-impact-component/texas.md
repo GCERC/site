@@ -1,6 +1,9 @@
 ---
 title: Texas State Expenditure Plan
-permalink: spill-impact-component/texas/
+eleventyNavigation:
+  key: texas
+  parent: spill-impact-component
+  title: Texas State Expenditure Plan
 ---
 
 - [Texas Planning SEP](/uploads/PSEP-TX-approval%20letter%20from%20the%20Chair-transmittal%20letter-and%20PSEP.pdf) - July 29, 2016

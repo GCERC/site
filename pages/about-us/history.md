@@ -1,9 +1,8 @@
 ---
 title: History
-permalink: /resources/history/
 eleventyNavigation:
   key: history
-  parent: resources
+  parent: about-us
   title: History
 ---
 
