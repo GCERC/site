@@ -1,95 +1,114 @@
 {% comment %} Use this section to highlight key elements of your site. Some
 sites will only have two while others may have six to eight. {% endcomment %}
 
-<section class="usa-graphic-list usa-section bg-base-lightest text-primary">
-  <div class="grid-container">
-    <div class="usa-graphic-list__row grid-row grid-gap">
-      <div class="usa-media-block margin-right-4 padding-y-4 tablet:grid-col shadow-1">
-        <a
-          href="/people/council-members/"
-          class="display-inline-flex flex-align-center maxw-card maxh-card margin-right-2"
-        >
-          <img
-            src="/img/who-we-are.jpeg"
-            class="usa-media-block__img circular-image"
-            alt=""
-          />
-        </a>
-        <div class="usa-media-block__body">
-          <h3 class="usa-graphic-list__heading">Who We Are</h3>
-          <p>
-            We are dedicated to the revitalization and protection of the natural
-            and economic resources of the Gulf Coast.
-          </p>
-        <a class="usa-button bg-primary margin-top-auto padding-top-auto text-white" href="/people/council-members/">Meet our Council Members</a>
-        </div>
-      </div>
-      <div class="usa-media-block tablet:grid-col padding-y-4 shadow-1">
-        <a
-          href="/comprehensive-plan/"
-          class="display-inline-flex flex-align-center maxw-card maxh-card margin-right-2"
-        >
-          <img
-            src="/img/what-we-do.jpeg"
-            class="usa-media-block__img circular-image"
-            alt=""
-          />
-        </a>
-        <div class="usa-media-block__body">
-          <h3 class="usa-graphic-list__heading">What We Do</h3>
-          <p>
-            We collaborate with State and Federal partners to implement
-            science-based projects that restore critical habitats, improve water
-            quality, and enhance coastal resilience across the Gulf Coast.
-          </p>
-          <a class="usa-button bg-primary text-white" href="/comprehensive-plan/">Read about Restoration Planning</a>
-        </div>
-      </div>
-    </div>
-    <div class="usa-graphic-list__row grid-row grid-gap">
-      <div class="usa-media-block margin-right-4 tablet:grid-col padding-y-4 shadow-1">
-        <a
-          href="https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676"
-          class="display-inline-flex flex-align-center maxw-card maxh-card margin-right-2"
-        >
-          <img
-            src="/img/story-map.jpeg"
-            class="usa-media-block__img circular-image"
-            alt=""
-          />
-        </a>
-        <div class="usa-media-block__body">
-          <h3 class="usa-graphic-list__heading">View Projects</h3>
-          <p>
-            Comprehensive, science-based reports and strategic plans that
-            outline restoration goals, project funding allocations, and progress
-            assessments for ecosystem recovery along the Gulf Coast.
-          </p>
-          <a class="usa-button bg-primary text-white" href="https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676">Our Project Dashboard</a>
-        </div>
-      </div>
-      <div class="usa-media-block tablet:grid-col padding-y-4 shadow-1">
-        <a
-          href="/reports"
-          class="display-inline-flex flex-align-center maxw-card maxh-card margin-right-2"
-        >
-          <img
-            src="/img/resources.jpeg"
-            class="usa-media-block__img circular-image"
-            alt=""
-          />
-        </a>
-        <div class="usa-media-block__body text-no-underline">
-          <a href="/reports">
-            <h3 class="usa-graphic-list__heading">Resources</h3>
-          </a>
-          <p>
-            Learn about RESTORE-funded projects in an interactive map and
-            dashboard.
-          </p>
-          <a class="usa-button bg-primary text-white" href="/resources/reports-plans/">View Reports</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+<div class="grid-container padding-top-4">
+    <ul class="usa-card-group">
+        <li class="usa-card usa-card--flag flex-1">
+            <div class="usa-card__container">
+                <div class="usa-card__header text-primary">
+                    <h4 class="usa-card__heading">Who We Are</h4>
+                </div>
+                <div class="usa-card__media">
+                    <div class="usa-card__img">
+                    <a
+                    href="/people/council-members/"
+                    >
+                    <img
+                        src="/img/who-we-are.jpeg"
+                        class="usa-media-block__img"
+                        alt="{{ alt }}"
+                        />
+                    </a>
+                    </div>
+                </div>
+                <div class="usa-card__body">
+                    <p>We are dedicated to the revitalization and protection of the natural
+                        and economic resources of the Gulf Coast.</p>
+                </div>
+                <div class="usa-card__footer">
+                <a href="/people/council-members/" class="usa-button">Council Members</a>
+                </div>
+            </div>
+        </li>
+        <li class="usa-card usa-card--flag flex-1">
+            <div class="usa-card__container">
+                <div class="usa-card__header text-primary">
+                    <h4 class="usa-card__heading">What We Do</h4>
+                </div>
+                <div class="usa-card__media">
+                    <div class="usa-card__img">
+                    <a
+                    href="/comprehensive-plan/"
+                    >
+                    <img
+                        src="/img/what-we-do.jpeg"
+                        class="usa-media-block__img"
+                        alt="{{ alt }}"
+                        />
+                    </div>
+                </div>
+                <div class="usa-card__body">
+                    <p>We collaborate with State and Federal partners to implement
+                        science-based projects that restore critical habitats, improve water
+                        quality, and enhance coastal resilience across the Gulf Coast.</p>
+                </div>
+                <div class="usa-card__footer">
+                <a href="/comprehensive-plan/" class="usa-button">Restoration Planning</a>
+                </div>
+            </div>
+        </li>
+        <li class="usa-card usa-card--flag flex-1">
+            <div class="usa-card__container">
+                <div class="usa-card__header text-primary">
+                    <h4 class="usa-card__heading">View Projects</h4>
+                </div>
+                <div class="usa-card__media">
+                    <div class="usa-card__img">
+                    <a
+                    href="https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676"
+                    >
+                    <img
+                        src="/img/story-map.jpeg"
+                        class="usa-media-block__img"
+                        alt="{{ alt }}"
+                        />
+                    </div>
+                </div>
+                <div class="usa-card__body">
+                    <p>Comprehensive, science-based reports and strategic plans that
+                        outline restoration goals, project funding allocations, and progress
+                        assessments for ecosystem recovery along the Gulf Coast.</p>
+                </div>
+                <div class="usa-card__footer">
+                <a href="https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676" class="usa-button">Our Project Dashboard</a>
+                </div>
+            </div>
+        </li>
+        <li class="usa-card usa-card--flag flex-1">
+            <div class="usa-card__container">
+                <div class="usa-card__header text-primary">
+                    <h4 class="usa-card__heading">Resources</h4>
+                </div>
+                <div class="usa-card__media">
+                    <div class="usa-card__img">
+                    <a
+                    href="/resources/reports-plans/"
+                    >
+                    <img
+                        src="/img/resources.jpeg"
+                        class="usa-media-block__img"
+                        alt="{{ alt }}"
+                        />
+                    </div>
+                </div>
+                <div class="usa-card__body">
+                    <p>Learn about RESTORE-funded projects in an interactive map and
+                        dashboard.</p>
+                </div>
+                <div class="usa-card__footer text-center">
+                <a href="/resources/reports-plans/" class="usa-button">View Reports</a>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
