@@ -2,6 +2,9 @@
 permalink: /
 layout: layouts/wide
 title: Home
+eleventyNavigation:
+  key: home
+  title: Home
 ---
 
 {% comment %}

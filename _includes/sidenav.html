@@ -1,4 +1,13 @@
 {% assign navPages = collections.all | eleventyNavigation %}
+{% assign currentUrl = page.url %}
+{% assign currentSection = false %}
+
+{%- for entry in navPages[0].children -%}
+  {%- if entry.url and currentUrl contains entry.url -%}
+    {%- assign currentSection = entry -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
 
 <aside
   id="section-nav"
@@ -6,20 +15,39 @@
 >
   <nav>
     <div class="text-uppercase text-bold margin-left-2 margin-y-2 text-ls-2">In this section:</div>
-    <ul class="usa-sidenav">
-      {% for entry in navPages %}
-        {% if entry.children.length %}
-          {% for child in entry.children %}
-            {% if child.parent == eleventyNavigation.parent %}
-              <li class="usa-sidenav__item">
-                <a {% if child.url == page.url %}class="usa-current"{% endif %} href="{{ child.url }}">
-                  {{- child.title -}}
-                </a>
-              </li>
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-      {% endfor %}
-    </ul>
+    {%- if currentSection -%}
+      <ul class="usa-sidenav">
+        {%- for child in currentSection.children -%}
+          <li class="usa-sidenav__item">
+            <a
+              href="{{ child.url }}"
+              {%- if child.url == currentUrl -%}
+                class="usa-current"
+              {%- endif -%}
+            >
+              {{ child.title }}
+            </a>
+            {%- if child.children.size > 0 -%}
+              <ul class="usa-sidenav__sublist">
+                {%- for grandchild in child.children -%}
+                  <li class="usa-sidenav__item">
+                    <a
+                      href="{{ grandchild.url }}"
+                      {%- if grandchild.url == currentUrl -%}
+                        class="usa-current"
+                      {%- endif -%}
+                    >
+                      {{ grandchild.title }}
+                    </a>
+                  </li>
+                {%- endfor -%}
+              </ul>
+            {%- endif -%}
+          </li>
+        {%- endfor -%}
+      </ul>
+    {%- else -%}
+      <p>No navigation found for this section.</p>
+    {%- endif -%}
   </nav>
 </aside>
