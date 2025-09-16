@@ -4,6 +4,7 @@ eleventyNavigation:
   key: comprehensive-plan
   parent: our-work
   title: Restoration Planning
+  order: 1
 cardlinks:
   - pdf: /uploads/2022_Comp-Plan_Update_Final.pdf
     photo: /img/2022_Comp-Plan_Update_Final_Page_cover.jpg
@@ -29,7 +30,6 @@ On September 14, 2022, the RESTORE Council voted to approve the 2022 Comprehens
 
 Comprehensive Plan and Updates:
 
-
 <ul class="usa-card-group">
 {% for cardlink in cardlinks %}
   {% assign pdf = cardlink.pdf %}
@@ -39,8 +39,7 @@ Comprehensive Plan and Updates:
   {% endcapture %}
   {% include "card.html", title: null, photo: cardlink.photo, pdf: cardlink.pdf, body: body %}
 {% endfor %}
-</ul>  
-
+</ul>
 
 ## Planning Framework
 
@@ -55,5 +54,4 @@ Planning Framework and Update:
   {% capture body %}<p><a href="{{ pdf }}" class="text-primary" target="_blank">{{ body_text }}</a></p>{% endcapture %}
   {% include "card.html", title: null, photo: secondarycard.photo, pdf: secondarycard.pdf, body: body %}
 {% endfor %}
-</ul>  
-
+</ul>

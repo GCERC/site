@@ -4,6 +4,7 @@ eleventyNavigation:
   key: what-we-do
   parent: our-work
   title: What We Do
+  order: 0
 cardlinks:
   - url: /restore-impact/protecting-and-restoring-valuable-coastal-habitat/
     photo: /img/20220517_153502_1_4_big.jpg

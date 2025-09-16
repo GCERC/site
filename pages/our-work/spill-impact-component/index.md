@@ -4,6 +4,7 @@ eleventyNavigation:
   key: spill-impact-component
   parent: our-work
   title: What is the Spill Impact Component?
+  order: 3
 ---
 
 Congress directed the Council to administer two different sources of RESTORE Act funding. The second is called the Spill Impact Component. These funds are used for ecosystem restoration and economic recovery in the Gulf states. It is referred to as the Spill Impact Component because funding is allocated to the Gulf states based on the effect of the Deepwater Horizon Oil spill in each state. The states are responsible for choosing which projects and programs to fund, subject to approval by the Council chair.
