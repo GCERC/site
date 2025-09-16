@@ -2,6 +2,9 @@
 permalink: /
 layout: layouts/wide
 title: Home
+eleventyNavigation:
+  key: home
+  title: Home
 ---
 
 {% comment %}
@@ -18,4 +21,3 @@ manage in the long term.
 
 {% include "hero.html" %}
 {% include "highlights.html" %}
-

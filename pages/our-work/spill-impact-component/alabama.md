@@ -1,6 +1,9 @@
 ---
 title: Alabama State Expenditure Plan
-permalink: /spill-impact-component/alabama/
+eleventyNavigation:
+  key: alabama
+  parent: spill-impact-component
+  title: Alabama State Expenditure Plan
 ---
 
 - [Alabama Planning SEP](/uploads/PSEP%20-%20AL%20-%20Draft%20PSEP%20508%20Compliant%206-26-2018_0.pdf) - August 27, 2018

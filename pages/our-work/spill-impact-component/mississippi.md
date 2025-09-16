@@ -1,6 +1,9 @@
 ---
 title: Mississippi State Expenditure Plan
-permalink: spill-impact-component/mississippi/
+eleventyNavigation:
+  key: mississippi
+  parent: spill-impact-component
+  title: Mississippi State Expenditure Plan
 ---
 
 - [Mississippi Planning SEP](/uploads/MS_PSEP_Plan%209.21.2015.pdf) - November 2, 2015

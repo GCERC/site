@@ -64,32 +64,6 @@ ga:
   # ua: your-ua
 
 # Site Navigation
-primary_navigation:
-  - name: Who We Are
-    children:
-      - name: What is the RESTORE Act?
-        url: "/what-is-the-restore-act/"
-      - name: Council Members
-        url: "/people/council-members/"
-  - name: What We Do
-    children:
-      - name: Restoration Planning
-        url: "/comprehensive-plan/"
-      - name: How the Council Funds Projects
-        url: "/how-council-funds-projects/"
-      - name: RESTORE Projects
-        url: "/restore-projects/"
-  - name: Resources
-    children:
-      - name: Reports and Plans
-        url: "/resources/reports-plans/"
-      - name: History
-        url: "/resources/history/"
-      - name: Reflections on Restoration
-        url: "/reflections-on-restoration/"
-  - name: Announcements
-    url: /announcements/
-
 secondary_navigation:
   - name: Contact us
     url: "/"

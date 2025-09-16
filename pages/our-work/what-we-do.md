@@ -1,10 +1,10 @@
 ---
-title: RESTORE Projects
-permalink: /restore-projects/
+title: What We Do
 eleventyNavigation:
-  key: restore-projects
-  parent: what-we-do
-  title: RESTORE Projects
+  key: what-we-do
+  parent: our-work
+  title: What We Do
+  order: 0
 cardlinks:
   - url: /restore-impact/protecting-and-restoring-valuable-coastal-habitat/
     photo: /img/20220517_153502_1_4_big.jpg
@@ -25,6 +25,13 @@ cardlinks:
     photo: /img/Hancock_County_Marsh_Living_Shoreline_pg9_big.JPG
     caption: Leveraging Funds for Bigger Results
 ---
+
+The Council is guided by a Comprehensive Plan, which establishes our vision, goals, and objectives for Gulf ecosystem restoration. Projects and programs funded by the Council must align with the Comprehensive Plan goals and objectives. The Comprehensive Plan also has Council commitments to science, collaboration, public engagement and more. The Council’s vision is:
+
+“A healthy and productive Gulf ecosystem achieved through collaboration on strategic restoration projects and programs.”
+
+- [What is the Council-Selected Restoration Component?]({{ './fpl/index.md' | inputPathToUrl }})
+- [What is the Spill Impact Component?]({{ './spill-impact-component/index.md' | inputPathToUrl }})
 
 The Council supports ecosystem restoration that can enhance local communities by giving people desirable places to live, work, and play, while creating opportunities for new and existing businesses of all sizes, especially those dependent on natural resources.
 
@@ -63,7 +70,7 @@ By working closely with our restoration partners, the Gulf Coast Ecosystem Resto
   {% endcapture %}
   {% include "card.html", title: null, photo: cardlink.photo, url: cardlink.url, body: body %}
 {% endfor %}
-</ul> 
+</ul>
 
 For more information about the progress the Council has made towards achieving the goals defined in the Comprehensive Plan, please view our Progress Dashboard [here](https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676).
 
@@ -72,4 +79,3 @@ For more information about the progress the Council has made towards achieving t
     <img src="/img/StoryMap%20Image%20high%20res.jpg" alt="Project Story Map">
   </a>
 </div>
-

@@ -1,10 +1,10 @@
 ---
 title: History
-permalink: /resources/history/
 eleventyNavigation:
   key: history
-  parent: resources
+  parent: about-us
   title: History
+  order: 3
 ---
 
 On April 20, 2010, the *Deepwater Horizon* (DWH) mobile drilling unit suffered a catastrophic blowout in the Gulf of America and over the next 87 days approximately 4.9 million barrels of oil (206 million gallons) were released into the Gulf (U.S. District Court 2015), making the DWH disaster the largest oil spill in the history of the US. Furthermore, 11 workers were killed and 17 critically injured by the explosion and resulting fire. On June 15, 2010, President Obama issued a request to the people of the Gulf Coast and the rest of the nation to commit to the recovery of the region not only from the spill, but to address broader ecosystem challenges brought on by storms, development pressures and other stressors. He called on Ray Mabus, then Secretary of the Navy, to develop a long-term restoration plan for the Gulf Coast, entitled: [America’s Gulf Coast: A Long Term Recovery Plan after the Deepwater Horizon Oil Spill](/uploads/History_%20MabusReport.pdf). The recommendations from that initial effort laid the groundwork for passing legislation to fund restoration efforts, as well as the development of strategies and plans to guide the region toward a comprehensive approach to restoration that takes into account the environmental, economic and cultural value of the Gulf Coast region.
