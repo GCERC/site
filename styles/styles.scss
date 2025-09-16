@@ -46,6 +46,12 @@
   $theme-text-measure: 6,
   $text-align-settings: (
     responsive: true,
+  ),
+  $background-color-settings: (
+    responsive: true,
+  ),
+  $color-settings: (
+    responsive: true,
   )
 );
 
@@ -61,8 +67,16 @@ img {
   }
 }
 
-.usa-nav__secondary-links a {
-  color: #ffffff;
+.usa-nav__secondary-links {
+  @include at-media("desktop") {
+    a {
+      @include u-text("white");
+    }
+
+    .usa-nav__secondary-item + .usa-nav__secondary-item {
+      border-left: 0 !important;
+    }
+  }
 }
 
 .usa-nav__primary button,
