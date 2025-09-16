@@ -30,18 +30,18 @@ On September 14, 2022, the RESTORE Council voted to approve the 2022 Comprehens
 
 Comprehensive Plan and Updates:
 
-<p>
+
 <ul class="usa-card-group">
 {% for cardlink in cardlinks %}
   {% assign pdf = cardlink.pdf %}
   {% assign body_text = cardlink.caption %}
   {% capture body %}
-    <p><a href="{{ pdf }}" target="_blank">{{ body_text }}</a></p>
+    <p><a href="{{ pdf }}" class="text-primary" target="_blank">{{ body_text }}</a></p>
   {% endcapture %}
   {% include "card.html", title: null, photo: cardlink.photo, pdf: cardlink.pdf, body: body %}
 {% endfor %}
 </ul>  
-</p>
+
 
 ## Planning Framework
 
@@ -49,13 +49,12 @@ In 2023, the Gulf Coast Ecosystem Restoration Council (RESTORE Council or Counci
 
 Planning Framework and Update:
 
-<p>
 <ul class="usa-card-group">
 {% for secondarycard in secondarycards %}
   {% assign pdf = secondarycard.pdf %}
   {% assign body_text = secondarycard.caption %}
-  {% capture body %}<p><a href="{{ pdf }}" target="_blank">{{ body_text }}</a></p>{% endcapture %}
+  {% capture body %}<p><a href="{{ pdf }}" class="text-primary" target="_blank">{{ body_text }}</a></p>{% endcapture %}
   {% include "card.html", title: null, photo: secondarycard.photo, pdf: secondarycard.pdf, body: body %}
 {% endfor %}
 </ul>  
-</p>
+
