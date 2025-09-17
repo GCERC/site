@@ -95,6 +95,4 @@ grants:
 - [Alabama SEP 2023 Amendment](/uploads/AL_SEP_Amendment_letter.pdf) - December 4, 2023
 
 For more information on each project award, use the Federal Award ID Number below to search on [USAspending.gov](https://www.usaspending.gov/search/?hash=d0cede4de5827d24bbd9d27076bf18f2).
-
-
-{% grantsTable grants, customHeader %}
+{% include "table.html", grants: grants, customHeader: customHeader %}

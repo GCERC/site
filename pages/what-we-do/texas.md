@@ -22,6 +22,4 @@ grants:
 - [Texas (SEP) Amendment #2](/uploads/TX_SEP_Amendment_2_508_20231109.pdf) - January 17, 2024
 
 For more information on each project award, use the Federal Award ID Number below to search on [USAspending.gov](https://www.usaspending.gov/search/?hash=d0cede4de5827d24bbd9d27076bf18f2).
-
-
-{% grantsTable grants, customHeader %}
+{% include "table.html", grants: grants, customHeader: customHeader %}

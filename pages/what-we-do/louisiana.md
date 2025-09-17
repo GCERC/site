@@ -39,6 +39,4 @@ grants:
 - [Louisiana SEP Amendment #2](/uploads/LA_SEPAmendment2Jan22Final.508_reduced_1.pdf) - March 17, 2022
 
 For more information on each project award, use the Federal Award ID Number below to search on [USAspending.gov](https://www.usaspending.gov/search/?hash=d0cede4de5827d24bbd9d27076bf18f2).
-
-
-{% grantsTable grants, customHeader %}
+{% include "table.html", grants: grants, customHeader: customHeader %}
