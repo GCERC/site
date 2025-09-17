@@ -1,12 +1,12 @@
 ---
 title: Annual Financial Reports
+lead: >
+  This Agency Financial Report provides the financial and performance information for the Gulf Coast Ecosystem Restoration Council (RESTORE Council or Council), enabling the President, Congress, and the American people to assess the RESTORE Council’s performance as provided by the requirements of the:
 eleventyNavigation:
   key: annual-financial-reports
   parent: reports
   title: Annual Financial Reports
 ---
-
-This Agency Financial Report provides the financial and performance information for the Gulf Coast Ecosystem Restoration Council (RESTORE Council or Council), enabling the President, Congress, and the American people to assess the RESTORE Council’s performance as provided by the requirements of the:   
 
 - Improper Payments Information Act (IPIA) of 2002 as amended by the Improper Payments Elimination and Recovery Act (IPERA) of 2010 and Improper Payments Elimination and Recovery Improvement Act of 2012 (IPERIA)
 - Accountability of Tax Dollars Act (ATDA) of 2002
