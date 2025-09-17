@@ -1,25 +1,30 @@
 <div class="table-wrapper">
-    <table class="usa-table usa-table-striped">
-      <caption>{{ customHeader }}</caption>
-      <thead>
+  <table class="usa-table usa-table-striped">
+    <caption>
+      {{ customHeader }}
+    </caption>
+    <thead>
+      <tr>
+        <th scope="col">Project Title</th>
+        <th scope="col">Federal Award ID Number</th>
+      </tr>
+    </thead>
+    <tbody>
+      {%- for grant in grants -%}
         <tr>
-            <th scope="col">Project Title</th>
-            <th scope="col">Federal Award ID Number</th>
+          <td>
+            {%- if grant.pdfLink -%}
+              <a href="{{ grant.pdfLink }}">
+                {{- grant.title -}}
+                <span class="sr-only">(PDF)</span></a
+              >
+            {%- else -%}
+              {{ grant.title }}
+            {%- endif -%}
+          </td>
+          <td>{{ grant.federalId }}</td>
         </tr>
-      </thead>
-      <tbody>
-        {% for grant in grants %}
-        <tr>
-            <td>
-                {%- if grant.pdfLink -%}
-                <a href="{{ grant.pdfLink }}">{{ grant.title }}<span class="sr-only">(PDF)</span></a>
-                {%- else -%}
-                {{ grant.title }}
-                {%- endif -%}
-            </td>
-            <td>{{ grant.federalId }}</td>
-        </tr>
-        {% endfor %}
-      </tbody> 
-    </table>
+      {%- endfor -%}
+    </tbody>
+  </table>
 </div>
