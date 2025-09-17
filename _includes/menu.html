@@ -7,12 +7,7 @@
       <button class="usa-menu-btn">Menu</button>
     </div>
   </div>
-  <nav
-    id="staff-menu-navigation"
-    aria-label="Staff Menu navigation"
-    role="navigation"
-    class="usa-nav bg-primary-light"
-  >
+  <nav role="navigation" class="usa-nav bg-base-lightest desktop:bg-primary-light">
     <div class="usa-nav__inner">
       <button class="usa-nav__close">
         <img
@@ -53,11 +48,11 @@
       </ul>
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
-          {% include "socialmedia.html" %} {% for nav_item in
-          secondary_navigation %}
-          <a href="{{ nav_item.url}}" class="text-white no-hover"
-            >{{ nav_item.name | escape }}</a
-          >
+          {% include 'socialmedia.html' %}
+          {% for nav_item in secondary_navigation %}
+            <li class="usa-nav__secondary-item text-center desktop:text-left no-hover">
+              <a href="{{ nav_item.url }}" class="desktop:text-white">{{ nav_item.name | escape }}</a>
+            </li>
           {% endfor %}
         </ul>
         {% include 'searchgov/form.html', searchgov: site.searchgov %}
