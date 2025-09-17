@@ -5,7 +5,7 @@
         <div class="grid-col-12 tablet:grid-col-auto">
           <h2 class="font-heading-xl margin-y-0">Stay in touch</h2>
           <p class="usa-intro">
-            Don’t miss out on the latest and greatest from the RESTORE Council.
+            Don't miss out on the latest and greatest from the RESTORE Council.
             Sign up now and get our latest updates straight in your inbox.
           </p>
         </div>
@@ -25,7 +25,7 @@
   </div>
   <div class="usa-footer__primary-section bg-primary text-white padding-y-8">
     <div class="usa-footer__primary-container grid-row">
-      <div class="desktop-lg:grid-col-8">
+      <div class="grid-col-auto">
         <nav
           class="usa-identifier__section usa-identifier__section--required-links"
           aria-label="Important links"
@@ -46,13 +46,15 @@
       <div class="desktop-lg:grid-col-4"></div>
     </div>
   </div>
-  <div class="bg-primary padding-y-3 border-top border-base">
+  <div class="usa-footer__secondary-section bg-primary border-top border-base">
     <div class="grid-container">
-      <div class="usa-footer__logo grid-row grid-gap-2">
-        <div class="grid-col-12 tablet:grid-col-auto">
+      <div
+        class="usa-footer__logo grid-row grid-gap-2 text-center desktop:text-left"
+      >
+        <div class="grid-col-12 desktop:grid-col-auto">
           <img
             src="/img/logo.png"
-            class="width-4 desktop:width-10 margin-right-2"
+            class="margin-right-2 maxw-6"
             alt="{{ site.title }}"
           />
         </div>
@@ -60,7 +62,7 @@
           <p class="usa-footer__logo-heading text-white">{{ site.title }}</p>
         </div>
         {% include "socialmedia.html" %}
-        <div class="grid-col-12 tablet:grid-col-6 desktop:grid-col-auto">
+        <div class="grid-col-12 desktop:grid-col-auto">
           <a href="mailto:{{ site.email }}" class="text-white"
             >{{ site.email }}</a
           >

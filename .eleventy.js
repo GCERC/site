@@ -17,6 +17,7 @@ module.exports = async function (config) {
   // Copy the `admin` folders to the output
   config.addPassthroughCopy("admin");
   config.addPassthroughCopy("uploads");
+  config.addPassthroughCopy("favicon.ico");
 
   // Add plugins
   config.addPlugin(pluginRss);
@@ -59,7 +60,7 @@ module.exports = async function (config) {
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
     html: true,
-    breaks: true,
+    breaks: false,
     linkify: true,
   }).use(markdownItNamedHeadings);
   config.setLibrary("md", markdownLibrary);

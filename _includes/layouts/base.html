@@ -7,9 +7,8 @@ width of page {% endcomment %}
   {% include "meta.html" %}
 
   <body>
-    {% include "header.html" %} {% include "menu.html" primary_navigation:
-    site.primary_navigation secondary_navigation: site.secondary_navigation %}
-    {{ content }} {% include "footer.html" %}
+    {% include "header.html" %} {% include "menu.html" secondary_navigation:
+    site.secondary_navigation %} {{ content }} {% include "footer.html" %}
 
     <div style="display: none">
       {% usa_icons_sprite %} {% uswds_icons_sprite %}
