@@ -19,3 +19,49 @@
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+
+/* RESTORE Goals Table */
+.restore-goals-table {
+  .usa-table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: system-ui, -apple-system, sans-serif;
+
+
+    caption {
+      background-color: #344271;
+      color: white;
+      font-weight: bold;
+      font-size: 1.25rem;
+      padding: 1rem;
+      text-align: center;
+      margin: 0;
+    }
+
+    th,
+    td {
+      border: 1px solid ;
+      padding: 0.75rem;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    thead th {
+      background-color: #f9f6f3;
+      font-weight: bold;
+    }
+
+    &.usa-table--striped {
+      tbody tr:nth-child(even) {
+        background-color: #f9f6f3;
+      }
+    }
+
+    tbody {
+       th {
+      font-weight: bold;
+      background-color: inherit;
+    }
+   }
+ }
+}
