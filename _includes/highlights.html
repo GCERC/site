@@ -6,114 +6,34 @@ sites will only have two while others may have six to eight. {% endcomment %}
     <div class="tablet:grid-col-12">
       <h2 class="font-heading-xl padding-y-2 text-primary">Featured topics</h2>
     </div>
-  </div>
-  <ul class="usa-card-group padding-bottom-6 tablet-lg:grid-col-12">
-        <li class="usa-card usa-card--flag flex-1">
-            <div class="usa-card__container">
-                <div class="usa-card__header text-primary">
-                    <h4 class="usa-card__heading">Who We Are</h4>
-                </div>
-                <div class="usa-card__media">
-                    <div class="usa-card__img">
-                    <a
-                    href="/pages/about-us/council-members/"
-                    >
-                    <img
-                        src="/img/who-we-are.jpg"
-                        class="usa-media-block__img"
-                        alt="{{ alt }}"
-                        />
-                    </a>
-                    </div>
-                </div>
-                <div class="usa-card__body">
-                    <p>We are dedicated to the revitalization and protection of the natural
-                        and economic resources of the Gulf Coast.</p>
-                </div>
-                <div class="usa-card__footer">
-                  <a href="/pages/about-us/council-members/" class="usa-button">Meet the Council Members</a>
-                </div>
-            </div>
-        </li>
-        <li class="usa-card usa-card--flag flex-1">
-            <div class="usa-card__container">
-                <div class="usa-card__header text-primary">
-                    <h4 class="usa-card__heading">What We Do</h4>
-                </div>
-                <div class="usa-card__media">
-                    <div class="usa-card__img">
-                    <a
-                    href="/pages/our-work/comprehensive-plan/"
-                    >
-                    <img
-                        src="/img/what-we-do.jpg"
-                        class="usa-media-block__img"
-                        alt="{{ alt }}"
-                        />
-                    </div>
-                </div>
-                <div class="usa-card__body">
-                    <p>We collaborate with State and Federal partners to implement
-                        science-based projects that restore critical habitats, improve water
-                        quality, and enhance coastal resilience across the Gulf Coast.</p>
-                </div>
-                <div class="usa-card__footer">
-                  <a href="/pages/our-work/comprehensive-plan/" class="usa-button">Learn how we plan</a>
-                </div>
-            </div>
-        </li>
-        <li class="usa-card usa-card--flag flex-1">
-            <div class="usa-card__container">
-                <div class="usa-card__header text-primary">
-                    <h4 class="usa-card__heading">View Projects</h4>
-                </div>
-                <div class="usa-card__media">
-                    <div class="usa-card__img">
-                    <a
-                    href="https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676"
-                    >
-                    <img
-                        src="/img/story-map.jpg"
-                        class="usa-media-block__img"
-                        alt="{{ alt }}"
-                        />
-                    </div>
-                </div>
-                <div class="usa-card__body">
-                    <p>Comprehensive, science-based reports and strategic plans that
-                        outline restoration goals, project funding allocations, and progress
-                        assessments for ecosystem recovery along the Gulf Coast.</p>
-                </div>
-                <div class="usa-card__footer">
-                  <a href="https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676" class="usa-button">View project dashboard</a>
-                </div>
-            </div>
-        </li>
-        <li class="usa-card usa-card--flag flex-1">
-            <div class="usa-card__container">
-                <div class="usa-card__header text-primary">
-                    <h4 class="usa-card__heading">Resources</h4>
-                </div>
-                <div class="usa-card__media">
-                    <div class="usa-card__img">
-                    <a
-                    href="/pages/reports/index/"
-                    >
-                    <img
-                        src="/img/resources.jpg"
-                        class="usa-media-block__img"
-                        alt="{{ alt }}"
-                        />
-                    </div>
-                </div>
-                <div class="usa-card__body">
-                    <p>Learn about RESTORE-funded projects in an interactive map and
-                        dashboard.</p>
-                </div>
-                <div class="usa-card__footer">
-                  <a href="/pages/reports/index/" class="usa-button">See our reports</a>
-                </div>
-            </div>
-        </li>
+    <ul class="usa-card-group padding-bottom-6 tablet-lg:grid-col-12">
+          {% for t in topics %}
+          <li class="usa-card usa-card--flag flex-1">
+              <div class="usa-card__container">
+                  <div class="usa-card__header text-primary">
+                      <h4 class="usa-card__heading">{{ t.title }}</h4>
+                  </div>
+                  <div class="usa-card__media">
+                      <div class="usa-card__img">
+                      <a
+                      href="{{ t.url }}"
+                      >
+                      <img
+                          src="{{ t.img }}"
+                          alt="{{ t.alt }}"
+                          />
+                      </a>
+                      </div>
+                  </div>
+                  <div class="usa-card__body">
+                      <p>{{ t.body }}</p>
+                  </div>
+                  <div class="usa-card__footer">
+                    <a href="{{ t.url }}" class="usa-button">{{ t.buttontext }}</a>
+                  </div>
+              </div>
+          </li>
+          {% endfor %}    
     </ul>
+  </div>    
 </div>
