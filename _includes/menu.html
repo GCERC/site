@@ -50,7 +50,7 @@
         <ul class="usa-nav__secondary-links">
           {% include 'socialmedia.html' %}
           {% for nav_item in secondary_navigation %}
-            <li class="usa-nav__secondary-item text-center desktop:text-left">
+            <li class="usa-nav__secondary-item text-center desktop:text-left no-hover">
               <a href="{{ nav_item.url }}" class="desktop:text-white">{{ nav_item.name | escape }}</a>
             </li>
           {% endfor %}

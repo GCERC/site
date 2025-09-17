@@ -37,6 +37,7 @@
   $theme-body-background-color: "base-lightest",
   $theme-lead-font-size: "md",
   $theme-hero-image: "../img/slider.jpg",
+  $theme-card-flag-min-width: "mobile-lg",
   $theme-link-color: "primary",
   $theme-link-visited-color: "primary",
   $theme-h1-font-size: "xl",
@@ -111,25 +112,31 @@ img {
   @include u-text("white");
 }
 
+.no-hover,
+.no-hover:hover,
+.no-hover:focus,
+.no-hover:active {
+  background-color: inherit !important;
+  color: #ffffff !important;
+  box-shadow: none !important;
+  border-color: inherit !important;
+}
+
+.usa-button_hero,
+.usa-button_hero:hover,
+.usa-button_hero:focus,
+.usa-button_hero:active {
+  background-color: "primary";
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  box-shadow: none;
+}
+
 .usa-card__img img {
   display: block;
   height: 100%;
   width: 100%;
   object-fit: cover;
-}
-
-.circular-image {
-  border-radius: 50%;
-  overflow: hidden; /* Important to clip the image */
-  /* Optional: Add a border if you want */
-  /* border: 2px solid #your-border-color; */
-}
-
-/* Optional:  If the image isn't perfectly square, you might need this */
-.circular-image-2 {
-  width: 100%; /* Or height: 100%; depending on how your image is sized */
-  height: auto; /* Or width: auto; depending on how your image is sized */
-  object-fit: cover; /*  Important to maintain aspect ratio and fill the circle */
 }
 
 figure {

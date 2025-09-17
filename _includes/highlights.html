@@ -1,99 +1,34 @@
-{% comment %} Use this section to highlight key elements of your site. Some
-sites will only have two while others may have six to eight. {% endcomment %}
+{% comment %}
+  Use this section to highlight key elements of your site. Some
+  sites will only have two while others may have six to eight.
+{% endcomment %}
 
-<section class="usa-graphic-list usa-section bg-base-lightest text-primary">
-  <div class="grid-container">
-    <div class="usa-graphic-list__row grid-row grid-gap">
-      <div class="usa-media-block tablet:grid-col">
-        <a
-          href="/people/council-members/"
-          class="display-inline-flex flex-align-center maxw-card maxh-card margin-right-2"
-        >
-          <img
-            src="/img/who-we-are.jpeg"
-            class="usa-media-block__img circular-image"
-            alt=""
-          />
-        </a>
-        <div class="usa-media-block__body text-no-underline">
-          <a href="/people/council-members/">
-            <h3 class="usa-graphic-list__heading">Who We Are</h3>
-          </a>
-          <p>
-            We are dedicated to the revitalization and protection of the natural
-            and economic resources of the Gulf Coast.
-          </p>
-        </div>
-      </div>
-      <div class="usa-media-block tablet:grid-col">
-        <a
-          href="/comprehensive-plan/"
-          class="display-inline-flex flex-align-center maxw-card maxh-card margin-right-2"
-        >
-          <img
-            src="/img/what-we-do.jpeg"
-            class="usa-media-block__img circular-image"
-            alt=""
-          />
-        </a>
-        <div class="usa-media-block__body text-no-underline">
-          <a href="/comprehensive-plan/">
-            <h3 class="usa-graphic-list__heading">What We Do</h3>
-          </a>
-          <p>
-            We collaborate with State and Federal partners to implement
-            science-based projects that restore critical habitats, improve water
-            quality, and enhance coastal resilience across the Gulf Coast.
-          </p>
-        </div>
-      </div>
+<div class="grid-container padding-top-4" markdown="0">
+  <div class="grid-row grid-gap">
+    <div class="tablet:grid-col-12">
+      <h2 class="font-heading-xl padding-y-2 text-primary">Featured topics</h2>
     </div>
-    <div class="usa-graphic-list__row grid-row grid-gap">
-      <div class="usa-media-block tablet:grid-col">
-        <a
-          href="https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676"
-          class="display-inline-flex flex-align-center maxw-card maxh-card margin-right-2"
-        >
-          <img
-            src="/img/story-map.jpeg"
-            class="usa-media-block__img circular-image"
-            alt=""
-          />
-        </a>
-        <div class="usa-media-block__body text-no-underline">
-          <a
-            href="https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676"
-          >
-            <h3 class="usa-graphic-list__heading">View Projects</h3>
-          </a>
-          <p>
-            Comprehensive, science-based reports and strategic plans that
-            outline restoration goals, project funding allocations, and progress
-            assessments for ecosystem recovery along the Gulf Coast.
-          </p>
-        </div>
-      </div>
-      <div class="usa-media-block tablet:grid-col">
-        <a
-          href="/reports"
-          class="display-inline-flex flex-align-center maxw-card maxh-card margin-right-2"
-        >
-          <img
-            src="/img/resources.jpeg"
-            class="usa-media-block__img circular-image"
-            alt=""
-          />
-        </a>
-        <div class="usa-media-block__body text-no-underline">
-          <a href="/reports">
-            <h3 class="usa-graphic-list__heading">Resources</h3>
-          </a>
-          <p>
-            Learn about RESTORE-funded projects in an interactive map and
-            dashboard.
-          </p>
-        </div>
-      </div>
-    </div>
+    <ul class="usa-card-group padding-bottom-6 tablet-lg:grid-col-12">
+      {%- for t in topics -%}
+        <li class="usa-card usa-card--flag flex-1">
+          <div class="usa-card__container">
+            <div class="usa-card__header text-primary">
+              <h4 class="usa-card__heading">{{ t.title }}</h4>
+            </div>
+            <div class="usa-card__media">
+              <div class="usa-card__img height-mobile">
+                <img src="{{ t.img }}" alt="{{ t.alt }}">
+              </div>
+            </div>
+            <div class="usa-card__body">
+              <p>{{ t.body }}</p>
+            </div>
+            <div class="usa-card__footer">
+              <a href="{{ t.url }}" class="usa-button">{{ t.buttontext }}</a>
+            </div>
+          </div>
+        </li>
+      {%- endfor -%}
+    </ul>
   </div>
-</section>
+</div>
