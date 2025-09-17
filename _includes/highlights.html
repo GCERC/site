@@ -1,7 +1,7 @@
 {% comment %} Use this section to highlight key elements of your site. Some
 sites will only have two while others may have six to eight. {% endcomment %}
 
-<div class="grid-container padding-top-4">
+<div class="grid-container padding-top-4" markdown="0">
   <div class="grid-row grid-gap">
     <div class="tablet:grid-col-12">
       <h2 class="font-heading-xl padding-y-2 text-primary">Featured topics</h2>
@@ -14,15 +14,11 @@ sites will only have two while others may have six to eight. {% endcomment %}
                       <h4 class="usa-card__heading">{{ t.title }}</h4>
                   </div>
                   <div class="usa-card__media">
-                      <div class="usa-card__img">
-                      <a
-                      href="{{ t.url }}"
-                      >
+                      <div class="usa-card__img height-mobile">
                       <img
                           src="{{ t.img }}"
                           alt="{{ t.alt }}"
                           />
-                      </a>
                       </div>
                   </div>
                   <div class="usa-card__body">
