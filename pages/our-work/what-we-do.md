@@ -1,5 +1,7 @@
 ---
 title: What We Do
+lead: >
+  The economy and culture of the Gulf Coast are built on the natural environment. Rivers, marshes, forests, beaches and other ecosystems support tourism, fishing, lifestyles and communities across the Gulf. The Council helps restore and protect these Gulf resources for the benefit of current and future generations.
 eleventyNavigation:
   key: what-we-do
   parent: our-work
@@ -26,18 +28,17 @@ cardlinks:
     caption: Leveraging Funds for Bigger Results
 ---
 
+## How the Council Funds Projects
+
 The Council is guided by a Comprehensive Plan, which establishes our vision, goals, and objectives for Gulf ecosystem restoration. Projects and programs funded by the Council must align with the Comprehensive Plan goals and objectives. The Comprehensive Plan also has Council commitments to science, collaboration, public engagement and more. The Council’s vision is:
 
 “A healthy and productive Gulf ecosystem achieved through collaboration on strategic restoration projects and programs.”
 
-- [What is the Council-Selected Restoration Component?]({{ './fpl/index.md' | inputPathToUrl }})
-- [What is the Spill Impact Component?]({{ './spill-impact-component/index.md' | inputPathToUrl }})
+## RESTORE Projects
 
 The Council supports ecosystem restoration that can enhance local communities by giving people desirable places to live, work, and play, while creating opportunities for new and existing businesses of all sizes, especially those dependent on natural resources.
 
 The Council has adopted the following five goals which provide the overarching framework for an integrated and coordinated approach for region-wide Gulf Coast restoration and to help guide the collective actions at the local, state, tribal, and federal levels. These goals were collaboratively developed through and approved through coordination with all eleven members of the RESTORE Council and can be found in the Council approved Comprehensive Plan.
-
-RESTORE Goals
 
 Goal 1
 
