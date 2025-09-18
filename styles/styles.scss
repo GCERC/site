@@ -160,3 +160,20 @@ figure {
 figcaption {
   @include u-font("body", "3xs");
 }
+
+/* Table Caption */
+
+.usa-table caption {
+  background: #344271;
+  color: white;
+  padding: 0;
+  text-align: center;
+  font-weight: normal;
+  font-size: 1.25rem;
+  caption-side: top;
+  margin-bottom: 0;
+}
+// Grants Table 
+.usa-table {
+  margin-top: 0;
+}
