@@ -11,20 +11,14 @@ On January 17, 2024, the Gulf Coast Ecosystem Restoration Council (Council) vote
 
 Background on these funding approvals is provided below. Before voting on whether to approve funding, the Council requested stakeholder input during a 30-day public comment period which began on November 13, 2023 and concluded on December 13, 2023. The Council received no public comments on these proposed funding approvals. 
 
-Learn more about:
+**Learn more about:**
 
-[City of Loxley Corn Creek Tributary Restoration project background and environmental compliance documentation](/council-selected-restoration-component/fpl-3)
+- [City of Loxley Corn Creek Tributary Restoration project background and environmental compliance documentation](/council-selected-restoration-component/fpl-3)
+- [Carpenter Creek Bayou Texar Watershed Outfalls project background and environmental compliance documentation](/council-selected-restoration-component/fpl-3) 
+- [RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)
+- [Modifying your eBlast Subscription](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
 
-[Carpenter Creek Bayou Texar Watershed Outfalls project background and environmental compliance documentation](/council-selected-restoration-component/fpl-3) 
-
-[RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)
-
-[Modifying your eBlast Subscription](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
-
-Keala J. Hughes
-
-Director of External Affairs & Tribal Relations
-
+Keala J. Hughes  
+Director of External Affairs & Tribal Relations  
 (504) 717-7235
-
-[keala.hughes@restorethegulf.gov](mailto:keala.hughes@restorethegulf.gov)
+keala.hughes@restorethegulf.gov

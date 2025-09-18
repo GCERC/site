@@ -35,18 +35,18 @@ Mail must be posted no later than June 21, 2025 to be included in this public co
 
  
 
-Learn more about   
-[Full Public Comment Notice for Proposed Amendments to FPL 3b in the State of Texas](/sites/default/files/2025-05/Final%20Public%20Notice%2005212025.pdf)  
-[Dagger Island Environmental Compliance Documents](/sites/default/files/2025-05/Dagger%20Island%20Environmental%20Compliance%20Merged%20Compressed%2005152025.pdf)  
-[Mcfaddin NWR Environmental Compliance Documents](/sites/default/files/2025-05/McFaddin%20NWR%20Environmental%20Compliance%20Merged%20Compressed%2005152025.pdf)  
-[JD Murphree WMA Levee Environmental Compliance Documents](/sites/default/files/2025-05/JD%20Murphree%20WMA%20Levee%20Environmental%20Compliance%20Merged%20Compressed%2005152025.pdf)
+Learn more about 
 
-[RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)  
-[Modifying your eBlast Subscription](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+**Learn more about:**
 
-[_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx) 
+- [Full Public Comment Notice for Proposed Amendments to FPL 3b in the State of Texas](/uploads/Final%20Public%20Notice%2005212025.pdf)
+- [Dagger Island Environmental Compliance Documents](/uploads/Dagger%20Island%20Environmental%20Compliance%20Merged%20Compressed%2005152025.pdf)
+- [Mcfaddin NWR Environmental Compliance Documents](/uploads/McFaddin%20NWR%20Environmental%20Compliance%20Merged%20Compressed%2005152025.pdf)
+- [JD Murphree WMA Levee Environmental Compliance Documents](/uploads/JD%20Murphree%20WMA%20Levee%20Environmental%20Compliance%20Merged%20Compressed%2005152025.pdf)
+- [RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)
+- [Modifying your eBlast Subscription](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
-(504) 717-7235  
-[keala.hughes@restorethegulf.gov](mailto:keala.hughes@restorethegulf.gov)
+(504) 717-7235
+keala.hughes@restorethegulf.gov
