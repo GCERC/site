@@ -4,7 +4,7 @@ permalink: /announcements/2024/02/27/cpra-and-tldc-announce-houma-navigation-can
 date: 2024-02-27
 ---
 
-**Contact:** [**coastal@la.gov**](mailto:coastal@la.gov)
+**Contact:** coastal@la.gov
 
 BATON ROUGE, LA — The Louisiana Coastal Protection and Restoration Authority (CPRA) and the Terrebonne Levee & Conservation District (TLCD) are pleased to announce that the Houma Navigation Canal (HNC) Lock Complex project is moving into Phase 2 construction. TLCD awarded the construction contract, valued at more than $300 million, to SeaLevel Construction, Inc., a Louisiana-based company headquartered in Thibodaux.
 

@@ -8,11 +8,11 @@ date: 2025-04-07
 
 _RESTORE Council- 2025_
 
-### **Alabama Seafood**
+### Alabama Seafood
 
 The RESTORE Council’s investments support the economies of Gulf states by providing jobs, promoting seafood and tourism, and restoring and protecting natural resources at the foundation of a strong Gulf economy. The RESTORE Council also supports local economies through seafood promotion and tourism projects such as boat ramps, artificial reefs, and improvements to state and federal parks. Across the Gulf, the RESTORE Council’s investments provide jobs for planners, engineers, construction workers, scientists, and others working to protect and restore the coastal environment.
 
-![Shrimp boats](/sites/default/files/styles/large/public/2025-03/PRDFT-shrimp_boats.jpg-20150624.jpg.webp?itok=K80HaD3z)
+![Shrimp boats](/img/PRDFT-shrimp_boats.jpg-20150624.jpg)
 
 Shrimp boats play a crucial role in the Gulf region’s fishing industry and economy. Credit: NOAA
 
@@ -24,5 +24,5 @@ The Alabama Department of Conservation and Natural Resources (ADCNR) received $2
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
-(504) 717-7235  
-[keala.hughes@restorethegulf.gov](mailto:keala.hughes@restorethegulf.gov)
+(504) 717-7235
+keala.hughes@restorethegulf.gov

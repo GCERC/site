@@ -4,7 +4,7 @@ permalink: /announcements/2024/08/20/studies-completed-sediment-and-water-qualit
 date: 2024-08-20
 ---
 
-![map of study area](/sites/default/files/inline-images/cottonbayou_terrycove_eblast_20240820._4.png)
+![map of study area](/img/cottonbayou_terrycove_eblast_20240820._4.png)
 
 _Map of the study area in Cotton Bayou and Terry Cove near the Perdido Bay inlet of Alabama Point._
 
@@ -25,14 +25,15 @@ ADCNR Commissioner Chris Blankenship expressed his appreciation for the completi
 
 Orange Beach Mayor Tony Kennon also commented on the value of the work, “Water quality is integral to our way of life in Orange Beach. This work provides practical suggestions on maintaining that water quality for our citizens to continue to enjoy.”
 
-For further details on this project including model simulation results and observational data please visit the [Project Website](https://www.eng.auburn.edu/users/jsh0024/cb-tc/cb-tc.html) or the [Alabama State Expenditure Plan](https://test.restorethegulf.gov/uploads/ALABAMA_SEP_FINAL_508_4_1_19_0_0.pdf).
+For further details on this project including model simulation results and observational data please visit the [Project Website](https://www.eng.auburn.edu/users/jsh0024/cb-tc/cb-tc.html) or the [Alabama State Expenditure Plan](/uploads/ALABAMA%20SEP%20-%20FINAL_508_4_1_19_0_0.pdf).
 
-Learn more about the  
-[State Expenditure Plan](/spill-impact-component)  
-[RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)  
-[Modifying your eBlast Subscription(link is external)](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.restorethegulf.gov%2Fapps%2Feblast%2FModifyInformation.aspx&data=05%7C02%7Celwilson%40contractor.usgs.gov%7C4378c47952554e4435e008dcc15d8c1f%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638597855540232595%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=%2FT7iWNUT07zZNllc8JkwacfWoxIboH412uBaxfIvLFc%3D&reserved=0)
+**Learn more about:**
+
+- [State Expenditure Plan](/spill-impact-component)
+- [RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)
+- [Modifying your eBlast Subscription](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
 
 Keala J. Hughes  
-Director of External Affairs & Tribal Relations    
-(504) 717-7235  
-[keala.hughes@restorethegulf.gov](mailto:keala.hughes@restorethegulf.gov)
+Director of External Affairs & Tribal Relations  
+(504) 717-7235
+keala.hughes@restorethegulf.gov
