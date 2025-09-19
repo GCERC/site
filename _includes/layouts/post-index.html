@@ -5,16 +5,6 @@ layout: layouts/default
 <ul class="usa-collection">
   {%- for post in posts %}
   <li class="usa-collection__item">
-    <div class="usa-collection__calendar-date">
-      <time datetime="{{ post.date | htmlDateString }}"
-        ><span class="usa-collection__calendar-date-month text-uppercase"
-          >{{ post.date | date: "%b" }}</span
-        >
-        <span class="usa-collection__calendar-date-day"
-          >{{ post.date | date: "%d" }}</span
-        ></time
-      >
-    </div>
     <div class="usa-collection__body">
       <h4 class="usa-collection__heading">
         <a class="usa-link" href="{{ post.url }}">{{ post.data.title }}</a>
