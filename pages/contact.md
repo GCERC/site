@@ -9,7 +9,6 @@ For General Questions or Comments:
 Keala J. Hughes
 Director of External Affairs & Tribal Relations
 [keala.hughes@restorethegulf.gov](mailto:keala.hughes@restorethegulf.gov)
-
 (504) 717-7235
 
 or email us at [RestoreCouncil@restorethegulf.gov](RestoreCouncil@restorethegulf.gov)
@@ -99,3 +98,23 @@ New Orleans, LA 70130
   </tbody>
 </table>
 
+<div class="grid-container" style="display: flex;
+justify-content: center; gap: 1rem; flex-wrap: wrap;">
+<div class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
+    <div class="usa-card__container">
+      <div class="usa-card__media">
+        <div class="usa-card__img">
+          <img
+            src="/uploads/Announcements_crop.jpg"
+            alt="Restore Announcements"
+          />
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>
+          <a href="/announcements/">Announcements</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
