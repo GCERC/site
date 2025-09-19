@@ -6,7 +6,7 @@ sidenav: false
 
 ## Accessibility statement
 
-We design our web pages to meet or exceed the Section 508 standards, which are the technical requirements that ensure we’re complying with [federal Section 508 law](https://www.regulations.gov/accessibility). We also conform to the [World Wide Web Consortium (W3C)](https://www.w3.org/) and their industry standard [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/). We meet Level AA standards, which means our content is accessible to most people in most circumstances. We continually modify our websites to ensure the information, features and content are accessible to persons with disabilities.
+We design our web pages to meet or exceed the Section 508 standards, which are the technical requirements that ensure we’re complying with <a class="usa-link usa-link--external" rel="noreferrer" target="_blank" href="https://www.regulations.gov/accessibility">federal Section 508 law</a>. We also conform to the <a class="usa-link usa-link--external" rel="noreferrer" target="_blank" href="https://www.w3.org/">World Wide Web Consortium (W3C)</a> and their industry standard <a class="usa-link usa-link--external" rel="noreferrer" target="_blank" href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a>. We meet Level AA standards, which means our content is accessible to most people in most circumstances. We continually modify our websites to ensure the information, features and content are accessible to persons with disabilities.
 
 ### Available complaint process
 
@@ -23,21 +23,21 @@ We will work diligently to provide you with accessible content that addresses yo
 
 Telecommunications Relay Services (TRS) allow persons who are deaf, hard of hearing, deafblind, or have speech disabilities to communicate by telephone in a manner that is functionally equivalent to telephone services used by persons without such disabilities.
 
-- [List of TRS services (FCC.gov)](https://www.fcc.gov/trs)
+- <a class="usa-link usa-link--external" rel="noreferrer" target="_blank" href="https://www.fcc.gov/trs">List of TRS services (FCC.gov)</a>
 
 ### Accessibility aids: plug-ins and file viewers
 
 Links to applets, plug-ins, or other applications required to access content provided on our web pages are available and linked below. Most of these links are to non-government sources. We do not endorse any of these products; they are provided for your convenience. Address questions about a particular plug-in or file viewer to the respective vendor.
 
-- Adobe Acrobat: Use [Adobe Acrobat](https://get.adobe.com/reader/) to read Portable Document Format (PDF) files.
-- Microsoft Word: Microsoft offers [Doc Viewer](https://apps.microsoft.com/detail/9n69kfjds28z) and other converter programs to enable those who do not have Word to open and view Word files.
-- Microsoft Excel: Microsoft offers [XLS Viewer Free](https://apps.microsoft.com/search?query=XLS+viewer+free&hl=en-us&gl=US) to enable those who do not have Excel to view Excel files.
-- Microsoft PowerPoint: Microsoft offers [PPTX Viewer](https://apps.microsoft.com/detail/9np64t9094lb) to enable those who do not have PowerPoint to view PowerPoint files.
-- WinZip: Zip files are single files, sometimes called “archives,” that contain one or more compressed files. Files with this extension (.zip) require [WinZip](https://www.winzip.com/en/download/winzip/) to open and extract them.
+- Adobe Acrobat: Use <a class="usa-link usa-link--external" rel="noreferrer" target="_blank" href="https://get.adobe.com/reader/">Adobe Acrobat</a> to read Portable Document Format (PDF) files.
+- Microsoft Word: Microsoft offers <a class="usa-link usa-link--external" rel="noreferrer" target="_blank" href="https://apps.microsoft.com/detail/9n69kfjds28z">Doc Viewer</a> and other converter programs to enable those who do not have Word to open and view Word files.
+- Microsoft Excel: Microsoft offers <a class="usa-link usa-link--external" rel="noreferrer" target="_blank" href="https://apps.microsoft.com/search?query=XLS+viewer+free&hl=en-us&gl=US">XLS Viewer Free</a> to enable those who do not have Excel to view Excel files.
+- Microsoft PowerPoint: Microsoft offers a <a class="usa-link usa-link--external" rel="noreferrer" target="_blank" href="https://apps.microsoft.com/detail/9np64t9094lb">PPTX Viewer</a> to enable those who do not have PowerPoint to view PowerPoint files.
+- WinZip: Zip files are single files, sometimes called “archives,” that contain one or more compressed files. Files with this extension (.zip) require <a class="usa-link usa-link--external" rel="noreferrer" target="_blank" href="https://www.winzip.com/en/download/winzip/">WinZip</a> to open and extract them.
 
 ## Freedom of Information Act (FOIA)
 
-The [Freedom of Information Act (FOIA)](https://www.justice.gov/oip/freedom-information-act-5-usc-552) provides the public the right to request access to records from any federal government agency. Federal agencies are required to disclose any information requested under the FOIA unless it falls under one of nine exemptions, which protect interests such as personal privacy, national security, and law enforcement.
+The <a class="usa-link usa-link--external" rel="noreferrer" target="_blank" href="https://www.justice.gov/oip/freedom-information-act-5-usc-552">Freedom of Information Act (FOIA)</a> provides the public the right to request access to records from any federal government agency. Federal agencies are required to disclose any information requested under the FOIA unless it falls under one of nine exemptions, which protect interests such as personal privacy, national security, and law enforcement.
 
 Individuals wishing to file a request for records under the FOIA should email their request to [RestoreCouncil@restorethegulf.gov](mailto:RestoreCouncil@restorethegulf.gov) or mail it to the Gulf Coast Ecosystem Restoration Council, 1800 F Street, NW, Washington, DC 20405. The email subject line or the letter/envelope should include the words "FOIA Request."
 
@@ -61,7 +61,7 @@ These third-party websites have their own privacy, security, and accessibility p
 
 The Gulf Coast Ecosystem Restoration Council does not collect any personal information about you when you visit our website unless you choose to provide that information. The only information that the Council automatically collects is each website visitor’s Internet domain and IP address, the type of browser and operating system used to access the site, the pages visited and time spent on each page, and the date and time of the visit. If you send an email to the Council through this website, the personal information you provide will be used only to respond to your message. We will not disclose or share this personal information outside of the Council without your explicit permission.
 
-[The Privacy Act, 5 U.S.C. Section 552a](https://www.justice.gov/opcl/privacy-act-1974), passed by Congress in 1974, establishes certain controls over what personal information is collected by the federal government and how it is used. The act guarantees three primary rights: (1) the right to see records about oneself, subject to the Privacy Act's exemptions; (2) the right to amend that record if it is inaccurate, irrelevant, untimely or incomplete; and (3) the right to sue the government for violations of the statute, including permitting others to see your records, unless specifically permitted by the act.
+<a class="usa-link usa-link--external" rel="noreferrer" target="_blank" href="https://www.justice.gov/opcl/privacy-act-1974">The Privacy Act, 5 U.S.C. Section 552a</a>, passed by Congress in 1974, establishes certain controls over what personal information is collected by the federal government and how it is used. The act guarantees three primary rights: (1) the right to see records about oneself, subject to the Privacy Act's exemptions; (2) the right to amend that record if it is inaccurate, irrelevant, untimely or incomplete; and (3) the right to sue the government for violations of the statute, including permitting others to see your records, unless specifically permitted by the act.
 
 ## Vulnerability disclosure policy
 
@@ -120,7 +120,7 @@ Reports should include:
 - A detailed description of the steps required to reproduce the vulnerability. Proof of concept (POC) scripts, screenshots, and screen captures are all helpful. Please use extreme care to properly label and protect any exploit code.
 - Any technical information and related materials we would need to reproduce the issue.
 
-Please keep your vulnerability reports current by sending us any new information as it becomes available. We may share your vulnerability reports with [US-CERT](https://www.cisa.gov/), as well as any affected vendors or open source projects.
+Please keep your vulnerability reports current by sending us any new information as it becomes available. We may share your vulnerability reports with <a class="usa-link usa-link--external" rel="noreferrer" target="_blank" href="https://www.cisa.gov/">US-CERT</a>, as well as any affected vendors or open source projects.
 
 ### Coordinated disclosure
 
