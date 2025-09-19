@@ -1,12 +1,8 @@
 {% if site['social-media'] %}
-  <div class="display-flex flex-justify-center">
+  <div class="display-flex flex-justify-center margin-x-auto">
     {% for medium in site['social-media'] %}
-      <li class="usa-nav__secondary-item padding-x-1">
-        <a
-          href="{{ medium.link }}"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+      <li class="padding-x-1 add-list-reset">
+        <a href="{{ medium.link }}" target="_blank" rel="noopener noreferrer">
           <svg
             aria-hidden="true"
             focusable="false"

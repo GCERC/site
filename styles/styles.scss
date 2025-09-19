@@ -28,9 +28,9 @@
   $theme-body-background-color: "base-lightest",
   $theme-lead-font-size: "md",
   $theme-hero-image: "../img/slider.jpg",
-  $theme-card-flag-min-width: "mobile-lg",
   $theme-link-color: "primary",
   $theme-link-visited-color: "primary",
+  $theme-body-font-size: "md",
   $theme-h1-font-size: "xl",
   $theme-h2-font-size: "lg",
   $theme-h3-font-size: "sm",
@@ -59,6 +59,12 @@ img {
   }
 }
 
+@include at-media("desktop") {
+  .usa-header--extended .usa-nav {
+    border-top: none;
+  }
+}
+
 .usa-nav__secondary-links {
   @include at-media("desktop") {
     a {
@@ -66,10 +72,6 @@ img {
       &:hover {
         @include u-text("white");
       }
-    }
-
-    .usa-nav__secondary-item + .usa-nav__secondary-item {
-      border-left: 0 !important;
     }
   }
 }
