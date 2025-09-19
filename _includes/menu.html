@@ -51,9 +51,11 @@
       </ul>
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
-          {% include 'socialmedia.html' %}
+          <ul class="add-list-reset display-flex flex-justify-center margin-bottom-2 desktop:margin-bottom-0">
+            {% include 'socialmedia.html' %}
+          </ul>
           {% for nav_item in secondary_navigation %}
-            <li class="usa-nav__secondary-item text-center desktop:text-left">
+            <li class="usa-nav__secondary-item text-center desktop:text-left display-block">
               <a href="{{ nav_item.url }}" class="desktop:text-white hover:text-white">{{ nav_item.name | escape }}</a>
             </li>
           {% endfor %}

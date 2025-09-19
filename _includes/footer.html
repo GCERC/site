@@ -36,8 +36,10 @@
         <div class="grid-col-12 desktop:grid-col-fill">
           <p class="usa-footer__logo-heading text-white">{{ site.title }}</p>
         </div>
-        {% include 'socialmedia.html' %}
         <div class="grid-col-12 desktop:grid-col-auto">
+          <ul class="add-list-reset display-flex desktop:display-inline-flex flex-justify-center margin-bottom-2 desktop:margin-bottom-0">
+            {% include 'socialmedia.html' %}
+          </ul>
           <a href="mailto:{{ site.email }}" class="text-white">{{ site.email }}</a>
         </div>
       </div>
