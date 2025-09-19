@@ -95,10 +95,13 @@ img {
 
 .usa-footer__secondary-section a {
   @include u-text("white");
-
   &:hover {
-    text-decoration: underline;
-    color: color($color-brand-dark-hover);
+    @include u-text("violet-60");  
+  }
+}
+.usa-footer a {
+  &:hover {
+    @include u-text("violet-60");
   }
 }
 
