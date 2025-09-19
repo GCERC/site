@@ -95,6 +95,11 @@ img {
 
 .usa-footer__secondary-section a {
   @include u-text("white");
+
+  &:hover {
+    text-decoration: underline;
+    color: color($color-brand-dark-hover);
+  }
 }
 
 .usa-card__img img {
