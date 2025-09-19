@@ -30,7 +30,7 @@
             {%- if child.children.size > 0 -%}
               <ul class="usa-sidenav__sublist">
                 {%- for grandchild in child.children -%}
-                  <li class="usa-sidenav__item">
+                  <li class="usa-sidenav__item font-sans-2xs">
                     <a
                       href="{{ grandchild.url }}"
                       {%- if grandchild.url == currentUrl -%}

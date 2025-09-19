@@ -5,9 +5,9 @@ layout: layouts/base
   <div class="grid-container">
     <div class="grid-row grid-gap">
       {% if sidenav == true %}{% include 'sidenav.html' %}{% endif %}
-      <main class="usa-layout-docs__main {% if sidenav == true %}desktop:grid-col-9{% endif %}">
-        <div class="bg-white padding-4 radius-lg shadow-1">
-          <div class="usa-prose">
+      <main class="usa-layout-docs__main {% if sidenav == true %}desktop:grid-col-9{% else %}desktop:grid-col-12{% endif %}">
+        <div class="bg-white padding-4 radius-lg shadow-1 width-full">
+          <div class="usa-prose measure-6">
             <h1>{{ title }}</h1>
             {% if lead %}
               <p class="usa-intro margin-bottom-4">{{ lead }}</p>

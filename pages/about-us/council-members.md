@@ -106,12 +106,11 @@ members:
         name: Mary Josie Blanchard
         title: Director Gulf Coast Restoration
 ---
-
 <ul class="usa-card-group">
-{% for member in members %}
-  {% assign sub_title = member.title | append: ', ' | append: member.agency %}
-  {% assign body_text = member.rep_name | append: ', ' | append: member.rep_title %}
-  {% capture body %}
+  {%- for member in members -%}
+    {%- assign sub_title = member.title | append: ', ' | append: member.agency -%}
+    {%- assign body_text = member.rep_name | append: ', ' | append: member.rep_title -%}
+    {%- capture body -%}
     {%- for delegate in member.delegates -%}
       <p>
         <span class="font-body-2xs">{{ delegate.type }}:</span><br />
@@ -120,7 +119,7 @@ members:
         {%- if delegate.agency -%}<span class="font-body-xs text-italic">{{ delegate.agency }}</span>{%- endif -%}
       </p>
     {%- endfor -%}
-  {% endcapture %}
-  {% include "card.html", title: member.name, sub_title: sub_title, photo: member.photo, body: body %}
-{% endfor %}
+  {%- endcapture -%}
+    {%- include 'card.html', title: member.name, sub_title: sub_title, photo: member.photo, body: body -%}
+  {%- endfor -%}
 </ul>

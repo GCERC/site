@@ -67,10 +67,23 @@ module.exports = async function (config) {
 
   // Set image shortcodes
   config.addLiquidShortcode("uswds_icon", function (name) {
-    return `
-    <svg class="usa-icon" aria-hidden="true" role="img">
-      <use xlink:href="#svg-${name}"></use>
-    </svg>`;
+    return `<svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="#svg-${name}"></use></svg>`;
+  });
+
+  config.addCollection("postsByYear", (collection) => {
+    const posts = collection.getFilteredByTag("announcements").reverse();
+    const years = posts.map((post) => post.date.getFullYear());
+    const uniqueYears = [...new Set(years)];
+
+    const postsByYear = uniqueYears.reduce((prev, year) => {
+      const filteredPosts = posts.filter(
+        (post) => post.date.getFullYear() === year
+      );
+
+      return [...prev, [year, filteredPosts]];
+    }, []);
+
+    return postsByYear;
   });
 
   // If BASEURL env variable exists, update pathPrefix to the BASEURL

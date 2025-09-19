@@ -69,6 +69,7 @@ img {
   @include at-media("desktop") {
     a {
       @include u-text("white");
+
       &:hover {
         @include u-text("white");
       }
@@ -89,14 +90,6 @@ img {
   &:hover {
     @include u-bg("primary-dark");
     @include u-text("white");
-  }
-}
-
-.usa-footer__logo > div {
-  @include u-margin-y(1);
-
-  @include at-media("desktop") {
-    @include u-margin-y(0);
   }
 }
 
