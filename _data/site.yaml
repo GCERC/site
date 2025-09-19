@@ -1,11 +1,10 @@
-title: RESTORETHEGULF.GOV
+title: RestoreTheGulf.gov
 email: RestoreCouncil@restorethegulf.gov
-description: >- # this means to ignore newlines
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
+description: >-
+  The Gulf Coast Ecosystem Restoration Council (RESTORE Council) is a small federal agency established in the wake of the Deepwater Horizon disaster to plan for and carry out restoration across the Gulf Coast.
 
 # Twitter handle. Only the handle, not the URL.
-# twitter: agency_name
+twitter: restorecouncil
 
 social-media:
   - service: twitter
@@ -18,50 +17,11 @@ social-media:
     link: "https://www.facebook.com/restorecouncil"
 
 # Used to construct absolute URLs throughout the site
-url: "https://agency-production-url.gov"
+url: "https://restorethegulf.gov"
 
-#################################################################
-#
 # Digital Analytics Program (DAP) configuration
-#
-# USAID   - Agency for International Development
-# USDA    - Department of Agriculture
-# DOC     - Department of Commerce
-# DOD     - Department of Defense
-# ED      - Department of Education
-# DOE     - Department of Energy
-# HHS     - Department of Health and Human Services
-# DHS     - Department of Homeland Security
-# HUD     - Department of Housing and Urban Development
-# DOJ     - Department of Justice
-# DOL     - Department of Labor
-# DOS     - Department of State
-# DOI     - Department of the Interior
-# TREAS   - Department of the Treasury
-# DOT     - Department of Transportation
-# VA      - Department of Veterans Affairs
-# EPA     - Environmental Protection Agency
-# EOP     - Executive Office of the President
-# GSA     - General Services Administration
-# NASA    - National Aeronautics and Space Administration
-# NARA    - National Archives and Records Administration
-# NSF     - National Science Foundation
-# NRC     - Nuclear Regulatory Commission
-# OPM     - Office of Personnel Management
-# USPS    - Postal Service
-# SBA     - Small Business Administration
-# SSA     - Social Security Administration
-#
-#################################################################
 dap:
   agency: GCERC
-
-  # Optional
-  # subagency: your-subagency
-
-# Configuration for Google Analytics
-ga:
-  # ua: your-ua
 
 # Site Navigation
 secondary_navigation:
@@ -105,7 +65,3 @@ searchgov:
   # This allows Search.gov to present relevant type-ahead search suggestions in your website's search box.
   # If you do not want to present search suggestions, set this value to false.
   suggestions: true
-##########################################################################################
-# The values below here are more advanced and should only be
-# changed if you know what they do
-##########################################################################################

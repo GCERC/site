@@ -1,19 +1,24 @@
 <!doctype html>
-{% comment %} This is used for just about every page. It provides the border
-around the content. The home page uses wide.html layout, since it extends full
-width of page {% endcomment %}
+{% comment %}
+  This is used for just about every page. It provides the border
+  around the content. The home page uses wide.html layout, since it extends full
+  width of page
+{% endcomment %}
 
 <html lang="en">
-  {% include "meta.html" %}
+  {% include 'meta.html' %}
 
   <body>
-    {% include "header.html" %} {% include "menu.html" secondary_navigation:
-    site.secondary_navigation %} {{ content }} {% include "footer.html" %}
+    {% include 'header.html' %}
+    {% include 'menu.html', secondary_navigation: site.secondary_navigation %}
+    {{ content }}
+    {% include 'footer.html' %}
 
     <div style="display: none">
-      {% usa_icons_sprite %} {% uswds_icons_sprite %}
+      {% usa_icons_sprite %}
+      {% uswds_icons_sprite %}
     </div>
 
-    {% include "scripts.html" %}
+    {% include 'scripts.html' %}
   </body>
 </html>

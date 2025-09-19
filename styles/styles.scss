@@ -72,6 +72,9 @@ img {
   @include at-media("desktop") {
     a {
       @include u-text("white");
+      &:hover {
+        @include u-text("white");
+      }
     }
 
     .usa-nav__secondary-item + .usa-nav__secondary-item {
@@ -173,7 +176,7 @@ figcaption {
   caption-side: top;
   margin-bottom: 0;
 }
-// Grants Table 
+// Grants Table
 .usa-table {
   margin-top: 0;
 }
