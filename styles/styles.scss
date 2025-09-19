@@ -1,23 +1,14 @@
 @use "uswds-core" as * with (
   $theme-utility-breakpoints: (
     "card": false,
-    // 160px
     "card-lg": false,
-    // 240px
     "mobile": false,
-    // 320px
     "mobile-lg": true,
-    // 480px
     "tablet": true,
-    // 640px
     "tablet-lg": false,
-    // 880px
     "desktop": true,
-    // 1024px
     "desktop-lg": true,
-    // 1200px
     "widescreen": true,
-    // 1400px
   ),
   $theme-identifier-max-width: "desktop-lg",
   $theme-footer-max-width: "desktop-lg",
@@ -115,26 +106,6 @@ img {
   @include u-text("white");
 }
 
-.no-hover,
-.no-hover:hover,
-.no-hover:focus,
-.no-hover:active {
-  background-color: inherit !important;
-  color: #ffffff !important;
-  box-shadow: none !important;
-  border-color: inherit !important;
-}
-
-.usa-button_hero,
-.usa-button_hero:hover,
-.usa-button_hero:focus,
-.usa-button_hero:active {
-  background-color: "primary";
-  color: #ffffff;
-  border: 2px solid #ffffff;
-  box-shadow: none;
-}
-
 .usa-card__img img {
   display: block;
   height: 100%;
@@ -162,6 +133,10 @@ figure {
 
 figcaption {
   @include u-font("body", "3xs");
+}
+
+.semi-transparent-background {
+  background-color: rgba(27, 41, 88, 0.8); /*  #1B2958 with 80% opacity */
 }
 
 /* Table Caption */
