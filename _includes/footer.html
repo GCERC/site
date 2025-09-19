@@ -7,15 +7,13 @@
           class="usa-identifier__section usa-identifier__section--required-links"
           aria-label="Important links"
         >
-          <div class="usa-identifier__container">
-            <ul class="usa-identifier__required-links-list">
-              {% for nav_item in site.footer_navigation %}
-                <li class="usa-identifier__required-links-item">
-                  <a class="text-white" href="{{nav_item.url}}"> {{ nav_item.name }}</a>
-                </li>
-              {% endfor %}
-            </ul>
-          </div>
+          <ul class="usa-identifier__required-links-list">
+            {% for nav_item in site.footer_navigation %}
+              <li class="usa-identifier__required-links-item">
+                <a class="text-white" href="{{nav_item.url}}"> {{ nav_item.name }}</a>
+              </li>
+            {% endfor %}
+          </ul>
         </nav>
       </div>
       <div class="desktop-lg:grid-col-4"></div>
@@ -29,12 +27,12 @@
         <div class="grid-col-12 desktop:grid-col-auto">
           <img
             src="/img/logo.png"
-            class="margin-right-2 maxw-6"
+            class="maxw-6"
             alt="{{ site.title }}"
           >
         </div>
         <div class="grid-col-12 desktop:grid-col-fill">
-          <p class="usa-footer__logo-heading text-white">{{ site.title }}</p>
+          <p class="usa-footer__logo-heading text-white font-sans-lg">{{ site.title }}</p>
         </div>
         <div class="grid-col-12 desktop:grid-col-auto">
           <ul class="add-list-reset display-flex desktop:display-inline-flex flex-justify-center margin-bottom-2 desktop:margin-bottom-0">
