@@ -26,7 +26,7 @@ dap:
 # Site Navigation
 secondary_navigation:
   - name: Contact us
-    url: "/"
+    url: "/contact/"
 
 footer_navigation:
   - name: Accessibility statement
