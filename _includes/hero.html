@@ -5,13 +5,10 @@
         class="maxw-tablet margin-top-5 desktop:margin-top-10 padding-5 position-absolute bottom-0 right-0 semi-transparent-background"
       >
         <h1 class="usa-hero__heading">
-          <span class="usa-hero__heading--alt text-uppercase">Reflections on Restoration</span>
+          <span class="usa-hero__heading--alt text-uppercase">{{ hero.title }}</span>
         </h1>
-        <p>
-          The Gulf Coast Ecosystem Restoration Council (RESTORE Council) is commemorating 15 years since the Deepwater
-          Horizon oil spill with a month-long reflection on its progress.
-        </p>
-        <a class="usa-button usa-button--outline usa-button--inverse" href="/reflections-on-restoration/">Learn more</a>
+        <p>{{ hero.body }}</p>
+        <a class="usa-button usa-button--outline usa-button--inverse" href="{{ hero.url }}">{{ hero.buttontext }}</a>
       </div>
     </div>
   </div>

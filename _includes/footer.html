@@ -1,28 +1,5 @@
 <footer class="usa-footer">
-  <div class="bg-primary-light padding-y-8">
-    <div class="grid-container">
-      <div class="usa-footer__logo text-primary-dark grid-row grid-gap-2">
-        <div class="grid-col-12 tablet:grid-col-auto">
-          <h2 class="font-heading-xl margin-y-0">Stay in touch</h2>
-          <p class="usa-intro">
-            Don't miss out on the latest and greatest from the RESTORE Council.
-            Sign up now and get our latest updates straight in your inbox.
-          </p>
-        </div>
-        <div class="grid-col-12 desktop:grid-col-fill">
-          <ul class="usa-button-group">
-            <li class="usa-button-group__item">
-              <a
-                href="https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx"
-                class="usa-button usa-button--outline text-primary-dark"
-                >Subscribe</a
-              >
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
+  {% include 'subscribe.html' %}
   <div class="usa-footer__primary-section bg-primary text-white padding-y-8">
     <div class="usa-footer__primary-container grid-row">
       <div class="grid-col-auto">
@@ -33,11 +10,9 @@
           <div class="usa-identifier__container">
             <ul class="usa-identifier__required-links-list">
               {% for nav_item in site.footer_navigation %}
-              <li class="usa-identifier__required-links-item">
-                <a class="text-white" href="{{nav_item.url}}">
-                  {{nav_item.name}}</a
-                >
-              </li>
+                <li class="usa-identifier__required-links-item">
+                  <a class="text-white" href="{{nav_item.url}}"> {{ nav_item.name }}</a>
+                </li>
               {% endfor %}
             </ul>
           </div>
@@ -56,16 +31,14 @@
             src="/img/logo.png"
             class="margin-right-2 maxw-6"
             alt="{{ site.title }}"
-          />
+          >
         </div>
         <div class="grid-col-12 desktop:grid-col-fill">
           <p class="usa-footer__logo-heading text-white">{{ site.title }}</p>
         </div>
-        {% include "socialmedia.html" %}
+        {% include 'socialmedia.html' %}
         <div class="grid-col-12 desktop:grid-col-auto">
-          <a href="mailto:{{ site.email }}" class="text-white"
-            >{{ site.email }}</a
-          >
+          <a href="mailto:{{ site.email }}" class="text-white">{{ site.email }}</a>
         </div>
       </div>
     </div>

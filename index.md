@@ -5,6 +5,13 @@ title: Home
 eleventyNavigation:
   key: home
   title: Home
+hero:
+  title: Reflections on Restoration
+  url: /reflections-on-restoration/
+  body: >
+    The Gulf Coast Ecosystem Restoration Council (RESTORE Council) is commemorating 15 years since the Deepwater 
+    Horizon oil spill with a month-long reflection on its progress.
+  buttontext: Learn more
 topics:
   - title: Who We Are
     url: /pages/about-us/council-members/
@@ -32,18 +39,5 @@ topics:
     buttontext: See our reports
 ---
 
-{% comment %}
-Welcome to official Federalist Jekyll template for the U.S Web Design System 2.0
-
-You'll notice that this page only makes reference to two other html files: hero.html and highlights.html
-
-To the edit the home page, you can edit those files directly, create new ones or add content directly to
-this page.
-
-We recommend splitting apart your site's components into their own smaller section so that its easier to
-manage in the long term.
-{% endcomment %}
-
-{% include "hero.html" %}
-{% include "highlights.html", topics:topics %}
-
+{% include 'hero.html', hero: hero %}
+{% include 'highlights.html', topics: topics %}
