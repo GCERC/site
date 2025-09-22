@@ -32,7 +32,7 @@ For more information, media inquiries, or to schedule an interview, please conta
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
 (504) 717-7235  
-[keala.hughes@restorethegulf.gov](mailto:keala.hughes@restorethegulf.gov) 
+keala.hughes@restorethegulf.gov 
 
 **About the Gulf Coast Ecosystem Restoration Council**   
 The Gulf Coast Ecosystem Restoration Council (RESTORE Council) was established by the [_Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012_](https://www.govinfo.gov/content/pkg/PLAW-112publ141/pdf/PLAW-112publ141.pdf) (RESTORE Act) to restore the Gulf of America ecosystem following the Deepwater Horizon oil spill. The RESTORE Council consists of the governors of five Gulf Coast states (Alabama, Florida, Louisiana, Mississippi, and Texas) and the cabinet heads of six federal agencies (the U.S. Department of Agriculture, U.S. Department of the Army, U.S. Department of Commerce, U.S. Department of Homeland Security, and U.S. Department of the Interior, as well as the U.S. Environmental Protection Agency). The Council works in partnership with organizations across the Gulf coast to support restoration efforts and to ensure the long-term health of the Gulf coast’s ecosystems, communities, and economy.
