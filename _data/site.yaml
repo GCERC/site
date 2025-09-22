@@ -6,8 +6,7 @@ description: >-
 alert:
   enabled: true
   heading: "Public Comment Period:"
-  text: Draft 2026 FPL Oct. 15 - 11:59 pm MT November 14, 2025
-  url: /
+  text: Draft 2026 FPL Oct. 15 - 11:59 pm MT November 14, 2025  <a href="/">Submit a public comment</a>
 
 # Twitter handle. Only the handle, not the URL.
 twitter: restorecouncil
