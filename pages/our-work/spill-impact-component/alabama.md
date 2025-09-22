@@ -1,7 +1,5 @@
 ---
 title: Alabama State Expenditure Plan
-permalink: /spill-impact-component/alabama/
-customHeader: "Council Grant for Activity in Alabama SEP"
 grants:
   - title: "Alabama Gulf Seafood Marketing (#7)"
     federalId: "GNTSP20AL0094"
@@ -86,7 +84,7 @@ grants:
     pdfLink: "/uploads/ALABAMA_SEP_FINAL_508_4_1_19_0_0.pdf#page=154"
   - title: "Three Mile Creek Watershed Restoration (#16)"
     federalId: "GNSSP20AL0011"
-    pdfLink: "(/uploads/ALABAMA_SEP_FINAL_508_4_1_19_0_0.pdf#page=111"
+    pdfLink: "/uploads/ALABAMA_SEP_FINAL_508_4_1_19_0_0.pdf#page=111"
 eleventyNavigation:
   key: alabama
   parent: spill-impact-component
@@ -99,4 +97,5 @@ eleventyNavigation:
 - [Alabama SEP 2023 Amendment](/uploads/AL_SEP_Amendment_letter.pdf) - December 4, 2023
 
 For more information on each project award, use the Federal Award ID Number below to search on [USAspending.gov](https://www.usaspending.gov/search/?hash=d0cede4de5827d24bbd9d27076bf18f2).
-{% include "table.html", grants: grants, customHeader: customHeader %}
+
+{% include "table.html", grants: grants, customHeader: "Council Grant for Activity in Alabama SEP" %}

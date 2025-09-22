@@ -1,6 +1,5 @@
 ---
 title: Policies
-permalink: /policies/
 sidenav: false
 ---
 

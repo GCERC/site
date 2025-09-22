@@ -1,7 +1,5 @@
 ---
 title: Florida State Expenditure Plan
-permalink: spill-impact-component/florida/
-customHeader: "Council Grant for Activity in Florida SEP"
 grants:
   - title: "Adaptive Planning and Compliance Project (24-1)"
     federalId: "GNSSP21FL0020"
@@ -143,7 +141,6 @@ eleventyNavigation:
 - [Florida SEP](/uploads/Florida_SEP_FINAL_508_Compliant.pdf) - September 27, 2018
 - [Florida SEP Amendment 1](/uploads/FL_SEP_Amendment_1_REVISED_Gulf_Consortium_508_comp_0.pdf) - August 15, 2019
 - [Florida SEP Amendment 2](/uploads/FL_SEP_Amendment2-GulfConsortium-R3-wTables_508_Table_2_Correct.pdf) - May 20, 2020
-<!-- FLORIDA SEP AMENDMENT 3 PDF NOT SHOWING UP !-->
 - [Florida SEP Amendment 3](/uploads/SEP_FL_Amendment_#3_with_table.pdf) - May 13, 2021
 - [Florida SEP Amendment 4](/uploads/FL_SEP_Amendment_4_Gulf_Consortium_Final_508_compliant.pdf) - April 11, 2022
 - [Florida SEP Amendment 5](/uploads/FL_SEP_Amendment_5_-508_0.pdf) - April 20, 2023
@@ -151,4 +148,5 @@ eleventyNavigation:
 - [Florida SEP Amendment 7](/uploads/FL_SEP_Amendment2-GulfConsortium-R3-wTables_508_Table_2_Correct.pdf) - April 18, 2025
 
 For more information on each project award, use the Federal Award ID Number below to search on [USAspending.gov](https://www.usaspending.gov/search/?hash=d0cede4de5827d24bbd9d27076bf18f2).
-{% include "table.html", grants: grants, customHeader: customHeader %}
+
+{% include "table.html", grants: grants, customHeader: "Council Grant for Activity in Florida SEP" %}

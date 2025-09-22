@@ -106,6 +106,7 @@ members:
         name: Mary Josie Blanchard
         title: Director Gulf Coast Restoration
 ---
+
 <ul class="usa-card-group">
   {%- for member in members -%}
     {%- assign sub_title = member.title | append: ', ' | append: member.agency -%}
