@@ -40,25 +40,51 @@ The Council supports ecosystem restoration that can enhance local communities by
 
 The Council has adopted the following five goals which provide the overarching framework for an integrated and coordinated approach for region-wide Gulf Coast restoration and to help guide the collective actions at the local, state, tribal, and federal levels. These goals were collaboratively developed through and approved through coordination with all eleven members of the RESTORE Council and can be found in the Council approved Comprehensive Plan.
 
-Goal 1
-
-Restore and Conserve Habitat - Restore and conserve the health, diversity, and resilience of key coastal, estuarine, and marine habitats.
-
-Goal 2
-
-Restore Water Quality and Quantity - Restore and protect the water quality and quantity of the Gulf Coast region's fresh, estuarine, and marine waters.
-
-Goal 3
-
-Replenish and Protect Living Coastal and Marine Resources - Restore and protect healthy, diverse, and sustainable living coastal and marine resources.
-
-Goal 4
-
-Enhance Community Resilience - Build upon and sustain communities with the capacity to adapt to short- and long-term changes.
-
-Goal 5
-
-Restore and Revitalize the Gulf Economy - Enhance the sustainability and resiliency of the Gulf economy.
+<div class="restore-goals-table">
+ <table class="usa-table usa-table--striped">
+   <caption>
+    RESTORE Goals
+   </caption>
+   <thead>
+     <tr>
+       <th scope="col">Goal</th>
+       <th scope="col">Description</th>
+     </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <th scope="row">Goal 1</th>
+       <td>
+        Restore and Conserve Habitat - Restore and conserve the health, diversity, and resilience of key coastal, estuarine, and marine habitats.
+       </td>
+     </tr>
+     <tr>
+       <th scope="row">Goal 2</th>
+       <td>
+        Restore Water Quality and Quantity - Restore and protect the water quality and quantity of the Gulf Coast region's fresh, estuarine, and marine waters.
+       </td>
+     </tr>
+     <tr>
+       <th scope="row">Goal 3</th>
+       <td>
+        Replenish and Protect Living Coastal and Marine Resources - Restore and protect healthy, diverse, and sustainable living coastal and marine resources.
+       </td>
+     </tr>
+     <tr>
+       <th scope="row">Goal 4</th>
+       <td>
+        Enhance Community Resilience - Build upon and sustain communities with the capacity to adapt to short- and long-term changes.
+       </td>
+     </tr>
+     <tr>
+       <th scope="row">Goal 5</th>
+       <td>
+        Restore and Revitalize the Gulf Economy - Enhance the sustainability and resiliency of the Gulf economy.
+       </td>
+     </tr>
+   </tbody>
+ </table>
+</div>
 
 By working closely with our restoration partners, the Gulf Coast Ecosystem Restoration Council is making significant progress towards comprehensive Gulf restoration and is providing substantial environmental and economic benefits to current and future generations.
 
