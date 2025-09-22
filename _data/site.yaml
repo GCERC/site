@@ -50,6 +50,7 @@ footer_navigation:
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
 searchgov:
+  api: https://api.gsa.gov/technology/searchgov/v2/results/i14y
   # Only change this if you're using a CNAME. Learn more here: https://search.gov/manual/cname.html
   endpoint: https://search.usa.gov
 
