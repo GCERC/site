@@ -37,11 +37,8 @@ topics:
     alt:
     body: Learn about RESTORE-funded projects in an interactive map and dashboard.
     buttontext: See our reports
-alert:
-  enabled: true
-  text: Public Comment period begins October 15th, 2025 and ends Novemeber 15th, 2025.
-  url: /
 ---
 
 {% include 'hero.html', hero: hero %}
+{%- if site.alert and site.alert.enabled -%}{% include "alert.html" %}{%- endif -%}
 {% include 'highlights.html', topics: topics %}

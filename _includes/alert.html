@@ -1,10 +1,11 @@
-<div class="grid-container padding-top-4 margin-bottom-0" markdown="0">
-    <div class="usa-alert usa-alert--info usa-alert--slim">
-      <div class="usa-alert__body">
-        <p class="usa-alert__text display-flex flex-justify">
-          <strong>{{ alert.text }}</strong>
-          <a class="usa-link" href="{{ alert.url }}">Submit a public comment</a>
-        </p>
-      </div>
+<div class="grid-container padding-top-4 margin-bottom-0">
+  <div class="usa-alert usa-alert--info">
+    <div class="usa-alert__body">
+      <h4 class="usa-alert__heading">{{ site.alert.heading }}</h4>
+      <p class="usa-alert__text">
+        {{ site.alert.text }}
+      </p>
+      <a class="usa-link" href="{{ alert.url }}">Submit a public comment</a>
     </div>
+  </div>
 </div>

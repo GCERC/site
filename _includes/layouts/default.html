@@ -1,6 +1,7 @@
 ---
 layout: layouts/base
 ---
+{%- if site.alert and site.alert.enabled -%}{% include "alert-slim.html" %}{%- endif -%}
 <div id="main-content" class="usa-layout-docs usa-section padding-y-2">
   <div class="grid-container">
     <div class="grid-row grid-gap">
