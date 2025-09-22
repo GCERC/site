@@ -112,6 +112,18 @@ img {
   object-fit: cover;
 }
 
+.usa-alert.usa-alert--info.usa-alert--slim,
+.usa-alert.usa-alert--info.usa-alert--slim .usa-alert__body {
+  background: transparent;
+}
+
+.usa-alert.usa-alert--info.usa-alert--slim {
+  background-color: #fff5c2 !important;
+  border-left: 4px solid #f39200;
+  border-right: 4px solid #f39200;
+  color: #663c00 !important;
+}
+
 figure {
   @include at-media("desktop") {
     &.right {
