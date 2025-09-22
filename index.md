@@ -7,7 +7,7 @@ eleventyNavigation:
   title: Home
 hero:
   title: Reflections on Restoration
-  url: /reflections-on-restoration/
+  url: /pages/reports/reflections-on-restoration/
   body: >
     The Gulf Coast Ecosystem Restoration Council (RESTORE Council) is commemorating 15 years since the Deepwater 
     Horizon oil spill with a month-long reflection on its progress.
