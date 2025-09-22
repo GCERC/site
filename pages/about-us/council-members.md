@@ -1,5 +1,7 @@
 ---
 title: Council Members
+redirect_from:
+  - /people/council-members
 eleventyNavigation:
   key: council-members
   parent: about-us
