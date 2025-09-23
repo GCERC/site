@@ -22,7 +22,7 @@ _Photo Caption: St. Charles Parish leaders and the Louisiana Coastal Protection 
 
 [Watch video of Paradis Canal Gate ribbon cutting.](https://www.youtube.com/watch?v=GKyzoFg9X3U)
 
-*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_]({{ site.subscribe }}) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_]({{ site.subscribe }}) *or* [_Modify your eBlast subscription._]({{ site.modify }})
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  

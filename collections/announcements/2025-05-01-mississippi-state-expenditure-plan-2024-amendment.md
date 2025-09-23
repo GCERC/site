@@ -11,7 +11,7 @@ On April 18, 2025, the Council Chair, the U.S. Environmental Protection Agency, 
 - [State Expenditure Plans](/spill-impact-component/)
 - [Reflections on Restoration](/reflections-on-restoration/)
 - [RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)
-- [Modifying your eBlast Subscription](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+- [Modifying your eBlast Subscription]({{ site.modify }})
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  

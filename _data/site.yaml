@@ -26,6 +26,8 @@ url: "https://restorethegulf.gov"
 
 #Subscribe Link
 subscribe: "https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx"
+#Modify Subscription
+modify: "https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx"
 
 # Digital Analytics Program (DAP) configuration
 dap:

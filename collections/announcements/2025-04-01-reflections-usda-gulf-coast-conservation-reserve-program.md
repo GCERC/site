@@ -26,7 +26,7 @@ Through this program, the USDA’s Natural Resource Conservation Service (NRCS) 
 
 The photo on the top was taken during construction and the one on the bottom was taken after the installation of conservation measures to repair Brock Gully. Photo credit: RESTORE Council
 
-*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_]({{ site.subscribe }}) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx) 
+*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_]({{ site.subscribe }}) *or* [_Modify your eBlast subscription._]({{ site.modify }}) 
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  

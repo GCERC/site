@@ -19,7 +19,7 @@ _Improved in December 2023, the Kings Gate structure is the final water control 
 
 - [Florida State Expenditure Plan](/spill-impact-component/florida)
 - [RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)
-- [Modifying your eBlast Subscription](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+- [Modifying your eBlast Subscription]({{ site.modify }})
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  

@@ -44,7 +44,7 @@ Learn more about 
 - [Mcfaddin NWR Environmental Compliance Documents](/uploads/McFaddin%20NWR%20Environmental%20Compliance%20Merged%20Compressed%2005152025.pdf)
 - [JD Murphree WMA Levee Environmental Compliance Documents](/uploads/JD%20Murphree%20WMA%20Levee%20Environmental%20Compliance%20Merged%20Compressed%2005152025.pdf)
 - [RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)
-- [Modifying your eBlast Subscription](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+- [Modifying your eBlast Subscription]({{ site.modify }})
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
