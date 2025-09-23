@@ -1,0 +1,81 @@
+:root {
+  --dune-1: rgba(233, 221, 210, 0.36);
+  --dune-2: rgba(233, 221, 210, 0.28);
+  --dune-3: rgba(233, 221, 210, 0.2);
+  --band-height: 500px;
+}
+
+.tan-bg {
+  position: relative;
+  min-height: 100vh;
+  isolation: isolate;
+  overflow: hidden;
+}
+
+/* Decorative band anchored to top, always behind content */
+.dunes-band {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--band-height);
+  pointer-events: none;
+  z-index: -1; /* ensures it's below content */
+}
+
+.dune {
+  position: absolute;
+  height: 120%;
+  width: 140%;
+  background: transparent;
+}
+.dune::before {
+  content: "";
+  position: absolute;
+  inset: auto 0 0 0;
+  height: 100%;
+  width: 100%;
+  background: var(--dune-1);
+  border-bottom-left-radius: 100%;
+  border-bottom-right-radius: 0%;
+}
+
+.dune.a {
+  left: -20%;
+  width: 150%;
+}
+
+.dune.c {
+  left: 60%;
+  width: 120%;
+}
+
+/* Corrected border-radius for dune b (flipped corner) */
+.dune.b::before {
+  background: var(--dune-2);
+}
+
+.dune.c::before {
+  background: var(--dune-3);
+}
+
+/* soft fade */
+.dunes-band::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(233, 221, 210, 0.36) 0%,
+    rgba(233, 221, 210, 0.22) 40%,
+    rgba(233, 221, 210, 0.1) 70%,
+    transparent 100%
+  );
+  -webkit-mask-image: linear-gradient(to bottom, #000 35%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #000 35%, transparent 100%);
+}
+
+.tan-bg .grid-container > * {
+  position: relative;
+  z-index: 1;
+}

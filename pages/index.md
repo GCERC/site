@@ -40,5 +40,4 @@ topics:
 ---
 
 {% include 'hero.html', hero: hero %}
-{%- if site.alert and site.alert.enabled -%}{% include "alert.html" %}{%- endif -%}
 {% include 'highlights.html', topics: topics %}

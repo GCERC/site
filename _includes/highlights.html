@@ -1,8 +1,14 @@
-{%- if alert and alert.enabled -%}{% include "alert.html" %}{%- endif -%}
-<div class="grid-container margin-y-6">
-  <h2 class="font-heading-xl text-primary">Featured topics</h2>
-  <ul class="usa-card-group">
-    {%- for t in topics -%}
+<div class="tan-bg">
+  <div class="dunes-band">
+    <div class="dune a"></div>
+    <div class="dune b"></div>
+    <div class="dune c"></div>
+  </div>
+  {%- if site.alert and site.alert.enabled -%}{% include "alert.html" %}{%- endif -%}
+  <div class="grid-container margin-y-6">
+    <h2 class="font-heading-xl text-primary">Featured topics</h2>
+    <ul class="usa-card-group">
+      {%- for t in topics -%}
       <li class="usa-card usa-card--flag desktop:grid-col-6">
         <div class="usa-card__container">
           <div class="usa-card__header">
@@ -10,7 +16,7 @@
           </div>
           <div class="usa-card__media add-aspect-1x1">
             <div class="usa-card__img">
-              <img src="{{ t.img }}" alt="{{ t.alt }}">
+              <img src="{{ t.img }}" alt="{{ t.alt }}" />
             </div>
           </div>
           <div class="usa-card__body">
@@ -21,6 +27,7 @@
           </div>
         </div>
       </li>
-    {%- endfor -%}
-  </ul>
+      {%- endfor -%}
+    </ul>
+  </div>
 </div>
