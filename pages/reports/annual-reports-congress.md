@@ -1,5 +1,7 @@
 ---
 title: Annual Reports to Congress
+redirect_from:
+  - /resources/reports-plans/annual-reports-congress
 lead: >
   Annual Reports to Congress summarize the Council’s fiscal year activities (October 1st - September 30th of the respective year), including but not limited to accomplishments related to funding approvals to date for both the Council-Selected Restoration Component (commonly referred to as “Bucket 2”) and the Spill Impact Component (commonly referred to as “Bucket 3”). Each year, the RESTORE Council votes to approve the respective report. In 2017, the RESTORE Council began incorporating the Centers of Excellence reports into the Annual Reports to Congress.
 eleventyNavigation:

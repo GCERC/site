@@ -1,5 +1,7 @@
 ---
 title: What We Do
+redirect_from:
+  - /what-we-do
 lead: >
   The economy and culture of the Gulf Coast are built on the natural environment. Rivers, marshes, forests, beaches and other ecosystems support tourism, fishing, lifestyles and communities across the Gulf. The Council helps restore and protect these Gulf resources for the benefit of current and future generations.
 eleventyNavigation:

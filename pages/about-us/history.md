@@ -1,5 +1,7 @@
 ---
 title: History
+redirect_from:
+  - /resources/history
 lead: >
   On April 20, 2010, the Deepwater Horizon (DWH) mobile drilling unit suffered a catastrophic blowout in the Gulf of America and over the next 87 days approximately 4.9 million barrels of oil (206 million gallons) were released into the Gulf (U.S. District Court 2015), making the DWH disaster the largest oil spill in the history of the US. Furthermore, 11 workers were killed and 17 critically injured by the explosion and resulting fire. On June 15, 2010, President Obama issued a request to the people of the Gulf Coast and the rest of the nation to commit to the recovery of the region not only from the spill, but to address broader ecosystem challenges brought on by storms, development pressures and other stressors.
 eleventyNavigation:

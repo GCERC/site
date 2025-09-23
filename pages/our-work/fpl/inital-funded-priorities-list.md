@@ -1,5 +1,7 @@
 ---
 title: Initial Funded Priorities List
+redirect_from:
+  - council-selected-restoration-component/inital-funded-priorities-list
 eleventyNavigation:
   key: inital-funded-priorities-list
   parent: council-selected-restoration-component
