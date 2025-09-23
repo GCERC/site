@@ -16,7 +16,7 @@ Background on these funding approvals is provided below. Before voting on whethe
 - [City of Loxley Corn Creek Tributary Restoration project background and environmental compliance documentation](/council-selected-restoration-component/fpl-3)
 - [Carpenter Creek Bayou Texar Watershed Outfalls project background and environmental compliance documentation](/council-selected-restoration-component/fpl-3) 
 - [RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)
-- [Modifying your eBlast Subscription](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+- [Modifying your eBlast Subscription]({{ site.modify }})
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  

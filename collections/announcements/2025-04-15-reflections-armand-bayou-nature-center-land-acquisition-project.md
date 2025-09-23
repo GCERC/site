@@ -26,7 +26,7 @@ ABNC’s acquisition of this highly valuable wildlife habitat expands the preser
 
 [Watch the GulfCorps in Texas: Armand Bayou and Port Aranas Nature Preserve video](https://www.youtube.com/watch?v=PGv8lITMdC8)
 
-*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_]({{ site.subscribe }}) *or* [_Modify your eBlast subscription._]({{ site.modify }})
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
