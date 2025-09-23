@@ -1,5 +1,8 @@
 ---
 title: Annual Financial Reports
+redirect_from:
+  - /resources/reports-plans/annual-financial-reports
+
 lead: >
   This Agency Financial Report provides the financial and performance information for the Gulf Coast Ecosystem Restoration Council (RESTORE Council or Council), enabling the President, Congress, and the American people to assess the RESTORE Council’s performance as provided by the requirements of the:
 eleventyNavigation:

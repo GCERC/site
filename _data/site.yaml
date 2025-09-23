@@ -3,6 +3,11 @@ email: RestoreCouncil@restorethegulf.gov
 description: >-
   The Gulf Coast Ecosystem Restoration Council (RESTORE Council) is a small federal agency established in the wake of the Deepwater Horizon disaster to plan for and carry out restoration across the Gulf Coast.
 
+alert:
+  enabled: true
+  heading: "Public Comment Period:"
+  text: Draft 2026 FPL Oct. 15 - 11:59 pm MT November 14, 2025  <a href="/">Submit a public comment</a>
+
 # Twitter handle. Only the handle, not the URL.
 twitter: restorecouncil
 
@@ -18,6 +23,11 @@ social-media:
 
 # Used to construct absolute URLs throughout the site
 url: "https://restorethegulf.gov"
+
+#Subscribe Link
+subscribe: "https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx"
+#Modify Subscription
+modify: "https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx"
 
 # Digital Analytics Program (DAP) configuration
 dap:
@@ -50,15 +60,15 @@ footer_navigation:
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
 searchgov:
+  api: https://api.gsa.gov/technology/searchgov/v2/results/i14y
   # Only change this if you're using a CNAME. Learn more here: https://search.gov/manual/cname.html
   endpoint: https://search.usa.gov
 
   # Replace this with your search.gov account.
-  affiliate: federalist-uswds-example
+  affiliate: restorethegulf
 
   # Replace this with your access key.
-  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
-
+  access_key: UfTjmXOSRIpVjY3yrqntqoBg0aUCckVj7FpJGfoJ8SQ=
   # This renders the results within the page instead of sending to user to search.gov.
   inline: true
 

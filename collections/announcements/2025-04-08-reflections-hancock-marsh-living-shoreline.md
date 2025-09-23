@@ -20,7 +20,7 @@ _At the Hancock County Marsh Living Shoreline Project, MDEQ and RESTORE leadersh
 
 [Watch the Mississippi Restoration Summit 2023 video.](https://www.youtube.com/watch?v=M-Il2_AhMok)
 
-*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_]({{ site.subscribe }}) *or* [_Modify your eBlast subscription._]({{ site.modify }})
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  

@@ -114,6 +114,18 @@ img {
   object-fit: cover;
 }
 
+.usa-alert.usa-alert--info,
+.usa-alert.usa-alert--info .usa-alert__body,
+.usa-alert.usa-alert--info.usa-alert--slim,
+.usa-alert.usa-alert--info.usa-alert--slim .usa-alert__body {
+  background: transparent;
+}
+.usa-alert.usa-alert--info,
+.usa-alert.usa-alert--info.usa-alert--slim {
+  @include u-bg("yellow-5v");
+  @include u-border-left("accent-warm");
+}
+
 figure {
   @include at-media("desktop") {
     &.right {

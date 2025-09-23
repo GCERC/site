@@ -23,7 +23,7 @@ _Photo Credit: RESTORE Council Staff_
 
 [Watch the Perdido Land Conservation and Habitat Enhancement Land Acquisition Video](https://www.youtube.com/watch?v=5Id2b8a6UCs) 
 
-*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_]({{ site.subscribe }}) *or* [_Modify your eBlast subscription._]({{ site.modify }})
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  

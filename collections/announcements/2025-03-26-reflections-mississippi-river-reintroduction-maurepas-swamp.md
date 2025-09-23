@@ -19,7 +19,7 @@ _largest and last remaining coastal freshwater swamps. Credit: Louisiana CPRA_
 
 The project, in conjunction with a nearby hurricane protection levee, will help improve community resilience and protect infrastructure from storm flooding. In Louisiana, the practice of enhancing community resilience by combining ecosystem restoration projects with flood protection levees is referred to as a “multiple lines of defense” strategy. [Watch a video about the River Reintroduction into Maurepas Swamp project.](https://www.youtube.com/watch?v=DSV4qmokBMg)
 
-*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Modify your eBlast subscription._]({{ site.modify }})
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
