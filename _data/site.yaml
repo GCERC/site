@@ -24,6 +24,9 @@ social-media:
 # Used to construct absolute URLs throughout the site
 url: "https://restorethegulf.gov"
 
+#Subscribe Link
+subscribe: "https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx"
+
 # Digital Analytics Program (DAP) configuration
 dap:
   agency: GCERC

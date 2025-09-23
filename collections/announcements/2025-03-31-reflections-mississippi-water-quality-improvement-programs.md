@@ -22,7 +22,7 @@ Water quality degradation in Mississippi coastal waters is caused by elevated ba
 
 The state of Mississippi’s Gulf Coast Water Quality Improvement Program supports the restoration and protection of natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, and wetlands of coastal Mississippi. Photo Credit: Mississippi State
 
-*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_](https://www.restorethegulf.gov/apps/eblast/Subscribe.aspx) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx) 
+*The RESTORE Council is commemorating 15 years since the Deepwater Horizon oil spill  incident with a month-long reflection on its progress to date implementing meaningful ecosystem and economic restoration across the Gulf Coast.* [_Subscribe to our eBlast_]({{ site.subscribe }}) *or* [_Modify your eBlast subscription._](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx) 
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
