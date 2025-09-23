@@ -30,6 +30,7 @@
             {%- if child.children.size > 0 -%}
               <ul class="usa-sidenav__sublist">
                 {%- for grandchild in child.children -%}
+                  {%- unless grandchild.hideInSideNav -%}
                   <li class="usa-sidenav__item font-sans-2xs">
                     <a
                       href="{{ grandchild.url }}"
@@ -40,6 +41,7 @@
                       {{ grandchild.title }}
                     </a>
                   </li>
+                  {%- endunless -%}
                 {%- endfor -%}
               </ul>
             {%- endif -%}
