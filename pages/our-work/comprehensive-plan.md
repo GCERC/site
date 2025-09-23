@@ -1,5 +1,7 @@
 ---
 title: Restoration Planning
+redirect_from:
+  - /comprehensive-plan
 lead: >
   The RESTORE Act called for a regional approach to restoring the long-term health of the valuable natural ecosystems and economy of the Gulf Coast region. The Council is responsible for developing a Comprehensive Plan to guide a coordinated, regionwide effort to restore, protect, and revitalize the Gulf Coast.
 eleventyNavigation:

@@ -1,5 +1,7 @@
 ---
 title: Funded Priorities List 3
+redirect_from:
+  - /council-selected-restoration-component/fpl-3
 eleventyNavigation:
   key: fpl-3
   parent: council-selected-restoration-component
