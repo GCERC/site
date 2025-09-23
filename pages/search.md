@@ -1,5 +1,5 @@
 ---
-title: Search
+title: Search results
 layout: layouts/search
 permalink: /search/
 sidenav: false
@@ -7,7 +7,6 @@ sidenav: false
 
 {% if site.searchgov %}
 
-  <h1>Search Results</h1>
   <ol id="search-results"></ol>
 {% else %}
   <script>
