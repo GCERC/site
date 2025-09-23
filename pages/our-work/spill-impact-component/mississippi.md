@@ -1,7 +1,5 @@
 ---
 title: Mississippi State Expenditure Plan
-permalink: spill-impact-component/mississippi/
-customHeader: "Council Grant for Activity in Mississippi SEP"
 grants:
   - title: "Beneficial Use of Dredge Material for Marsh Creation and Restoration in Mississippi"
     federalId: "GNSSP21MS0015"
@@ -80,4 +78,5 @@ eleventyNavigation:
 - [2024 Mississippi_SEP Amendment](/uploads/2024_Mississippi_State_Expenditure_Plan_Amendment_for_Council_Submission_4.3.2025_Final.pdf) - April 18, 2025
 
 For more information on each project award, use the Federal Award ID Number below to search on [USAspending.gov](https://www.usaspending.gov/search/?hash=d0cede4de5827d24bbd9d27076bf18f2).
-{% include "table.html", grants: grants, customHeader: customHeader %}
+
+{% include "table.html", grants: grants, customHeader: "Council Grant for Activity in Mississippi SEP" %}

@@ -30,15 +30,11 @@ secondarycards:
 
 On September 14, 2022, the RESTORE Council voted to approve the 2022 Comprehensive Plan Update: Restoring the Gulf Coast’s Ecosystem and Economy (2022 Comprehensive Plan Update). The Council translated the 2022 Comprehensive Plan Update into Spanish and Vietnamese. This is the second update to the 2013 Initial Comprehensive Plan.
 
-Comprehensive Plan and Updates:
+## Comprehensive Plan and Updates:
 
 <ul class="usa-card-group">
 {% for cardlink in cardlinks %}
-  {% assign pdf = cardlink.pdf %}
-  {% assign body_text = cardlink.caption %}
-  {% capture body %}
-    <p><a href="{{ pdf }}" class="text-primary" target="_blank">{{ body_text }}</a></p>
-  {% endcapture %}
+  {% capture body %}<p><a href="{{ cardlink.pdf }}" class="text-primary" target="_blank">{{ cardlink.caption }}</a></p>{% endcapture %}
   {% include "card.html", title: null, photo: cardlink.photo, pdf: cardlink.pdf, body: body %}
 {% endfor %}
 </ul>
@@ -47,13 +43,11 @@ Comprehensive Plan and Updates:
 
 In 2023, the Gulf Coast Ecosystem Restoration Council (RESTORE Council or Council) updated the Gulf Coast Ecosystem Restoration Council 2019 Planning Framework (Planning Framework). The Planning Framework serves as a “bridge” between the Council’s overarching goals and objectives identified in the Comprehensive Plan and the specific restoration projects and programs approved in future FPLs. The Planning Framework identifies five priority approaches and associated techniques, along with their application within specific geographic areas in an effort to give the public and potential funding partners an indication of the types of projects and programs that may be considered for FPL funding consideration.
 
-Planning Framework and Update:
+## Planning Framework and Update:
 
 <ul class="usa-card-group">
 {% for secondarycard in secondarycards %}
-  {% assign pdf = secondarycard.pdf %}
-  {% assign body_text = secondarycard.caption %}
-  {% capture body %}<p><a href="{{ pdf }}" class="text-primary" target="_blank">{{ body_text }}</a></p>{% endcapture %}
+  {% capture body %}<p><a href="{{ secondarycard.pdf }}" class="text-primary" target="_blank">{{ secondarycard.caption }}</a></p>{% endcapture %}
   {% include "card.html", title: null, photo: secondarycard.photo, pdf: secondarycard.pdf, body: body %}
 {% endfor %}
 </ul>

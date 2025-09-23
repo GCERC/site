@@ -10,9 +10,7 @@ eleventyNavigation:
 
 The Council periodically approves Council-Selected Restoration Component funding for batches of projects and programs in what is called a Funded Priorities List (FPL). The Council occasionally amends these FPLs to add additional funding or otherwise modify previously-approved activities. Below are links to the Council’s FPL 3, which was approved in two parts - FPL 3(a) and FPL 3(b). Links to amendments to FPL 3(a) and 3(b) are also provided below.
 
-<br>
-<img src="/img/PRDFT-h4-20150624.jpg" alt="A Great Blue Heron stands gracefully on a fallen tree by the water's edge, scanning the shallow stream for fish. Herons can be found in marshes, swamp and lakeshore habitats." loading="lazy">
-</br>
+!["A Great Blue Heron stands gracefully on a fallen tree by the water's edge"](/img/PRDFT-h4-20150624.jpg)
 
 - [Funded Priorities List 3(a)](/uploads/Final_FPL_3a_Final_Perdido_EC_508_3_2_2020.pdf) - 2020
 - [Funded Priorities List 3(b)](/uploads/FPL3b_Final_Document.pdf) - 2021

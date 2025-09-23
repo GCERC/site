@@ -1,7 +1,5 @@
 ---
 title: Texas State Expenditure Plan
-permalink: spill-impact-component/texas/
-customHeader: "Council Grant for Activity in Texas SEP"
 grants:
   - title: "FY20 RESTORE Nature Based Tourism"
     federalId: "GNTSP20TX0100"
@@ -18,12 +16,10 @@ eleventyNavigation:
   title: Texas State Expenditure Plan
 ---
 
-<link rel="stylesheet" href="/styles/styles.scss">
-
 - [Texas Planning SEP](/uploads/PSEP-TX-approval_letter_from_the_Chair-transmittal_letter-and_PSEP.pdf) - July 29, 2016
 - [Texas SEP](/uploads/TX_SEP_Rev_1_20190129-508.pdf) - March 4, 2019
 - [Texas (SEP) Amendment #1](/uploads/TX_SEP_Amendment_#1_Fin_20200605..pdf) - July 30, 2020
 - [Texas (SEP) Amendment #2](/uploads/TX_SEP_Amendment_2_508_20231109.pdf) - January 17, 2024
 
 For more information on each project award, use the Federal Award ID Number below to search on [USAspending.gov](https://www.usaspending.gov/search/?hash=d0cede4de5827d24bbd9d27076bf18f2).
-{% include "table.html", grants: grants, customHeader: customHeader %}
+{% include "table.html", grants: grants, customHeader: "Council Grant for Activity in Texas SEP" %}

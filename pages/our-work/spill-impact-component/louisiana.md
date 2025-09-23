@@ -1,7 +1,5 @@
 ---
 title: Louisiana State Expenditure Plan Efforts
-permalink: spill-impact-component/louisiana/
-customHeader: "Council Grant for Activity in Louisiana SEP"
 grants:
   - title: "Adaptive Management"
     federalId: "GNTSP17LA0046"
@@ -36,11 +34,9 @@ eleventyNavigation:
   title: Louisiana State Expenditure Plan
 ---
 
-<link rel="stylesheet" href="/styles/styles.scss">
-
 - [Louisiana SEP](/uploads/SEP_LA_20170118_0.pdf) - March 23, 2017
 - [Louisiana SEP Amendment #1](/uploads/Parish_Matching_Project_Selection_Amendment_FINAL_508_Compliant_051818_1.pdf) - June 18, 2022
 - [Louisiana SEP Amendment #2](/uploads/LA_SEPAmendment2Jan22Final.508_reduced_1.pdf) - March 17, 2022
 
 For more information on each project award, use the Federal Award ID Number below to search on [USAspending.gov](https://www.usaspending.gov/search/?hash=d0cede4de5827d24bbd9d27076bf18f2).
-{% include "table.html", grants: grants, customHeader: customHeader %}
+{% include "table.html", grants: grants, customHeader: "Council Grant for Activity in Louisiana SEP" %}

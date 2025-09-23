@@ -18,10 +18,8 @@ The RESTORE Council is commemorating 15-years since the Deepwater Horizon oil sp
 
 <ul class="usa-card-group padding-y-3">
 {% for cardlink in cardlinks %}
-  {% assign pdf = cardlink.pdf %}
-  {% assign body_text = cardlink.caption %}
   {% capture body %}
-    <a href="{{ pdf }}" class="text-primary" target="_blank">{{ body_text }}</a>
+    <a href="{{ cardlink.pdf }}" class="text-primary" target="_blank">{{ cardlink.caption }}</a>
   {% endcapture %}
   {% include "card.html", title: null, photo: cardlink.photo, pdf: cardlink.pdf, body: body %}
 {% endfor %}
@@ -31,6 +29,6 @@ By working closely with its restoration partners, the RESTORE Council is making 
 
 The Council has issued a series of announcements highlighting our work across the Gulf Coast. These highlights are just a few examples of Council-sponsored projects and programs across the Gulf. 
 
-- [View these Reflections on Restoration Progress highlights](/announcements/)
-- [Watch Our Reflections on Restoration video - featuring some of our projects](/announcements/2025/04/17/reflections-restoration-video/)
-- [Visit a map of our RESTORE Projects](/restore-projects)
+- [View these Reflections on Restoration Progress highlights]({{ '../announcements/index.md' | inputPathToUrl }})
+- [Watch Our Reflections on Restoration video - featuring some of our projects]({{ '../../collections/announcements/2025-04-17-reflections-restoration-video.md' | inputPathToUrl }})
+- [Visit a map of our RESTORE Projects]({{ '../our-work/what-we-do/index.md#restore-projects' | inputPathToUrl }})
