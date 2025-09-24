@@ -37,6 +37,8 @@ dap:
 secondary_navigation:
   - name: Contact us
     url: "/contact/"
+  - name: Policies
+    url: "/policies/" 
 
 footer_navigation:
   - name: Accessibility statement
