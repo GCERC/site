@@ -11,7 +11,7 @@ lead: >
   The RESTORE Council includes governors of the States of Alabama, Florida,
   Louisiana, Mississippi and Texas and the Secretaries of the U.S. Departments
   of Agriculture, the Army, Commerce, Homeland Security, the Interior and the
-  Aministrator of the U.S. Environmental Protection Agency. This unique
+  Administrator of the U.S. Environmental Protection Agency. This unique
   governance structure institutionalizes collaboration among government agencies
   with key roles in Gulf coast restoration.
 members:
