@@ -6,7 +6,7 @@ date: 2025-09-25
 
 The Gulf Coast Ecosystem Restoration Council (Council) is seeking public comment on proposals for multiple ecosystem restoration activities located in Texas under its [2021 Funded Priorities List 3b (FPL 3b)]({{ '../../pages/our-work/fpl/fpl-3.md' | inputPathToUrl }}). Specifically, the Council is planning to vote on whether to approve the following:
 
-Proposed FPL 3b Amendment for the [Texas Coastal Water Quality Program](/uploads/FPL3b_TX_Coastal_Water_Quality_Program_ProposalPackage_20200717.pdf):
+Proposed FPL 3b Amendment for the [Texas Coastal Water Quality Program](/uploads/PRPUB-FPL3b_TX_CWQP_Activity_Description_FINAL-20210323.pdf):
 
 - $266,931 in planning funds to complete necessary water quality planning components (originally budgeted for water quality program implementation).
 - $1,000,000 in implementation funding for the Improving Baffin Bay Water Quality project (originally budgeted for water quality program implementation).
