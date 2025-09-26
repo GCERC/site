@@ -32,7 +32,7 @@ Mail must be posted no later than October 27, 2025 to be included in this public
 
 **Learn more about:**
 
-- [Full Proposed Texas Coastal Water Quality Program Amendment and Environmental Compliance documentation](/uploads/Proposed_Texas_FPL3_Amendment_and_Environmental_Compliance_documentation.pdf)
+- [Full Proposed Texas Coastal Water Quality Program Amendment and Environmental Compliance documentation](/uploads/Proposed_Texas_FPL3_Amendment_and_EC_Doc.pdf)
 - [Restore Projects](https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676)
 - [Modifying your eBlast Subscription]({{ site.modify }})
 
