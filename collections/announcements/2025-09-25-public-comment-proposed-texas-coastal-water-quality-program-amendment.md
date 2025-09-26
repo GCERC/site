@@ -4,7 +4,7 @@ permalink: /announcements/2025/09/25/public-comment-proposed-texas-coastal-water
 date: 2025-09-25
 ---
 
-The Gulf Coast Ecosystem Restoration Council (Council) is seeking public comment on proposals for multiple ecosystem restoration activities located in Texas under its [2021 Funded Priorities List 3b (FPL 3b)]({{ '../../pages/our-work/fpl/fpl-3.md' | inputPathToUrl }}). Specifically, the Council is planning to vote on whether to approve the following:
+The Gulf Coast Ecosystem Restoration Council (Council) is seeking public comment on proposals for multiple ecosystem restoration activities located in Texas under its [2021 Funded Priorities List 3b (FPL 3b)](/uploads/FPL3b_Final_Document.pdf). Specifically, the Council is planning to vote on whether to approve the following:
 
 Proposed FPL 3b Amendment for the [Texas Coastal Water Quality Program](/uploads/PRPUB-FPL3b_TX_CWQP_Activity_Description_FINAL-20210323.pdf):
 
