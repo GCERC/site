@@ -77,7 +77,7 @@ members:
         agency: Director Gulf Coast Ecosytem Restoration
   - name: Daniel P. Driscoll
     agency: U.S. Department of the Army
-    title: Assistant Secretary
+    title: Secretary
     photo: /img/sec of army.jpg
     delegates:
       - type: Representative
