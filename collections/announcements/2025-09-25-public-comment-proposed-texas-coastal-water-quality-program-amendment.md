@@ -11,7 +11,7 @@ Proposed FPL 3b Amendment for the [Texas Coastal Water Quality Program](/uploads
 - $266,931 in planning funds to complete necessary water quality planning components (originally budgeted for water quality program implementation).
 - $1,000,000 in implementation funding for the Improving Baffin Bay Water Quality project (originally budgeted for water quality program implementation).
 
-Proposed Reallocation of Unspent [Initial FPL]({{ '../../pages/our-work/fpl/inital-funded-priorities-list.md' | inputPathToUrl }}) funds to FPL3b [Texas Chenier Plain Ecosystem Restoration Program](/uploads/FPL3b_TX_Chenier_Plain_Ecosystem_Restoration_Program_ProposalPackage_20200717.pdf):
+Proposed Reallocation of Unspent [Initial FPL]({{ '../../pages/our-work/fpl/inital-funded-priorities-list.md' | inputPathToUrl }}) funds to FPL3b [Texas Chenier Plain Ecosystem Restoration Program](/uploads/PRPUB-FPL3b_TX_CP_Activity_Description_FINAL-20210323.pdf):
 
 This proposed reallocation would utilize a total of $1,446,270.17 in savings from the Initial FPL that was originally approved for Texas projects (the Matagorda Bay System Priority Landscape Conservation, Bayou Greenways, Bahia Grande Coastal Corridor, and Texas Beneficial Use/Marsh Restoration projects). These Initial FPL projects were completed under budget, and the savings is proposed to be reallocated to the FPL 3b Texas Chenier Plain Ecosystem Restoration Program.
 
