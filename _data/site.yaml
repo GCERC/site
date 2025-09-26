@@ -36,9 +36,7 @@ dap:
 # Site Navigation
 secondary_navigation:
   - name: Contact us
-    url: "/contact/"
-  - name: Policies
-    url: "/policies/" 
+    url: "/contact/" 
 
 footer_navigation:
   - name: Accessibility statement
@@ -49,6 +47,8 @@ footer_navigation:
     url: "/policies/#equal-employment"
   - name: External links
     url: "/policies/#external-links"
+  - name: Policies
+    url: "/policies/"
   - name: Privacy policy
     url: "/policies/#privacy-policy"
   - name: Vulnerability disclosure policy
