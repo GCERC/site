@@ -2,7 +2,7 @@
 title: Public Comment - Proposed Texas Coastal Water Quality Program Amendment
 date: 2025-09-25
 ---
-The Gulf Coast Ecosystem Restoration Council (Council) is seeking public comment on proposals for multiple ecosystem restoration activities located in Texas under its [2021 Funded Priorities List 3b (FPL 3b)]({{ '../../our-work/fpl/fpl-3.md' | inputPathToUrl }}). Specifically, the Council is planning to vote on whether to approve the following:
+The Gulf Coast Ecosystem Restoration Council (Council) is seeking public comment on proposals for multiple ecosystem restoration activities located in Texas under its [2021 Funded Priorities List 3b (FPL 3b)]({{ '../../pages/our-work/fpl/fpl-3.md' | inputPathToUrl }}). Specifically, the Council is planning to vote on whether to approve the following:
 
 Proposed FPL 3b Amendment for the [Texas Coastal Water Quality Program](/uploads/FPL3b_TX_Coastal_Water_Quality_Program_ProposalPackage_20200717.pdf):
 
@@ -10,7 +10,7 @@ Proposed FPL 3b Amendment for the [Texas Coastal Water Quality Program](/uploads
 
 - $1,000,000 in implementation funding for the Improving Baffin Bay Water Quality project (originally budgeted for water quality program implementation).
 
-Proposed Reallocation of Unspent [Initial FPL]({{ '../../our-work/fpl/inital-funded-priorities-list.md' | inputPathToUrl }}) funds to FPL3b [Texas Chenier Plain Ecosystem Restoration Program](/uploads/FPL3b_TX_Chenier_Plain_Ecosystem_Restoration_Program_ProposalPackage_20200717.pdf):
+Proposed Reallocation of Unspent [Initial FPL]({{ '../../pages/our-work/fpl/inital-funded-priorities-list.md' | inputPathToUrl }}) funds to FPL3b [Texas Chenier Plain Ecosystem Restoration Program](/uploads/FPL3b_TX_Chenier_Plain_Ecosystem_Restoration_Program_ProposalPackage_20200717.pdf):
 
 This proposed reallocation would utilize a total of $1,446,270.17 in savings from the Initial FPL that was originally approved for Texas projects (the Matagorda Bay System Priority Landscape Conservation, Bayou Greenways, Bahia Grande Coastal Corridor, and Texas Beneficial Use/Marsh Restoration projects). These Initial FPL projects were completed under budget, and the savings is proposed to be reallocated to the FPL 3b Texas Chenier Plain Ecosystem Restoration Program.
 
