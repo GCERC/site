@@ -1,6 +1,8 @@
 ---
 layout: layouts/default
 permalink: /contact/
+redirect_from:
+  - /contact-us
 title: Contact Us
 sidenav: false
 ---
