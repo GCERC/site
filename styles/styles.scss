@@ -55,6 +55,11 @@ img {
   height: auto;
 }
 
+:focus-visible {
+  outline: 3px solid #0B6AFF;
+  outline-offset: 2px;
+}
+
 .usa-prose {
   a {
     @include u-text("primary");
