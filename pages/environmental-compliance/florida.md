@@ -1,9 +1,12 @@
 ---
 title: Florida Environmental Compliance
-sidenav: true
+redirect_from:
+ - /environmental-compliance/florida
 eleventyNavigation:
   key: Florida
   parent: Environmental Compliance
+  title: Florida Environmental Compliance
+  order: 5
 ---
 
 ## Florida Environmental Compliance
