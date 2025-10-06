@@ -4,6 +4,7 @@ permalink: /environmental-compliance/
 sidenav: false
 eleventyNavigation:
   key: Environmental Compliance
+  url: /environmental-compliance/
   order: 2
 ---
 
