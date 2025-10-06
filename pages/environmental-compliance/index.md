@@ -20,10 +20,10 @@ Funded Priorities List Environmental Compliance
 
 Click on the links below to find environmental compliance documentation for FPL activities located in a state or Gulfwide. These pages list FPL activities that have an approved implementation phase as well as any proposed implementation funding approvals in the given location. FPL planning activities are covered by the Council’s NEPA Categorical Exclusion for planning, research or design activities (link to Council’s NEPA Procedures update, section number).
 
-[Texas](/environmental-compliance/texas/)
-[Louisiana](/environmental-compliance/louisiana/)
-[Mississippi](/environmental-compliance/mississippi/)
-[Alabama](/environmental-compliance/alabama/)
-[Florida](/environmental-compliance/florida/)
-[Gulfwide](/environmental-compliance/gulfwide/)
+* [Texas](/environmental-compliance/texas/)
+* [Louisiana](/environmental-compliance/louisiana/)
+* [Mississippi](/environmental-compliance/mississippi/)
+* [Alabama](/environmental-compliance/alabama/)
+* [Florida](/environmental-compliance/florida/)
+* [Gulfwide](/environmental-compliance/gulfwide/)
 
