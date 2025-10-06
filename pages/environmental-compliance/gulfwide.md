@@ -1,6 +1,9 @@
 ---
 title: Gulfwide Environmental Compliance
 sidenav: true
+eleventyNavigation:
+  key: Gulfwide
+  parent: Environmental Compliance
 ---
 
 ## Gulfwide Environmental Compliance

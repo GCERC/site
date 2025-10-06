@@ -1,6 +1,9 @@
 ---
 title: Alabama Environmental Compliance
 sidenav: true
+eleventyNavigation:
+  key: Alabama
+  parent: Environmental Compliance
 ---
 
 ## Alabama Environmental Compliance

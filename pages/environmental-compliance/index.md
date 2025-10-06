@@ -1,7 +1,10 @@
 ---
 title: Environmental Compliance
 permalink: /environmental-compliance/
-
+sidenav: true
+eleventyNavigation:
+  key: Environmental Compliance
+  parent: Environmental Compliance
 ---
 
 ## Environmental Compliance
