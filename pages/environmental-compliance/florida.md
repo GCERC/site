@@ -1,7 +1,6 @@
 ---
 title: Florida Environmental Compliance
-redirect_from:
- - /environmental-compliance/florida
+
 
 ---
 
