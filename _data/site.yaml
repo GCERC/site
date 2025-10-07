@@ -4,7 +4,7 @@ description: >-
   The Gulf Coast Ecosystem Restoration Council (RESTORE Council) is a small federal agency established in the wake of the Deepwater Horizon disaster to plan for and carry out restoration across the Gulf Coast.
 
 alert:
-  enabled: false
+  enabled: true
   heading: "Public Comment Period:"
   text: Draft 2026 FPL Oct. 15 - 11:59 pm MT November 14, 2025  <a href="/">Submit a public comment</a>
 
