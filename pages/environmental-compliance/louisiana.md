@@ -18,6 +18,5 @@ This page lists FPL activities that have an approved implementation phase as wel
 * N/A
 
 ## Louisiana - Approved Activities
-* Jean Lafitte Canal Backfilling (U.S. Department of Interior)
-* Mississippi River Reintroduction into Maurepas Swamp
-
+* [Jean Lafitte Canal Backfilling (U.S. Department of Interior)](/uploads/EC/FPL_EClib_LA_%20Jean_Lafitte_Canal_Backfilling_FONSI_signed.pdf)
+* [Mississippi River Reintroduction into Maurepas Swamp](/uploads/EC/PRDFT_ROD_%20WSLP_SEIS_Maurepas_Signed_and_508.pdf)
