@@ -16,7 +16,7 @@ This page provides information regarding Gulf Coast Ecosystem Restoration Counci
  
 This page lists FPL activities that have an approved implementation phase as well as any proposed implementation funding approvals in the state. Unless otherwise specified in the activity name, the sponsor of these activities is the Alabama Department of Conservation and Natural Resources. 
 
-## Alabama - Proposed Activities
+### Alabama - Proposed Activities
 * N/A
 
 ## Alabama - Approved Activities
