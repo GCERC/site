@@ -23,9 +23,9 @@ This page lists FPL activities that have an approved implementation phase as wel
 * [Apalachicola Watershed Agriculture Water Quality Improvements](/uploads/EC/FPL_EClib_FL_Apalachicola_Agriculture_WQ_CE_signed.pdf)
 * [Beach Haven - Joint Stormwater & Wastewater Improvement Project - Phase II](/uploads/EC/FPL_EClib_FL_Beach_Haven_CE_signed.pdf)
 * Florida Strategic Gulf Coast Land Acquisition Program
-* Florida Water Quality Program
-  * [Carpenter Creek Bayou Texar Watershed Outfalls Project](/uploads/EC/PRPUB_Bayou_Texas_Signed_CE_and_EC_Docs_20240117.pdf)
-  * [Highway 297A Retrofit Pond Project](/uploads/EC/PRDFT_Signed_HWY_297A_CE_Form_508_and_EC_Docs_20240925.pdf)
+Florida Water Quality Program
+  *   [Carpenter Creek Bayou Texar Watershed Outfalls Project](/uploads/EC/PRPUB_Bayou_Texas_Signed_CE_and_EC_Docs_20240117.pdf)
+  *   [Highway 297A Retrofit Pond Project](/uploads/EC/PRDFT_Signed_HWY_297A_CE_Form_508_and_EC_Docs_20240925.pdf)
 * [Money Bayou Wetlands Restoration](/uploads/EC/Money_Bayou_Record_of_Decision_Combined_with_EC_Signed.pdf) (U.S. Department of Commerce)
 * [Palm River Restoration Project Phase II](/uploads/EC/Palm_River_Signed_FONSI_Plus_EC_Docs.pdf) , East McKay Bay
 * [Pensacola Bay Living Shoreline - Phase I](/uploads/EC/PRPUB_Pensacola_Bay_Living_Shoreline_Signed_FONSI_and_404_Permit_Package_20241218.pdf)
