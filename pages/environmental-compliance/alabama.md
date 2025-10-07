@@ -2,8 +2,11 @@
 title: Alabama Environmental Compliance
 sidenav: true
 eleventyNavigation:
-  key: Alabama
-  parent: Environmental Compliance
+eleventyNavigation:
+  key: alabama
+  parent: environmental-compliance
+  title: Alabama Environmental Compliance
+  order: 4
 ---
 
 Council-Selected Restoration Component 

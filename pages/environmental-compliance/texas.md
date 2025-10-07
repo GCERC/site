@@ -5,7 +5,7 @@ eleventyNavigation:
   key: texas
   parent: environmental-compliance
   title: Texas Environmental Compliance
-  order: 2
+  order: 1
 ---
 
 ## Texas Environmental Compliance

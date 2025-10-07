@@ -1,9 +1,11 @@
 ---
 title: Louisiana Environmental Compliance
-sidenav: false
+sidenav: true
 eleventyNavigation:
-  key: Louisiana
-  parent: Environmental Compliance
+  key: louisiana
+  parent: environmental-compliance
+  title: Louisnana Environmental Compliance
+  order: 2
 ---
 
 ## Council-Selected Restoration Component Environmental Compliance Documentation Louisiana
