@@ -6,8 +6,6 @@ eleventyNavigation:
   parent: Environmental Compliance
 ---
 
-## Alabama Environmental Compliance
-
 Council-Selected Restoration Component 
 Environmental Compliance Documentation
 Alabama
@@ -16,10 +14,10 @@ This page provides information regarding Gulf Coast Ecosystem Restoration Counci
  
 This page lists FPL activities that have an approved implementation phase as well as any proposed implementation funding approvals in the state. Unless otherwise specified in the activity name, the sponsor of these activities is the Alabama Department of Conservation and Natural Resources. 
 
-Alabama - Proposed Activities
+## Alabama - Proposed Activities
 * N/A
 
-Alabama - Approved Activities
+## Alabama - Approved Activities
 * Alabama Submerged Aquatic Vegetation Restoration & Monitoring Program
 * Coastal Alabama Regional Water Quality Program
  * City of Fairhope Sanitary Sewer Overflow
