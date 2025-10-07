@@ -4,7 +4,7 @@ sidenav: true
 eleventyNavigation:
   key: louisiana
   parent: environmental-compliance
-  title: Louisnana Environmental Compliance
+  title: Louisiana Environmental Compliance
   order: 2
 ---
 
