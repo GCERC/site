@@ -6,9 +6,6 @@ eleventyNavigation:
   key: Environmental Compliance
   parent: Environmental Compliance
 ---
-
-## Environmental Compliance
-
 This page provides information regarding Gulf Coast Ecosystem Restoration Council (Council) compliance with the National Environmental Policy Act (NEPA) and other environmental requirements for Funded Priorities Lists (FPLs).
 
 ## Efficient, Effective and Transparent Environmental Compliance 
@@ -17,7 +14,7 @@ As with all federal agencies, the Council must comply with all applicable federa
 
 ## NEPA Procedures
 
-The Council’s NEPA procedures establish the Council's policies for ensuring compliance with NEPA.
+The Council’s [NEPA](/uploads/EC/GCERC_NEPA_Procedures_May_2015.pdf) procedures establish the Council's policies for ensuring compliance with NEPA.
 
 ## Funded Priorities List Environmental Compliance
 
