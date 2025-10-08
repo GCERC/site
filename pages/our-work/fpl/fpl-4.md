@@ -1,12 +1,14 @@
 ---
+
 title: Funded Priorities List 4
 redirect_from:
   - /council-selected-restoration-component/fpl-4
+sidenav: false
 eleventyNavigation:
   key: fpl-4
   parent: council-selected-restoration-component
   title: Funded Priorities List 4
-  hideInSideNav: true
+  
 ---
 
 ## Draft 2026 Funded Priorities List
