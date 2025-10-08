@@ -6,6 +6,7 @@ eleventyNavigation:
   key: fpl-4
   parent: council-selected-restoration-component
   title: Funded Priorities List 4
+  hideInSideNav: true
 ---
 
 ## Draft 2026 Funded Priorities List
@@ -133,3 +134,77 @@ More detail on the proposed 2026 FPL activities is provided in the table below, 
     </tbody>
 </table>
 
+## Public Comment Period:
+
+The draft 2026 FPL will be available for a 30-day public review and comment period beginning October 15, 2025 and ending at 11:59 pm MT November 14, 2025. During this time frame, the Council will provide an overview of the proposed 2026 FPL via live public webinars and in-person meetings, per the schedule provided on the Council’s website.
+
+<table>
+    <caption>Draft 2025 FPL Public Comment Webinar and Public Meeting Schedule</caption>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Location</th>
+            <th>Time</th>
+            <th>Registration Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Oct. 15, 2025</td>
+            <td>Opening Day Overview Virtual Webinar</td>
+            <td>1:00 PM CST</td>
+            <td><a href="#" class="table-link">Register</a></td>
+        </tr>
+        <tr>
+            <td>Oct. 15, 2025</td>
+            <td>Opening Day Overview Virtual Webinar</td>
+            <td>6:00 PM CST</td>
+            <td><a href="#" class="table-link">Register</a></td>
+        </tr>
+        <tr>
+            <td>Oct. 16, 2025</td>
+            <td>Spanish Fort Community Center,<br>7361 Spanish Fort Blvd.,<br>Spanish Fort, AL 36527</td>
+            <td>6:00 PM CST</td>
+            <td><a href="#" class="table-link">Register</a></td>
+        </tr>
+        <tr>
+            <td>Oct. 23, 2025</td>
+            <td>Mississippi- Virtual Webinar</td>
+            <td>5:00 PM CST</td>
+            <td><a href="#" class="table-link">Register</a></td>
+        </tr>
+        <tr>
+            <td>Oct 27, 2025</td>
+            <td>Florida- Virtual Webinar</td>
+            <td>3:00 PM CST</td>
+            <td><a href="#" class="table-link">Register</a></td>
+        </tr>
+        <tr>
+            <td>Oct. 28, 2025</td>
+            <td>Louisiana- Virtual Webinar</td>
+            <td>11:00 AM CST</td>
+            <td><a href="#" class="table-link">Register</a></td>
+        </tr>
+        <tr>
+            <td>Oct. 29, 2025</td>
+            <td>Cameron County Parks Administration Building<br>33174 State Park Rd 100,<br>South Padre Island, TX 78597</td>
+            <td>6:00 PM CST</td>
+            <td><a href="#" class="table-link">Register</a></td>
+        </tr>
+        <tr>
+            <td>Oct. 30, 2025</td>
+            <td>Bayside Regional Park Community Center<br>4833 10th St,<br>Bacliff, TX 77518</td>
+            <td>5:30 PM CST</td>
+            <td><a href="#" class="table-link">Register</a></td>
+        </tr>
+    </tbody>
+</table>
+
+
+The public will be able to provide feedback during the public comment period, both verbally and in writing during public webinars, by email, and via the online Planning, Environment and Public Comment (PEPC) site (include link to site here). 
+
+## Future Council Vote:
+
+The Council will review all comments received before the deadline, develop a written response to comments, and consider those comments as it proceeds to finalize the 2026 FPL. The Council will then vote on whether to approve the draft 2026 FPL. It is anticipated that this vote will occur in the spring of 2026.
+
+The Council appreciates those stakeholders who are interested in Gulf restoration and participate in the Council’s restoration activities by offering comments during the public comment period. If you are interested in receiving notifications of upcoming webinars, public meetings, or public comment periods, please subscribe to receive the Council’s automatic email updates at www.restorethegulf.gov. Locate the “Stay in Touch” box and click “Subscribe” to select the “Public Meetings and Public Comment Periods” category, in addition to other categories of interest to you. 
