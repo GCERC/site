@@ -130,7 +130,7 @@ More detail on the proposed 2026 FPL activities is provided in the table below, 
         </tr>
         <tr>
             <td><a href="/uploads/2026FPL/Department_of_the_Interior_Tribal_Youth_Conservation_Corps_(TYCC)_Proposal_Package.pdf" class="table-link">Tribal Youth Conservation Corps</a></td>
-            <td><a href="/uploads/2026FPL/DOI_BIA_Tribal_Youth_Coastal_Restoration_Program_Proposal_Package_FPL_3b.pdf" class="table-link">DOI BIA - Tribal Youth Coastal Restoration Program Package - FPL 3b - Environmental Compliance</a></td>
+            <td><a href="/uploads/2026FPL/DOI_BIA_Tribal_Youth_Coastal_Restoration_Program_Proposal_Package_FPL_3b.pdf" class="table-link">DOI BIA - Tribal Youth Coastal Restoration Program Package - FPL 3b</a> - Environmental Compliance</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
     </tbody>
