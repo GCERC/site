@@ -29,7 +29,7 @@ More detail on the proposed 2026 FPL activities is provided in the table below, 
     <tbody>
         <tr>
             <td rowspan="7">Coastal Texas,<br>Chenier Plain, Texas-Louisiana</td>
-            <td>[Managing Wetlands Migration Corridors and Natural Floodways Program](/uploads/2026FPL/Texas_%20Managing_Wetlands_Migration_Corridors_and_Natural_Floodways_Program_Proposal_Package.docx.pdf)</td>
+            <td><a href="/uploads/2026FPL/Texas_%20Managing_Wetlands_Migration_Corridors_and_Natural_Floodways_Program_Proposal_Package.docx.pdf" class="table-link">Managing Wetlands Migration Corridors and Natural Floodways Program</a></td>
             <td>N/A</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
