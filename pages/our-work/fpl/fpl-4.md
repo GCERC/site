@@ -34,103 +34,103 @@ More detail on the proposed 2026 FPL activities is provided in the table below, 
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>Oyster Reef Restoration Program</td>
+            <td><a href="/uploads/2026FPL/Texas_ Oyster_Reef_Restoration_Program_Proposal_Package.docx.pdf" class="table-link">Oyster Reef Restoration Program</a></td>
             <td>N/A</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>Protecting and Restoring Waterbird Rookery Habitat Program</td>
+            <td><a href="/uploads/2026FPL/Texas_ Protecting_and_Restoring_Waterbird_Rookery_Habitat_Program_Proposal_Package.docx.pdf" class="table-link"> Protecting and Restoring Waterbird Rookery Habitat Program</a></td>
             <td>N/A</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>Colonial Waterbird Rookery Island Restoration</td>
+            <td><a href="/uploads/2026FPL/Department_of_the_Interior_ Colonial_Waterbird_Rookery_Island_Restoration_Proposal_Package.pdf" class="table-link">Colonial Waterbird Rookery Island Restoration</a></td>
             <td>N/A</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>Development of Indicators and Identification of Thresholds to Support Reef Restoration - Environmental Compliance</td>
+            <td><a href="/uploads/2026FPL/Department_of_the_Interior_ Development_of_Indicators_and _Identification_of_Thresholds_to_Support_Reef_Restoration_Proposal_Package.pdf" class="table-link">Development of Indicators and Identification of Thresholds to Support Reef Restoration - Environmental Compliance</a></td>
             <td>N/A</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>Wind-Tidal Flat Restoration Pilot, Phase 2</td>
-            <td>DOI Decommissioning Onshore Orphaned Energy Facilities on NPS and FWS lands (includes Wind-Tidal Flat Restoration Pilot - FPL 3b) - Environmental Compliance</td>
+            <td><a href="/uploads/2026FPL/Department_of_the_Interior_Wind_Tidal_Flat_Restoration_Pilot_Proposal_Package.pdf" class="table-link">Wind-Tidal Flat Restoration Pilot, Phase 2</a></td>
+            <td> - Environmental Compliance</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>DOI Decommissioning Onshore Orphaned Energy Facilities on NPS and FWS lands (includes Wind-Tidal Flat Restoration Pilot - FPL 3b) - Environmental Compliance</td>
+            <td><a href="/uploads/2026FPL/DOI_Decomissioning_Onshore_Orphaned_Energy_Facilities_Including_Wind_Tidal_Flats_Project_Proposal_Package.pdf" class="table-link">DOI Decommissioning Onshore Orphaned Energy Facilities on NPS and FWS lands (includes Wind-Tidal Flat Restoration Pilot - FPL 3b)</a> - Environmental Compliance</td>
             <td>Link</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
             <td>Pontchartrain Basin, Louisiana- Mississippi</td>
-            <td>Chandeleur Islands Restoration Project</td>
+            <td><a href="/uploads/2026FPL/Louisiana_ Chandeleur_Islands_Restoration_Project_Proposal_Package.docx.pdf" class="table-link">Chandeleur Islands Restoration Project</a></td>
             <td>N/A</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
             <td rowspan="2">Mississippi Sound, Mississippi- Alabama</td>
-            <td>Restoration of Grand Batture Island (joint project with Mississippi and Alabama)</td>
+            <td><a href="/uploads/2026FPL/Mississippi_and_Alabama_ Restoration_of_Grand_Batture_Island_Proposal_Package.pdf" class="table-link">Restoration of Grand Batture Island (joint project with Mississippi and Alabama)</a></td>
             <td>N/A</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>Coastal Nearshore Habitat Restoration and Development Program</td>
-            <td>MS Coastal Nearshore Habitat Restoration and Development Program - FPL 3b</td>
+            <td><a href="/uploads/2026FPL/Mississippi_ Coastal_Nearshore_Habitat_Restoration_and_Development_Program_Proposal_Package.pdf" class="table-link">Coastal Nearshore Habitat Restoration and Development Program</a></td>
+            <td><a href="/uploads/2026FPL/MS_Coastal_Nearshore_Habitat_Restoration_and_Development_Program_Proposal_Package.pdf" class="table-link">MS Coastal Nearshore Habitat Restoration and Development Program - FPL 3b</a></td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
             <td rowspan="3">Mobile Bay and Mobile-Tensaw Delta, Perdido Bay and River</td>
-            <td>Coastal Alabama Regional Water Quality Program</td>
-            <td>AL WQ Program Proposal Package - FPL3b</td>
+            <td><a href="/uploads/2026FPL/Alabama_ Coastal_Alabama_Regional_Water_Quality_Program_Proposal_Package.pdf" class="table-link">Coastal Alabama Regional Water Quality Program</a></td>
+            <td><a href="/uploads/2026FPL/AL_WQ_Program_Proposal_Package_FPL_3b.pdf" class="table-link">AL WQ Program Proposal Package - FPL3b</a></td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>Upper Mobile Bay Beneficial Use Wetland Creation Site</td>
+            <td><a href="/uploads/2026FPL/Alabama_ Upper_Mobile_Bay_Beneficial_Use_Wetland_Creation_Site_(Implementation)_Proposal_Package.pdf" class="table-link">Upper Mobile Bay Beneficial Use Wetland Creation Site</a></td>
             <td>AL Upper Mobile Bay Beneficial Use Wetland Creation Site (Planning) - Initial FPL</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>West End Dauphin Island, Alabama Renourishment and Resilience</td>
+            <td><a href="/uploads/2026FPL/Alabama_ West_End_Dauphin_Island_Restoration_Proposal_Package.pdf" class="table-link">West End Dauphin Island, Alabama Renourishment and Resilience</a></td>
             <td>N/A</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
             <td rowspan="4">Coastal Florida</td>
-            <td>Florida Gulf Coast Resilience Program</td>
-            <td>FL Gulf Coast Resilience Program - FPL 3b</td>
+            <td><a href="/uploads/2026FPL/Florida_ Gulf_Coast_Resilience_Program_Proposal_Package.pdf" class="table-link">Florida Gulf Coast Resilience Program</a></td>
+            <td><a href="/uploads/2026FPL/Florida_ Gulf_Coast_Resilience_Program_Proposal_Package.pdf" class="table-link">FL Gulf Coast Resilience Program - FPL 3b</a></td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>Florida Gulf Coast Tributaries Hydrologic Restoration Program</td>
-            <td>FL Gulf Coast Tributaries Hydrologic Restoration Program Package - FPL 3b</td>
+            <td><a href="/uploads/2026FPL/Florida_ Gulf_Coast_Tributaries_Hydrologic_Restoration_Program_Proposal_Package.pdf" class="table-link">Florida Gulf Coast Tributaries Hydrologic Restoration Program</a></td>
+            <td><a href="/uploads/2026FPL/FL_Gulf_Coast_Tributaries_Hydrologic_Restoration_Program_Proposal_Package_FPL_3b.pdf" class="table-link">FL Gulf Coast Tributaries Hydrologic Restoration Program Package - FPL 3b</a></td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>Florida Water Quality Improvement Program</td>
-            <td>FL Water Quality Improvement Program Package - FPL 3b</td>
+            <td><a href="/uploads/2026FPL/Florida_ Water_Quality_Improvement_Program_Proposal_Package.pdf" class="table-link">Florida Water Quality Improvement Program</a></td>
+            <td><a href="/uploads/2026FPL/FL_Water_Quality_Improvement_Program_Proposal_Package_FPL_3b.pdf" class="table-link">FL Water Quality Improvement Program Package - FPL 3b</a></td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>Enhance Coastal Resilience Through Beach and Dune Restoration, Escambia County - Environmental Compliance</td>
+            <td><a href="/uploads/2026FPL/Department_of_the_Interior_ Enhance_Coastal_Resilience_Through_Beach_and_Dune_Restoration_Proposal_Package.pdf" class="table-link">Enhance Coastal Resilience Through Beach and Dune Restoration, Escambia County</a> - Environmental Compliance</td>
             <td>N/A</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
             <td rowspan="3">Gulf-wide</td>
-            <td>Trash Free Waters Program Benefiting Communities in the Gulf Coast</td>
+            <td><a href="/uploads/2026FPL/Environmental_Protection_Agency_ Trash_Free_Waters_Program_Proposal_Package.pdf" class="table-link">Trash Free Waters Program Benefiting Communities in the Gulf Coast</a></td>
             <td>N/A</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>Gulf Coast Conservation Reserve Program</td>
-            <td>USDA - Gulf Coast Conservation Reserve Program Package - FPL 3b - Environmental Compliance</td>
+            <td><a href="/uploads/2026FPL/United_States_Department_of_Agriculture_ Gulf_Coast_Conservation_Reserve_Proposal_Packet.pdf" class="table-link">Gulf Coast Conservation Reserve Program</a></td>
+            <td><a href="/uploads/2026FPL/USDA_Gulf_Coast_Conservation_Reserve_Program_Proposal_Package_FPL_3b.pdf" class="table-link">USDA - Gulf Coast Conservation Reserve Program Package - FPL 3b</a> - Environmental Compliance</td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
         <tr>
-            <td>Tribal Youth Conservation Corps</td>
-            <td>DOI BIA - Tribal Youth Coastal Restoration Program Package - FPL 3b - Environmental Compliance</td>
+            <td><a href="/uploads/2026FPL/Department_of_the_Interior_Tribal_Youth_Conservation_Corps_(TYCC)_Proposal_Package.pdf" class="table-link">Tribal Youth Conservation Corps</a></td>
+            <td><a href="/uploads/2026FPL/DOI_BIA_Tribal_Youth_Coastal_Restoration_Program_Proposal_Package_FPL_3b.pdf" class="table-link">DOI BIA - Tribal Youth Coastal Restoration Program Package - FPL 3b - Environmental Compliance</a></td>
             <td><a href="#" class="table-link">Link</a></td>
         </tr>
     </tbody>
