@@ -155,49 +155,49 @@ The draft 2026 FPL will be available for a 30-day public review and comment peri
             <td>Oct. 15, 2025</td>
             <td>Opening Day Overview Virtual Webinar</td>
             <td>1:00 PM CST</td>
-            <td><a href="#" class="table-link">Register</a></td>
+            <td><a href="https://attendee.gotowebinar.com/register/710543347277166171" class="table-link">Register</a></td>
         </tr>
         <tr>
             <td>Oct. 15, 2025</td>
             <td>Opening Day Overview Virtual Webinar</td>
             <td>6:00 PM CST</td>
-            <td><a href="#" class="table-link">Register</a></td>
+            <td><a href="https://attendee.gotowebinar.com/register/2869970990089922395" class="table-link">Register</a></td>
         </tr>
         <tr>
             <td>Oct. 16, 2025</td>
             <td>Spanish Fort Community Center,<br>7361 Spanish Fort Blvd.,<br>Spanish Fort, AL 36527</td>
             <td>6:00 PM CST</td>
-            <td><a href="#" class="table-link">Register</a></td>
+            <td><a href="https://attendee.gotowebinar.com/register/6182710464137204567" class="table-link">Register</a></td>
         </tr>
         <tr>
             <td>Oct. 23, 2025</td>
             <td>Mississippi- Virtual Webinar</td>
             <td>5:00 PM CST</td>
-            <td><a href="#" class="table-link">Register</a></td>
+            <td><a href="https://attendee.gotowebinar.com/register/2065276912628192089" class="table-link">Register</a></td>
         </tr>
         <tr>
             <td>Oct 27, 2025</td>
             <td>Florida- Virtual Webinar</td>
             <td>3:00 PM CST</td>
-            <td><a href="#" class="table-link">Register</a></td>
+            <td><a href="https://attendee.gotowebinar.com/register/6523924106608905565" class="table-link">Register</a></td>
         </tr>
         <tr>
             <td>Oct. 28, 2025</td>
             <td>Louisiana- Virtual Webinar</td>
             <td>11:00 AM CST</td>
-            <td><a href="#" class="table-link">Register</a></td>
+            <td><a href="https://attendee.gotowebinar.com/register/6043852041154592088" class="table-link">Register</a></td>
         </tr>
         <tr>
             <td>Oct. 29, 2025</td>
             <td>Cameron County Parks Administration Building<br>33174 State Park Rd 100,<br>South Padre Island, TX 78597</td>
             <td>6:00 PM CST</td>
-            <td><a href="#" class="table-link">Register</a></td>
+            <td><a href="https://attendee.gotowebinar.com/register/3962488624402629207" class="table-link">Register</a></td>
         </tr>
         <tr>
             <td>Oct. 30, 2025</td>
             <td>Bayside Regional Park Community Center<br>4833 10th St,<br>Bacliff, TX 77518</td>
             <td>5:30 PM CST</td>
-            <td><a href="#" class="table-link">Register</a></td>
+            <td><a href="https://attendee.gotowebinar.com/register/8809244731290580316" class="table-link">Register</a></td>
         </tr>
     </tbody>
 </table>
@@ -207,6 +207,6 @@ The public will be able to provide feedback during the public comment period, bo
 
 ## Future Council Vote:
 
-The Council will review all comments received before the deadline, develop a written response to comments, and consider those comments as it proceeds to finalize the 2026 FPL. The Council will then vote on whether to approve the draft 2026 FPL. It is anticipated that this vote will occur in the spring of 2026.
+The Council will review all comments received before the deadline, develop a written response to comments, and consider those comments as it proceeds to finalize the 2026 FPL. The Council will then vote on whether to approve the draft <a href="#">2026 FPL</a>. It is anticipated that this vote will occur in the spring of 2026.
 
-The Council appreciates those stakeholders who are interested in Gulf restoration and participate in the Council’s restoration activities by offering comments during the public comment period. If you are interested in receiving notifications of upcoming webinars, public meetings, or public comment periods, please subscribe to receive the Council’s automatic email updates at www.restorethegulf.gov. Locate the “Stay in Touch” box and click “Subscribe” to select the “Public Meetings and Public Comment Periods” category, in addition to other categories of interest to you. 
+The Council appreciates those stakeholders who are interested in Gulf restoration and participate in the Council’s restoration activities by offering comments during the public comment period. If you are interested in receiving notifications of upcoming webinars, public meetings, or public comment periods, please subscribe to receive the Council’s automatic email updates at <a href="https://www.restorethegulf.gov">www.restorethegulf.gov</a>. Locate the “Stay in Touch” box and click “Subscribe” to select the “Public Meetings and Public Comment Periods” category, in addition to other categories of interest to you. 
