@@ -16,7 +16,7 @@ This page provides information regarding Gulf Coast Ecosystem Restoration Counci
 This page lists FPL activities that have an approved implementation phase as well as any proposed implementation funding approvals in the state. Unless otherwise specified in the activity name, the sponsor of these activities is the Texas Commission on Environmental Quality. 
 
 ## Texas - Proposed Activities
-* The draft 2026 FPL includes a proposed funding increase for Wind Tidal Flats Pilot, Phase 2. The U.S. Department of Interior (DOI), the sponsor of the project, has advised the Council that the additional activities proposed for 2026 funding are covered by the environmental compliance documentation used for the Council’s original approval in FPL 3. 
+* The draft 2026 FPL includes a proposed funding increase for [Wind Tidal Flats Pilot](/uploads/EC/PRDFT-Final_Council_CE_Wind_Tidal_Flats_Signed_508-20210524.pdf), Phase 2. The U.S. Department of Interior (DOI), the sponsor of the project, has advised the Council that the additional activities proposed for 2026 funding are covered by the environmental compliance documentation used for the Council’s original approval in FPL 3. 
 * The draft 2026 FPL also includes proposed funding for the project entitled [Development of Indicators and Identification of Thresholds to Support Reef Restoration](/uploads/EC/EC_Docs_Combined_DOI_Development_of_Indicators_and_Reef_Restoration_2026%20FPL.pdf), Texas, sponsored by DOI.
  
 ## Texas- Approved Activities
@@ -33,5 +33,5 @@ This page lists FPL activities that have an approved implementation phase as wel
 * [Texas Land Acquisition Program for Coastal Conservation](/uploads/EC/FPL_3b_Final_CE_TX_Land_Acquisition_Signed_508_04282021.pdf)
 * Texas Shoreline Protection Through Living Shorelines Program
   * [Dagger Point Stabilization Project](/uploads/EC/Dagger_Point_FONSI_and_EC_signed.pdf)
-* Wind Tidal Flats Pilot (U.S. Department of Interior)
+* [Wind Tidal Flats Pilot](/uploads/EC/PRDFT-Final_Council_CE_Wind_Tidal_Flats_Signed_508-20210524.pdf) (U.S. Department of Interior)
 
