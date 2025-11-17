@@ -15,13 +15,7 @@ The activities proposed for funding would provide significant benefits to the Gu
 * Private land conservation and ecological restoration on agricultural lands across the Gulf; and 
 * Scientific efforts to help build the knowledge needed to advance Gulf restoration. 
 
-“As Chair of the RESTORE Council, I recognize that the Gulf of America is a vital natural resource and
-
-economic asset that plays a crucial role in supporting our nation’s economy. I commend the Gulf of
-
-America states for their leadership in the federal-state collaboration that produced this impressive array
-
-of proposed coastal investments totaling more than $403 Million,” said **David Fotouhi, Deputy**
+“As Chair of the RESTORE Council, I recognize that the Gulf of America is a vital natural resource and economic asset that plays a crucial role in supporting our nation’s economy. I commend the Gulf of America states for their leadership in the federal-state collaboration that produced this impressive array of proposed coastal investments totaling more than $403 Million,” said **David Fotouhi, Deputy**
 
 **Administrator of U.S. Environmental Protection Agency and Chair of the RESTORE Council.** “This initiative underscores our commitment to cooperative federalism and cross-agency partnership in support of clean air, land, and water for every American.”
 
