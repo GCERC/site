@@ -2,8 +2,6 @@
 title: Draft 2026 FPL Released for Public Comment- November 20, 2025
 date: 2025-11-17
 ---
-**November 17, 2025** 
-
 (New Orleans, LA) Today, the Gulf Coast Ecosystem Restoration Council (RESTORE Council) is releasing the draft of its  fourth Funded Priorities List (FPL),  which includes over $403 Million in proposed funding for water quality improvement, habitat conservation and restoration, and other ecosystem projects and programs across the Gulf Coast.  This draft 2026 FPL includes 19 ecosystem restoration projects and programs which would build upon over $685 million in restoration activities previously funded by the RESTORE Council. The Council will initiate a public comment period on the proposed slate of activities on November 20, 2025.
 
 The activities proposed for funding would provide significant benefits to the Gulf Coast, including: 
