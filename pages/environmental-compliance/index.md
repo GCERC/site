@@ -4,7 +4,7 @@ permalink: /environmental-compliance/
 sidenav: true
 eleventyNavigation:
   key: environmental-compliance
-  parent: home
+  parent: our-work
   title: Environmental Compliance
   order: 5
   hideChildrenFromTopNav: true
