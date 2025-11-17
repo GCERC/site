@@ -1,6 +1,5 @@
 ---
 title: Florida Environmental Compliance
-sidenav: true
 eleventyNavigation:
   key: florida
   parent: environmental-compliance

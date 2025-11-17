@@ -1,6 +1,5 @@
 ---
 title: Louisiana Environmental Compliance
-sidenav: true
 eleventyNavigation:
   key: louisiana
   parent: environmental-compliance

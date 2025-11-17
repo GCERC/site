@@ -1,7 +1,5 @@
 ---
 title: Texas Environmental Compliance
-permalink: /environmental-compliance/texas/
-sidenav: true
 eleventyNavigation:
   key: texas
   parent: environmental-compliance
