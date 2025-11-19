@@ -1,13 +1,10 @@
 ---
 title: Environmental Compliance
-permalink: /environmental-compliance/
-sidenav: true
 eleventyNavigation:
   key: environmental-compliance
-  parent: home
+  parent: our-work
   title: Environmental Compliance
-  order: 5
-  hideChildrenFromTopNav: true
+  order: 4
 ---
 This page provides information regarding Gulf Coast Ecosystem Restoration Council (Council) compliance with the National Environmental Policy Act (NEPA) and other environmental requirements for Funded Priorities Lists (FPLs).
 
@@ -23,10 +20,10 @@ The Council’s [NEPA procedures](/uploads/EC/GCERC_NEPA_Procedures_May_2015.pdf
 
 Click on the links below to find environmental compliance documentation for FPL activities located in a state or Gulfwide. These pages list FPL activities that have an approved implementation phase as well as any proposed implementation funding approvals in the given location. FPL planning activities are covered by the Council’s NEPA Categorical Exclusion for planning, research or design activities (link to Council’s NEPA Procedures update, section number).
 
-* [Texas](/environmental-compliance/texas/)
-* [Louisiana](/environmental-compliance/louisiana/)
-* [Mississippi](/environmental-compliance/mississippi/)
-* [Alabama](/environmental-compliance/alabama/)
-* [Florida](/environmental-compliance/florida/)
-* [Gulfwide](/environmental-compliance/gulfwide/)
+* [Texas](/our-work/environmental-compliance/texas/)
+* [Louisiana](/our-work/environmental-compliance/louisiana/)
+* [Mississippi](/our-work/environmental-compliance/mississippi/)
+* [Alabama](/our-work/environmental-compliance/alabama/)
+* [Florida](/our-work/environmental-compliance/florida/)
+* [Gulfwide](/our-work/environmental-compliance/gulfwide/)
 

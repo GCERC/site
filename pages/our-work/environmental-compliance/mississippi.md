@@ -1,6 +1,5 @@
 ---
 title: Mississippi Environmental Compliance
-sidenav: true
 eleventyNavigation:
   key: mississippi
   parent: environmental-compliance
