@@ -16,44 +16,44 @@ date: 2025-11-21
     </thead>
     <tbody>
         <tr>
-            <td>Dec. 1, 2025</td>
+            <td class="text-no-wrap">Dec. 1, 2025</td>
             <td>Cameron County Parks 
                 Administration Building 
                 33174 State Park Rd 100, 
                 South Padre Island, TX 78597
             </td>
-            <td>6:00 PM CST</td>
+            <td class="text-no-wrap">6:00 PM CST</td>
         </tr>
         <tr>
-            <td>Dec. 2, 2025</td>
+            <td class="text-no-wrap">Dec. 2, 2025</td>
             <td>Bayside Regional Park 
                 Community Center 
                 4833 10th St, Bacliff, TX 77518
             </td>
-            <td>5:30 PM CST</td>
+            <td class="text-no-wrap">5:30 PM CST</td>
         </tr>
         <tr>
-            <td>Dec. 10, 2025</td>
+            <td class="text-no-wrap">Dec. 10, 2025</td>
             <td>Mississippi- Virtual Webinar</td>
-            <td>5:30 PM CST</td>
+            <td class="text-no-wrap">5:30 PM CST</td>
         </tr>
         <tr>
-            <td>Dec. 11, 2025</td>
+            <td class="text-no-wrap">Dec. 11, 2025</td>
             <td>Louisiana- Virtual Webinar</td>
-            <td>1:00 PM CST</td>
+            <td class="text-no-wrap">1:00 PM CST</td>
         </tr>
         <tr>
-            <td>Dec. 11, 2025</td>
+            <td class="text-no-wrap">Dec. 11, 2025</td>
             <td>Florida- Virtual Webinar</td>
-            <td>5:30 PM CST</td>
+            <td class="text-no-wrap">5:30 PM CST</td>
         </tr>
         <tr>
-            <td>Dec. 17, 2025</td>
+            <td class="text-no-wrap">Dec. 17, 2025</td>
             <td>Spanish Fort Community Center, 
                 7361 Spanish Fort Blvd., 
                 Spanish Fort, AL 36527
             </td>
-            <td>5:30 PM CST</td>
+            <td class="text-no-wrap">5:30 PM CST</td>
         </tr>
     </tbody>
 </table>
