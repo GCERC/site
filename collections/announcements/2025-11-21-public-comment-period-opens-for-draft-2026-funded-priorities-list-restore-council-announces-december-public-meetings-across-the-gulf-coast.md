@@ -3,8 +3,6 @@ title: Public Comment Period Opens for Draft 2026 Funded Priorities List;
   RESTORE Council Announces December Public Meetings Across the Gulf Coast
 date: 2025-11-21
 ---
-**Public Comment Period Opens for Draft 2026 Funded Priorities List; RESTORE Council Announces December Public Meetings Across the Gulf Coast**
-
 **New Orleans, LA** — Yesterday, the Gulf Coast Ecosystem Restoration Council (RESTORE Council) announced that the public comment period for the draft 2026 Funded Priorities List (FPL) is officially underway through 11:59 pm MST on January 2, 2026. Over the coming weeks, the Council will hold a series of public meetings across the Gulf Coast.
 
 <table>
