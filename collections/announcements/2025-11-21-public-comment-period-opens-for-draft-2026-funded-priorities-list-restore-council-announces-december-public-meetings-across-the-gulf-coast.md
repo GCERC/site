@@ -18,16 +18,6 @@ date: 2025-11-21
     </thead>
     <tbody>
         <tr>
-            <td>Nov. 20, 2025</td>
-            <td>Opening Day Overview Virtual Webinar</td>
-            <td>1:00 PM CST</td>
-        </tr>
-        <tr>
-            <td>Nov. 20, 2025</td>
-            <td>Opening Day Overview Virtual Webinar</td>
-            <td>6:00 PM CST</td>
-        </tr>
-        <tr>
             <td>Dec. 1, 2025</td>
             <td>Cameron County Parks 
                 Administration Building 
