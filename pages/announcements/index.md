@@ -6,7 +6,7 @@ eleventyNavigation:
   key: announcements
   parent: home
   title: Announcements
-  order: 4
+  order: 5
   hideChildrenFromTopNav: true
 pagination:
   data: collections.announcements
@@ -14,6 +14,7 @@ pagination:
   alias: posts
   reverse: true
 ---
+
 {%- for post in posts -%}
-  {%- include 'collection-item.html', post: post -%}
+{%- include 'collection-item.html', post: post -%}
 {%- endfor -%}
