@@ -68,5 +68,3 @@ eleventyNavigation:
     </div>
   </div>
 {%- endif -%}
-
-{%- include 'pagination-links.html' -%}
