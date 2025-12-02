@@ -9,6 +9,11 @@ eleventyNavigation:
   title: Media Gallery
   order: 4
   hideChildrenFromTopNav: true
+pagination:
+  data: collections.media
+  size: 10
+  alias: posts
+  reverse: true
 ---
 {%- assign media_count = 0 -%}
 {%- for post in posts -%}
@@ -20,7 +25,7 @@ eleventyNavigation:
 {%- if media_count > 0 -%}
   <div class="margin-top-2">
     <ul class="usa-card-group grid-row grid-gap">
-      {%- for post in posts -%}
+      {%- for post in posts reversed -%}
         {%- if post.url -%}
           <li class="usa-card tablet:grid-col-6">
             <div class="usa-card__container height-full">
