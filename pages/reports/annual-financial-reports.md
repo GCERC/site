@@ -22,12 +22,12 @@ eleventyNavigation:
 
 ## Reports by Fiscal Year
 
-- [Fiscal Year 2024](/uploads/FY24%20AFR_Final_%20v1%20for%20publication_vt111424.pdf)
+- [Fiscal Year 2024](/uploads/FY24_AFR_Final_v1_for_publication_vt111424.pdf)
 - [Fiscal Year 2023](/uploads/AFR_GCERC_FY23_v7_508_0.pdf)
 - [Fiscal Year 2022](/uploads/AFR_FY22_508_112922.pdf)
 - [Fiscal Year 2021](/uploads/AFR_FY21-20220112_508_1.pdf)
-- [Fiscal Year 2020](/uploads/AFR%20FY20%20Final%2011-16-2020_508.pdf)
-- [Fiscal Year 2019](/uploads/Final%20AFR%20FY19_111819_VT_KJH.pdf)
-- [Fiscal Year 2018](/uploads/MASTER_AFR%202018_V4_%20508%20Compliant_JRH.pdf)
-- [Fiscal Year 2017](/uploads/AFR%20_2017_508%20Compliant_ba_update.pdf)
-- [Fiscal Year 2016](/uploads/AFR%20FY%202016_20161129.pdf)
+- [Fiscal Year 2020](/uploads/AFR_FY20_Final_11-16-2020_508.pdf)
+- [Fiscal Year 2019](/uploads/Final_AFR_FY19_111819_VT_KJH.pdf)
+- [Fiscal Year 2018](/uploads/MASTER_AFR_2018_V4_508_Compliant_JRH.pdf)
+- [Fiscal Year 2017](/uploads/AFR_2017_508_Compliant_ba_update.pdf)
+- [Fiscal Year 2016](/uploads/AFR_FY_2016_20161129.pdf)
