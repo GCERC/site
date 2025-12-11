@@ -25,7 +25,7 @@ pagination:
 {%- if media_count > 0 -%}
   <div class="margin-top-2">
     <ul class="usa-card-group grid-row grid-gap">
-      {%- for post in posts reversed -%}
+      {%- for post in posts -%}
         {%- if post.url -%}
           <li class="usa-card tablet:grid-col-6">
             <div class="usa-card__container height-full">
