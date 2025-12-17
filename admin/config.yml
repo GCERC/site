@@ -5,7 +5,7 @@ backend:
   base_url: https://pages.cloud.gov
   auth_endpoint: external/auth/github
   preview_context: pages/build
-  branch: main
+  branch: bh-cms-updates
   use_graphql: true
 
 ##
@@ -144,7 +144,7 @@ collections:
       depth: 100
       summary: "{{title}}"
       subfolders: false
-      index_file: "index.md"
+      index_file: "index"
     editor:
       preview: false
     slug: "{{slug}}"
