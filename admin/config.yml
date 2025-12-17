@@ -138,6 +138,84 @@ collections:
       - { label: "Body", name: "body", widget: "markdown", required: false }
   - label: "Pages"
     name: "pages"
+    folder: "pages"
+    create: true
+    nested:
+      depth: 100
+      summary: "{{title}}"
+      subfolders: false
+      index_file: "index.md"
+    editor:
+      preview: false
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Permalink",
+          name: "permalink",
+          widget: "string",
+          required: false,
+          hint: "Optional: override the generated URL (e.g. /custom/path/).",
+        }
+      - {
+          label: "Redirect From",
+          name: "redirect_from",
+          widget: "list",
+          required: false,
+          hint: "Add any legacy paths that should redirect here (e.g. /old-page/).",
+        }
+      - {
+          label: "Lead",
+          name: "lead",
+          widget: "text",
+          required: false,
+          hint: "Optional summary that appears below the heading on some layouts.",
+        }
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "string",
+          required: false,
+          hint: "Optional layout override (e.g. layouts/base).",
+        }
+      - label: "Eleventy Navigation"
+        name: "eleventyNavigation"
+        widget: "object"
+        required: false
+        collapsed: false
+        fields:
+          - {
+              label: "Key",
+              name: "key",
+              widget: "string",
+              hint: "Unique ID for this page in the navigation tree.",
+            }
+          - {
+              label: "Parent",
+              name: "parent",
+              widget: "string",
+              required: false,
+              hint: "Optional parent key to nest this page in the nav.",
+            }
+          - {
+              label: "Title",
+              name: "title",
+              widget: "string",
+              required: false,
+              hint: "Override the nav label (defaults to the page title if omitted).",
+            }
+          - {
+              label: "Order",
+              name: "order",
+              widget: "number",
+              value_type: "int",
+              required: false,
+              hint: "Lower numbers appear first within the same nav level.",
+            }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Council Members"
+    name: "members"
     files:
       - label: "Members"
         name: "about"
