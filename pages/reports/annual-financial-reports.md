@@ -22,6 +22,7 @@ eleventyNavigation:
 
 ## Reports by Fiscal Year
 
+- [Fiscal Year 2025](/uploads/FY25_AFR_Official_Final_OIG_12-12_Clean.pdf)
 - [Fiscal Year 2024](/uploads/FY24_AFR_Final_v1_for_publication_vt111424.pdf)
 - [Fiscal Year 2023](/uploads/AFR_GCERC_FY23_v7_508_0.pdf)
 - [Fiscal Year 2022](/uploads/AFR_FY22_508_112922.pdf)
