@@ -15,6 +15,7 @@ The Council periodically approves Council-Selected Restoration Component funding
 - [Funded Priorities List 3(a)](/uploads/Final_FPL_3a_Final_Perdido_EC_508_3_2_2020.pdf) - 2020
 - [Funded Priorities List 3(b)](/uploads/FPL3b_Final_Document.pdf) - 2021
 - Amendments to FPL 3(a) and FPL 3(b):
+  - [Texas Water Quality and Chenier Plains Restoration Programs and Projects](/uploads/Texas_FPL_3b_Amendment_12172025.pdf) - 2025
   - [Pensacola Bay Living Shoreline](/uploads/PRDFT_Pensacola_LS_FPL_Amendment_Summary_20241218.pdf) - 2024
   - [Highway 297A Retrofit Pond Project](/uploads/Hwy_297a_Retrofit_Pond_Project_FPL_Amendment_Summary_508_20240926.docx) - 2024
   - [Norton Creek Sanitary Sewer Inflow and Infiltration Rehabilitation Project](/uploads/Norton_Creek_FPL_Amendment_Summary_508_20240926.docx) - 2024
