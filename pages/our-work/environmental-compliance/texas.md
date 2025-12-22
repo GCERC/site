@@ -21,6 +21,7 @@ This page lists FPL activities that have an approved implementation phase as wel
 * [Bahia Grande Coastal Corridor](/uploads/EC/FPL_EClib_TX_Bahia_Grande_Corridor_FONSI_signed.pdf)
 * [Bahia Grande Wetland System Restoration](/uploads/EC/Bahia_Grande_WR_FONSI_508_compliant_merged_with_other_EC_Documentation.pdf) (U.S. Department of Commerce)
 * [Bayou Greenways](/uploads/EC/FPL_EClib_TX_Bayou_Greenways_Imp_CE_signed.pdf) 
+  * [Improving Baffin Bay Water Quality Project](/uploads/Baffin_Bay_WQ_Merged_EC_Documents_Signed_FINAL.pdf)
 * Matagorda Bay System Priority Landscape Conservation - 
   * [Matagorda Peninsula](/uploads/EC/FPL_EClib_TX_Matagorda_Bay_Landscape_Conservation_FONSI_signed.pdf)
   * [Off Matagora Peninsula](/uploads/EC/Matagorda_CE_Signed.pdf)
