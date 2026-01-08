@@ -12,6 +12,7 @@ eleventyNavigation:
 
 ## Plans by Fiscal Year
 
+- [Fiscal Year 2028](/uploads/RESTORE_Council_FY2028_Annual_Performance_Plan_508.pdf)
 - [Fiscal Year 2027](/uploads/RESTORE-Council_FY2027-Annual-Performance-Plan.pdf)
 - [Fiscal Year 2026](/uploads/Annual-Performance-Plan_FY2026.pdf)
 - [Fiscal Year 2025](/uploads/Annual_Perfomance_Plan_FY2025_508.pdf)
