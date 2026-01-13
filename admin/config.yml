@@ -142,6 +142,7 @@ collections:
     create: true
     nested:
       depth: 10
+      subfolders: false
     filter:
       field: "cms"
       value: true
