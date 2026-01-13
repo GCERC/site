@@ -5,7 +5,7 @@ backend:
   base_url: https://pages.cloud.gov
   auth_endpoint: external/auth/github
   preview_context: pages/build
-  branch: main
+  branch: bh-cms-updates
   use_graphql: true
 
 ##
@@ -143,11 +143,6 @@ collections:
     filter:
       field: "cms"
       value: true
-    nested:
-      depth: 100
-      subfolders: true
-      index_file: "index"
-      summary: "{{title}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
