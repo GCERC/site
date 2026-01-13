@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: what-we-do
   title: Creating Jobs and Strengthening Coastal Economies
   hideInSideNav: true
+cms: true
 ---
 
 The Council’s investments support the economies of Gulf states by providing jobs, promoting seafood and tourism, and restoring and protecting natural resources at the foundation of a strong Gulf economy. The Council also supports local economies through seafood promotion and tourism projects such as boat ramps, artificial reefs and improvements to state and federal parks. Across the Gulf, the Council’s investments provide jobs for planners, engineers, construction workers, scientists, and others working to protect and restore the coastal environment.

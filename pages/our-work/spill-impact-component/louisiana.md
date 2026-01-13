@@ -32,6 +32,7 @@ eleventyNavigation:
   key: louisiana
   parent: spill-impact-component
   title: Louisiana State Expenditure Plan
+cms: true
 ---
 
 - [Louisiana SEP](/uploads/SEP_LA_20170118_0.pdf) - March 23, 2017

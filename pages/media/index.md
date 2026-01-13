@@ -14,15 +14,18 @@ pagination:
   size: 10
   alias: posts
   reverse: true
+cms: false
 ---
+
 {%- assign media_count = 0 -%}
 {%- for post in posts -%}
-  {%- if post.url -%}
-    {%- assign media_count = media_count | plus: 1 -%}
-  {%- endif -%}
+{%- if post.url -%}
+{%- assign media_count = media_count | plus: 1 -%}
+{%- endif -%}
 {%- endfor -%}
 
 {%- if media_count > 0 -%}
+
   <div class="margin-top-2">
     <ul class="usa-card-group grid-row grid-gap">
       {%- for post in posts -%}

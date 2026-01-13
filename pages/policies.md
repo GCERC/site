@@ -1,6 +1,7 @@
 ---
 title: Policies
 sidenav: false
+cms: true
 ---
 
 ## Accessibility statement

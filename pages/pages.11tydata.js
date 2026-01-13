@@ -1,13 +1,13 @@
-export default {
+module.exports = {
   permalink: (data) => {
     let pagePath = data.page.inputPath
       .replace(/^\.\/pages/, "")
       .replace(/\.(md|html|njk)$/, "");
 
-    if (pagePath.endsWith("/index")) {
-      pagePath = pagePath.slice(0, -6) + "/";
+    if (pagePath.endsWith("/index") || pagePath.endsWith("/_index")) {
+      pagePath = pagePath.replace(/\/_?index$/, "/");
     } else {
-      pagePath += "/index.html"; // Add .html extension for non-index files
+      pagePath += "/index.html";
     }
 
     return pagePath;

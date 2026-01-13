@@ -134,6 +134,7 @@ eleventyNavigation:
   key: florida
   parent: spill-impact-component
   title: Florida State Expenditure Plan
+cms: true
 ---
 
 - [Florida Planning SEP](/uploads/Florida_PSEP_Final_1.pdf) - May 21, 2015
