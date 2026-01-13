@@ -1,12 +1,12 @@
 ## Comment out when doing local development
-backend:
-  name: github
-  repo: gcerc/site
-  base_url: https://pages.cloud.gov
-  auth_endpoint: external/auth/github
-  preview_context: pages/build
-  branch: bh-cms-updates
-  use_graphql: true
+# backend:
+#   name: github
+#   repo: gcerc/site
+#   base_url: https://pages.cloud.gov
+#   auth_endpoint: external/auth/github
+#   preview_context: pages/build
+#   branch: bh-cms-updates
+#   use_graphql: true
 
 ##
 ## Uncomment when doing local development on Netlify CMS
@@ -15,9 +15,9 @@ backend:
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ##
 
-# backend:
-#   name: git-gateway
-# local_backend: true
+backend:
+  name: git-gateway
+local_backend: true
 
 media_folder: img
 public_folder: /img
@@ -26,6 +26,72 @@ logo_url: https://pages.cloud.gov/images/logos/pages-logo-blue.svg
 
 editor:
   preview: false
+
+fields_common: &fields_common
+  - { label: "Title", name: "title", widget: "string" }
+  - {
+      label: "Permalink",
+      name: "permalink",
+      widget: "string",
+      required: false,
+      hint: "Optional: override the generated URL (e.g. /custom/path/).",
+    }
+  - {
+      label: "Redirect From",
+      name: "redirect_from",
+      widget: "list",
+      required: false,
+      hint: "Add any legacy paths that should redirect here (e.g. /old-page/).",
+    }
+  - {
+      label: "Lead",
+      name: "lead",
+      widget: "text",
+      required: false,
+      hint: "Optional summary that appears below the heading on some layouts.",
+    }
+  - {
+      label: "Layout",
+      name: "layout",
+      widget: "string",
+      required: false,
+      hint: "Optional layout override (e.g. layouts/base).",
+    }
+  - label: "Eleventy Navigation"
+    name: "eleventyNavigation"
+    widget: "object"
+    required: false
+    collapsed: false
+    fields:
+      - {
+          label: "Key",
+          name: "key",
+          widget: "string",
+          hint: "Unique ID for this page in the navigation tree.",
+        }
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "string",
+          required: false,
+          hint: "Optional parent key to nest this page in the nav.",
+        }
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          required: false,
+          hint: "Override the nav label (defaults to the page title if omitted).",
+        }
+      - {
+          label: "Order",
+          name: "order",
+          widget: "number",
+          value_type: "int",
+          required: false,
+          hint: "Lower numbers appear first within the same nav level.",
+        }
+  - { label: "Body", name: "body", widget: "markdown" }
 
 collections:
   - name: "announcements"
@@ -53,7 +119,7 @@ collections:
     editor:
       preview: false
     slug: "{{slug}}"
-    summary: "{{title}}"
+    summary: "[{{date}}] {{title}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
@@ -136,88 +202,23 @@ collections:
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown", required: false }
-  - label: "Pages"
-    name: "pages"
+  - name: "pages"
+    label: "Pages"
     folder: "pages"
-    create: true
-    nested:
-      depth: 10
-      subfolders: false
     filter:
       field: "cms"
       value: true
-    meta: { path: { widget: string, label: "Path", index_file: "index" } }
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - {
-          label: "Permalink",
-          name: "permalink",
-          widget: "string",
-          required: false,
-          hint: "Optional: override the generated URL (e.g. /custom/path/).",
-        }
-      - {
-          label: "Redirect From",
-          name: "redirect_from",
-          widget: "list",
-          required: false,
-          hint: "Add any legacy paths that should redirect here (e.g. /old-page/).",
-        }
-      - {
-          label: "Lead",
-          name: "lead",
-          widget: "text",
-          required: false,
-          hint: "Optional summary that appears below the heading on some layouts.",
-        }
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "string",
-          required: false,
-          hint: "Optional layout override (e.g. layouts/base).",
-        }
-      - label: "Eleventy Navigation"
-        name: "eleventyNavigation"
-        widget: "object"
-        required: false
-        collapsed: false
-        fields:
-          - {
-              label: "Key",
-              name: "key",
-              widget: "string",
-              hint: "Unique ID for this page in the navigation tree.",
-            }
-          - {
-              label: "Parent",
-              name: "parent",
-              widget: "string",
-              required: false,
-              hint: "Optional parent key to nest this page in the nav.",
-            }
-          - {
-              label: "Title",
-              name: "title",
-              widget: "string",
-              required: false,
-              hint: "Override the nav label (defaults to the page title if omitted).",
-            }
-          - {
-              label: "Order",
-              name: "order",
-              widget: "number",
-              value_type: "int",
-              required: false,
-              hint: "Lower numbers appear first within the same nav level.",
-            }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - label: "Council Members"
-    name: "members"
+    fields: *fields_common
+    nested:
+      depth: 100
+      subfolders: false
+    meta: { path: { widget: string, label: "Path", index_file: "_index" } }
+  - name: "single-pages"
+    label: "Single Pages"
     files:
-      - label: "Members"
-        name: "about"
-        file: "pages/who-we-are/council-members.md"
+      - label: "Council Members"
+        name: "council-members"
+        file: "pages/about-us/council-members.md"
         fields:
           - label: Members
             name: members
