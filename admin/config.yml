@@ -6,7 +6,7 @@ backend:
   auth_endpoint: external/auth/github
   preview_context: pages/build
   branch: main
-  use_graphql: true
+  # use_graphql: true
 
 ##
 ## Uncomment when doing local development on Netlify CMS
