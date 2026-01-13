@@ -1,4 +1,4 @@
-export default function (data) {
+module.exports = function (data) {
   return {
     pagination: {
       data: "collections.media",
@@ -8,4 +8,4 @@ export default function (data) {
       before: (items) => (items && items.length ? items : ["media-placeholder"]),
     },
   };
-}
+};

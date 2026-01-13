@@ -9,6 +9,7 @@ eleventyNavigation:
   parent: about-us
   title: History
   order: 3
+cms: true
 ---
 
 ![Map of the Gulf coast](/img/PRDFT-Gulf-20150920.jpg)

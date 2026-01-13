@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: what-we-do
   title: Improving Water Quality and Working with Private Landowners
   hideInSideNav: true
+cms: true
 ---
 
 Clean water is essential for healthy and prosperous Gulf communities. Water quality supports recreational and commercial fisheries and tourism; without it, coastal ecosystems are degraded, along with the environmental and economic benefits these ecosystems provide. The Council invests heavily in this cornerstone of the Gulf environment with projects that upgrade and expand wastewater and stormwater treatment systems. The Council restores wetlands, oyster beds, and other coastal habitats that provide natural water quality improvement. The Council also works closely with private landowners such as farmers to support voluntary land management practices that reduce pollution before it enters the streams and bayous that lead to the Gulf.

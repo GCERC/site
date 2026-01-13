@@ -12,6 +12,7 @@ eleventyComputed:
     key: announcements-{{year[0]}}
     parent: announcements
     title: "{{ year[0] }}"
+cms: false
 ---
 
 <ul class="usa-collection">

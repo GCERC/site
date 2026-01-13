@@ -3,6 +3,7 @@ title: Search results
 layout: layouts/search
 permalink: /search/
 sidenav: false
+cms: true
 ---
 
 {% if site.searchgov %}

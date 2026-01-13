@@ -26,6 +26,7 @@ secondarycards:
   - pdf: /uploads/2023_Planning_Framework.pdf
     photo: /img/2023_Planning_Framework_Page_cover_edited.jpg
     caption: 2023 Planning Framework Update
+cms: true
 ---
 
 On September 14, 2022, the RESTORE Council voted to approve the 2022 Comprehensive Plan Update: Restoring the Gulf Coast’s Ecosystem and Economy (2022 Comprehensive Plan Update). The Council translated the 2022 Comprehensive Plan Update into Spanish and Vietnamese. This is the second update to the 2013 Initial Comprehensive Plan.

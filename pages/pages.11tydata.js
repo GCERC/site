@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   permalink: (data) => {
     let pagePath = data.page.inputPath
       .replace(/^\.\/pages/, "")

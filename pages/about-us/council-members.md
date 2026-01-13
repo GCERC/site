@@ -107,6 +107,7 @@ members:
       - type: Representative
         name: Mary Josie Blanchard
         title: Director Gulf Coast Restoration
+cms: true
 ---
 
 <ul class="usa-card-group">

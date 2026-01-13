@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: what-we-do
   title: Leveraging Funds for Bigger Results
   hideInSideNav: true
+cms: true
 ---
 
 The Council maximizes the ecosystem benefits of its investments by leveraging funds with other restoration partners. These partnerships mean bigger projects with greater environmental results. This leveraging can be seen in the Council’s investments in linear projects such as living shorelines, which can be incrementally extended as new funding sources are added. Some examples include the Rockefeller Refuge Shoreline Stabilization project, Manchac Landbridge Shoreline Protection project, Hancock County Marsh Living Shoreline project, and the ongoing Pensacola Bay Living Shoreline project.

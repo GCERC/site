@@ -5,4 +5,5 @@ eleventyNavigation:
   parent: home
   title: About Us
   order: 1
+cms: true
 ---

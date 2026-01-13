@@ -140,15 +140,13 @@ collections:
     name: "pages"
     folder: "pages"
     create: true
+    filter:
+      field: "cms"
+      value: true
     nested:
       depth: 100
-      summary: "{{title}}"
       subfolders: false
       index_file: "index"
-    editor:
-      preview: false
-    slug: "{{slug}}"
-    summary: "{{title}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {

@@ -13,6 +13,7 @@ pagination:
   size: 10
   alias: posts
   reverse: true
+cms: false
 ---
 
 {%- for post in posts -%}
