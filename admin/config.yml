@@ -143,10 +143,10 @@ collections:
     nested:
       depth: 10
       subfolders: false
-      index_file: "index"
     filter:
       field: "cms"
       value: true
+    meta: { path: { widget: string, label: "Path", index_file: "index" } }
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
