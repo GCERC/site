@@ -3,7 +3,12 @@ title: Who We Are
 redirect_from:
   - /who-we-are
 lead: >
-  The Gulf Coast Ecosystem Restoration Council (RESTORE Council) is a small federal agency established in the wake of the Deepwater Horizon disaster to plan for and carry out restoration across the Gulf Coast. Led by the Governors of the five Gulf states and heads of 6 federal agencies, the RESTORE Council funds and oversees ecological and economic recovery projects sponsored by its members.
+  The Gulf Coast Ecosystem Restoration Council (RESTORE Council) is a small
+  federal agency established in the wake of the Deepwater Horizon disaster to
+  plan for and carry out restoration across the Gulf Coast. Led by the Governors
+  of the five Gulf states and heads of 6 federal agencies, the RESTORE Council
+  funds and oversees ecological and economic recovery projects sponsored by its
+  members.
 eleventyNavigation:
   key: who-we-are
   parent: about-us
@@ -11,8 +16,7 @@ eleventyNavigation:
   order: 0
 cms: true
 ---
-
-The Council manages over $3.2 billion in ecosystem restoration funding with a small staff. It continues to collaboratively develop and support Deepwater Horizon disaster recovery projects including habitat protection, wetland restoration, water quality improvement and a range of other large scale ecosystem and economic activities from Texas to Florida.
+The Council manages over $5 billion in ecosystem restoration funding with a small staff. It continues to collaboratively develop and support Deepwater Horizon disaster recovery projects including habitat protection, wetland restoration, water quality improvement and a range of other large scale ecosystem and economic activities from Texas to Florida.
 
 ![Vision Statement - A healthy and productive Gulf ecosystem achieved through collaboration on strategic restoration projects and programs](/img/UpdatedVisionStatement.jpg)
 
