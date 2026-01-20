@@ -103,7 +103,7 @@ collections:
       preview: false
     slug: "{{date}}-{{slug}}"
     summary: "[{{date}}] {{title}}"
-    preview_path: media/{{slug}}
+    preview_path: announcements/{{slug}}
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
@@ -122,7 +122,7 @@ collections:
       preview: false
     slug: "{{slug}}"
     summary: "[{{date}}] {{title}}"
-    preview_path: collections/announcements/{{slug}}
+    preview_path: media/{{slug}}
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
