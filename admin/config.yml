@@ -29,13 +29,13 @@ editor:
 
 fields_common: &fields_common
   - { label: "Title", name: "title", widget: "string" }
-  - {
-      label: "Permalink",
-      name: "permalink",
-      widget: "string",
-      required: false,
-      hint: "Optional: override the generated URL (e.g. /custom/path/).",
-    }
+  # - {
+  #     label: "Permalink",
+  #     name: "permalink",
+  #     widget: "string",
+  #     required: false,
+  #     hint: "Optional: override the generated URL (e.g. /custom/path/).",
+  #   }
   - {
       label: "Redirect From",
       name: "redirect_from",
@@ -50,23 +50,24 @@ fields_common: &fields_common
       required: false,
       hint: "Optional summary that appears below the heading on some layouts.",
     }
-  - {
-      label: "Layout",
-      name: "layout",
-      widget: "string",
-      required: false,
-      hint: "Optional layout override (e.g. layouts/base).",
-    }
+  # - {
+  #     label: "Layout",
+  #     name: "layout",
+  #     widget: "string",
+  #     required: false,
+  #     hint: "Optional layout override (e.g. layouts/base).",
+  #   }
   - label: "Eleventy Navigation"
     name: "eleventyNavigation"
     widget: "object"
     required: false
-    collapsed: false
+    collapsed: true
     fields:
       - {
           label: "Key",
           name: "key",
           widget: "string",
+          default: "{{slug}}",
           hint: "Unique ID for this page in the navigation tree.",
         }
       - {
@@ -205,6 +206,7 @@ collections:
   - name: "pages"
     label: "Pages"
     folder: "pages"
+    create: true
     filter:
       field: "cms"
       value: true
