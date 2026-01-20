@@ -23,6 +23,7 @@ media_folder: img
 public_folder: /img
 publish_mode: editorial_workflow
 logo_url: https://pages.cloud.gov/images/logos/pages-logo-blue.svg
+site_url: https://www.restorethegulf.gov
 
 editor:
   preview: false
@@ -67,7 +68,6 @@ fields_common: &fields_common
           label: "Key",
           name: "key",
           widget: "string",
-          default: "{{slug}}",
           hint: "Unique ID for this page in the navigation tree.",
         }
       - {
@@ -103,6 +103,7 @@ collections:
       preview: false
     slug: "{{date}}-{{slug}}"
     summary: "[{{date}}] {{title}}"
+    preview_path: media/{{slug}}
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
@@ -121,6 +122,7 @@ collections:
       preview: false
     slug: "{{slug}}"
     summary: "[{{date}}] {{title}}"
+    preview_path: collections/announcements/{{slug}}
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
