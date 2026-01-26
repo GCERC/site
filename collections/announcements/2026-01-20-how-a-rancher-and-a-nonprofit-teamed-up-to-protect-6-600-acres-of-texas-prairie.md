@@ -1,10 +1,8 @@
 ---
 title: How a rancher and a nonprofit teamed up to protect 6,600 acres of Texas prairie
-date: 2026-01-20
+date: 2026-01-26
 ---
-By Liz Teitz, San Antonio Express-News The Tribune Content Agency- [Original Article Link](https://www.star-telegram.com/news/state/texas/article313966547.html)
-
-December 25, 2025
+By Liz Teitz, San Antonio Express-News The Tribune Content Agency- [Original Article Link ](https://www.star-telegram.com/news/state/texas/article313966547.html)published on 12/25/25
 
 GOLIAD COUNTY - As he drives down a bumpy dirt road, T. Michael O'Connor describes everything he passes: the species of trees, the doves flying overhead, the feral hog that runs across the road in the distance. 
 
