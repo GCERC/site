@@ -29,4 +29,4 @@ Background on these funding approvals is provided below. Before voting on whethe
 * [J.D. Murphree WMA Levee Project environmental compliance documentation](https://www.restorethegulf.gov/uploads/JD_Murphree_FONSI_and_EC_signed.pdf)
 
 [RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)
-[Modifying your eBlast Subscription](https://www.restorethegulf.gov/apps/eblast/ModifyInformation.aspx)
+[Modifying your eBlast Subscription]({{ site.modify }})

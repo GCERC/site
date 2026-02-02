@@ -68,8 +68,8 @@ eleventyNavigation:
 cms: true
 ---
 
-- [Mississippi_SEP](/uploads/MS_PSEP_Plan_9.21.2015.pdf) - November 2, 2015
-- [Mississippi_SEP](/uploads/MS_State_Expenditure_Plan_Amendment_2017_2.12.18_FINAL_508Compliance.pdf) - April 13, 2017
+- [Mississippi Planning_SEP](/uploads/MS_PSEP_Plan_9.21.2015.pdf) - November 2, 2015
+- [Mississippi_SEP](/uploads/MS_SEP_final_2017.pdf) - April 13, 2017
 - [2017 Mississippi_SEP Amendment](/uploads/MS_State_Expenditure_Plan_Amendment_2017_2.12.18_FINAL_508Compliance.pdf) - April 16, 2018
 - [2018 Mississippi_SEP Amendment](/uploads/MS_SEP_2018_Amendment_Final_02.08.19-508.pdf) - April 12, 2018
 - [2019 Mississippi_SEP Amendment](/uploads/State_Expenditure_Plan_Amendment_MS_2019_FINAL_for_Submission_2.25.2020_508.pdf) - April 22, 2020
