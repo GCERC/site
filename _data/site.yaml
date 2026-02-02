@@ -25,9 +25,9 @@ social-media:
 url: "https://www.restorethegulf.gov"
 
 #Subscribe Link
-subscribe: "https://apps.restorethegulf.gov/eblast/Subscribe.aspx"
+subscribe: "https://public.govdelivery.com/accounts/USRESTORECOUNCIL/subscriber/new"
 #Modify Subscription
-modify: "https://apps.restorethegulf.gov/eblast/ModifyInformation.aspx"
+modify: "https://public.govdelivery.com/accounts/USRESTORECOUNCIL/subscriber/new"
 
 # Digital Analytics Program (DAP) configuration
 dap:

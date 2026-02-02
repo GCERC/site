@@ -142,7 +142,7 @@ cms: true
 - [Florida SEP](/uploads/Florida_SEP_FINAL_508_Compliant.pdf) - September 27, 2018
 - [Florida SEP Amendment 1](/uploads/FL_SEP_Amendment_1_REVISED_Gulf_Consortium_508_comp_0.pdf) - August 15, 2019
 - [Florida SEP Amendment 2](/uploads/FL_SEP_Amendment2-GulfConsortium-R3-wTables_508_Table_2_Correct.pdf) - May 20, 2020
-- [Florida SEP Amendment 3](/uploads/SEP_FL_Amendment_#3_with_table.pdf) - May 13, 2021
+- [Florida SEP Amendment 3](/uploads/FL_SEP_Amendment_3.PDF) - May 13, 2021
 - [Florida SEP Amendment 4](/uploads/FL_SEP_Amendment_4_Gulf_Consortium_Final_508_compliant.pdf) - April 11, 2022
 - [Florida SEP Amendment 5](/uploads/FL_SEP_Amendment_5_-508_0.pdf) - April 20, 2023
 - [Florida SEP Amendment 6](/uploads/FL_SEP_Amendment_6_Final_0.pdf) - March 18, 2024
