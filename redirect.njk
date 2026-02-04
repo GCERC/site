@@ -5,16 +5,43 @@
     size: 1,
     alias: "redirect",
     before: function (data) {
-      return data.reduce((redirects, page) => {
+      const redirects = [];
+      const seen = new Set();
+
+      const addRedirect = (from, to) => {
+        if (typeof from !== "string" || from.length === 0) {
+          return;
+        }
+
+        const normalizedFrom = from.replace(/\/$/, "");
+
+        if (normalizedFrom.length === 0 || seen.has(normalizedFrom)) {
+          return;
+        }
+
+        seen.add(normalizedFrom);
+        redirects.push({ to, from: normalizedFrom });
+      };
+
+      data.forEach((page) => {
         if (Array.isArray(page.data.redirect_from)) {
           for (let url of page.data.redirect_from) {
-            redirects.push({ to: page.url, from: url });
+            addRedirect(url, page.url);
           }
         } else if (typeof page.data.redirect_from === 'string') {
-          redirects.push({ to: page.url, from: page.data.redirect_from });
+          addRedirect(page.data.redirect_from, page.url);
         }
-        return redirects;
-      }, []);
+
+        if (
+          typeof page.url === "string" &&
+          page.url.startsWith("/our-work/") &&
+          page.url !== "/our-work/"
+        ) {
+          addRedirect(page.url.replace(/^\/our-work/, ""), page.url);
+        }
+      });
+
+      return redirects;
     },
     addAllPagesToCollections: false,
   },
