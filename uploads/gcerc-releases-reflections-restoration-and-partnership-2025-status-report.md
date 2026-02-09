@@ -1,6 +1,6 @@
 ---
 title: GCERC Releases Reflections on Restoration and Partnership- 2025 Status Report
-permalink: /release/2025/04/16/gcerc-releases-reflections-restoration-and-partnership-2025-status-report
+permalink: /release/2025/04/16/gcerc-releases-reflections-restoration-and-partnership-2025-status-report/
 
 ---
 2025-04-16
