@@ -25,7 +25,7 @@ ADCNR Commissioner Chris Blankenship expressed his appreciation for the completi
 
 Orange Beach Mayor Tony Kennon also commented on the value of the work, “Water quality is integral to our way of life in Orange Beach. This work provides practical suggestions on maintaining that water quality for our citizens to continue to enjoy.”
 
-For further details on this project including model simulation results and observational data please visit the [Project Website](https://www.eng.auburn.edu/users/jsh0024/cb-tc/cb-tc.html) or the [Alabama State Expenditure Plan](/uploads/ALABAMA%20SEP%20-%20FINAL_508_4_1_19_0_0.pdf).
+For further details on this project including model simulation results and observational data please visit the [Project Website](https://www.eng.auburn.edu/users/jsh0024/cb-tc/cb-tc.html) or the [Alabama State Expenditure Plan](https://www.restorethegulf.gov/~assets/documents/ALABAMA%20SEP%20-%20FINAL_508_4_1_19_0_0.pdf).
 
 **Learn more about:**
 
