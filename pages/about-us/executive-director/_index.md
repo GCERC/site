@@ -6,7 +6,7 @@ eleventyNavigation:
   title: Meet the Executive Director
   order: 3
 ---
-![Portrait of Mary Walker](/img/mary-walker.jpg)
+![Portrait of Mary Walker](/img/mary-walker.jpg "Mary Walker, Executive Director")
 
 Mary Walker serves as the Executive Director for the Gulf Coast Ecosystem Restoration Council (RESTORE Council). Created by the RESTORE Act of 2012 and comprised of the Governors of the five Gulf Coast States and Cabinet-level officials from six federal agencies, the RESTORE Council is responsible for restoring and protecting the natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, coastal wetlands, and economy of the Gulf Coast.
 
