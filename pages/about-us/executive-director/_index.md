@@ -1,5 +1,5 @@
 ---
-title: Meet the Executive Director
+title: Meet the Executive Director, Mary Walker
 eleventyNavigation:
   key: executive-director
   parent: about-us
