@@ -2,7 +2,6 @@
 title: Annual Financial Reports
 redirect_from:
   - /resources/reports-plans/annual-financial-reports
-
 lead: >
   This Agency Financial Report provides the financial and performance information for the Gulf Coast Ecosystem Restoration Council (RESTORE Council or Council), enabling the President, Congress, and the American people to assess the RESTORE Council’s performance as provided by the requirements of the:
 eleventyNavigation:
@@ -23,7 +22,7 @@ cms: true
 
 ## Reports by Fiscal Year
 
-- [Fiscal Year 2025](/uploads/FY25_AFR_Official_Final_OIG_12-12_Clean.pdf)
+- [Fiscal Year 2025](/uploads/pbc52_fy25_afrofficial_final_version_5_oig_12_12_cleanaod.pdf)
 - [Fiscal Year 2024](/uploads/FY24_AFR_Final_v1_for_publication_vt111424.pdf)
 - [Fiscal Year 2023](/uploads/AFR_GCERC_FY23_v7_508_0.pdf)
 - [Fiscal Year 2022](/uploads/AFR_FY22_508_112922.pdf)
