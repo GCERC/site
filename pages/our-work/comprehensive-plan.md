@@ -16,7 +16,7 @@ cardlinks:
   - pdf: /uploads/20161208_CompPlanUpdate_English.pdf
     photo: /img/20161208_CompPlanUpdate_English_Page_cover.jpg
     caption: 2016 Update to the Comprehensive Plan
-  - pdf: /uploads/Initial Comprehensive Plan Aug 2013.pdf
+  - pdf: /uploads/Initial_Comprehensive_Plan_Aug_2013.pdf
     photo: /img/Initial Comprehensive Plan Aug 2013_Page_cover.jpg
     caption: 2013 Initial Comprehensive Plan
 secondarycards:
