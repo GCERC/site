@@ -9,7 +9,7 @@ grants:
     pdfLink: "/uploads/ALABAMA_SEP_FINAL_508_4_1_19_0_0.pdf#page=140"
   - title: "Aloe Bay/Mississippi Sound Water Quality (#8)"
     federalId: "GNSSP21AL0014"
-    pdfLink: "(/uploads/ALABAMA_SEP_FINAL_508_4_1_19_0_0.pdf #page=63"
+    pdfLink: "/uploads/ALABAMA_SEP_FINAL_508_4_1_19_0_0.pdf#page=63"
   - title: "Auburn University Gulf Coast Engineering Research Station (#4)"
     federalId: "GNSSP22AL0042"
     pdfLink: "/uploads/ALABAMA_SEP_FINAL_508_4_1_19_0_0.pdf#page=40"

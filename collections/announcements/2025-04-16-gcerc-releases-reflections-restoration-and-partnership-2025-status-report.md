@@ -8,7 +8,7 @@ date: 2025-04-16
 
 **Contact Information**  
 Gulf Coast Ecosystem Restoration Council External Affairs  
-[(keala.hughes@restorethegulf.gov](<(keala.hughes@restorethegulf.gov)>)
+[(keala.hughes@restorethegulf.gov](mailto:keala.hughes@restorethegulf.gov)
 
 **New Orleans, LA** (April 16, 2025) - Today, the Gulf Coast Ecosystem Restoration Council (RESTORE Council) released its 2025 Status Report, Reflections on Restoration and Partnerships, marking a significant milestone in the ongoing recovery efforts of the Gulf Coast region. This comprehensive report commemorates fifteen years since the Deepwater Horizon oil spill on April 10, 2010, reflecting on the progress made and the critical partnerships that have shaped the restoration process.  
 

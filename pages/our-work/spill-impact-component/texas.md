@@ -3,13 +3,13 @@ title: Texas State Expenditure Plan
 grants:
   - title: "FY20 RESTORE Nature Based Tourism"
     federalId: "GNTSP20TX0100"
-    pdfLink: "/uploads/TX SEP_Rev 1_20190129-508.pdf"
+    pdfLink: "/uploads/TX_SEP_Rev_1_20190129-508.pdf"
   - title: "FY22 RESTORE Shoreline & Beach Restoration (BKT 3)"
     federalId: "GNSSP22TX0035"
     pdfLink: "/uploads/TX_SEP_Amendment_2_508_20231109.pdf"
   - title: "FY22 RESTORE NBT-IB Magee Beach Park (BKT 3)"
     federalId: "GNSSP23TX0053"
-    pdfLink: "/uploads/TX_SEP_Amendment_#1_Fin_20200605..pdf"
+    pdfLink: "/uploads/TX_SEP_Amendment_1_Fin_20200605.pdf"
 eleventyNavigation:
   key: texas
   parent: spill-impact-component

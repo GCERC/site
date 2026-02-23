@@ -18,7 +18,7 @@ To date five Centers of Excellence have been established. As required by the RES
 - [Alabama](/uploads/COE_AL_RESTORE_Annual_Report_FY23.pdf)
 - [Florida](/uploads/COE_FL_FY23_RESTORE_Council_Report_2023.pdf)
 - [Louisiana](/uploads/COE_LA_FY_23_RESTORE_Council.pdf)
-- [Mississippi](/uploads/COE_MS_FY23_Annual_Report_to_RESTORE%20_Council.pdf)
+- [Mississippi](/uploads/COE_MS_FY23_Annual_Report_to_RESTORE_Council.pdf)
 - [Texas](/uploads/COE_TX_FY23_Annual_Report_to_Council.pdf)
 
 ### 2022
@@ -60,7 +60,8 @@ To date five Centers of Excellence have been established. As required by the RES
 
 ### 2017
 
-- [Florida](/uploads/COE%20FL%202017-%20RESTORE%20Act%20Centers%20of%20Excellence%20Program_RESTORE%20Rpt_2017-final_508_0.pdf)
+<!-- - [Florida](/uploads/COE%20FL%202017-%20RESTORE%20Act%20Centers%20of%20Excellence%20Program_RESTORE%20Rpt_2017-final_508_0.pdf) -->
+
 - [Louisiana](/uploads/COE_LA_2017_RESTORE_Center_of_Excellence_Research_Grants_Program_Annual_Report_to_Council_30Oct2017_508_0.pdf)
 - [Mississippi](/uploads/COE_MS_2017_FY_2017_Annual_Report_to_RESTORE_Council_11.3.17_508_0.pdf)
 - [Texas](/uploads/COE_TX_2017_2017_Annual_RESTORE_Council_Report_508_0.pdf)
