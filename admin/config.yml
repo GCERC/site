@@ -86,6 +86,30 @@ field_eleventy_navigation: &field_eleventy_navigation
         required: false,
         hint: "Lower numbers appear first within the same nav level.",
       }
+field_featured: &field_featured
+  label: "Featured image"
+  name: "featured-image"
+  widget: "object"
+  summary: "{{fields.filename}}"
+  collapsed: true
+  required: false
+  fields:
+    - {
+        label: "Caption",
+        name: "caption-text",
+        widget: "text",
+        required: false,
+      }
+    - {
+        label: "Filename",
+        name: "filename",
+        widget: "image",
+        allow_multiple: false,
+        choose_url: false,
+        required: false,
+      }
+    - { label: "Alt text", name: "alt-text", widget: "string", required: false }
+
 field_body: &field_body { label: "Body", name: "body", widget: "markdown" }
 
 fields_common: &fields_common
@@ -93,6 +117,7 @@ fields_common: &fields_common
   - *field_lead
   - *field_cms_hidden
   - *field_eleventy_navigation
+  - *field_featured
   - *field_body
 
 pages_folder_defaults: &pages_folder_defaults

@@ -23,6 +23,14 @@ layout: layouts/base
               {% if lead %}
                 <p class="usa-intro margin-bottom-4">{{ lead }}</p>
               {% endif %}
+              {% if featured-image.filename %}
+                {% include 'caption.html',
+                  alt: featured-image['alt-text'],
+                  caption: featured-image['caption-text'],
+                  img: featured-image.filename,
+                  classes: 'float-right margin-top-0 margin-right-0 margin-bottom-2 margin-left-2 maxw-mobile'
+                %}
+              {% endif %}
               {{ content }}
             </div>
           </div>
