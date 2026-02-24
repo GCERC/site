@@ -8,6 +8,7 @@ eleventyNavigation:
   title: Reports
   order: 3
 cms: true
+cms_hidden: false
 ---
 
 The RESTORE Council has released reports outlining its progress.

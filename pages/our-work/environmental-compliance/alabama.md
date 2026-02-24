@@ -7,6 +7,7 @@ eleventyNavigation:
   title: Alabama Environmental Compliance
   order: 4
 cms: true
+cms_hidden: false
 ---
 
 Council-Selected Restoration Component Environmental Compliance Documentation Alabama

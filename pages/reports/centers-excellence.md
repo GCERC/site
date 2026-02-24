@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: reports
   title: Centers of Excellence
 cms: true
+cms_hidden: false
 ---
 
 The RESTORE Act dedicates 2.5 percent of the Trust Fund to the [Centers of Excellence Research Grants Program](https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/restore-act/centers-of-excellence-research-grants-program), administered by the Department of Treasury. These funds may be used to establish Centers of Excellence for science, technology, and monitoring. In accordance with  the RESTORE Act, each State provides an annual report on its respective Center of Excellence to the RESTORE Council containing grant information, including the amount, discipline(s), and recipients of each grant, and in the case of any grant awarded to a consortium, the membership of the consortium. 

@@ -11,6 +11,7 @@ cardlinks:
     photo: /img/Status%20Report%20Cover.jpg
     caption: 2025 Status Report
 cms: true
+cms_hidden: false
 ---
 
 ### RESTORE Council - 2025
@@ -30,6 +31,6 @@ By working closely with its restoration partners, the RESTORE Council is making 
 
 The Council has issued a series of announcements highlighting our work across the Gulf Coast. These highlights are just a few examples of Council-sponsored projects and programs across the Gulf. 
 
-- [View these Reflections on Restoration Progress highlights]({{ '../announcements/_index.md' | inputPathToUrl }})
+- [View these Reflections on Restoration Progress highlights]({{ '../announcements/index.md' | inputPathToUrl }})
 - [Watch Our Reflections on Restoration video - featuring some of our projects]({{ '../../collections/announcements/2025-04-17-reflections-restoration-video.md' | inputPathToUrl }})
-- [Visit a map of our RESTORE Projects]({{ '../our-work/what-we-do/_index.md#restore-projects' | inputPathToUrl }})
+- [Visit a map of our RESTORE Projects]({{ '../our-work/what-we-do/index.md#restore-projects' | inputPathToUrl }})

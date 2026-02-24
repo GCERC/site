@@ -15,6 +15,7 @@ eleventyNavigation:
   parent: spill-impact-component
   title: Texas State Expenditure Plan
 cms: true
+cms_hidden: false
 ---
 
 - [Texas Planning SEP](/uploads/PSEP-TX-approval_letter_from_the_Chair-transmittal_letter-and_PSEP.pdf) - July 29, 2016

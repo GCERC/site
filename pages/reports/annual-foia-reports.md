@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: reports
   title: Annual FOIA Reports
 cms: true
+cms_hidden: false
 ---
 
 ## Plans by Fiscal Year

@@ -6,6 +6,7 @@ eleventyNavigation:
   title: Mississippi Environmental Compliance
   order: 3
 cms: true
+cms_hidden: false
 ---
 
 ## Council-Selected Restoration Component Environmental Compliance Documentation Mississippi

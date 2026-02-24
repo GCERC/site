@@ -66,6 +66,7 @@ eleventyNavigation:
   parent: spill-impact-component
   title: Mississippi State Expenditure Plan
 cms: true
+cms_hidden: false
 ---
 
 - [Mississippi Planning_SEP](/uploads/MS_PSEP_Plan_9.21.2015.pdf) - November 2, 2015

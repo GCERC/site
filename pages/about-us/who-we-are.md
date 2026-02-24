@@ -10,6 +10,7 @@ eleventyNavigation:
   title: Who We Are
   order: 0
 cms: true
+cms_hidden: false
 ---
 
 The Council manages over $3.2 billion in ecosystem restoration funding with a small staff. It continues to collaboratively develop and support Deepwater Horizon disaster recovery projects including habitat protection, wetland restoration, water quality improvement and a range of other large scale ecosystem and economic activities from Texas to Florida.

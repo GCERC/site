@@ -29,6 +29,7 @@ cardlinks:
     photo: /img/Hancock_County_Marsh_Living_Shoreline_pg9_big.JPG
     caption: Leveraging Funds for Bigger Results
 cms: true
+cms_hidden: false
 ---
 
 ## How the Council Funds Projects

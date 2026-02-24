@@ -6,6 +6,7 @@ eleventyNavigation:
   title: Louisiana Environmental Compliance
   order: 2
 cms: true
+cms_hidden: false
 ---
 
 ## Council-Selected Restoration Component Environmental Compliance Documentation Louisiana

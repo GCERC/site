@@ -6,6 +6,7 @@ eleventyNavigation:
   title: Protecting and Restoring Valuable Coastal Habitat
   hideInSideNav: true
 cms: true
+cms_hidden: false
 ---
 
 From Texas to Florida, the Council is acquiring valuable coastal habitat and protecting it in perpetuity to ensure it is available for use and enjoyment by future generations. The Council also invests in restoring habitat across the Gulf, including wetlands, cypress swamp, barrier islands, and oyster beds. These habitats provide a wide array of benefits, from improving water quality and reducing flooding to supporting tourism and other economic uses.

@@ -90,6 +90,7 @@ eleventyNavigation:
   parent: spill-impact-component
   title: Alabama State Expenditure Plan
 cms: true
+cms_hidden: false
 ---
 
 - [Alabama Planning SEP](/uploads/PSEP_AL_Draft_PSEP_508_Compliant_6-26-2018_0.pdf) - August 27, 2018

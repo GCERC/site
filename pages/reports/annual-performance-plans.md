@@ -9,6 +9,7 @@ eleventyNavigation:
   parent: reports
   title: Annual Performance Plans
 cms: true
+cms_hidden: false
 ---
 
 ## Plans by Fiscal Year

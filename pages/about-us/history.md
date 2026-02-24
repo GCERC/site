@@ -10,6 +10,7 @@ eleventyNavigation:
   title: History
   order: 3
 cms: true
+cms_hidden: false
 ---
 
 ![Map of the Gulf coast](/img/PRDFT-Gulf-20150920.jpg)

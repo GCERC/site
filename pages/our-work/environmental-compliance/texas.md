@@ -6,6 +6,7 @@ eleventyNavigation:
   title: Texas Environmental Compliance
   order: 1
 cms: true
+cms_hidden: false
 ---
 
 Council-Selected Restoration Component Environmental Compliance Documentation Texas

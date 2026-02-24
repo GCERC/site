@@ -1,4 +1,4 @@
-## Comment out when doing local development
+## Production backend
 backend:
   name: github
   repo: GCERC/site
@@ -6,15 +6,14 @@ backend:
   auth_endpoint: external/auth/github
   preview_context: pages/build
   branch: main
-  # use_graphql: true
+  use_graphql: true
 
 ##
-## Uncomment when doing local development on Netlify CMS
+## Local development with Decap proxy backend
 ## Run `npx netlify-cms-proxy-server` to start working locally
 ## In another terminal, start the app with `npm start`
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ##
-
 # backend:
 #   name: git-gateway
 # local_backend: true
@@ -28,110 +27,164 @@ site_url: https://www.restorethegulf.gov
 editor:
   preview: false
 
+field_title: &field_title { label: "Title", name: "title", widget: "string" }
+field_created:
+  &field_created {
+    label: "Created",
+    name: "date",
+    date_format: "YYYY-MM-DD",
+    default: "{{now}}",
+    widget: "datetime",
+  }
+field_lead:
+  &field_lead {
+    label: "Lead",
+    name: "lead",
+    widget: "text",
+    required: false,
+    hint: "Optional summary that appears below the heading on some layouts.",
+  }
+field_cms_hidden:
+  &field_cms_hidden {
+    label: "Hidden in CMS",
+    name: "cms_hidden",
+    widget: "hidden",
+    default: false,
+  }
+field_eleventy_navigation: &field_eleventy_navigation
+  label: "Eleventy Navigation"
+  name: "eleventyNavigation"
+  widget: "object"
+  required: false
+  collapsed: true
+  fields:
+    - {
+        label: "Key",
+        name: "key",
+        widget: "string",
+        hint: "Unique ID for this page in the navigation tree.",
+      }
+    - {
+        label: "Parent",
+        name: "parent",
+        widget: "string",
+        required: false,
+        hint: "Optional parent key to nest this page in the nav.",
+      }
+    - {
+        label: "Title",
+        name: "title",
+        widget: "string",
+        required: false,
+        hint: "Override the nav label (defaults to the page title if omitted).",
+      }
+    - {
+        label: "Order",
+        name: "order",
+        widget: "number",
+        value_type: "int",
+        required: false,
+        hint: "Lower numbers appear first within the same nav level.",
+      }
+field_body: &field_body { label: "Body", name: "body", widget: "markdown" }
+
 fields_common: &fields_common
-  - { label: "Title", name: "title", widget: "string" }
-  # - {
-  #     label: "Permalink",
-  #     name: "permalink",
-  #     widget: "string",
-  #     required: false,
-  #     hint: "Optional: override the generated URL (e.g. /custom/path/).",
-  #   }
-  - {
-      label: "Redirect From",
-      name: "redirect_from",
-      widget: "list",
-      required: false,
-      hint: "Add any legacy paths that should redirect here (e.g. /old-page/).",
-    }
-  - {
-      label: "Lead",
-      name: "lead",
-      widget: "text",
-      required: false,
-      hint: "Optional summary that appears below the heading on some layouts.",
-    }
-  # - {
-  #     label: "Layout",
-  #     name: "layout",
-  #     widget: "string",
-  #     required: false,
-  #     hint: "Optional layout override (e.g. layouts/base).",
-  #   }
-  - label: "Eleventy Navigation"
-    name: "eleventyNavigation"
-    widget: "object"
-    required: false
-    collapsed: true
-    fields:
-      - {
-          label: "Key",
-          name: "key",
-          widget: "string",
-          hint: "Unique ID for this page in the navigation tree.",
-        }
-      - {
-          label: "Parent",
-          name: "parent",
-          widget: "string",
-          required: false,
-          hint: "Optional parent key to nest this page in the nav.",
-        }
-      - {
-          label: "Title",
-          name: "title",
-          widget: "string",
-          required: false,
-          hint: "Override the nav label (defaults to the page title if omitted).",
-        }
-      - {
-          label: "Order",
-          name: "order",
-          widget: "number",
-          value_type: "int",
-          required: false,
-          hint: "Lower numbers appear first within the same nav level.",
-        }
-  - { label: "Body", name: "body", widget: "markdown" }
+  - *field_title
+  - *field_lead
+  - *field_cms_hidden
+  - *field_eleventy_navigation
+  - *field_body
+
+pages_folder_defaults: &pages_folder_defaults
+  create: true
+  summary: "{{title}}"
+  filter:
+    field: "cms_hidden"
+    value: false
+  fields: *fields_common
 
 collections:
+  - name: "about-us"
+    label: "About Us"
+    folder: "pages/about-us"
+    <<: *pages_folder_defaults
+
+  - name: "about-us-council-members"
+    label: "About Us - Council Members"
+    files:
+      - label: "Council Members"
+        name: "council-members"
+        file: "pages/about-us/council-members.md"
+        fields:
+          - *field_title
+          - *field_lead
+          - *field_eleventy_navigation
+          - label: Members
+            name: members
+            widget: list
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Agency, name: agency, widget: string }
+              - { label: Title, name: title, widget: string }
+              - label: "Photo"
+                name: "photo"
+                widget: "image"
+                allow_multiple: false
+                choose_url: false
+                required: false
+              - label: "Delegates"
+                name: "delegates"
+                widget: "list"
+                fields:
+                  - label: "Type"
+                    name: "type"
+                    widget: "select"
+                    options: ["Designee", "Representative", "Alternate"]
+                  - { label: Name, name: name, widget: string }
+                  - {
+                      label: Agency,
+                      name: agency,
+                      widget: string,
+                      required: false,
+                    }
+                  - {
+                      label: Title,
+                      name: title,
+                      widget: string,
+                      required: false,
+                    }
+
   - name: "announcements"
     label: "Announcements"
     folder: "collections/announcements"
     create: true
-    editor:
-      preview: false
     slug: "{{date}}-{{slug}}"
     summary: "[{{date}}] {{title}}"
     preview_path: announcements/{{slug}}
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - {
-          label: "Created",
-          name: "date",
-          date_format: "YYYY-MM-DD",
-          default: "{{now}}",
-          widget: "datetime",
-        }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - *field_title
+      - *field_created
+      - *field_body
+
+  - name: "contact-page"
+    label: "Contact"
+    files:
+      - label: "Contact"
+        name: "contact"
+        file: "pages/contact.md"
+        fields: *fields_common
+
   - name: "media"
     label: "Media Gallery"
     folder: "collections/media"
     create: true
-    editor:
-      preview: false
     slug: "{{slug}}"
     summary: "[{{date}}] {{title}}"
     preview_path: media/{{slug}}
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - {
-          label: "Created",
-          name: "date",
-          date_format: "YYYY-MM-DD",
-          default: "{{now}}",
-          widget: "datetime",
-        }
+      - *field_title
+      - *field_created
+      - *field_body
       - {
           label: "Vimeo ID",
           name: "vimeoId",
@@ -204,57 +257,44 @@ collections:
           default: false,
           required: false,
         }
-      - { label: "Body", name: "body", widget: "markdown", required: false }
-  - name: "pages"
-    label: "Pages"
-    folder: "pages"
-    create: true
-    filter:
-      field: "cms"
-      value: true
-    fields: *fields_common
-    nested:
-      depth: 100
-      subfolders: false
-    meta: { path: { widget: string, label: "Path", index_file: "_index" } }
-  - name: "single-pages"
-    label: "Single Pages"
+
+  - name: "our-work"
+    label: "Our Work"
     files:
-      - label: "Council Members"
-        name: "council-members"
-        file: "pages/about-us/council-members.md"
-        fields:
-          - label: Members
-            name: members
-            widget: list
-            fields:
-              - { label: Name, name: name, widget: string }
-              - { label: Agency, name: agency, widget: string }
-              - { label: Title, name: title, widget: string }
-              - label: "Photo"
-                name: "photo"
-                widget: "image"
-                allow_multiple: false
-                choose_url: false
-                required: false
-              - label: "Delegates"
-                name: "delegates"
-                widget: "list"
-                fields:
-                  - label: "Type"
-                    name: "type"
-                    widget: "select"
-                    options: ["Designee", "Representative", "Alternate"]
-                  - { label: Name, name: name, widget: string }
-                  - {
-                      label: Agency,
-                      name: agency,
-                      widget: string,
-                      required: false,
-                    }
-                  - {
-                      label: Title,
-                      name: title,
-                      widget: string,
-                      required: false,
-                    }
+      - label: "Restoration Planning"
+        name: "comprehensive-plan"
+        file: "pages/our-work/comprehensive-plan.md"
+        fields: *fields_common
+
+  - name: "our-work-environmental-compliance"
+    label: "Our Work - Environmental Compliance"
+    folder: "pages/our-work/environmental-compliance"
+    <<: *pages_folder_defaults
+
+  - name: "our-work-fpl"
+    label: "Our Work - FPL"
+    folder: "pages/our-work/fpl"
+    <<: *pages_folder_defaults
+
+  - name: "our-work-spill-impact-component"
+    label: "Our Work - Spill Impact Component"
+    folder: "pages/our-work/spill-impact-component"
+    <<: *pages_folder_defaults
+
+  - name: "our-work-what-we-do"
+    label: "Our Work - What We Do"
+    folder: "pages/our-work/what-we-do"
+    <<: *pages_folder_defaults
+
+  - name: "policies-page"
+    label: "Policies"
+    files:
+      - label: "Policies"
+        name: "policies"
+        file: "pages/policies.md"
+        fields: *fields_common
+
+  - name: "reports"
+    label: "Reports"
+    folder: "pages/reports"
+    <<: *pages_folder_defaults

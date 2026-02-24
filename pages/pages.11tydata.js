@@ -4,8 +4,8 @@ module.exports = {
       .replace(/^\.\/pages/, "")
       .replace(/\.(md|html|njk)$/, "");
 
-    if (pagePath.endsWith("/index") || pagePath.endsWith("/_index")) {
-      pagePath = pagePath.replace(/\/_?index$/, "/");
+    if (pagePath.endsWith("/index")) {
+      pagePath = pagePath.replace(/\/index$/, "/");
     } else {
       pagePath += "/index.html";
     }

@@ -9,6 +9,7 @@ eleventyNavigation:
   parent: reports
   title: Annual Reports to Congress
 cms: true
+cms_hidden: false
 ---
 
 ## Reports by Fiscal Year
