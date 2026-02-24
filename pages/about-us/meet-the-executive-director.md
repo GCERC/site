@@ -5,7 +5,7 @@ eleventyNavigation:
   title: Meet the Executive Director
   parent: about-us
   key: executive-director
-  order: 3
+  order: 2
 featured-image:
   filename: /img/mary-walker.jpg
   caption-text: Mary Walker, Executive Director
