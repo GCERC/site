@@ -1,12 +1,12 @@
 ## Production backend
-backend:
-  name: github
-  repo: GCERC/site
-  base_url: https://pages.cloud.gov
-  auth_endpoint: external/auth/github
-  preview_context: pages/build
-  branch: main
-  use_graphql: true
+# backend:
+#   name: github
+#   repo: GCERC/site
+#   base_url: https://pages.cloud.gov
+#   auth_endpoint: external/auth/github
+#   preview_context: pages/build
+#   branch: main
+#   use_graphql: true
 
 ##
 ## Local development with Decap proxy backend
@@ -14,9 +14,9 @@ backend:
 ## In another terminal, start the app with `npm start`
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ##
-# backend:
-#   name: git-gateway
-# local_backend: true
+backend:
+  name: git-gateway
+local_backend: true
 
 media_folder: img
 public_folder: /img
@@ -110,7 +110,13 @@ field_featured: &field_featured
       }
     - { label: "Alt text", name: "alt-text", widget: "string", required: false }
 
-field_body: &field_body { label: "Body", name: "body", widget: "markdown" }
+field_body:
+  &field_body {
+    label: "Body",
+    name: "body",
+    widget: "markdown",
+    required: false,
+  }
 
 fields_common: &fields_common
   - *field_title
@@ -189,6 +195,11 @@ collections:
     fields:
       - *field_title
       - *field_created
+      - label: "External URL"
+        name: "url"
+        widget: "string"
+        required: false
+        hint: "Used to direct users to an external source (including GovDelivery)"
       - *field_body
 
   - name: "contact-page"
