@@ -25,7 +25,7 @@ Background on these funding approvals is provided below. Before voting on whethe
 [Summary of FPL 3b Amendment](/our-work/fpl/fpl-3/)
 
 - [Response to Public Comments](/uploads/Response_to_Public_Comments_on_Proposed_TX_FPL_Amendments.docx.pdf)
-- [Improving Baffin Bay Water Quality Project environmental compliance documentation](https://drive.google.com/file/d/1a8MtApVYIIuOkch9RX5TmgK5TP17sFmd/view?usp=drive_link)
+- [Improving Baffin Bay Water Quality Project environmental compliance documentation](/uploads/Baffin_Bay_WQ_Merged_EC_Documents_Signed_FINAL.pdf)
 - [McFaddin National Wildlife Refuge Shoreline Breakwater Project environmental compliance documentation](/uploads/McFaddin_FONSI_EC_signed.pdf)
 - [J.D. Murphree WMA Levee Project environmental compliance documentation](/uploads/JD_Murphree_FONSI_and_EC_signed.pdf)
 
