@@ -15,11 +15,11 @@ To date five Centers of Excellence have been established. As required by the RES
 
 ### 2025
 
-* Alabama
-* Flordia
-* Louisiana
-* Mississippi
-* Texas
+* [Alabama](/uploads/COE_AL_Annual_Report_FY25.pdf)
+* [Flordia](/uploads/COE_FL_Annual_Report_2025.pdf)
+* [Louisiana](/uploads/COE_LA_Annual_Report_FY2025.pdf)
+* [Mississippi](/uploads/COE_MS_Annual_Report_FY25.pdf)
+* [Texas](/uploads/COE_TX_Annual_Report_10_24-09_25.pdf)
 
 ### 2023
 
