@@ -68,4 +68,4 @@ We look forward to your participation and your comments on the draft FPL.
 
 
 
-For additional information, including the draft 2026 FPL document, fact sheets, meeting registration, and how to comment, please visit [www.restorethegulf.gov](http://www.restorethegulf.gov).
+For additional information, including the draft 2026 FPL document, fact sheets, meeting registration, and how to comment, please visit [restorethegulf.gov](/).
