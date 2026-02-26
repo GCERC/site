@@ -9,5 +9,5 @@ cms: true
 ---
 ## Plans by Fiscal Year
 
-* [Fiscal Year 2025 (NIEM-XML FY25)](https://www.restorethegulf.gov/uploads/GCERC_FY25_Final.xml)
+* [Fiscal Year 2025](GCERC_FY25_Final.docx) [[XML](/uploads/GCERC_FY25_Final.xml)]
 * [Fiscal Year 2024](/uploads/GCERC_FY24_FINAL.docx)
