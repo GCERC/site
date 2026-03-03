@@ -7,7 +7,7 @@ eleventyNavigation:
   title: Centers of Excellence
 cms: true
 ---
-The RESTORE Act dedicates 2.5 percent of the Trust Fund to the [Centers of Excellence Research Grants Program](https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/restore-act/centers-of-excellence-research-grants-program), administered by the Department of Treasury. These funds may be used to establish Centers of Excellence for science, technology, and monitoring. In accordance with  the RESTORE Act, each State provides an annual report on its respective Center of Excellence to the RESTORE Council containing grant information, including the amount, discipline(s), and recipients of each grant, and in the case of any grant awarded to a consortium, the membership of the consortium. 
+The RESTORE Act dedicates 2.5 percent of the Trust Fund to the [Centers of Excellence Research Grants Program](https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/restore-act/centers-of-excellence-research-grants-program), administered by the Department of Treasury. These funds may be used to establish Centers of Excellence for science, technology, and monitoring. In accordance with  the RESTORE Act, each State provides an annual report on its respective Center of Excellence to the RESTORE Council containing grant information, including the amount, discipline(s), and recipients of each grant, and in the case of any grant awarded to a consortium, the membership of the consortium. For clarity, the Council had no part in the preparation or substance of this information or the underlying programs. Inquiries regarding this material should be directed to the individual Center of Excellence.
 
 To date five Centers of Excellence have been established. As required by the RESTORE Act, each Center of Excellence provides an annual report to the RESTORE Council with all grant information, including the amount, discipline(s), grant recipients, and in cases where grants are awarded to a consortium, the membership of the consortium. The annual reports for each program are below.
 
@@ -16,7 +16,7 @@ To date five Centers of Excellence have been established. As required by the RES
 ### 2025
 
 * [Alabama](/uploads/COE_AL_Annual_Report_FY25.pdf)
-* [Flordia](/uploads/COE_FL_Annual_Report_2025.pdf)
+* [Florida](/uploads/COE_FL_Annual_Report_2025.pdf)
 * [Louisiana](/uploads/COE_LA_Annual_Report_FY2025.pdf)
 * [Mississippi](/uploads/COE_MS_Annual_Report_FY25.pdf)
 * [Texas](/uploads/COE_TX_Annual_Report_10_24-09_25.pdf)
@@ -68,7 +68,7 @@ To date five Centers of Excellence have been established. As required by the RES
 
 ### 2017
 
-<!-- - \[Florida](/uploads/COE%20FL%202017-%20RESTORE%20Act%20Centers%20of%20Excellence%20Program_RESTORE%20Rpt_2017-final_508_0.pdf) -->
+<!-- - \\[Florida](/uploads/COE%20FL%202017-%20RESTORE%20Act%20Centers%20of%20Excellence%20Program_RESTORE%20Rpt_2017-final_508_0.pdf) -->
 
 * [Louisiana](/uploads/COE_LA_2017_RESTORE_Center_of_Excellence_Research_Grants_Program_Annual_Report_to_Council_30Oct2017_508_0.pdf)
 * [Mississippi](/uploads/COE_MS_2017_FY_2017_Annual_Report_to_RESTORE_Council_11.3.17_508_0.pdf)
