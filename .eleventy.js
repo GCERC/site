@@ -16,7 +16,6 @@ module.exports = async function (config) {
 
   // Copy the `admin` folders to the output
   config.addPassthroughCopy("admin");
-  config.addPassthroughCopy("uploads");
   config.addPassthroughCopy("favicon.ico");
 
   // Add plugins
@@ -77,7 +76,7 @@ module.exports = async function (config) {
 
     const postsByYear = uniqueYears.reduce((prev, year) => {
       const filteredPosts = posts.filter(
-        (post) => post.date.getFullYear() === year
+        (post) => post.date.getFullYear() === year,
       );
 
       return [...prev, [year, filteredPosts]];
