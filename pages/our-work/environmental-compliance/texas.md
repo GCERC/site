@@ -17,23 +17,23 @@ This page lists FPL activities that have an approved implementation phase as wel
 
 ## Texas - Proposed Activities
 
-- The draft 2026 FPL includes a proposed funding increase for [Wind Tidal Flats Pilot](/uploads/PRDFT-Final_Council_CE_Wind_Tidal_Flats_Signed_508-20210524.pdf), Phase 2. The U.S. Department of Interior (DOI), the sponsor of the project, has advised the Council that the additional activities proposed for 2026 funding are covered by the environmental compliance documentation used for the Council’s original approval in FPL 3.
-- The draft 2026 FPL also includes proposed funding for the project entitled [Development of Indicators and Identification of Thresholds to Support Reef Restoration](/uploads/EC_Docs_Combined_DOI_Development_of_Indicators_and_Reef_Restoration_2026%20FPL.pdf), Texas, sponsored by DOI.
+- The draft 2026 FPL includes a proposed funding increase for [Wind Tidal Flats Pilot](/~assets/documents/prdft-final_council_ce_wind_tidal_flats_signed_508-20210524.pdf), Phase 2. The U.S. Department of Interior (DOI), the sponsor of the project, has advised the Council that the additional activities proposed for 2026 funding are covered by the environmental compliance documentation used for the Council’s original approval in FPL 3.
+- The draft 2026 FPL also includes proposed funding for the project entitled [Development of Indicators and Identification of Thresholds to Support Reef Restoration](/~assets/documents/ec_docs_combined_doi_development_of_indicators_and_reef_restoration_202620fpl.pdf), Texas, sponsored by DOI.
 
 ## Texas- Approved Activities
 
-- [Bahia Grande Coastal Corridor](/uploads/FPL_EClib_TX_Bahia_Grande_Corridor_FONSI_signed.pdf)
-- [Bahia Grande Wetland System Restoration](/uploads/Bahia_Grande_WR_FONSI_508_compliant_merged_with_other_EC_Documentation.pdf) (U.S. Department of Commerce)
-- [Bayou Greenways](/uploads/FPL_EClib_TX_Bayou_Greenways_Imp_CE_signed.pdf)
-  - [Improving Baffin Bay Water Quality Project](/uploads/Baffin_Bay_WQ_Merged_EC_Documents_Signed_FINAL.pdf)
+- [Bahia Grande Coastal Corridor](/~assets/documents/fpl_eclib_tx_bahia_grande_corridor_fonsi_signed.pdf)
+- [Bahia Grande Wetland System Restoration](/~assets/documents/bahia_grande_wr_fonsi_508_compliant_merged_with_other_ec_documentation.pdf) (U.S. Department of Commerce)
+- [Bayou Greenways](/~assets/documents/fpl_eclib_tx_bayou_greenways_imp_ce_signed.pdf)
+  - [Improving Baffin Bay Water Quality Project](/~assets/documents/baffin_bay_wq_merged_ec_documents_signed_final.pdf)
 - Matagorda Bay System Priority Landscape Conservation -
-  - [Matagorda Peninsula](/uploads/FPL_EClib_TX_Matagorda_Bay_Landscape_Conservation_FONSI_signed.pdf)
-  - [Off Matagora Peninsula](/uploads/Matagorda_CE_Signed.pdf)
-- [Plug Abandoned Oil and Gas Wells](/uploads/FPL_EClib_TX_Plug_Abandoned_Oil_Gas_Wells_CE_signed.pdf) (U.S. Department of Interior)
+  - [Matagorda Peninsula](/~assets/documents/fpl_eclib_tx_matagorda_bay_landscape_conservation_fonsi_signed.pdf)
+  - [Off Matagora Peninsula](/~assets/documents/matagorda_ce_signed.pdf)
+- [Plug Abandoned Oil and Gas Wells](/~assets/documents/fpl_eclib_tx_plug_abandoned_oil_gas_wells_ce_signed.pdf) (U.S. Department of Interior)
 - Texas Chenier Plain Ecosystem Restoration Program
-  - [McFaddin National Wildlife Refuge Shoreline Breakwater Project](/uploads/McFaddin_FONSI_and_EC_signed.pdf)
-  - [J.D. Murphree Wildlife Management Area Levee Project](/uploads/JD_Murphree_FONSI_and_EC_signed.pdf)
-- [Texas Land Acquisition Program for Coastal Conservation](/uploads/FPL_3b_Final_CE_TX_Land_Acquisition_Signed_508_04282021.pdf)
+  - [McFaddin National Wildlife Refuge Shoreline Breakwater Project](/~assets/documents/mcfaddin_fonsi_and_ec_signed.pdf)
+  - [J.D. Murphree Wildlife Management Area Levee Project](/~assets/documents/jd_murphree_fonsi_and_ec_signed.pdf)
+- [Texas Land Acquisition Program for Coastal Conservation](/~assets/documents/fpl_3b_final_ce_tx_land_acquisition_signed_508_04282021.pdf)
 - Texas Shoreline Protection Through Living Shorelines Program
-  - [Dagger Point Stabilization Project](/uploads/Dagger_Point_FONSI_and_EC_signed.pdf)
-- [Wind Tidal Flats Pilot](/uploads/PRDFT-Final_Council_CE_Wind_Tidal_Flats_Signed_508-20210524.pdf) (U.S. Department of Interior)
+  - [Dagger Point Stabilization Project](/~assets/documents/dagger_point_fonsi_and_ec_signed.pdf)
+- [Wind Tidal Flats Pilot](/~assets/documents/prdft-final_council_ce_wind_tidal_flats_signed_508-20210524.pdf) (U.S. Department of Interior)

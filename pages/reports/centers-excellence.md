@@ -15,61 +15,61 @@ To date five Centers of Excellence have been established. As required by the RES
 
 ### 2025
 
-* [Alabama](/uploads/COE_AL_Annual_Report_FY25.pdf)
-* [Florida](/uploads/COE_FL_Annual_Report_2025.pdf)
-* [Louisiana](/uploads/COE_LA_Annual_Report_FY2025.pdf)
-* [Mississippi](/uploads/COE_MS_Annual_Report_FY25.pdf)
-* [Texas](/uploads/COE_TX_Annual_Report_10_24-09_25.pdf)
+* [Alabama](/~assets/documents/coe_al_annual_report_fy25.pdf)
+* [Florida](/~assets/documents/coe_fl_annual_report_2025.pdf)
+* [Louisiana](/~assets/documents/coe_la_annual_report_fy2025.pdf)
+* [Mississippi](/~assets/documents/coe_ms_annual_report_fy25.pdf)
+* [Texas](/~assets/documents/coe_tx_annual_report_10_24-09_25.pdf)
 
 ### 2023
 
-* [Alabama](/uploads/COE_AL_RESTORE_Annual_Report_FY23.pdf)
-* [Florida](/uploads/COE_FL_FY23_RESTORE_Council_Report_2023.pdf)
-* [Louisiana](/uploads/COE_LA_FY_23_RESTORE_Council.pdf)
-* [Mississippi](/uploads/COE_MS_FY23_Annual_Report_to_RESTORE_Council.pdf)
-* [Texas](/uploads/COE_TX_FY23_Annual_Report_to_Council.pdf)
+* [Alabama](/~assets/documents/coe_al_restore_annual_report_fy23.pdf)
+* [Florida](/~assets/documents/coe_fl_fy23_restore_council_report_2023.pdf)
+* [Louisiana](/~assets/documents/coe_la_fy_23_restore_council.pdf)
+* [Mississippi](/~assets/documents/coe_ms_fy23_annual_report_to_restore_council.pdf)
+* [Texas](/~assets/documents/coe_tx_fy23_annual_report_to_council.pdf)
 
 ### 2022
 
-* [Alabama](/uploads/COE_RESTORE_AL_Annual_Report_FY22_10.26.2022.pdf)
-* [Florida](/uploads/Florida_RESTORE_Act_Centers_of_Excellence_Program_RESTORE_Council_Report_2022.pdf)
-* [Louisiana](/uploads/LA-COE_Annual_Report_to_Council_fy2022_FINAL_10_28_22.pdf)
-* [Texas](/uploads/Annual_Report_to_Council_TX_Bkt5CoE_2022.pdf)
+* [Alabama](/~assets/documents/coe_restore_al_annual_report_fy22_10262022.pdf)
+* [Florida](/~assets/documents/florida_restore_act_centers_of_excellence_program_restore_council_report_2022.pdf)
+* [Louisiana](/~assets/documents/la-coe_annual_report_to_council_fy2022_final_10_28_22.pdf)
+* [Texas](/~assets/documents/annual_report_to_council_tx_bkt5coe_2022.pdf)
 
 ### 2021
 
-* [Alabama](/uploads/COE_Alabama_RESTORE_Annual_Report_FY21_508.pdf)
-* [Florida](/uploads/COE_Florida_RESTORE_Council_Report_2021_508.pdf)
-* [Louisiana](/uploads/COE_LA_Annual_Report_to_Council_fy2021_CPRA_508.pdf)
-* [Mississippi](/uploads/COE_MS_FY21_Annual_RESTORE_Council_Report_FY21_508.pdf)
-* [Texas](/uploads/COE_Texas_2021_Annual_RESTORE_Council_Report_508.pdf)
+* [Alabama](/~assets/documents/coe_alabama_restore_annual_report_fy21_508.pdf)
+* [Florida](/~assets/documents/coe_florida_restore_council_report_2021_508.pdf)
+* [Louisiana](/~assets/documents/coe_la_annual_report_to_council_fy2021_cpra_508.pdf)
+* [Mississippi](/~assets/documents/coe_ms_fy21_annual_restore_council_report_fy21_508.pdf)
+* [Texas](/~assets/documents/coe_texas_2021_annual_restore_council_report_508.pdf)
 
 ### 2020
 
-* [Alabama](/uploads/Alabama_COE_RESTORE_Annual_Report_FY20_12.10.2020.pdf)
-* [Florida](/uploads/Florida_RESTORE_Act_Centers_of_Excellence_Program_RESTORE_Council_Report_2020.pdf)
-* [Louisiana](/uploads/LA-COE_Annual_Report_to_Council_fy2020.pdf)
-* [Mississippi](/uploads/FY_20_MS_COE_Annual_Report_to_RESTORE_Council_10.1.2020-9.30.2020.pdf)
-* [Texas](/uploads/2020_Texas_Annual_Gulf_Coast_Ecosystem_Restoration_Council_Report_FINAL.pdf)
+* [Alabama](/~assets/documents/alabama_coe_restore_annual_report_fy20_12102020.pdf)
+* [Florida](/~assets/documents/florida_restore_act_centers_of_excellence_program_restore_council_report_2020.pdf)
+* [Louisiana](/~assets/documents/la-coe_annual_report_to_council_fy2020.pdf)
+* [Mississippi](/~assets/documents/fy_20_ms_coe_annual_report_to_restore_council_1012020-9302020.pdf)
+* [Texas](/~assets/documents/2020_texas_annual_gulf_coast_ecosystem_restoration_council_report_final.pdf)
 
 ### 2019
 
-* [Florida](/uploads/Florida_RESTORE_Act_Centers_of_Excellence_Program_RESTORE_Council_Report_2019.pdf)
-* [Louisiana](/uploads/LA-COE_Annual_Report_to_Council_fy2019_final_LACPRA.pdf)
-* [Mississippi](/uploads/FY_2019_MS_COE_Annual_Report_to_RESTORE_Council_10.23.2019.pdf)
-* [Texas](/uploads/Texas_CoE_2019_Annual_Council_rep.pdf)
+* [Florida](/~assets/documents/florida_restore_act_centers_of_excellence_program_restore_council_report_2019.pdf)
+* [Louisiana](/~assets/documents/la-coe_annual_report_to_council_fy2019_final_lacpra.pdf)
+* [Mississippi](/~assets/documents/fy_2019_ms_coe_annual_report_to_restore_council_10232019.pdf)
+* [Texas](/~assets/documents/texas_coe_2019_annual_council_rep.pdf)
 
 ### 2018
 
-* [Florida](/uploads/Florida_RESTORE_Act_Centers_of_Excellence_Program_RESTORE_Council_Report_2018.pdf)
-* [Louisiana](/uploads/RESTORE_Act_LA_Center_of_Excellence_Research_Grants_Program_Annual_Report_to_Council_2018.pdf)
-* [Mississippi](/uploads/FY_2018_MS_COE_Annual_Report_to_RESTORE_Council_11.3.18_FINAL.pdf)
-* [Texas](/uploads/2018_Annual_Council_Report_Texas_RESTORE_COE.pdf)
+* [Florida](/~assets/documents/florida_restore_act_centers_of_excellence_program_restore_council_report_2018.pdf)
+* [Louisiana](/~assets/documents/restore_act_la_center_of_excellence_research_grants_program_annual_report_to_council_2018.pdf)
+* [Mississippi](/~assets/documents/fy_2018_ms_coe_annual_report_to_restore_council_11318_final.pdf)
+* [Texas](/~assets/documents/2018_annual_council_report_texas_restore_coe.pdf)
 
 ### 2017
 
-<!-- - \\[Florida](/uploads/COE%20FL%202017-%20RESTORE%20Act%20Centers%20of%20Excellence%20Program_RESTORE%20Rpt_2017-final_508_0.pdf) -->
+<!-- - \\[Florida](/~assets/documents/coe20fl202017-20restore20act20centers20of20excellence20program_restore20rpt_2017-final_508_0.pdf) -->
 
-* [Louisiana](/uploads/COE_LA_2017_RESTORE_Center_of_Excellence_Research_Grants_Program_Annual_Report_to_Council_30Oct2017_508_0.pdf)
-* [Mississippi](/uploads/COE_MS_2017_FY_2017_Annual_Report_to_RESTORE_Council_11.3.17_508_0.pdf)
-* [Texas](/uploads/COE_TX_2017_2017_Annual_RESTORE_Council_Report_508_0.pdf)
+* [Louisiana](/~assets/documents/coe_la_2017_restore_center_of_excellence_research_grants_program_annual_report_to_council_30oct2017_508_0.pdf)
+* [Mississippi](/~assets/documents/coe_ms_2017_fy_2017_annual_report_to_restore_council_11317_508_0.pdf)
+* [Texas](/~assets/documents/coe_tx_2017_2017_annual_restore_council_report_508_0.pdf)

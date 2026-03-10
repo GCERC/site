@@ -9,5 +9,5 @@ cms: true
 ---
 ## Plans by Fiscal Year
 
-* [Fiscal Year 2025](/uploads/GCERC_FY25_Final.docx) [[XML](/uploads/GCERC_FY25_Final.xml)]
-* [Fiscal Year 2024](/uploads/GCERC_FY24_FINAL.docx)
+* [Fiscal Year 2025](/~assets/documents/gcerc_fy25_final.docx) [[XML](/~assets/documents/gcerc_fy25_final.xml)]
+* [Fiscal Year 2024](/~assets/documents/gcerc_fy24_final.docx)

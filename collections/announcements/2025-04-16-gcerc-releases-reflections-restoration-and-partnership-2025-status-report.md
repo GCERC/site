@@ -26,7 +26,7 @@ Key achievements outlined in the report include:
 
 “The Gulf Coast is a vital economic and ecological hub, " said Steven Schar, Texas designee of the RESTORE Council, “and while we’ve made great progress, we know there’s more work to do. This status report reflects the hard work of all involved, and we remain dedicated to furthering this collaboration to restore the economic viability of our coastlines, wildlife, and communities.”
 
-Read the full [Reflections on Restoration and Partnerships: 2025 Status Report](/uploads/RESTORE_2025StatusReport.pdf)  
+Read the full [Reflections on Restoration and Partnerships: 2025 Status Report](/~assets/documents/restore_2025statusreport.pdf)  
 For more information, media inquiries, or to schedule an interview, please contact:
 
 Keala J. Hughes  
@@ -39,7 +39,7 @@ The Gulf Coast Ecosystem Restoration Council (RESTORE Council) was established b
 
 The RESTORE Council oversees administration of two of the five components established by the RESTORE Act, representing 60% of the funds made available from the Gulf Coast Restoration Trust Fund established in the wake of the oil spill. Under the 2016 Deepwater Horizon consent decree among the United States, the five Gulf States, and British Petroleum (BP), BP makes payments into the Trust Fund over a 15-year period ending in 2031. The RESTORE Council does not receive any further Congressional appropriations;  all funding comes from the Gulf Coast Restoration Trust Fund.
 
-As settlement proceeds are deposited into the Trust Fund, the RESTORE Council works collaboratively with input from stakeholders across the Gulf to designate ecosystem projects and programs for funding. The RESTORE Council administers the Council Selected Restoration Component, which funds significant ecosystem restoration projects determined by the Council as a whole, guided by criteria set forth in the RESTORE Act and the Council’s [2022 Comprehensive Plan Update: _Restoring the Gulf Coast’s Ecosystem and Economy_](/uploads/2022_Comp-Plan_Update_Final.pdf). In addition, the RESTORE Council oversees funding for State-led restoration and recovery efforts provided in State Expenditure Plans (SEPs) developed under the RESTORE Act. The information in the Council’s “Reflections on Restoration Progress” document includes projects funded under both components.
+As settlement proceeds are deposited into the Trust Fund, the RESTORE Council works collaboratively with input from stakeholders across the Gulf to designate ecosystem projects and programs for funding. The RESTORE Council administers the Council Selected Restoration Component, which funds significant ecosystem restoration projects determined by the Council as a whole, guided by criteria set forth in the RESTORE Act and the Council’s [2022 Comprehensive Plan Update: _Restoring the Gulf Coast’s Ecosystem and Economy_](/~assets/documents/2022_comp-plan_update_final.pdf). In addition, the RESTORE Council oversees funding for State-led restoration and recovery efforts provided in State Expenditure Plans (SEPs) developed under the RESTORE Act. The information in the Council’s “Reflections on Restoration Progress” document includes projects funded under both components.
 
 For more information on projects in a specific geographic location, visit our [RESTORE Project Map](https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676) or contact:
 
