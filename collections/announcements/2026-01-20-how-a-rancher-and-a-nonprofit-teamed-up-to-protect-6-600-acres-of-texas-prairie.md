@@ -1,6 +1,6 @@
 ---
 title: How a rancher and a nonprofit teamed up to protect 6,600 acres of Texas prairie
-date: 2026-01-26
+date: 2026-03-10
 ---
 By Liz Teitz, San Antonio Express-News The Tribune Content Agency- [Original Article Link ](https://www.star-telegram.com/news/state/texas/article313966547.html)published on 12/25/25
 
