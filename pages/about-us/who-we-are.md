@@ -19,4 +19,4 @@ The Council manages over $3.2 billion in ecosystem restoration funding with a sm
 
 ## The RESTORE Act
 
-[The Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act (RESTORE Act)](/~assets/restore-act-july2012.pdf) is a 2012 federal law passed in the wake of the Deepwater Horizon oil spill. Congress anticipated that there would be monetary penalties to be paid by parties resonsible for the oil spill. The RESTORE Act was put in place to direct a portion of such funding to ecosystem restoration and economic recovery along the Gulf coast.
+[The Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act (RESTORE Act)](/~assets/documents/restore-act-july2012.pdf) is a 2012 federal law passed in the wake of the Deepwater Horizon oil spill. Congress anticipated that there would be monetary penalties to be paid by parties resonsible for the oil spill. The RESTORE Act was put in place to direct a portion of such funding to ecosystem restoration and economic recovery along the Gulf coast.

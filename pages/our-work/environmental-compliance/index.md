@@ -17,7 +17,7 @@ As with all federal agencies, the Council must comply with all applicable federa
 
 ## NEPA Procedures
 
-The Council’s [NEPA procedures](/~assets/gcerc_nepa_procedures_may_2015.pdf) establish the Council's policies for ensuring compliance with NEPA.
+The Council’s [NEPA procedures](/~assets/documents/gcerc_nepa_procedures_may_2015.pdf) establish the Council's policies for ensuring compliance with NEPA.
 
 ## Funded Priorities List Environmental Compliance
 

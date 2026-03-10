@@ -7,7 +7,7 @@ eleventyNavigation:
   parent: reports
   title: Reflections on Restoration
 cardlinks:
-  - pdf: /~assets/restore_2025statusreport.pdf
+  - pdf: /~assets/documents/restore_2025statusreport.pdf
     photo: /img/Status%20Report%20Cover.jpg
     caption: 2025 Status Report
 cms: true

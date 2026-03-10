@@ -19,4 +19,4 @@ The RESTORE Council has released reports outlining its progress.
 - [Centers of Excellence]({{ './centers-excellence.md' | inputPathToUrl }})
 - [Comprehensive Plans]({{ '../our-work/comprehensive-plan.md' | inputPathToUrl }})
 - [Planning Framework]({{ '../our-work/comprehensive-plan.md' | inputPathToUrl }})
-- [10-Year Commemoration Report](/~assets/restorecouncil_10yearreport2020_v6.pdf)
+- [10-Year Commemoration Report](/~assets/documents/restorecouncil_10yearreport2020_v6.pdf)
