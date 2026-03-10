@@ -21,9 +21,9 @@ This page lists FPL activities that have an approved implementation phase as wel
 
 ## Mississippi - Approved Activities
 
-- [Deer Island Beneficial Use Site](/uploads/EC/FPL_EClib_MS_Deer_Island_Beneficial_Use_FONSI_signed.pdf)
-- [The Mississippi Sound Estuarine Program](/uploads/EC/FPL_EClib_MS_Sound_Estuarine_Prog_Imp_CE_signed.pdf)
+- [Deer Island Beneficial Use Site](/uploads/FPL_EClib_MS_Deer_Island_Beneficial_Use_FONSI_signed.pdf)
+- [The Mississippi Sound Estuarine Program](/uploads/FPL_EClib_MS_Sound_Estuarine_Prog_Imp_CE_signed.pdf)
 - Strategic Land Protection, Conservation and Enhancement of Priority Gulf Coast Landscapes –
-  - [De Soto](/uploads/EC/FPL_EClib_MS_Strategic_Land_Protection_DeSoto_CE_signed.pdf)
-  - [Grand Bay](/uploads/EC/FPL_EClib_MS_Strategic_Land_Protection_Grand_Bay_FONSI_signed.pdf)
-  - [Gulf Islands](/uploads/EC/FPL_EClib_MS_Strategic_Land_Protection_Gulf_Islands_CE_signed.pdf)
+  - [De Soto](/uploads/FPL_EClib_MS_Strategic_Land_Protection_DeSoto_CE_signed.pdf)
+  - [Grand Bay](/uploads/FPL_EClib_MS_Strategic_Land_Protection_Grand_Bay_FONSI_signed.pdf)
+  - [Gulf Islands](/uploads/FPL_EClib_MS_Strategic_Land_Protection_Gulf_Islands_CE_signed.pdf)
