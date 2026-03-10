@@ -21,6 +21,14 @@ To date five Centers of Excellence have been established. As required by the RES
 * [Mississippi](/~assets/documents/coe_ms_annual_report_fy25.pdf)
 * [Texas](/~assets/documents/coe_tx_annual_report_10_24-09_25.pdf)
 
+### 2024
+
+* [Alabama](https://www.restorethegulf.gov/~assets/documents/coe_al_fy24_annual_report.pdf)
+* [Florida](https://www.restorethegulf.gov/~assets/documents/coe_fl_fy24_annual_report.pdf)
+* [Louisiana](https://www.restorethegulf.gov/~assets/documents/coe_la_fy24_annual_report.pdf)
+* [Mississippi](https://www.restorethegulf.gov/~assets/documents/coe_ms_fy24_annual_report.pdf)
+* [Texas](https://www.restorethegulf.gov/~assets/documents/coe_tx_fy24_-annual_report.pdf)
+
 ### 2023
 
 * [Alabama](/~assets/documents/coe_al_restore_annual_report_fy23.pdf)
@@ -68,7 +76,7 @@ To date five Centers of Excellence have been established. As required by the RES
 
 ### 2017
 
-<!-- - \\[Florida](/~assets/documents/coe20fl202017-20restore20act20centers20of20excellence20program_restore20rpt_2017-final_508_0.pdf) -->
+<!-- - \\\\[Florida](/~assets/documents/coe20fl202017-20restore20act20centers20of20excellence20program_restore20rpt_2017-final_508_0.pdf) -->
 
 * [Louisiana](/~assets/documents/coe_la_2017_restore_center_of_excellence_research_grants_program_annual_report_to_council_30oct2017_508_0.pdf)
 * [Mississippi](/~assets/documents/coe_ms_2017_fy_2017_annual_report_to_restore_council_11317_508_0.pdf)
