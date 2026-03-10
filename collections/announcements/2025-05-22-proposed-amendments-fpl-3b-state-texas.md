@@ -39,10 +39,10 @@ Learn more about 
 
 **Learn more about:**
 
-- [Full Public Comment Notice for Proposed Amendments to FPL 3b in the State of Texas](/uploads/FPL3b_Final_Document.pdf)
-- [Dagger Island Environmental Compliance Documents](/uploads/Dagger_Point_FONSI_and_EC_signed.pdf)
-- [Mcfaddin NWR Environmental Compliance Documents](/uploads/McFaddin_FONSI_and_EC_signed.pdf)
-- [JD Murphree WMA Levee Environmental Compliance Documents](/uploads/JD_Murphree_FONSI_and_EC_signed.pdf)
+- [Full Public Comment Notice for Proposed Amendments to FPL 3b in the State of Texas](/~assets/fpl3b_final_document.pdf)
+- [Dagger Island Environmental Compliance Documents](/~assets/dagger_point_fonsi_and_ec_signed.pdf)
+- [Mcfaddin NWR Environmental Compliance Documents](/~assets/mcfaddin_fonsi_and_ec_signed.pdf)
+- [JD Murphree WMA Levee Environmental Compliance Documents](/~assets/jd_murphree_fonsi_and_ec_signed.pdf)
 - [RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)
 - [Modifying your eBlast Subscription]({{ site.modify }})
 

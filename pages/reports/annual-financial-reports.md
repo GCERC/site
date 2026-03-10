@@ -23,13 +23,13 @@ cms_hidden: false
 
 ## Reports by Fiscal Year
 
-- [Fiscal Year 2025](/uploads/pbc52_fy25_afrofficial_final_version_5_oig_12_12_cleanaod.pdf)
-- [Fiscal Year 2024](/uploads/FY24_AFR_Final_v1_for_publication_vt111424.pdf)
-- [Fiscal Year 2023](/uploads/AFR_GCERC_FY23_v7_508_0.pdf)
-- [Fiscal Year 2022](/uploads/AFR_FY22_508_112922.pdf)
-- [Fiscal Year 2021](/uploads/AFR_FY21-20220112_508_1.pdf)
-- [Fiscal Year 2020](/uploads/AFR_FY20_Final_11-16-2020_508.pdf)
-- [Fiscal Year 2019](/uploads/Final_AFR_FY19_111819_VT_KJH.pdf)
-- [Fiscal Year 2018](/uploads/MASTER_AFR_2018_V4_508_Compliant_JRH.pdf)
-- [Fiscal Year 2017](/uploads/AFR_2017_508_Compliant_ba_update.pdf)
-- [Fiscal Year 2016](/uploads/AFR_FY_2016_20161129.pdf)
+- [Fiscal Year 2025](/~assets/pbc52_fy25_afrofficial_final_version_5_oig_12_12_cleanaod.pdf)
+- [Fiscal Year 2024](/~assets/fy24_afr_final_v1_for_publication_vt111424.pdf)
+- [Fiscal Year 2023](/~assets/afr_gcerc_fy23_v7_508_0.pdf)
+- [Fiscal Year 2022](/~assets/afr_fy22_508_112922.pdf)
+- [Fiscal Year 2021](/~assets/afr_fy21-20220112_508_1.pdf)
+- [Fiscal Year 2020](/~assets/afr_fy20_final_11-16-2020_508.pdf)
+- [Fiscal Year 2019](/~assets/final_afr_fy19_111819_vt_kjh.pdf)
+- [Fiscal Year 2018](/~assets/master_afr_2018_v4_508_compliant_jrh.pdf)
+- [Fiscal Year 2017](/~assets/afr_2017_508_compliant_ba_update.pdf)
+- [Fiscal Year 2016](/~assets/afr_fy_2016_20161129.pdf)

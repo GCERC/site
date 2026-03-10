@@ -10,20 +10,20 @@ eleventyNavigation:
   title: Restoration Planning
   order: 1
 cardlinks:
-  - pdf: /uploads/2022_Comp-Plan_Update_Final.pdf
+  - pdf: /~assets/2022_comp-plan_update_final.pdf
     photo: /img/2022_Comp-Plan_Update_Final_Page_cover.jpg
     caption: 2022 Update to the Comprehensive Plan
-  - pdf: /uploads/20161208_CompPlanUpdate_English.pdf
+  - pdf: /~assets/20161208_compplanupdate_english.pdf
     photo: /img/20161208_CompPlanUpdate_English_Page_cover.jpg
     caption: 2016 Update to the Comprehensive Plan
-  - pdf: /uploads/Initial_Comprehensive_Plan_Aug_2013.pdf
+  - pdf: /~assets/initial_comprehensive_plan_aug_2013.pdf
     photo: /img/Initial Comprehensive Plan Aug 2013_Page_cover.jpg
     caption: 2013 Initial Comprehensive Plan
 secondarycards:
-  - pdf: /uploads/508_PlanningFramework_Final_201908.pdf
+  - pdf: /~assets/508_planningframework_final_201908.pdf
     photo: /img/508_PlanningFramework_Final_201908_Page_cover_edited.jpg
     caption: 2019 Planning Framework
-  - pdf: /uploads/2023_Planning_Framework.pdf
+  - pdf: /~assets/2023_planning_framework.pdf
     photo: /img/2023_Planning_Framework_Page_cover_edited.jpg
     caption: 2023 Planning Framework Update
 cms: true

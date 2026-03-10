@@ -17,16 +17,16 @@ This page lists FPL activities that have an approved implementation phase as wel
 
 ## Gulfwide- Proposed Activities
 
-- The draft 2026 FPL includes a proposed funding increase for Gulf Coast Conservation Reserve Program ([Initial FPL](/uploads/FPL_EClib_GW_Gulf_Coast_Conservation_Reserve_CE_signed.pdf), [FPL 3b](/uploads/PRDFT-Final_Council_CE_GCCRP_Signed_508-20210524.pdf)). The U.S. The Department of Agriculture, the sponsor of this program, has advised the Council that the additional activities proposed for 2026 funding are covered by the environmental compliance documentation used for the Council’s earlier approvals in FPL 3 and the Initial FPL.
-- The draft 2026 FPL also includes proposed funding increase for [Tribal Youth Coastal Restoration Program](/uploads/PRDFT-Final_Council_CE_BIA_Tribal_Youth_Signed_508-20210524.pdf), [Boundary Expansion](/uploads/PRDFT-Signed_Tribal_Boundary_Expansion_FONSI_508_and_EA-20240925.pdf). The U.S. Department of Interior, the sponsor of this program, has advised the Council that the additional activities proposed for 2026 funding are covered by the environmental compliance documentation used for the Council’s earlier approvals in FPL 3 and a subsequent amendment.
+- The draft 2026 FPL includes a proposed funding increase for Gulf Coast Conservation Reserve Program ([Initial FPL](/~assets/fpl_eclib_gw_gulf_coast_conservation_reserve_ce_signed.pdf), [FPL 3b](/~assets/prdft-final_council_ce_gccrp_signed_508-20210524.pdf)). The U.S. The Department of Agriculture, the sponsor of this program, has advised the Council that the additional activities proposed for 2026 funding are covered by the environmental compliance documentation used for the Council’s earlier approvals in FPL 3 and the Initial FPL.
+- The draft 2026 FPL also includes proposed funding increase for [Tribal Youth Coastal Restoration Program](/~assets/prdft-final_council_ce_bia_tribal_youth_signed_508-20210524.pdf), [Boundary Expansion](/~assets/prdft-signed_tribal_boundary_expansion_fonsi_508_and_ea-20240925.pdf). The U.S. Department of Interior, the sponsor of this program, has advised the Council that the additional activities proposed for 2026 funding are covered by the environmental compliance documentation used for the Council’s earlier approvals in FPL 3 and a subsequent amendment.
 
 ## Gulfwide - Approved Activities
 
-- [Baseline Flow, Gage Analysis & On-Line Tool to Support Restoration](/uploads/FPL_EClib_GW_Baseline_Flow_Imp_CE_signed.pdf) (U.S. Department of Interior)
-- [Enhancing Gulf Waters through Forested Watershed Restoration](/uploads/PRDFT-Final_Council_CE_EGWFWR_Signed_508-20210524.pdf) (U.S. Department of Agriculture)
+- [Baseline Flow, Gage Analysis & On-Line Tool to Support Restoration](/~assets/fpl_eclib_gw_baseline_flow_imp_ce_signed.pdf) (U.S. Department of Interior)
+- [Enhancing Gulf Waters through Forested Watershed Restoration](/~assets/prdft-final_council_ce_egwfwr_signed_508-20210524.pdf) (U.S. Department of Agriculture)
 - Gulf Coast Conservation Reserve Program (U.S. Department of Agriculture)
-  - [Initial FPL](/uploads/FPL_EClib_GW_Gulf_Coast_Conservation_Reserve_CE_signed.pdf)
-  - [FPL 3b](/uploads/PRDFT-Final_Council_CE_FL_Land_Acquisition_Signed_508-20210524.pdf)
-- [Gulf of Mexico Conservation Enhancement Grant Program](/uploads/GMCEGP_Environmental_Compliance_Documentation-December_2019.pdf) (U.S. Environmental Protection Agency)
-- [Tribal Youth Coastal Restoration Program](/uploads/PRDFT-Final_Council_CE_BIA_Tribal_Youth_Signed_508-20210524.pdf) (U.S. Department of Interior)
-  - [Boundary Expansion](/uploads/PRDFT-Signed_Tribal_Boundary_Expansion_FONSI_508_and_EA-20240925.pdf)
+  - [Initial FPL](/~assets/fpl_eclib_gw_gulf_coast_conservation_reserve_ce_signed.pdf)
+  - [FPL 3b](/~assets/prdft-final_council_ce_fl_land_acquisition_signed_508-20210524.pdf)
+- [Gulf of Mexico Conservation Enhancement Grant Program](/~assets/gmcegp_environmental_compliance_documentation-december_2019.pdf) (U.S. Environmental Protection Agency)
+- [Tribal Youth Coastal Restoration Program](/~assets/prdft-final_council_ce_bia_tribal_youth_signed_508-20210524.pdf) (U.S. Department of Interior)
+  - [Boundary Expansion](/~assets/prdft-signed_tribal_boundary_expansion_fonsi_508_and_ea-20240925.pdf)

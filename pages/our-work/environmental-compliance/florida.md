@@ -17,22 +17,22 @@ This page lists FPL activities that have an approved implementation phase as wel
 
 ## Florida - Proposed Activities
 
-- The draft 2026 FPL includes proposed funding for the project entitled [Enhance Coastal Resilience Through Beach and Dune Restoration, Escambia County](/uploads/DOI_Coastal_Resiliency_Dune_Environmental_Compliance_Documents_Combined_2026_FPL.pdf), sponsored by the U.S. Department of the Interior.
+- The draft 2026 FPL includes proposed funding for the project entitled [Enhance Coastal Resilience Through Beach and Dune Restoration, Escambia County](/~assets/doi_coastal_resiliency_dune_environmental_compliance_documents_combined_2026_fpl.pdf), sponsored by the U.S. Department of the Interior.
 
 ## Florida - Approved Activities
 
-- [Apalachicola Bay Oyster Restoration](/uploads/Apalachicola_Bay_Oyster_FONSI_w_Attachments_Signed.pdf)
-- [The Apalachicola Regional Restoration Initiative: Strategies 2 & 3](/uploads/PRDFT-Final_Council_CE_ARRI_Signed_508-20210524.pdf) (U.S. Department of Agriculture)
-- [Apalachicola Watershed Agriculture Water Quality Improvements](/uploads/FPL_EClib_FL_Apalachicola_Agriculture_WQ_CE_signed.pdf)
-- [Beach Haven - Joint Stormwater & Wastewater Improvement Project - Phase II](/uploads/FPL_EClib_FL_Beach_Haven_CE_signed.pdf)
-- [Florida Strategic Gulf Coast Land Acquisition Program](/uploads/PRDFT-Final_Council_CE_FL_Land_Acquisition_Signed_508-20210524.pdf)
+- [Apalachicola Bay Oyster Restoration](/~assets/apalachicola_bay_oyster_fonsi_w_attachments_signed.pdf)
+- [The Apalachicola Regional Restoration Initiative: Strategies 2 & 3](/~assets/prdft-final_council_ce_arri_signed_508-20210524.pdf) (U.S. Department of Agriculture)
+- [Apalachicola Watershed Agriculture Water Quality Improvements](/~assets/fpl_eclib_fl_apalachicola_agriculture_wq_ce_signed.pdf)
+- [Beach Haven - Joint Stormwater & Wastewater Improvement Project - Phase II](/~assets/fpl_eclib_fl_beach_haven_ce_signed.pdf)
+- [Florida Strategic Gulf Coast Land Acquisition Program](/~assets/prdft-final_council_ce_fl_land_acquisition_signed_508-20210524.pdf)
   Florida Water Quality Program
-  - [Carpenter Creek Bayou Texar Watershed Outfalls Project](/uploads/PRPUB_Bayou_Texas_Signed_CE_and_EC_Docs_20240117.pdf)
-  - [Highway 297A Retrofit Pond Project](/uploads/PRDFT_Signed_HWY_297A_CE_Form_508_and_EC_Docs_20240925.pdf)
-- [Money Bayou Wetlands Restoration](/uploads/Money_Bayou_Record_of_Decision_Combined_with_EC_Signed.pdf) (U.S. Department of Commerce)
-- [Palm River Restoration Project Phase II](/uploads/Palm_River_Signed_FONSI_Plus_EC_Docs.pdf) , East McKay Bay
-- [Pensacola Bay Living Shoreline - Phase I](/uploads/PRPUB_Pensacola_Bay_Living_Shoreline_Signed_FONSI_and_404_Permit_Package_20241218.pdf)
-- [Robinson Preserve Wetlands Restoration](/uploads/Robinson_Preserve_Record_of_Decision_Signed_20180124.pdf) (U.S. Department of Commerce)
-- [Suwannee River Partnership Irrigation Water Enhancement Program](/uploads/FPL_EClib_FL_Suwannee_River_Irrigation_CE_signed.pdf)
-- [Tampa Bay National Estuary Program](/uploads/Tampa_Bay_NEP_Compliance_Documentation.pdf) (U.S. Environmental Protection Agency)
-- [Tate’s Hell Strategy 1](/uploads/FPL_EClib_FL_Tates_Hell_Imp_CE_signed.pdf) (U.S. Department of Agriculture)
+  - [Carpenter Creek Bayou Texar Watershed Outfalls Project](/~assets/prpub_bayou_texas_signed_ce_and_ec_docs_20240117.pdf)
+  - [Highway 297A Retrofit Pond Project](/~assets/prdft_signed_hwy_297a_ce_form_508_and_ec_docs_20240925.pdf)
+- [Money Bayou Wetlands Restoration](/~assets/money_bayou_record_of_decision_combined_with_ec_signed.pdf) (U.S. Department of Commerce)
+- [Palm River Restoration Project Phase II](/~assets/palm_river_signed_fonsi_plus_ec_docs.pdf) , East McKay Bay
+- [Pensacola Bay Living Shoreline - Phase I](/~assets/prpub_pensacola_bay_living_shoreline_signed_fonsi_and_404_permit_package_20241218.pdf)
+- [Robinson Preserve Wetlands Restoration](/~assets/robinson_preserve_record_of_decision_signed_20180124.pdf) (U.S. Department of Commerce)
+- [Suwannee River Partnership Irrigation Water Enhancement Program](/~assets/fpl_eclib_fl_suwannee_river_irrigation_ce_signed.pdf)
+- [Tampa Bay National Estuary Program](/~assets/tampa_bay_nep_compliance_documentation.pdf) (U.S. Environmental Protection Agency)
+- [Tate’s Hell Strategy 1](/~assets/fpl_eclib_fl_tates_hell_imp_ce_signed.pdf) (U.S. Department of Agriculture)

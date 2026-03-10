@@ -22,12 +22,12 @@ This page lists FPL activities that have an approved implementation phase as wel
 
 ## Alabama - Approved Activities
 
-- [Alabama Submerged Aquatic Vegetation Restoration & Monitoring Program](/uploads/FPL_EClib_AL_%20SAV_Program_CE_signed.pdf)
+- [Alabama Submerged Aquatic Vegetation Restoration & Monitoring Program](/~assets/fpl_eclib_al_20sav_program_ce_signed.pdf)
 - Coastal Alabama Regional Water Quality Program
-  - [City of Fairhope Sanitary Sewer Overflow](/uploads/Final_Fairhope_merged_EC_documents_and_EC_determination_form_signed.pdf)
-  - [City of Loxley Corn Creek Tributary Restoration Project](/uploads/PRPUB_City_of_Loxley_Corn_Creek_FONSI_508_and_EC_Documents_20240117.pdf)
-  - [Norton Creek Sanitary Sewer Inflow and Infiltration Project](/uploads/PRDFT_Signed_Norton_Creek_FONSI_508_and_EC_Package_20240925.pdf)
-- [Comprehensive Living Shoreline Monitoring](/uploads/AL_CLSM_EC_Docs_Signed_5_13_20_508.pdf)
-- [Develop Ecological Flow Decision-Support for Mobile River and Perdido River Basins](/uploads/PRDFT-Final_Council_CE_Eco_Flows_Signed_508-20210524.pdf) (U.S. Department of Interior)
-- [Marsh Restoration in Fish River, Weeks Bay, Oyster Bay & Meadows Tract](/uploads/ROD_%20Marsh_Restoration_in_Fish_River_and_Oyster_Bay_Signed.pdf) (U.S. Department of Commerce)
-- [Mobile Bay National Estuary Program](/uploads/MBNEP_FONSI_and_EC_Docs_Aug_2019_508_Corrected.pdf) (U.S. Environmental Protection Agency)
+  - [City of Fairhope Sanitary Sewer Overflow](/~assets/final_fairhope_merged_ec_documents_and_ec_determination_form_signed.pdf)
+  - [City of Loxley Corn Creek Tributary Restoration Project](/~assets/prpub_city_of_loxley_corn_creek_fonsi_508_and_ec_documents_20240117.pdf)
+  - [Norton Creek Sanitary Sewer Inflow and Infiltration Project](/~assets/prdft_signed_norton_creek_fonsi_508_and_ec_package_20240925.pdf)
+- [Comprehensive Living Shoreline Monitoring](/~assets/al_clsm_ec_docs_signed_5_13_20_508.pdf)
+- [Develop Ecological Flow Decision-Support for Mobile River and Perdido River Basins](/~assets/prdft-final_council_ce_eco_flows_signed_508-20210524.pdf) (U.S. Department of Interior)
+- [Marsh Restoration in Fish River, Weeks Bay, Oyster Bay & Meadows Tract](/~assets/rod_20marsh_restoration_in_fish_river_and_oyster_bay_signed.pdf) (U.S. Department of Commerce)
+- [Mobile Bay National Estuary Program](/~assets/mbnep_fonsi_and_ec_docs_aug_2019_508_corrected.pdf) (U.S. Environmental Protection Agency)
