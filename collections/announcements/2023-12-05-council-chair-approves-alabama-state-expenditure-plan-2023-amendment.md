@@ -7,19 +7,13 @@ On December 4, 2023, the Council Chair, the U.S. Environmental Protection Agency
 **Learn more about** 
 
 [State Expenditure Plans](https://www.restorethegulf.gov/our-work/spill-impact-component/)
-
 [Alabama SEP Amendments](https://www.restorethegulf.gov/our-work/spill-impact-component/alabama/)
-
 [RESTORE Council Story Map- See What We Do](https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676)
-
 [Modifying your eBlast Subscription](https://public.govdelivery.com/accounts/USRESTORECOUNCIL/subscriber/new)
 
 
 
 Keala J. Hughes
-
 Director of External Affairs & Tribal Relations
-
 (504) 717-7235
-
 [keala.hughes@restorethegulf.gov](mailto:keala.hughes@restorethegulf.gov)
