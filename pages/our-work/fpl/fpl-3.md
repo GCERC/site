@@ -18,7 +18,7 @@ The Council periodically approves Council-Selected Restoration Component funding
 * Amendments to FPL 3(a) and FPL 3(b):
 
   * [Texas Water Quality and Chenier Plains Restoration Programs and Projects](/~assets/documents/texas_fpl_3b_amendment_12172025.pdf) - 2025
-  * Texas Shoreline Protection Through Living Shorelines Program- 2025
+  * [Texas Shoreline Protection Through Living Shorelines Program](https://www.restorethegulf.gov/~assets/tx_shoreline_protection_amendment_summarydocx.pdf)- 2025
   * [Pensacola Bay Living Shoreline](/~assets/documents/prdft_pensacola_ls_fpl_amendment_summary_20241218.pdf) - 2024
   * [Highway 297A Retrofit Pond Project](/~assets/documents/hwy_297a_retrofit_pond_project_fpl_amendment_summary_508_20240926.docx) - 2024
   * [Norton Creek Sanitary Sewer Inflow and Infiltration Rehabilitation Project](/~assets/documents/norton_creek_fpl_amendment_summary_508_20240926.docx) - 2024
