@@ -16,7 +16,7 @@ The Initial Funded Priorities List was approved on December 9, 2015. Below are l
 * [Initial FPL](/~assets/documents/fpl_fordec9vote_errata_04-07-2016.pdf) - 2015
 * Amendments:
 
-  * [Pensacola Bay Living Shoreline](<>) - 2024
+  * [Pensacola Bay Living Shoreline](https://www.restorethegulf.gov/~assets/documents/prdft_pensacola_ls_fpl_amendment_summary_20241218.pdf) - 2024
   * [DOI Funding Reallocation](/~assets/documents/doi_funding_reallocation_fpl_amendment_summary_508_20240926.docx) - 2024
   * [Bahia Grande Wetland System Restoration Project](/~assets/documents/bahia_grande_fpl_appdx_revised_508.pdf) - 2023
   * [Money Bayou Wetlands Restoration Project](/~assets/documents/money_bayou_fpl_amendment_summary_508.pdf) - 2023
