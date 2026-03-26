@@ -2,11 +2,6 @@
 title: Council Members
 redirect_from:
   - /people/council-members
-eleventyNavigation:
-  key: council-members
-  parent: about-us
-  title: Council Members
-  order: 1
 lead: >
   The RESTORE Council includes governors of the States of Alabama, Florida,
   Louisiana, Mississippi and Texas and the Secretaries of the U.S. Departments
@@ -14,6 +9,11 @@ lead: >
   Administrator of the U.S. Environmental Protection Agency. This unique
   governance structure institutionalizes collaboration among government agencies
   with key roles in Gulf coast restoration.
+eleventyNavigation:
+  key: council-members
+  parent: about-us
+  title: Council Members
+  order: 1
 members:
   - name: Lee Zeldin
     agency: U.S. Environmental Protection Agency
@@ -91,10 +91,10 @@ members:
       - type: Representative
         name: Aileen Smith
         title: Senior Policy Analyst
-  - name: Kristi Noem
+  - name: Markwayne Mullin
     agency: U.S. Department of Homeland Security
     title: Secretary
-    photo: /img/Kristi Noem.jpg
+    photo: /img/sen-markwayne-mullin.jpg
     delegates:
       - type: Representative
         name: TBD
