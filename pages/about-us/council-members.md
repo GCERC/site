@@ -94,7 +94,7 @@ members:
   - name: Markwayne Mullin
     agency: U.S. Department of Homeland Security
     title: Secretary
-    photo: /img/sen-markwayne-mullin.jpg
+    photo: /img/screenshot-2026-03-26-113817.png
     delegates:
       - type: Representative
         name: TBD
