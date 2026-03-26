@@ -97,7 +97,7 @@ New Orleans, LA 70130
       <th scope="row">Mallory Fischer</th>
       <td>U.S. Department of the Interior</td>
       <td>
-        <a href="mailto:mallory_fischer@fws.gov">nanciann_regalado@fws.gov</a><br>
+        <a href="mailto:mallory_fischer@fws.gov">mallory_fischer@fws.gov</a><br>
         (470) 618-5501
       </td>
     </tr>
