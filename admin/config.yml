@@ -208,7 +208,12 @@ collections:
       - label: "Contact"
         name: "contact"
         file: "pages/contact.md"
-        fields: *fields_common
+        fields:
+          - *field_title
+          - *field_lead
+          - *field_cms_hidden
+          - *field_featured
+          - *field_body
 
   - name: "media"
     label: "Media Gallery"
@@ -328,7 +333,12 @@ collections:
       - label: "Policies"
         name: "policies"
         file: "pages/policies.md"
-        fields: *fields_common
+        fields:
+          - *field_title
+          - *field_lead
+          - *field_cms_hidden
+          - *field_featured
+          - *field_body
 
   - name: "reports"
     label: "Reports"
