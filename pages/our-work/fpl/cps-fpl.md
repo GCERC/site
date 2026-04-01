@@ -16,4 +16,4 @@ The RESTORE Council periodically approves Council-Selected Restoration Component
 * [Comprehensive Plan Commitment and Planning Support FPL](https://www.restorethegulf.gov/~assets/documents/2017_cps_fpl_final.pdf) - 2017
 * Amendments:
 
-  * [Comprehensive Plan Commitment and Planning Support FPL Update](https://www.restorethegulf.gov/~assets/documents/cps_fpl_2023_amendment_508_kjh.pdf) - 2024
+  * [Comprehensive Plan Commitment and Planning Support FPL Update](https://www.restorethegulf.gov/~assets/documents/cps_fpl_2023_amendment_508_kjh.pdf) - 2023
