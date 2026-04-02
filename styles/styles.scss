@@ -119,6 +119,16 @@ img {
   object-fit: cover;
 }
 
+.usa-card__img img.card-img-fit-contain {
+  object-fit: contain;
+}
+
+.usa-card__img picture {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
 .usa-alert.usa-alert--info,
 .usa-alert.usa-alert--info .usa-alert__body,
 .usa-alert.usa-alert--info.usa-alert--slim,

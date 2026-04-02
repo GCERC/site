@@ -1,5 +1,24 @@
+{%- assign photo_aspect = photo_aspect | default: 'landscape' -%}
+{%- assign photo_aspect_class = 'add-aspect-16x9' -%}
+{%- if photo_aspect == 'portrait' -%}
+  {%- assign photo_aspect_class = 'add-aspect-9x16' -%}
+{%- endif -%}
+{%- if photo_aspect == 'natural' -%}
+  {%- assign photo_aspect_class = '' -%}
+{%- endif -%}
+{%- assign photo_fit = photo_fit | default: 'auto' -%}
+{%- if photo_fit == 'auto' -%}
+  {%- assign photo_fit = 'cover' -%}
+  {%- if photo_aspect == 'portrait' -%}
+    {%- assign photo_fit = 'contain' -%}
+  {%- endif -%}
+{%- endif -%}
+{%- assign photo_fit_class = 'card-img-fit-cover' -%}
+{%- if photo_fit == 'contain' -%}
+  {%- assign photo_fit_class = 'card-img-fit-contain' -%}
+{%- endif -%}
 <li class="usa-card desktop:grid-col-4" markdown="0">
-  <div class="usa-card__container">
+  <div class="usa-card__container height-full">
     <div class="usa-card__header">
       <h4 class="usa-card__heading">{{- title -}}</h4>
       {%- if sub_title -%}
@@ -8,8 +27,14 @@
     </div>
     {%- if photo -%}
       <div class="usa-card__media">
-        <div class="usa-card__img add-aspect-9x16 border border-base-lighter">
-          <img src="{{- photo -}}" alt="{{- title -}}" width="600">
+        <div class="usa-card__img {{ photo_aspect_class }}">
+          <img
+            src="{{- photo -}}"
+            alt="{{- title -}}"
+            class="display-block width-full height-full {{ photo_fit_class }}"
+            loading="lazy"
+            decoding="async"
+          >
         </div>
       </div>
     {%- endif -%}
