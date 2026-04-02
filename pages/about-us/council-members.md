@@ -125,6 +125,6 @@ cms_hidden: true
       </p>
     {%- endfor -%}
   {%- endcapture -%}
-    {%- include 'card.html', title: member.name, sub_title: sub_title, photo: member.photo, body: body -%}
+    {%- include 'card.html', title: member.name, sub_title: sub_title, photo: member.photo, body: body, photo_aspect: "portrait", photo_fit: "cover" -%}
   {%- endfor -%}
 </ul>
