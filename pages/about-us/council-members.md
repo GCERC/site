@@ -70,7 +70,7 @@ members:
   - name: Brooke Rollins
     agency: U.S. Department of Agriculture
     title: Secretary
-    photo: /img/sec of ag.jpg
+    photo: /img/usda-secretary-brooke-rollins-2_0.jpg
     delegates:
       - type: Representative
         name: Doris Washington
