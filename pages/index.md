@@ -29,13 +29,13 @@ topics:
     url: https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676
     img: /img/story-map.jpg
     alt: ""
-    body: Comprehensive, science-based reports and strategic plans that outline restoration goals, project funding allocations, and progress assessments for ecosystem recovery along the Gulf Coast.
+    body: Learn about RESTORE-funded projects in an interactive map and dashboard.
     buttontext: View project dashboard
   - title: Resources
     url: /reports/
     img: /img/resources.jpg
     alt: ""
-    body: Learn about RESTORE-funded projects in an interactive map and dashboard.
+    body: Comprehensive, science-based reports and strategic plans that outline restoration goals, project funding allocations, and progress assessments for ecosystem recovery along the Gulf Coast.
     buttontext: See our reports
 cms: true
 ---
