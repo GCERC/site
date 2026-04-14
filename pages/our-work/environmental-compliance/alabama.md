@@ -22,7 +22,7 @@ This page lists FPL activities that have an approved implementation phase as wel
 
 ## Alabama - Approved Activities
 
-- [Alabama Submerged Aquatic Vegetation Restoration & Monitoring Program](/~assets/documents/fpl_eclib_al_20sav_program_ce_signed.pdf)
+- [Alabama Submerged Aquatic Vegetation Restoration & Monitoring Program](/~assets/documents/fpl_eclib_al_-sav_program_ce_signed.pdf)
 - Coastal Alabama Regional Water Quality Program
   - [City of Fairhope Sanitary Sewer Overflow](/~assets/documents/final_fairhope_merged_ec_documents_and_ec_determination_form_signed.pdf)
   - [City of Loxley Corn Creek Tributary Restoration Project](/~assets/documents/prpub_city_of_loxley_corn_creek_fonsi_508_and_ec_documents_20240117.pdf)
