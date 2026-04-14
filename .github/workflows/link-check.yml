@@ -30,7 +30,7 @@ jobs:
           statusCodes: '{"4xx":"warn","5xx":"warn"}'
           redirects: allow
           linksToSkip: "search.usa.gov/javascripts/remote.loader.js"
-          urlRewriteSearch: "^/(?!/)"
+          urlRewriteSearch: "^(?![A-Za-z][A-Za-z+.-]*:|//)/?"
           urlRewriteReplace: "https://www.restorethegulf.gov/"
 
       - name: Format Link Check Summary

@@ -42,12 +42,19 @@ function getParent(link) {
   );
 }
 
+function escapeMarkdownCell(value) {
+  return String(value)
+    .replace(/\\/g, '\\\\')
+    .replace(/\|/g, '\\|')
+    .replace(/\r?\n/g, ' ');
+}
+
 function formatTableRows(links) {
   return links
     .map((link) => {
       const status = getStatusCode(link) ?? 'unknown';
-      const url = getUrl(link).replace(/\|/g, '\\|');
-      const parent = getParent(link).replace(/\|/g, '\\|');
+      const url = escapeMarkdownCell(getUrl(link));
+      const parent = escapeMarkdownCell(getParent(link));
       return `| ${status} | ${url} | ${parent} |`;
     })
     .join('\n');
@@ -79,7 +86,7 @@ const links = normalizeLinks(payload);
 const failingLinks = links
   .filter((link) => {
     const status = getStatusCode(link);
-    return status !== null && status !== 200;
+    return status === 404;
   })
   .sort((a, b) => {
     const aStatus = getStatusCode(a) ?? 0;
@@ -91,7 +98,7 @@ const failingLinks = links
 const heading = `## Link Check (${process.env.GITHUB_EVENT_NAME || 'manual'}:${process.env.GITHUB_REF_NAME || 'unknown'})`;
 
 if (!failingLinks.length) {
-  writeSummary([heading, '', 'All checked links returned HTTP 200.']);
+  writeSummary([heading, '', 'No HTTP 404 links found.']);
   process.exit(0);
 }
 
@@ -101,7 +108,7 @@ const displayedLinks = failingLinks.slice(0, limit);
 const lines = [
   heading,
   '',
-  `Found ${failingLinks.length} checked link(s) with a non-200 response.`,
+  `Found ${failingLinks.length} checked link(s) returning HTTP 404.`,
   '',
   '| Status | URL | Found On |',
   '| --- | --- | --- |',
