@@ -29,26 +29,24 @@ jobs:
         run: npm run pages
 
       - name: Run Linkinator
-        id: linkinator
-        uses: JustinBeckwith/linkinator-action@v2
-        continue-on-error: true
-        with:
-          paths: "_site"
-          recurse: true
-          cleanUrls: true
-          timeout: 10000
-          retryErrors: true
-          retryErrorsCount: 2
-          verbosity: ERROR
-          statusCodes: '{"4xx":"warn","5xx":"warn"}'
-          redirects: allow
-          linksToSkip: "search.usa.gov/javascripts/remote.loader.js"
-          urlRewriteSearch: "^/~assets/"
-          urlRewriteReplace: "https://www.restorethegulf.gov/~assets/"
+        run: >
+          npx --yes linkinator _site
+          --recurse
+          --clean-urls
+          --timeout 10000
+          --retry-errors
+          --retry-errors-count 2
+          --verbosity ERROR
+          --redirects allow
+          --links-to-skip "search.usa.gov/javascripts/remote.loader.js"
+          --url-rewrite-search "^/~assets/"
+          --url-rewrite-replace "https://www.restorethegulf.gov/~assets/"
+          --format json
+          > /tmp/linkinator-results.json || true
 
       - name: Format Link Check Summary
         env:
-          LINKINATOR_RESULTS: ${{ steps.linkinator.outputs.results }}
+          LINKINATOR_RESULTS_FILE: /tmp/linkinator-results.json
           GITHUB_EVENT_NAME: ${{ github.event_name }}
           GITHUB_REF_NAME: ${{ github.ref_name }}
         run: node scripts/format-linkinator-results.mjs

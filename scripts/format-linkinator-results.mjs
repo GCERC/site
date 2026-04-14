@@ -1,4 +1,4 @@
-import {appendFileSync} from 'node:fs';
+import {appendFileSync, readFileSync} from 'node:fs';
 import process from 'node:process';
 
 function normalizeLinks(payload) {
@@ -72,7 +72,10 @@ function writeSummary(lines) {
 
 let payload;
 try {
-  payload = JSON.parse(process.env.LINKINATOR_RESULTS || '{}');
+  const rawResults = process.env.LINKINATOR_RESULTS_FILE
+    ? readFileSync(process.env.LINKINATOR_RESULTS_FILE, 'utf8')
+    : process.env.LINKINATOR_RESULTS || '{}';
+  payload = JSON.parse(rawResults);
 } catch (error) {
   writeSummary([
     '## Link Check',
