@@ -39,7 +39,7 @@ jobs:
           --verbosity ERROR
           --redirects allow
           --links-to-skip "search.usa.gov/javascripts/remote.loader.js"
-          --url-rewrite-search "^(?:_site)?/~assets/"
+          --url-rewrite-search "^https?://[^/]+/~assets/"
           --url-rewrite-replace "https://www.restorethegulf.gov/~assets/"
           --format json
           > /tmp/linkinator-results.json || true

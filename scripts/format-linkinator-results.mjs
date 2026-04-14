@@ -49,11 +49,18 @@ function escapeMarkdownCell(value) {
     .replace(/\r?\n/g, ' ');
 }
 
+function normalizeReportedUrl(url) {
+  return String(url).replace(
+    /^(?:_site\/|\/)?~assets\//,
+    'https://www.restorethegulf.gov/~assets/'
+  );
+}
+
 function formatTableRows(links) {
   return links
     .map((link) => {
       const status = getStatusCode(link) ?? 'unknown';
-      const url = escapeMarkdownCell(getUrl(link));
+      const url = escapeMarkdownCell(normalizeReportedUrl(getUrl(link)));
       const parent = escapeMarkdownCell(getParent(link));
       return `| ${status} | ${url} | ${parent} |`;
     })
