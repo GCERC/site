@@ -18,7 +18,7 @@ This page lists FPL activities that have an approved implementation phase as wel
 ## Texas - Proposed Activities
 
 - The draft 2026 FPL includes a proposed funding increase for [Wind Tidal Flats Pilot](/~assets/documents/prdft-final_council_ce_wind_tidal_flats_signed_508-20210524.pdf), Phase 2. The U.S. Department of Interior (DOI), the sponsor of the project, has advised the Council that the additional activities proposed for 2026 funding are covered by the environmental compliance documentation used for the Council’s original approval in FPL 3.
-- The draft 2026 FPL also includes proposed funding for the project entitled [Development of Indicators and Identification of Thresholds to Support Reef Restoration](/~assets/documents/ec_docs_combined_doi_development_of_indicators_and_reef_restoration_202620fpl.pdf), Texas, sponsored by DOI.
+- The draft 2026 FPL also includes proposed funding for the project entitled [Development of Indicators and Identification of Thresholds to Support Reef Restoration](/~assets/documents/ec_docs_combined_doi_development_of_indicators_and_reef_restoration_2026-fpl.pdf), Texas, sponsored by DOI.
 
 ## Texas- Approved Activities
 
