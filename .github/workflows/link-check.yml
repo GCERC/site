@@ -1,0 +1,52 @@
+name: Link Check
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npm run pages
+
+      - name: Run Linkinator
+        run: >
+          npx --yes linkinator _site
+          --recurse
+          --clean-urls
+          --timeout 10000
+          --retry-errors
+          --retry-errors-count 2
+          --verbosity ERROR
+          --redirects allow
+          --links-to-skip "search.usa.gov/javascripts/remote.loader.js"
+          --url-rewrite-search "^https?://[^/]+/~assets/"
+          --url-rewrite-replace "https://www.restorethegulf.gov/~assets/"
+          --format json
+          > /tmp/linkinator-results.json || true
+
+      - name: Format Link Check Summary
+        env:
+          LINKINATOR_RESULTS_FILE: /tmp/linkinator-results.json
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+        run: node scripts/format-linkinator-results.mjs
