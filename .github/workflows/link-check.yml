@@ -16,13 +16,26 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npm run pages
+
       - name: Run Linkinator
         id: linkinator
         uses: JustinBeckwith/linkinator-action@v2
         continue-on-error: true
         with:
-          paths: "**/*.md"
-          markdown: true
+          paths: "_site"
+          recurse: true
+          cleanUrls: true
           timeout: 10000
           retryErrors: true
           retryErrorsCount: 2
@@ -30,8 +43,8 @@ jobs:
           statusCodes: '{"4xx":"warn","5xx":"warn"}'
           redirects: allow
           linksToSkip: "search.usa.gov/javascripts/remote.loader.js"
-          urlRewriteSearch: "^(?![A-Za-z][A-Za-z+.-]*:|//)/?"
-          urlRewriteReplace: "https://www.restorethegulf.gov/"
+          urlRewriteSearch: "^/~assets/"
+          urlRewriteReplace: "https://www.restorethegulf.gov/~assets/"
 
       - name: Format Link Check Summary
         env:
