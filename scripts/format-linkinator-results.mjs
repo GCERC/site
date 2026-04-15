@@ -1,4 +1,4 @@
-import {appendFileSync, readFileSync} from 'node:fs';
+import {appendFileSync, readFileSync, writeFileSync} from 'node:fs';
 import process from 'node:process';
 
 function normalizeLinks(payload) {
@@ -72,9 +72,15 @@ function writeSummary(lines) {
   if (process.env.GITHUB_STEP_SUMMARY) {
     process.stdout.write(body);
     appendFileSync(process.env.GITHUB_STEP_SUMMARY, body);
-    return;
   }
-  process.stdout.write(body);
+
+  if (process.env.LINK_CHECK_REPORT_FILE) {
+    writeFileSync(process.env.LINK_CHECK_REPORT_FILE, body, 'utf8');
+  }
+
+  if (!process.env.GITHUB_STEP_SUMMARY) {
+    process.stdout.write(body);
+  }
 }
 
 let payload;
