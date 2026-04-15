@@ -9,6 +9,7 @@ jobs:
     permissions:
       contents: read
       issues: write
+      pull-requests: write
 
     steps:
       - name: Check out repository
@@ -53,6 +54,7 @@ jobs:
       - name: Publish PR Comment
         if: github.event_name == 'pull_request'
         uses: actions/github-script@v7
+        continue-on-error: true
         env:
           LINK_CHECK_REPORT_FILE: /tmp/link-check-report.md
         with:
@@ -79,18 +81,25 @@ jobs:
               comment.user?.type === 'Bot' && comment.body?.includes(marker)
             );
 
-            if (existing) {
-              await github.rest.issues.updateComment({
-                owner,
-                repo,
-                comment_id: existing.id,
-                body,
-              });
-            } else {
-              await github.rest.issues.createComment({
-                owner,
-                repo,
-                issue_number,
-                body,
-              });
+            try {
+              if (existing) {
+                await github.rest.issues.updateComment({
+                  owner,
+                  repo,
+                  comment_id: existing.id,
+                  body,
+                });
+              } else {
+                await github.rest.issues.createComment({
+                  owner,
+                  repo,
+                  issue_number,
+                  body,
+                });
+              }
+            } catch (error) {
+              core.warning(
+                `Unable to publish PR comment: ${error.message}. ` +
+                'This commonly happens on forked or bot-authored pull requests where the GITHUB_TOKEN is read-only.'
+              );
             }
