@@ -8,7 +8,7 @@ cms: true
 
 The Grant and Program Teams of the Gulf Coast Ecosystem Restoration Council administer grants and interagency agreements under both the Council-Selected Restoration Component and the Spill Impact Component. These activities include, but are not limited to: evaluating applications for administrative content and compliance with statutes, regulations, and guidelines; providing consultation and technical assistance to recipients; and administering grants and agreements after award.
 
-### AWARD TERMS
+## AWARD TERMS
 
 - [Financial Assistance Standard Terms and Conditions](/~assets/restore_council_stcs_final_08182015.pdf) prior to August 2025
 - [Interagency Agreement Standard Terms and Conditions](/~assets/go_res_20160505_council_iaa_stcs.pdf)
@@ -16,7 +16,7 @@ The Grant and Program Teams of the Gulf Coast Ecosystem Restoration Council admi
 
 These terms, which may be updated periodically, are incorporated by reference into all RESTORE Council federal financial assistance awards and interagency agreements, as applicable.
 
-### PROGRAMMATIC AUTHORITY AND REGULATIONS
+## PROGRAMMATIC AUTHORITY AND REGULATIONS
 
 - [RESTORE Act](https://home.treasury.gov/system/files/216/Final-Restore-Act.pdf)
 - [2 CFR 200](https://www.ecfr.gov/current/title-2/subtitle-A/chapter-II/part-200)
