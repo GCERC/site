@@ -1,5 +1,7 @@
 ---
 title: Protecting and Restoring Valuable Coastal Habitat
+redirect_from:
+  - /restore-impact/protecting-and-restoring-valuable-coastal-habitat
 eleventyNavigation:
   key: protecting-and-restoring-valuable-coastal-habitat
   parent: what-we-do
