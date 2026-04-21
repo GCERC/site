@@ -1,5 +1,7 @@
 ---
 title: Protecting Communities from Coastal Flooding
+redirect_from:
+  - /restore-impact/protecting-communities-from-coastal-flooding
 eleventyNavigation:
   key: protecting-communities-from-coastal-flooding
   parent: what-we-do

@@ -1,5 +1,7 @@
 ---
 title: Louisiana Environmental Compliance
+redirect_from:
+  - /fpl-e3-ec-louisiana
 eleventyNavigation:
   key: louisiana
   parent: environmental-compliance

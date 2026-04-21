@@ -1,6 +1,8 @@
 ---
 title: Alabama Environmental Compliance
 sidenav: true
+redirect_from:
+  - /fpl-e3-ec-alabama
 eleventyNavigation:
   key: alabama
   parent: environmental-compliance

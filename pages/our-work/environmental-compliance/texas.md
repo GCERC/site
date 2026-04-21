@@ -1,5 +1,7 @@
 ---
 title: Texas Environmental Compliance
+redirect_from:
+  - /fpl-e3-ec-texas
 eleventyNavigation:
   key: texas
   parent: environmental-compliance

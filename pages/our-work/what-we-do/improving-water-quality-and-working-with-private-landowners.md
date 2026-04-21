@@ -1,5 +1,7 @@
 ---
 title: Improving Water Quality and Working with Private Landowners
+redirect_from:
+  - /restore-impact/improving-water-quality-and-working-with-private-landowners
 eleventyNavigation:
   key: improving-water-quality-and-working-with-private-landowners
   parent: what-we-do

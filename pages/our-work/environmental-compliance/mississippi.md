@@ -1,5 +1,7 @@
 ---
 title: Mississippi Environmental Compliance
+redirect_from:
+  - /fpl-e3-ec-mississippi
 eleventyNavigation:
   key: mississippi
   parent: environmental-compliance
