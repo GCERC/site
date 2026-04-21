@@ -12,7 +12,7 @@ The Grant and Program Teams of the Gulf Coast Ecosystem Restoration Council admi
 
 - [Financial Assistance Standard Terms and Conditions](/~assets/restore_council_stcs_final_08182015.pdf) prior to August 2025
 - [Interagency Agreement Standard Terms and Conditions](/~assets/go_res_20160505_council_iaa_stcs.pdf)
-- [General Terms and Conditions (hopefully approved after June 18th)](/~assets/restore_council_stcs_final_08182015.pdf)
+- [General Terms and Conditions](/~assets/restore_council_stcs_final_08182015.pdf) (hopefully approved after June 18th)
 
 These terms, which may be updated periodically, are incorporated by reference into all RESTORE Council federal financial assistance awards and interagency agreements, as applicable.
 
