@@ -344,3 +344,13 @@ collections:
     label: "Reports"
     folder: "pages/reports"
     <<: *pages_folder_defaults
+
+  - name: "members"
+    label: "Council Member Resources"
+    files:
+      - label: "Council Member Resources"
+        name: "members"
+        file: "pages/members.md"
+        fields:
+          - *field_title
+          - *field_body

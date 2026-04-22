@@ -41,6 +41,8 @@ secondary_navigation:
 footer_navigation:
   - name: Accessibility statement
     url: "/policies/#accessibility-statement"
+  - name: Council Member Resources
+    url: "/members/"
   - name: Freedom of Information Act (FOIA)
     url: "/policies/#freedom-of-information-act-foia"
   - name: Equal employment
