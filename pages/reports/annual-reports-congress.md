@@ -20,7 +20,7 @@ cms_hidden: false
 ---
 ## Reports by Fiscal Year
 
-* Fiscal Year 2025
+* [Fiscal Year 2025](https://www.restorethegulf.gov/~assets/fy25_annual_report_to_congress_20260415_508.pdf)
 * [Fiscal Year 2024](/~assets/documents/annual_report_to_congress_fy2024_508.pdf)[](/~assets/documents/annual_report_to_congress_fy2024_508.pdf)
 * [Fiscal Year 2023](/~assets/documents/annual_report_to_congress_fy23_final_508.pdf)
 * [Fiscal Year 2022](/~assets/documents/annual_report_to_congress_2022_508.pdf)
