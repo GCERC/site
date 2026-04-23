@@ -135,6 +135,35 @@ pages_folder_defaults: &pages_folder_defaults
   fields: *fields_common
 
 collections:
+  # - name: "home"
+  #   label: "Homepage"
+  #   files:
+  #     - label: Home
+  #       name: "home"
+  #       file: "pages/index.md"
+  #       preview_path: "/"
+  #       fields:
+  #         - label: Hero Section
+  #           name: hero
+  #           widget: object
+  #           required: false
+  #           fields:
+  #             - { label: Title, name: title, widget: string }
+  #             - { label: URL, name: url, widget: string }
+  #             - { label: Body, name: body, widget: string }
+  #             - { label: Hero Button, name: buttontext, widget: string }
+  #         - label: Featured Topics
+  #           name: topics
+  #           widget: list
+  #           min: 4
+  #           max: 4
+  #           fields:
+  #             - { label: "Title", name: "title", widget: "string" }
+  #             - { label: "URL", name: "url", widget: "string" }
+  #             - { label: "Image", name: "img", widget: "image" }
+  #             - { label: "Alt text", name: "alt", widget: "string" }
+  #             - { label: "Body", name: "body", widget: "string" }
+  #             - { label: "Button Text", name: "buttontext", widget: "string" }
   - name: "about-us"
     label: "About Us"
     folder: "pages/about-us"
