@@ -153,7 +153,7 @@ cms: true
 * [Florida SEP Amendment 5](/~assets/documents/fl_sep_amendment_5_-508_0.pdf) - April 20, 2023
 * [Florida SEP Amendment 6](/~assets/documents/fl_sep_amendment_6_final_0.pdf) - March 18, 2024
 * [Florida SEP Amendment 7](/~assets/documents/fl_sep_amendmnt_7.pdf) - April 18, 2025
-* Florida SEP Amendment 8- May 1, 2026
+* [Florida SEP Amendment 8](https://www.restorethegulf.gov/~assets/fl_sep_amend_8_050126.pdf)- May 1, 2026
 
 For more information on each project award, use the Federal Award ID Number below to search on [USAspending.gov](https://www.usaspending.gov/search/?hash=d0cede4de5827d24bbd9d27076bf18f2).
 
