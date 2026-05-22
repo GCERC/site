@@ -140,7 +140,7 @@ TODO
 
 ### Creating links
 
-For preview links generated on the platform, we automatically set the `pathPrefix` in the [`.eleventy.js`](/.eleventy.js) file base on the `BASEURL` environment variable. We use the built-in 11ty filter for `url` to properly append the prefix path for the linked page. When adding new links, use the following syntax:
+For preview links generated on the platform, the shared Eleventy preset reads the `BASEURL` environment variable and uses Eleventy's HTML base plugin to make root-relative links and asset references work with the preview path prefix. When adding new links, use the following syntax:
 
 ```liquid
 <a href="/myDir/">Link to My Dir</a>
@@ -158,11 +158,11 @@ USWDS has sprite icons available for use. Here is the [list of icons](https://de
 
 ### Expanding SCSS Styles
 
-CSS and SASS can be added or imported into the `styles/styles.scss`. You can also use [USWDS Design Tokens](https://designsystem.digital.gov/design-tokens/) in the `styles/themes` files to update colors, fonts, and layout to fit your site's branding. This template uses [esbuild](https://esbuild.github.io/)and [autoprefixer](https://github.com/postcss/autoprefixer) to bundle your SASS/CSS and fingerprint the files in the site build.
+CSS and SASS can be added or imported into the `styles/styles.scss`. You can also use [USWDS Design Tokens](https://designsystem.digital.gov/design-tokens/) in the `styles/themes` files to update colors, fonts, and layout to fit your site's branding. The shared Eleventy preset compiles Sass, runs autoprefixing for production builds, and copies USWDS assets to `/assets/uswds/`.
 
 ### Adding custom Javascript
 
-Javascript can be added to the admin UI or site UI by adding or importing code into the `js/admin.js` or `js/app.js` files respectively. This template uses [esbuild](https://esbuild.github.io/) to bundle your javascript and fingerprint the files in the site build.
+Javascript can be added to the admin UI or site UI by adding or importing code into the `js/admin.js` or `js/app.js` files respectively. The shared Eleventy preset bundles these entry points to `/assets/js/`.
 
 ### Customizing 11ty
 
