@@ -1,1 +1,1 @@
-require('@uswds/uswds');
+require("@studio/eleventy-preset/uswds");
