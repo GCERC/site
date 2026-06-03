@@ -19,7 +19,7 @@ The Council periodically approves Council-Selected Restoration Component funding
 
   * [Texas Water Quality and Chenier Plains Restoration Programs and Projects](/~assets/documents/texas_fpl_3b_amendment_12172025.pdf) - 2025
   * [Texas Shoreline Protection Through Living Shorelines Program](/~assets/tx_shoreline_protection_amendment_summarydocx.pdf)- 2025
-  * [Highway 297A Retrofit Pond Project](/~assets/documents/hwy_297a_retrofit_pond_project_fpl_amendment_summary_508_20240926.docx) - 2024
+  * [Highway 297A Retrofit Pond Project](https://www.restorethegulf.gov/~assets/hwy_297a_retrofit_pond_project_fpl_amendment_summary_508_20240926rev.pdf) - 2024
   * [Norton Creek Sanitary Sewer Inflow and Infiltration Rehabilitation Project](https://www.restorethegulf.gov/~assets/norton_creek_fpl_amendment_summary_508_20240926rev.pdf) - 2024
   * [Tribal Corps Boundary Expansion](https://www.restorethegulf.gov/~assets/fpl-amendment_tribal_youth_boundary_expansion_amendment_508_rev_20240926docx.pdf) - 2024
   * [Carpenter Creek Bayou Texar Watershed Outfalls Project](/~assets/documents/fpl3b_amendment_fl_carpenter_creek_bayou_texar_summary_508_0240117.pdf) - 2024
