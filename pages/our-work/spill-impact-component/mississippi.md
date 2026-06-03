@@ -81,7 +81,7 @@ cms: true
 * [2022 Mississippi_SEP Amendment](/~assets/documents/ms_sep_2022_amendment.pdf) - May 18, 2023
 * [2023 Mississippi_SEP Amendment](/~assets/documents/ms_2023_state_expenditure_plan_amendment_for_council_submission_522024.pdf) - May 31, 2024
 * [2024 Mississippi_SEP Amendment](/~assets/documents/2024_mississippi_state_expenditure_plan_amendment_for_council_submission_432025_final.pdf) - April 18, 2025
-* [2025 Mississippi SEP Amendment](https://www.restorethegulf.gov/~assets/ms_sep_2025_amendment_3302026.pdf)- May 21, 2026
+* [2025 Mississippi SEP Amendment](https://www.restorethegulf.gov/~assets/ms_sep_2025_amendment_3302026.pdf)-  May 21, 2026
 
 For more information on each project award, use the Federal Award ID Number below to search on [USAspending.gov](https://www.usaspending.gov/search/?hash=d0cede4de5827d24bbd9d27076bf18f2).
 
