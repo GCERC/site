@@ -1,70 +1,137 @@
 ---
 title: Mississippi State Expenditure Plan
 grants:
-  - title: Beneficial Use of Dredge Material for Marsh Creation and Restoration in
+  - title:
+      Beneficial Use of Dredge Material for Marsh Creation and Restoration in
       Mississippi
     federalId: GNSSP21MS0015
     pdfLink: /~assets/documents/ms_sep_2018_amendment_final_020819-508.pdf#page=23
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP21MS0015_471"
+  - title: Career Pathway for Hydrographic Technicians
+    federalId: GNSSP26MS0077
+    pdfLink: /~assets/documents/2024_mississippi_state_expenditure_plan_amendment_for_council_submission_432025_final.pdf#page=28
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP26MS0077_471"
+  - title: Classrooms and Dormitories for the Center for Marine Education and Research
+    federalId: GNSSP25MS0071
+    pdfLink: /~assets/documents/ms_2023_state_expenditure_plan_amendment_for_council_submission_522024.pdf#page=32
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP25MS0071_471"
   - title: Coastal Habitat Management Program (#13)
     federalId: GNSSP24MS0060
     pdfLink: /~assets/documents/ms_sep_2021_amendment_final_04262022.pdf#page=17
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP24MS0060_471"
+  - title: Coastal Science Program for MS High Schools
+    federalId: GNSSP25MS0066
+    pdfLink: /~assets/documents/ms_2023_state_expenditure_plan_amendment_for_council_submission_522024.pdf#page=18
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP25MS0066_471"
   - title: Compatibility, Coordination and Restoration Planning
     federalId: GNTSP18MS0048
     pdfLink: /~assets/documents/ms_state_expenditure_plan_amendment_2017_21218_final_508compliance.pdf#page=19
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNTSP18MS0048_471"
+  - title: Compatibility, Coordination and Restoration Planning Round II
+    federalId: GNSSP25MS0065
+    pdfLink: /~assets/documents/ms_2023_state_expenditure_plan_amendment_for_council_submission_522024.pdf#page=16
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP25MS0065_471"
   - title: D’Iberville Working Waterfront and Commercial Seafood Harbor (#16)
     federalId: GNSSP24MS0056
     pdfLink: /~assets/documents/ms_2023_state_expenditure_plan_amendment_for_council_submission_522024.pdf#page=17
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP24MS0056_471"
   - title: Gulf Coast Center of Security and Emerging Technology (CSET) Program (#14)
     federalId: GNSSP23MS0051
     pdfLink: /~assets/documents/ms_sep_2021_amendment_final_04262022.pdf#page=20
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP23MS0051_471"
   - title: Gulf of Mexico Citizen Led Initiative
     federalId: GNTSP20MS0084
     pdfLink: /~assets/documents/ms_state_expenditure_plan_amendment_2017_21218_final_508compliance.pdf#page=21
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNTSP20MS0084_471"
   - title: Hancock County Marsh Living Shoreline
     federalId: GNTSP20MS0103
     pdfLink: https://www.mdeq.ms.gov/wp-content/~assets/2019/09/2018-mississippi-state-expenditure-plan-amendment.pdf#page=27
-  - title: "Health Professions (HEALP) for Our Community: Health Professions Center
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNTSP20MS0103_471"
+  - title: Harbor Expansion Parking Area (Jones Park)
+    federalId: GNSSP25MS0070
+    pdfLink: /~assets/documents/ms_2023_state_expenditure_plan_amendment_for_council_submission_522024.pdf#page=18
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP25MS0070_471"
+  - title:
+      "Health Professions (HEALP) for Our Community: Health Professions Center
       of Excellence (#20)"
     federalId: GNSSP24MS0059
     pdfLink: /~assets/documents/ms_sep_2022_amendment.pdf#page=23
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP24MS0059_471"
   - title: Institute of Marine Mammal Studies Outreach and Ecotourism (#22)
     federalId: GNSSP25MS0061
     pdfLink: /~assets/documents/ms_sep_2022_amendment.pdf#page=27
-  - title: Laboratory to Support Mississippi Gulf Coast Water Quality Improvement
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP25MS0061_471"
+  - title:
+      Laboratory to Support Mississippi Gulf Coast Water Quality Improvement
       Program
     federalId: GNTSP18MS0053
     pdfLink: /~assets/documents/ms_state_expenditure_plan_amendment_2017_21218_final_508compliance.pdf#page=17
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNTSP18MS0053_471"
+  - title: Living Shorelines Assistance Program
+    federalId: GNSSP26MS0079
+    pdfLink: /~assets/documents/2024_mississippi_state_expenditure_plan_amendment_for_council_submission_432025_final.pdf#page=20
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP26MS0079_471"
+  - title: Mississippi Artificial Intelligence Network (MAIN)
+    federalId: GNSSP26MS0075
+    pdfLink: /~assets/documents/2024_mississippi_state_expenditure_plan_amendment_for_council_submission_432025_final.pdf#page=30
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP26MS0075_471"
   - title: Mississippi Beachfront Resilience (#11)
     federalId: GNSSP21MS0017
     pdfLink: /~assets/documents/ms_sep_2021_amendment_final_04262022.pdf#page=15
-  - title: Mississippi Beachfront Resilience (#11)
-    federalId: GNSSP21MS0017
-    pdfLink: /~assets/documents/ms_sep_2021_amendment_final_04262022.pdf#page=15
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP21MS0017_471"
   - title: Mississippi Gulf Coast Water Quality Improvement Program
     federalId: GNTSP18MS0058
     pdfLink: /~assets/documents/ms_state_expenditure_plan_amendment_2017_21218_final_508compliance.pdf#page=17
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNTSP18MS0058_471"
+  - title: Mississippi Sound Estuary Program
+    federalId: GNSSP26MS0080
+    pdfLink: /~assets/documents/2024_mississippi_state_expenditure_plan_amendment_for_council_submission_432025_final.pdf#page=25
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP26MS0080_471"
   - title: Mississippi Sound Oyster Shell Recycling Program
     federalId: GNTSP20MS0128
     pdfLink: https://www.mdeq.ms.gov/wp-content/~assets/2019/09/2018-mississippi-state-expenditure-plan-amendment.pdf#page=19
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNTSP20MS0128_471"
+  - title: Nonspecific Invasive Species Detection and Treatment
+    federalId: GNSSP25MS0073
+    pdfLink: /~assets/documents/ms_2023_state_expenditure_plan_amendment_for_council_submission_522024.pdf#page=18
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP25MS0073_471"
   - title: Pascagoula Oyster Reef Complex Relay and Enhancement
     federalId: GNTSP19MS0075
     pdfLink: /~assets/documents/ms_state_expenditure_plan_amendment_2017_21218_final_508compliance.pdf#page=21
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNTSP19MS0075_471"
+  - title: Pascagoula River Scenic Trail
+    federalId: GNSSP25MS0069
+    pdfLink: /~assets/documents/ms_2023_state_expenditure_plan_amendment_for_council_submission_522024.pdf#page=21
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP25MS0069_471"
+  - title: Port of Gulfport Expansion
+    federalId: GNSSP26MS0076
+    pdfLink: /~assets/documents/2024_mississippi_state_expenditure_plan_amendment_for_council_submission_432025_final.pdf#page=33
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP26MS0076_471"
   - title: "Public/Private Partnership (Accelerate MS) #12"
     federalId: GNSSP23MS0045
     pdfLink: /~assets/documents/ms_sep_2021_amendment_final_04262022.pdf#page=16
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP23MS0045_471"
   - title: Remote Oyster Setting Facility
     federalId: GNTSP19MS0080
     pdfLink: /~assets/documents/ms_state_expenditure_plan_amendment_2017_21218_final_508compliance.pdf#page=26
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNTSP19MS0080_471"
   - title: Round Island Living Shoreline Demonstration and Protection Project
       (Planning)
     federalId: GNTSP20MS0087
     pdfLink: /~assets/documents/ms_state_expenditure_plan_amendment_2017_21218_final_508compliance.pdf#page=35
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNTSP20MS0087_471"
+  - title: Stock Enhancements of Spotted Seatrout in Mississippi
+    federalId: GNSSP26MS0078
+    pdfLink: /~assets/documents/2024_mississippi_state_expenditure_plan_amendment_for_council_submission_432025_final.pdf#page=23
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP26MS0078_471"
   - title: Walter Anderson Museum of Art Creative Complex (#18)
     federalId: GNSSP25MS0062
     pdfLink: /~assets/documents/ms_sep_2022_amendment.pdf#page=18
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP25MS0062_471"
   - title: Workforce Training - Meeting the Needs of the Supply Chain (#19)
     federalId: GNSSP24MS0058
     pdfLink: /~assets/documents/ms_sep_2022_amendment.pdf#page=21
+    usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP24MS0058_471"
 cms_hidden: false
 eleventyNavigation:
   key: mississippi
@@ -72,17 +139,18 @@ eleventyNavigation:
   title: Mississippi State Expenditure Plan
 cms: true
 ---
-* [Mississippi Planning_SEP](/~assets/documents/ms_psep_plan_9212015.pdf) - November 2, 2015
-* [Mississippi_SEP](/~assets/documents/ms_sep_final_2017.pdf) - April 13, 2017
-* [2017 Mississippi_SEP Amendment](/~assets/documents/ms_state_expenditure_plan_amendment_2017_21218_final_508compliance.pdf) - April 16, 2018
-* [2018 Mississippi_SEP Amendment](/~assets/documents/ms_sep_2018_amendment_final_020819-508.pdf) - April 12, 2018
-* [2019 Mississippi_SEP Amendment](/~assets/documents/state_expenditure_plan_amendment_ms_2019_final_for_submission_2252020_508.pdf) - April 22, 2020
-* [2021 Mississippi_SEP Amendment](/~assets/documents/ms_sep_2021_amendment_final_04262022.pdf) - May 25, 2022
-* [2022 Mississippi_SEP Amendment](/~assets/documents/ms_sep_2022_amendment.pdf) - May 18, 2023
-* [2023 Mississippi_SEP Amendment](/~assets/documents/ms_2023_state_expenditure_plan_amendment_for_council_submission_522024.pdf) - May 31, 2024
-* [2024 Mississippi_SEP Amendment](/~assets/documents/2024_mississippi_state_expenditure_plan_amendment_for_council_submission_432025_final.pdf) - April 18, 2025
-* [2025 Mississippi SEP Amendment](https://www.restorethegulf.gov/~assets/ms_sep_2025_amendment_3302026.pdf)-  May 21, 2026
 
-For more information on each project award, use the Federal Award ID Number below to search on [USAspending.gov](https://www.usaspending.gov/search/?hash=d0cede4de5827d24bbd9d27076bf18f2).
+- [Mississippi Planning_SEP](/~assets/documents/ms_psep_plan_9212015.pdf) - November 2, 2015
+- [Mississippi_SEP](/~assets/documents/ms_sep_final_2017.pdf) - April 13, 2017
+- [2017 Mississippi_SEP Amendment](/~assets/documents/ms_state_expenditure_plan_amendment_2017_21218_final_508compliance.pdf) - April 16, 2018
+- [2018 Mississippi_SEP Amendment](/~assets/documents/ms_sep_2018_amendment_final_020819-508.pdf) - April 12, 2018
+- [2019 Mississippi_SEP Amendment](/~assets/documents/state_expenditure_plan_amendment_ms_2019_final_for_submission_2252020_508.pdf) - April 22, 2020
+- [2021 Mississippi_SEP Amendment](/~assets/documents/ms_sep_2021_amendment_final_04262022.pdf) - May 25, 2022
+- [2022 Mississippi_SEP Amendment](/~assets/documents/ms_sep_2022_amendment.pdf) - May 18, 2023
+- [2023 Mississippi_SEP Amendment](/~assets/documents/ms_2023_state_expenditure_plan_amendment_for_council_submission_522024.pdf) - May 31, 2024
+- [2024 Mississippi_SEP Amendment](/~assets/documents/2024_mississippi_state_expenditure_plan_amendment_for_council_submission_432025_final.pdf) - April 18, 2025
+- [2025 Mississippi SEP Amendment](https://www.restorethegulf.gov/~assets/ms_sep_2025_amendment_3302026.pdf)- May 21, 2026
+
+Project Title links below will take you directly to the project page when using Adobe Acrobat.
 
 {% include "table.html", grants: grants, customHeader: "Council Grant for Activity in Mississippi SEP" %}

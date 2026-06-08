@@ -6,24 +6,24 @@
     <thead>
       <tr>
         <th scope="col">Project Title</th>
-        <th scope="col">Federal Award ID Number</th>
+        <th scope="col">USAspending.gov Page</th>
       </tr>
     </thead>
     <tbody>
       {%- for grant in grants -%}
-        <tr>
-          <td>
-            {%- if grant.pdfLink -%}
-              <a href="{{ grant.pdfLink }}">
-                {{- grant.title -}}
-                <span class="sr-only">(PDF)</span></a
-              >
-            {%- else -%}
-              {{ grant.title }}
-            {%- endif -%}
-          </td>
-          <td>{{ grant.federalId }}</td>
-        </tr>
+      <tr>
+        <td>
+          {%- if grant.pdfLink -%}
+          <a href="{{ grant.pdfLink }}">
+            {{- grant.title -}}
+            <span class="sr-only">(PDF)</span></a
+          >
+          {%- else -%} {{ grant.title }} {%- endif -%}
+        </td>
+        <td>
+          <a href="{{ grant.usas }}"> {{- grant.federalId -}} </a>
+        </td>
+      </tr>
       {%- endfor -%}
     </tbody>
   </table>
