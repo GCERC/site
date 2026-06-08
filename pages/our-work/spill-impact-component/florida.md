@@ -26,7 +26,7 @@ grants:
     pdfLink: /~assets/documents/florida_sep_final_508_compliant.pdf#page=65
     usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP21FL0025_471"
   - title: Channel Restoration and Water Quality Project
-    federalID: GNSSP25FL0067
+    federalId: GNSSP25FL0067
     pdfLink: /~assets/documents/fl_sep_amendment_3.pdf#page=25
     usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP25FL0067_471"
   - title: Canal Management Master Plan Implementation (23-1)
