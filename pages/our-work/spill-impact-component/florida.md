@@ -27,7 +27,7 @@ grants:
     usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP21FL0025_471"
   - title: Channel Restoration and Water Quality Project
     federalID: GNSSP25FL0067
-    pdfLink: /~assets/documents/fl_sep_amendment_3.pdf#page=25
+    pdfLink: /~assets/documents/fl_sep_amendment_3.PDF#page=25
     usas: "https://www.usaspending.gov/award/ASST_NON_GNSSP25FL0067_471"
   - title: Canal Management Master Plan Implementation (23-1)
     federalId: GNSSP25FL0064
@@ -209,7 +209,7 @@ cms: true
 - [Florida SEP](/~assets/documents/florida_sep_final_508_compliant.pdf) - September 27, 2018
 - [Florida SEP Amendment 1](/~assets/documents/fl_sep_amendment_1_revised_gulf_consortium_508_comp_0.pdf) - August 15, 2019
 - [Florida SEP Amendment 2](/~assets/documents/fl_sep_amendment2-gulfconsortium-r3-wtables_508_table_2_correct.pdf) - May 20, 2020
-- [Florida SEP Amendment 3](/~assets/documents/fl_sep_amendment_3.pdf) - May 13, 2021
+- [Florida SEP Amendment 3](/~assets/documents/fl_sep_amendment_3.PDF) - May 13, 2021
 - [Florida SEP Amendment 4](/~assets/documents/fl_sep_amendment_4_gulf_consortium_final_508_compliant.pdf) - April 11, 2022
 - [Florida SEP Amendment 5](/~assets/documents/fl_sep_amendment_5_-508_0.pdf) - April 20, 2023
 - [Florida SEP Amendment 6](/~assets/documents/fl_sep_amendment_6_final_0.pdf) - March 18, 2024
