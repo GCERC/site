@@ -1,79 +1,53 @@
-title: RestoreTheGulf.gov
-email: RestoreCouncil@restorethegulf.gov
-description: >-
-  The Gulf Coast Ecosystem Restoration Council (RESTORE Council) is a small federal agency established in the wake of the Deepwater Horizon disaster to plan for and carry out restoration across the Gulf Coast.
-
-alert:
-  enabled: false
-  heading: "Public Comment Period:"
-  text: Draft 2026 FPL Public Comment Period November 20 - 11:59 pm MT January 2, 2026 <a href="/our-work/fpl/2026fpl">Learn More</a>
-
-# Twitter handle. Only the handle, not the URL.
-twitter: restorecouncil
-
 social-media:
   - service: twitter
-    link: "https://x.com/restorecouncil"
+    link: https://x.com/restorecouncil
   - service: vimeo
-    link: "https://vimeo.com/restorecouncil"
+    link: https://vimeo.com/restorecouncil
   - service: instagram
-    link: "https://www.instagram.com/restorecouncil"
+    link: https://www.instagram.com/restorecouncil
   - service: facebook
-    link: "https://www.facebook.com/restorecouncil"
-
-# Used to construct absolute URLs throughout the site
-url: "https://www.restorethegulf.gov"
-
-#Subscribe Link
-subscribe: "https://public.govdelivery.com/accounts/USRESTORECOUNCIL/subscriber/new"
-#Modify Subscription
-modify: "https://public.govdelivery.com/accounts/USRESTORECOUNCIL/subscriber/new"
-
-# Digital Analytics Program (DAP) configuration
-dap:
-  agency: GCERC
-
-# Site Navigation
-secondary_navigation:
-  - name: Contact us
-    url: "/contact/"
-
-footer_navigation:
-  - name: Accessibility statement
-    url: "/policies/#accessibility-statement"
-  - name: Council Member Resources
-    url: "/members/"
-  - name: Freedom of Information Act (FOIA)
-    url: "/policies/#freedom-of-information-act-foia"
-  - name: Equal employment
-    url: "/policies/#equal-employment"
-  - name: External links
-    url: "/policies/#external-links"
-  - name: Privacy policy
-    url: "/policies/#privacy-policy"
-  - name: Vulnerability disclosure policy
-    url: "/policies/#vulnerability-disclosure-policy"
-  - name: Have a question about government services? Contact USA.gov.
-    url: https://usa.gov/
-
-# Search.gov configuration
-#
-# 1. Create an account with Search.gov https://search.usa.gov/signup
-# 2. Add a new site.
-# 3. Add your site/affiliate name here.
+    link: https://www.facebook.com/restorecouncil
 searchgov:
   api: https://api.gsa.gov/technology/searchgov/v2/results/i14y
-  # Only change this if you're using a CNAME. Learn more here: https://search.gov/manual/cname.html
   endpoint: https://search.usa.gov
-
-  # Replace this with your search.gov account.
   affiliate: restorethegulf
-
-  # Replace this with your access key.
   access_key: UfTjmXOSRIpVjY3yrqntqoBg0aUCckVj7FpJGfoJ8SQ=
-  # This renders the results within the page instead of sending to user to search.gov.
   inline: true
-
-  # This allows Search.gov to present relevant type-ahead search suggestions in your website's search box.
-  # If you do not want to present search suggestions, set this value to false.
   suggestions: true
+subscribe: https://public.govdelivery.com/accounts/USRESTORECOUNCIL/subscriber/new
+url: https://www.restorethegulf.gov
+twitter: restorecouncil
+dap:
+  agency: GCERC
+title: RestoreTheGulf.gov
+footer_navigation:
+  - name: Accessibility statement
+    url: /policies/#accessibility-statement
+  - name: Council Member Resources
+    url: /members/
+  - name: Freedom of Information Act (FOIA)
+    url: /policies/#freedom-of-information-act-foia
+  - name: Equal employment
+    url: /policies/#equal-employment
+  - name: External links
+    url: /policies/#external-links
+  - name: Privacy policy
+    url: /policies/#privacy-policy
+  - name: Vulnerability disclosure policy
+    url: /policies/#vulnerability-disclosure-policy
+  - name: Have a question about government services? Contact USA.gov.
+    url: https://usa.gov/
+modify: https://public.govdelivery.com/accounts/USRESTORECOUNCIL/subscriber/new
+alert:
+  enabled: true
+  heading: RESTORE Council Approves $403 Million for Gulf Coast Ecosystem
+    Restoration in Milestone 2026 Funded Priorities List
+  text: 2026 FPL and Response to Public Comment <a
+    href="/our-work/fpl/2026fpl">Learn More</a>
+email: RestoreCouncil@restorethegulf.gov
+description: The Gulf Coast Ecosystem Restoration Council (RESTORE Council) is a
+  small federal agency established in the wake of the Deepwater Horizon disaster
+  to plan for and carry out restoration across the Gulf Coast.
+secondary_navigation:
+  - name: Contact us
+    url: /contact/
