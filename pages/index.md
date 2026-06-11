@@ -8,7 +8,7 @@ eleventyNavigation:
 hero:
   title: RESTORE Council Approves $403 Million for Gulf Coast Ecosystem
     Restoration in Milestone 2026 Funded Priorities List
-  url: https://content.govdelivery.com/accounts/USRESTORECOUNCIL/bulletins/41b8dc0
+  url: https://www.restorethegulf.gov/our-work/fpl/fpl-2026/
   body: The Gulf Coast Ecosystem Restoration Council (RESTORE Council) voted
     unanimously to approve the 2026 Funded Priorities List (FPL), committing
     $403,654,000 in new funding for 19 ecosystem restoration projects and
