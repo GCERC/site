@@ -6,36 +6,43 @@ eleventyNavigation:
   key: home
   title: Home
 hero:
-  title: Reflections on Restoration
-  url: /reports/reflections-on-restoration/
-  body: >
-    The Gulf Coast Ecosystem Restoration Council (RESTORE Council) is commemorating 15 years since the Deepwater 
-    Horizon oil spill with a month-long reflection on its progress.
+  title: RESTORE Council Approves $403 Million for Gulf Coast Ecosystem
+    Restoration in Milestone 2026 Funded Priorities List
+  url: https://content.govdelivery.com/accounts/USRESTORECOUNCIL/bulletins/41b8dc0
+  body: The Gulf Coast Ecosystem Restoration Council (RESTORE Council) voted
+    unanimously to approve the 2026 Funded Priorities List (FPL), committing
+    $403,654,000 in new funding for 19 ecosystem restoration projects and
+    programs across the Gulf Coast.
   buttontext: Learn more
 topics:
   - title: Who We Are
     url: /about-us/council-members/
     img: /img/who-we-are.jpg
-    alt: ""
-    body: We are dedicated to the revitalization and protection of the natural and economic resources of the Gulf Coast.
+    alt: Public Council Member Meeting
+    body: We are dedicated to the revitalization and protection of the natural and
+      economic resources of the Gulf Coast.
     buttontext: Meet the Council Members
   - title: What We Do
     url: /our-work/comprehensive-plan/
     img: /img/what-we-do.jpg
-    alt: ""
-    body: We collaborate with State and Federal partners to implement science-based projects that restore critical habitats, improve water quality, and enhance coastal resilience across the Gulf Coast.
+    alt: Gulf Coast
+    body: We collaborate with State and Federal partners to implement science-based
+      projects that restore critical habitats, improve water quality, and
+      enhance coastal resilience across the Gulf Coast.
     buttontext: Learn how we plan
   - title: View Projects
     url: https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676
     img: /img/story-map.jpg
-    alt: ""
+    alt: Map of Gulf Coast
     body: Learn about RESTORE-funded projects in an interactive map and dashboard.
     buttontext: View project dashboard
   - title: Resources
     url: /reports/
     img: /img/resources.jpg
-    alt: ""
-    body: Comprehensive, science-based reports and strategic plans that outline restoration goals, project funding allocations, and progress assessments for ecosystem recovery along the Gulf Coast.
+    alt: Cover of 2022 Comprehensive Plan
+    body: Comprehensive, science-based reports and strategic plans that outline
+      restoration goals, project funding allocations, and progress assessments
+      for ecosystem recovery along the Gulf Coast.
     buttontext: See our reports
 cms: true
 ---
