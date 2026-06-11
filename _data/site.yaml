@@ -42,8 +42,8 @@ alert:
   enabled: true
   heading: RESTORE Council Approves $403 Million for Gulf Coast Ecosystem
     Restoration in Milestone 2026 Funded Priorities List
-  text: 2026 FPL and Response to Public Comment <a
-    href="https://www.restorethegulf.gov/our-work/fpl/2026/">Learn More</a>
+  text: Review 2026 FPL and Response to Public Comment <a
+    href="our-work/fpl/2026/">Learn More</a>
 email: RestoreCouncil@restorethegulf.gov
 description: The Gulf Coast Ecosystem Restoration Council (RESTORE Council) is a
   small federal agency established in the wake of the Deepwater Horizon disaster
