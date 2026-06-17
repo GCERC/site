@@ -1,14 +1,13 @@
 ---
 title: Environmental Compliance
+cms_hidden: false
 eleventyNavigation:
   key: environmental-compliance
   parent: our-work
   title: Environmental Compliance
   order: 4
 cms: true
-cms_hidden: false
 ---
-
 This page provides information regarding Gulf Coast Ecosystem Restoration Council (Council) compliance with the National Environmental Policy Act (NEPA) and other environmental requirements for Funded Priorities Lists (FPLs).
 
 ## Efficient, Effective and Transparent Environmental Compliance
@@ -17,15 +16,15 @@ As with all federal agencies, the Council must comply with all applicable federa
 
 ## NEPA Procedures
 
-The Council’s [NEPA procedures](/~assets/documents/gcerc_nepa_procedures_may_2015.pdf) establish the Council's policies for ensuring compliance with NEPA.
+The Council’s [NEPA procedures](https://www.restorethegulf.gov/~assets/nepa_final__procedures_508_20260506.pdf) establish the Council's policies for ensuring compliance with NEPA.
 
 ## Funded Priorities List Environmental Compliance
 
 Click on the links below to find environmental compliance documentation for FPL activities located in a state or Gulfwide. These pages list FPL activities that have an approved implementation phase as well as any proposed implementation funding approvals in the given location. FPL planning activities are covered by the Council’s NEPA Categorical Exclusion for planning, research or design activities (link to Council’s NEPA Procedures update, section number).
 
-- [Texas](/our-work/environmental-compliance/texas/)
-- [Louisiana](/our-work/environmental-compliance/louisiana/)
-- [Mississippi](/our-work/environmental-compliance/mississippi/)
-- [Alabama](/our-work/environmental-compliance/alabama/)
-- [Florida](/our-work/environmental-compliance/florida/)
-- [Gulfwide](/our-work/environmental-compliance/gulfwide/)
+* [Alabama](/our-work/environmental-compliance/alabama/)
+* [Florida](/our-work/environmental-compliance/florida/)
+* [Louisiana](https://www.restorethegulf.gov/our-work/environmental-compliance/louisiana/)
+* [Mississippi](https://www.restorethegulf.gov/our-work/environmental-compliance/mississippi/)
+* [Texas](https://www.restorethegulf.gov/our-work/environmental-compliance/texas/)
+* [Gulfwide](/our-work/environmental-compliance/gulfwide/)
