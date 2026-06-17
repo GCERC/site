@@ -26,6 +26,7 @@ This page lists FPL activities that have an approved implementation phase as wel
 * [Bahia Grande Coastal Corridor](/~assets/documents/fpl_eclib_tx_bahia_grande_corridor_fonsi_signed.pdf)
 * [Bahia Grande Wetland System Restoration](/~assets/documents/bahia_grande_wr_fonsi_508_compliant_merged_with_other_ec_documentation.pdf) (U.S. Department of Commerce)
 * [Bayou Greenways](/~assets/documents/fpl_eclib_tx_bayou_greenways_imp_ce_signed.pdf)
+* Texas Coastal Water Quality Project
 
   * [Improving Baffin Bay Water Quality Project](/~assets/documents/baffin_bay_wq_merged_ec_documents_signed_final.pdf)
 * [Development of Indicators and Identification of Thresholds to Support Reef Restoration](https://www.restorethegulf.gov/~assets/devel_indicators_ident_doi_merged_signed_20260616.pdf)
