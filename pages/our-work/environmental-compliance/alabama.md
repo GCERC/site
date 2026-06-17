@@ -35,3 +35,5 @@ This page lists FPL activities that have an approved implementation phase as wel
 * [Mobile Bay National Estuary Program](/~assets/documents/mbnep_fonsi_and_ec_docs_aug_2019_508_corrected.pdf) (U.S. Environmental Protection Agency)
 
   * [MBNEP Water Quality on University of South Alabama Campus](https://www.restorethegulf.gov/~assets/mbnep_usa_wq_ec_final_signed_508.pdf)
+* [West End Dauphin Island, Alabama Renourishment and Resilience](https://www.restorethegulf.gov/~assets/west_end_dauphin_island_fonsi_signed_20260616.pdf)
+* [Upper Mobile Bay Beneficial Use Wetland Creation Site](https://www.restorethegulf.gov/~assets/upper_mobile_bay_bu_fonsi_merged_signed_20260616.pdf)
