@@ -17,6 +17,7 @@ The Council periodically approves Council-Selected Restoration Component funding
 * [Funded Priorities List 3(b)](/~assets/documents/fpl3b_final_document.pdf) - 2021
 * Amendments to FPL 3(a) and FPL 3(b):
 
+  * [Texas FPL 3b Amendment Summary](https://www.restorethegulf.gov/~assets/tx_fpl3b_amendmentsummary_final_06102026_508.pdf)
   * [Texas Water Quality and Chenier Plains Restoration Programs and Projects](/~assets/documents/texas_fpl_3b_amendment_12172025.pdf) - 2025
   * [Texas Shoreline Protection Through Living Shorelines Program](/~assets/tx_shoreline_protection_amendment_summarydocx.pdf)- 2025
   * [Highway 297A Retrofit Pond Project](https://www.restorethegulf.gov/~assets/hwy_297a_retrofit_pond_project_fpl_amendment_summary_508_20240926rev.pdf) - 2024
