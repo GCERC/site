@@ -94,11 +94,11 @@ New Orleans, LA 70130
       </td>
     </tr>
     <tr>
-      <th scope="row">Mallory Fischer</th>
+      <th scope="row">Tamara Ward</th>
       <td>U.S. Department of the Interior</td>
       <td>
-        <a href="mailto:mallory_fischer@fws.gov">mallory_fischer@fws.gov</a><br>
-        (470) 618-5501
+        <a href="mailto:tamara_ward@ios.doi.gov">tamara_ward@ios.doi.gov</a><br>
+        (916) 217-7913
       </td>
     </tr>
   </tbody>
