@@ -154,7 +154,7 @@ collections:
                   default: false,
                 }
               - { label: Heading, name: heading, widget: string }
-              - { label: Text, name: text, widget: markdown }
+              - { label: Text, name: text, widget: markdown, minimal: true }
   - name: "home"
     label: "Homepage"
     files:
