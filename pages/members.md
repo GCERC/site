@@ -23,3 +23,7 @@ These terms, which may be updated periodically, are incorporated by reference in
 * [1 CFR 34, Treasury Regulations for the Gulf Coast Restoration Trust Fund](https://www.ecfr.gov/current/title-31/subtitle-A/part-34?toc=1)
 
 These key laws and regulations for RESTORE Council funding and projects are incorporated by reference into awards, as applicable.
+
+## AWARD TERMS
+
+The RESTORE Council principally administers projects and programs through two grants management systems:
