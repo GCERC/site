@@ -16,6 +16,7 @@ The Initial Funded Priorities List was approved on December 9, 2015. Below are l
 * [Initial FPL](/~assets/documents/fpl_fordec9vote_errata_04-07-2016.pdf) - 2015
 * Amendments:
 
+  * [Pensacola Bay Living Shoreline #2](https://www.restorethegulf.gov/~assets/documents/prdft_pensacola_ls_fpl_amendment_summary_20241218.pdf)- 2026
   * [MBNEP Water Quality on University of South Alabama Campus- ](https://www.restorethegulf.gov/~assets/mbnep_usa_wq_amendment_summary_508.pdf)2026
   * [Pensacola Bay Living Shoreline](/~assets/documents/prdft_pensacola_ls_fpl_amendment_summary_20241218.pdf) - 2024
   * [DOI Funding Reallocation](https://www.restorethegulf.gov/~assets/doi_funding_reallocation_fpl_amendment_summary_508_20240926-5.pdf) - 2024
