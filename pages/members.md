@@ -10,8 +10,8 @@ The Grant and Program Teams of the Gulf Coast Ecosystem Restoration Council admi
 ## AWARD TERMS
 
 * [Financial Assistance Standard Terms and Conditions](/~assets/restore_council_stcs_final_08182015.pdf) prior to August 2025
-* [Interagency Agreement Standard Terms and Conditions](/~assets/go_res_20160505_council_iaa_stcs.pdf)
 * [General Terms and Conditions](https://www.restorethegulf.gov/~assets/final_gtcs_20250618_508docx.pdf)
+* [Interagency Agreement Standard Terms and Conditions](/~assets/go_res_20160505_council_iaa_stcs.pdf)
 
 These terms, which may be updated periodically, are incorporated by reference into all RESTORE Council federal financial assistance awards and interagency agreements, as applicable.
 
@@ -24,6 +24,8 @@ These terms, which may be updated periodically, are incorporated by reference in
 
 These key laws and regulations for RESTORE Council funding and projects are incorporated by reference into awards, as applicable.
 
-## AWARD TERMS
+## MANAGEMENT SYSTEMS
 
-The RESTORE Council principally administers projects and programs through two grants management systems:
+The RESTORE Council principally administers projects and programs through [GrantSolutions](https://home.grantsolutions.gov/home/), which includes application and amendment forms. Applicants and and recipients are required to utilize GrantSolutions for grant and interagency agreement applications, and to perform grant or agreement administrative tasks unless an exception has been granted by the Grants Office. Only users explicitly authorized by a Council member or Council member designee will be able to submit proposals and applications in GrantSolutions.
+
+##### General Funding Help Desk Support-[ helpdesk@restorethegulf.gov](mailto:helpdesk@restorethegulf.gov) or (504) 444-2540
