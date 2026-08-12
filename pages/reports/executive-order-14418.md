@@ -2,9 +2,9 @@
 title: Executive Order 14418
 cms_hidden: false
 eleventyNavigation:
-  key: Executive Order 14418
-  parent: Reports
-  title: Executive Order 14418
+  key: executive-order-14418
+  parent: reports
+  title: ""
 ---
 Executive Order 14418
 
