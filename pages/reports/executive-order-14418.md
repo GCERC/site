@@ -4,7 +4,7 @@ cms_hidden: false
 eleventyNavigation:
   key: executive-order-14418
   parent: reports
-  title: ""
+  title: Executive Order 14418
 ---
 Executive Order 14418
 
