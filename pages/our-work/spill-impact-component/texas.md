@@ -24,7 +24,7 @@ cms: true
 * [Texas SEP](/~assets/documents/tx_sep_rev_1_20190129-508.pdf) - March 4, 2019
 * [Texas SEP Amendment #1](/~assets/documents/tx_sep_amendment_1.pdf) - July 30, 2020
 * [Texas SEP Amendment #2](/~assets/documents/tx_sep_amendment_2_508_20231109.pdf) - January 17, 2024
-* Texas SEP Amendment #3- August 18, 2026
+* [Texas SEP Amendment #3](https://www.restorethegulf.gov/~assets/tx_sep_amend_3-2026.pdf)- August 18, 2026
 
 Project Title links below will take you directly to the project page when using Adobe Acrobat.
 
