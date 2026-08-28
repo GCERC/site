@@ -14,7 +14,7 @@ Congress directed the Council to administer two different sources of RESTORE Act
 
 ## The Council has approved the following FPLs:
 
-* \[Initial FPL]({{ './inital-funded-priorities-list.md' | inputPathToUrl }})
-* \[Commitment and Planning Support (CPS) FPL]({{ './cps-fpl.md' | inputPathToUrl }})
-* \[FPL 3]({{ './fpl-3.md' | inputPathToUrl }})
+* [Initial FPL](https://www.restorethegulf.gov/our-work/fpl/inital-funded-priorities-list/)
+* [Commitment and Planning Support (CPS) FPL](https://www.restorethegulf.gov/our-work/fpl/cps-fpl/)
+* [FPL 3](https://www.restorethegulf.gov/our-work/fpl/fpl-3/)
 * [2026 FPL](https://www.restorethegulf.gov/our-work/fpl/fpl-2026/)
