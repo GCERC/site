@@ -127,6 +127,7 @@ fields_common: &fields_common
   - *field_body
 
 pages_folder_defaults: &pages_folder_defaults
+  delete: false
   create: true
   summary: "{{title}}"
   filter:
@@ -235,6 +236,7 @@ collections:
                     }
 
   - name: "announcements"
+    delete: false
     label: "Announcements"
     folder: "collections/announcements"
     create: true
@@ -265,6 +267,7 @@ collections:
           - *field_body
 
   - name: "media"
+    delete: false
     label: "Media Gallery"
     folder: "collections/media"
     create: true
