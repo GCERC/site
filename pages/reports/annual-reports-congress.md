@@ -1,7 +1,7 @@
 ---
 title: Annual Reports to Congress
 redirect_from:
-  - /resources/reports-plans/annual-reports-congress
+  - /resources/reports-plans/annual-reports-congress/
 lead: >
   Annual Reports to Congress summarize the Council’s fiscal year activities
   (October 1st - September 30th of the respective year), including but not

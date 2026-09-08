@@ -2,7 +2,7 @@
 layout: layouts/default
 permalink: /contact/
 redirect_from:
-  - /contact-us
+  - /contact-us/
 title: Contact Us
 sidenav: false
 cms: true

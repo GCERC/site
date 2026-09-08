@@ -1,7 +1,7 @@
 ---
 title: Annual Performance Plans
 redirect_from:
-  - /resources/reports-plans/annual-performance-plans
+  - /resources/reports-plans/annual-performance-plans/
 lead: >
   Annual Performance Plans are used to communicate the agency’s strategic objectives and performance goals with other elements of the agency budget request. These plans describe how the goals will be achieved, identifies priorities among the goals, and explains how the agency will monitor progress.
 eleventyNavigation:

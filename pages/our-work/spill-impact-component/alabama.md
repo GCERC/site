@@ -1,5 +1,7 @@
 ---
 title: Alabama State Expenditure Plan
+redirect_from:
+  - /spill-impact-component/alabama/
 grants:
   - title: "Alabama Gulf Seafood Marketing (#7)"
     federalId: "GNTSP20AL0094"

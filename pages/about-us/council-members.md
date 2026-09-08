@@ -1,7 +1,7 @@
 ---
 title: Council Members
 redirect_from:
-  - /people/council-members
+  - /people/council-members/
 lead: >
   The RESTORE Council includes governors of the States of Alabama, Florida,
   Louisiana, Mississippi and Texas and the Secretaries of the U.S. Departments

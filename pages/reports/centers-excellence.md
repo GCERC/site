@@ -1,7 +1,7 @@
 ---
 title: Centers of Excellence
 redirect_from:
-  - /resources/reports-plans/centers-excellence
+  - /resources/reports-plans/centers-excellence/
 cms_hidden: false
 eleventyNavigation:
   key: centers-excellence

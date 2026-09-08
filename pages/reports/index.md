@@ -1,7 +1,7 @@
 ---
 title: Reports
 redirect_from:
-  - /resources
+  - /resources/
 eleventyNavigation:
   key: reports
   parent: home

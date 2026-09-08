@@ -1,7 +1,8 @@
 ---
 title: Creating Jobs and Strengthening Coastal Economies
 redirect_from:
-  - /restore-impact/creating-jobs-and-strengthening-coastal-economies
+  - /restore-impact/creating-jobs-and-strengthening-coastal-economies/
+  - /what-we-do/creating-jobs-and-strengthening-coastal-economies/
 eleventyNavigation:
   key: creating-jobs-and-strengthening-coastal-economies
   parent: what-we-do

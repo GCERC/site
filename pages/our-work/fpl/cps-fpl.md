@@ -1,7 +1,8 @@
 ---
 title: Comprehensive Plan Commitment and Planning Support Funded Priorities List
 redirect_from:
-  - /council-selected-restoration-component/cps-fpl
+  - /council-selected-restoration-component/cps-fpl/
+  - /fpl/cps-fpl/
 cms_hidden: false
 eleventyNavigation:
   key: cps-fpl

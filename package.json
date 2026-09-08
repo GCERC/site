@@ -1,24 +1,17 @@
 {
-  "name": "11ty-uswds-template",
-  "version": "0.0.2",
-  "description": "A 11ty UWDS template.",
-  "main": "index.js",
+  "name": "GCERC/site",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "build": "studio-eleventy build",
     "dev": "studio-eleventy dev",
-    "dev:cms": "npx decap-server",
     "pages": "npm run build",
-    "serve": "studio-eleventy dev",
-    "start": "studio-eleventy dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "CC0-1.0",
-  "devDependencies": {
-    "@11ty/eleventy": "^3.1.2",
-    "prettier": "^3.6.2"
-  },
   "dependencies": {
-    "@studio/eleventy-preset": "github:cloud-gov/eleventy-preset#v0.2.0"
+    "@studio/eleventy-preset": "github:cloud-gov/eleventy-preset#v0.4.1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6"
   }
 }

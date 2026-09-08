@@ -1,7 +1,8 @@
 ---
 title: Gulfwide Environmental Compliance
 redirect_from:
-  - /fpl-e3-ec-gulfwide
+  - /fpl-e3-ec-gulfwide/
+  - /environmental-compliance/gulfwide/
 eleventyNavigation:
   key: gulfwide
   parent: environmental-compliance

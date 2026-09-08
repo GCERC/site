@@ -1,5 +1,7 @@
 ---
 title: Florida State Expenditure Plan
+redirect_from:
+  - /spill-impact-component/florida/
 grants:
   - title: Adaptive Planning and Compliance Project (24-1)
     federalId: GNSSP21FL0020

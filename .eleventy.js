@@ -13,5 +13,9 @@ module.exports = async function (config) {
         tag: "announcements",
       },
     },
+    imageTransform: {
+      widths: ["auto", 600],
+      responsiveImageClass: false,
+    },
   });
 };

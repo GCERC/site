@@ -1,5 +1,7 @@
 ---
 title: Louisiana State Expenditure Plan Efforts
+redirect_from:
+  - /spill-impact-component/louisiana/
 grants:
   - title: "Adaptive Management"
     federalId: "GNTSP17LA0046"

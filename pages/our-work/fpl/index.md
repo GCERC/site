@@ -1,5 +1,7 @@
 ---
 title: What is the Council-Selected Restoration Component?
+redirect_from:
+  - /fpl/
 cms_hidden: false
 eleventyNavigation:
   key: council-selected-restoration-component
