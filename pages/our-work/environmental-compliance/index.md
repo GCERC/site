@@ -1,5 +1,7 @@
 ---
 title: Environmental Compliance
+redirect_from:
+  - /environmental-compliance/
 cms_hidden: false
 eleventyNavigation:
   key: environmental-compliance

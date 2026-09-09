@@ -1,5 +1,7 @@
 ---
 title: Mississippi State Expenditure Plan
+redirect_from:
+  - /spill-impact-component/mississippi/
 grants:
   - title:
       Beneficial Use of Dredge Material for Marsh Creation and Restoration in

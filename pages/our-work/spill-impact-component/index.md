@@ -1,5 +1,7 @@
 ---
 title: What is the Spill Impact Component?
+redirect_from:
+  - /spill-impact-component/
 eleventyNavigation:
   key: spill-impact-component
   parent: our-work

@@ -1,5 +1,7 @@
 ---
 title: Texas State Expenditure Plan
+redirect_from:
+  - /spill-impact-component/texas/
 grants:
   - title: FY20 RESTORE Nature Based Tourism
     federalId: GNTSP20TX0100

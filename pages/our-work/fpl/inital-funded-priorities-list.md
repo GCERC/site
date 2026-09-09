@@ -1,7 +1,8 @@
 ---
 title: Initial Funded Priorities List
 redirect_from:
-  - /council-selected-restoration-component/inital-funded-priorities-list
+  - /council-selected-restoration-component/inital-funded-priorities-list/
+  - /fpl/inital-funded-priorities-list/
 cms_hidden: false
 eleventyNavigation:
   key: inital-funded-priorities-list

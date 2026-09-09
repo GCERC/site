@@ -1,7 +1,7 @@
 ---
 title: Reflections on Restoration Progress
 redirect_from:
-  - /reflections-on-restoration
+  - /reflections-on-restoration/
 eleventyNavigation:
   key: reflections
   parent: reports

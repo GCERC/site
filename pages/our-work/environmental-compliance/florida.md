@@ -1,7 +1,8 @@
 ---
 title: Florida Environmental Compliance
 redirect_from:
-  - /fpl-e3-ec-florida
+  - /fpl-e3-ec-florida/
+  - /environmental-compliance/florida/
 cms_hidden: false
 eleventyNavigation:
   key: florida

@@ -1,7 +1,7 @@
 ---
 title: Who We Are
 redirect_from:
-  - /who-we-are
+  - /who-we-are/
 lead: >
   The Gulf Coast Ecosystem Restoration Council (RESTORE Council) is a small
   federal agency established in the wake of the Deepwater Horizon disaster to

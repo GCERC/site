@@ -1,7 +1,8 @@
 ---
 title: Innovation to Enhance Community Resilience
 redirect_from:
-  - /restore-impact/innovation-to-enhance-community-resilience
+  - /restore-impact/innovation-to-enhance-community-resilience/
+  - /what-we-do/innovation-to-enhance-community-resilience/
 eleventyNavigation:
   key: innovation-to-enhance-community-resilience
   parent: what-we-do

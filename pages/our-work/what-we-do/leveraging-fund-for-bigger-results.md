@@ -1,7 +1,8 @@
 ---
 title: Leveraging Funds for Bigger Results
 redirect_from:
-  - /restore-impact/leveraging-fund-for-bigger-results
+  - /restore-impact/leveraging-fund-for-bigger-results/
+  - /what-we-do/leveraging-fund-for-bigger-results/
 eleventyNavigation:
   key: leveraging-fund-for-bigger-results
   parent: what-we-do
