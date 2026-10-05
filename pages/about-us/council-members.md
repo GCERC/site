@@ -33,7 +33,7 @@ members:
     photo: /img/Kay Ivey.jpg
     delegates:
       - type: Alternate
-        name: Chris Blankenship
+        name: TBD
         agency: Alabama Department of Conservation and Natural Resources
   - name: Ron DeSantis
     agency: State of Florida
