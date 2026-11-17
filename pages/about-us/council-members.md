@@ -75,10 +75,10 @@ members:
       - type: Representative
         name: Doris Washington
         agency: Director Gulf Coast Ecosytem Restoration
-  - name: Daniel P. Driscoll
+  - name: Adam R. Telle
     agency: U.S. Department of the Army
     title: Secretary
-    photo: /img/sec of army.jpg
+    photo: /img/adam_telle_2.jpg
     delegates:
       - type: Representative
         name: Jeff Trulick
