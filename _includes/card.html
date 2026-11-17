@@ -13,7 +13,7 @@
     {%- assign photo_fit = 'contain' -%}
   {%- endif -%}
 {%- endif -%}
-{%- assign photo_fit_class = 'card-img-fit-cover' -%}
+{%- assign photo_fit_class = '' -%}
 {%- if photo_fit == 'contain' -%}
   {%- assign photo_fit_class = 'card-img-fit-contain' -%}
 {%- endif -%}
@@ -31,7 +31,7 @@
           <img
             src="{{- photo -}}"
             alt="{{- title -}}"
-            class="display-block width-full height-full {{ photo_fit_class }}"
+            class="display-block width-full{% unless photo_aspect == 'natural' %} height-full{% endunless %} {{ photo_fit_class }}"
             loading="lazy"
             decoding="async"
           >

@@ -28,5 +28,5 @@ These are just a portion of the metrics being tracked by the Council and are pro
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
-(504) 717-7235
+(504) 717-7235\
 keala.hughes@restorethegulf.gov

@@ -8,10 +8,10 @@ The Gulf Coast Ecosystem Restoration Council is funding a pilot project to resea
 
 This project will lead to the restoration and improved resiliency for 5 acres of Gulf wind-tidal flat habitat and will provide lessons learned that can be applied to other tidal flat sites in need of restoration. Funding through the RESTORE Council's FPL 3b supported a Harte Research Institute at Texas A&M Corpus Christi pilot project to identify effective restoration techniques for this unique and rare habitat along the southern Texas coast which provides valuable ecosystem services to a variety of species, including migratory birds.
 
-![researchers discussing wind-tidal flat project](/img/PGMON%20-%20Wind-Tidal%20Flat%20Test%20Plat%20Site%203.jpg)
+![researchers discussing wind-tidal flat project](/img/PGMON%20-%20Wind-Tidal%20Flat%20Test%20Plat%20Site%203.jpg)\
 _Isabel Nykamp, of the Harte Research Institute, discusses the wind-tidal flat project with representatives of Texas, the Council, and the Department of the Interior. (Photo: RESTORE Council)_
 
-![wind-tidal flat](/img/IMG_0010%20crop.jpg)
+![wind-tidal flat](/img/IMG_0010%20crop.jpg)\
 _This study of wind-tidal flat restoration techniques could help inform future efforts to restore this valuable type of coastal ecosystem. (Photo: RESTORE Council)_
 
 **Learn more about:**
@@ -21,5 +21,5 @@ _This study of wind-tidal flat restoration techniques could help inform future e
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
-(504) 717-7235
+(504) 717-7235\
 keala.hughes@restorethegulf.gov

@@ -14,5 +14,5 @@ On May 31, 2024, the Council Chair, the U.S. Environmental Protection Agency, ap
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
-(504) 717-7235
+(504) 717-7235\
 keala.hughes@restorethegulf.gov

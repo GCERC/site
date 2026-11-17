@@ -14,5 +14,5 @@ On March 12, 2024 the Council’s Executive Director provided a recommendation m
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
-(504) 717-7235
+(504) 717-7235\
 keala.hughes@restorethegulf.gov
