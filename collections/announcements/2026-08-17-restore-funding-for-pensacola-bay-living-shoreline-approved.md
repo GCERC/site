@@ -11,12 +11,12 @@ project in Escambia County, Florida. Specifically, the Council voted to approve 
 additional funding to cover construction, engineering, and inspection costs associated with sand excavation and signage requirements for this living shoreline project. Background on this approval is provided below.
 
 
-**Learn more about**
+**Learn more about**\
 [Summary of Pensacola Bay Living Shoreline FPL Amendment](https://www.restorethegulf.gov/~assets/pensacola_bay_living_shoreline_fpl_amendment_summary_20260729_508.pdf?utm_medium=email&utm_source=govdelivery)
 
 [RESTORE Council Story Map- See What We Do](https://experience.arcgis.com/experience/5552d321b5ad4f67b7fe8d23cbc24676?utm_medium=email&utm_source=govdelivery)
 
-Keala J. Hughes
-Director of External Affairs & Tribal Relations
-(504) 717-7235
+Keala J. Hughes\
+Director of External Affairs & Tribal Relations\
+(504) 717-7235\
 [keala.hughes@restorethegulf.gov](mailto:keala.hughes@restorethegulf.gov)

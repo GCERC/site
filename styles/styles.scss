@@ -51,10 +51,6 @@
 
 @use "dunes";
 
-img {
-  height: auto;
-}
-
 :focus-visible {
   outline: 3px solid #0B6AFF;
   outline-offset: 2px;
@@ -112,17 +108,14 @@ img {
   }
 }
 
-.usa-card__img img {
-  display: block;
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
-}
-
+// USWDS has no contain-image variant or object-fit utility. Preserve uncropped
+// member portraits inside their aspect-ratio containers without changing alt text.
 .usa-card__img img.card-img-fit-contain {
   object-fit: contain;
 }
 
+// The image transform adds a picture wrapper that USWDS does not size.
+// Fill the existing aspect-ratio container; USWDS supplies default image sizing.
 .usa-card__img picture {
   display: block;
   height: 100%;

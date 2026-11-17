@@ -6,8 +6,8 @@ date: 2025-04-17
 
 ## Regional Administrator McOmber and staff visit coastal restoration initiatives on the Gulf Coast
 
-**Contact Information**
-EPA Region 4 Press Office (region4press@epa.gov)
+**Contact Information**\
+EPA Region 4 Press Office (region4press@epa.gov)\
 404-562-8400
 
 **ATLANTA** (April 17, 2025) – Today, U.S. Environmental Protection Agency (EPA) Regional Administrator Kevin McOmber, leadership from the Florida Department of Protection, Escambia County, Gulf Coast Ecosystem Restoration Council (RESTORE Council) Executive Director Mary Walker, and senior advisors visited restoration projects along the Gulf Coast to mark the 15th anniversary of the Deepwater Horizon oil spill and learn about ongoing efforts to restore the impacted coastal areas.

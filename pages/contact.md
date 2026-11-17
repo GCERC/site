@@ -7,14 +7,14 @@ title: Contact Us
 sidenav: false
 cms: true
 ---
-For General Questions or Comments:
-Keala J. Hughes Director of External Affairs & Tribal Relations
-keala.hughes@restorethegulf.gov
+For General Questions or Comments:\
+Keala J. Hughes Director of External Affairs & Tribal Relations\
+keala.hughes@restorethegulf.gov\
 (504) 717-7235 or email us at RestoreCouncil@restorethegulf.gov
 
-Mailing address:
-Gulf Coast Ecosystem Restoration Council
-500 Poydras Street Suite 1117
+Mailing address:\
+Gulf Coast Ecosystem Restoration Council\
+500 Poydras Street Suite 1117\
 New Orleans, LA 70130
 
 <table class="usa-table usa-table--borderless">

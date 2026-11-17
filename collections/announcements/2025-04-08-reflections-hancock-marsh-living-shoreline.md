@@ -24,5 +24,5 @@ _At the Hancock County Marsh Living Shoreline Project, MDEQ and RESTORE leadersh
 
 Keala J. Hughes  
 Director of External Affairs & Tribal Relations  
-(504) 717-7235
+(504) 717-7235\
 keala.hughes@restorethegulf.gov

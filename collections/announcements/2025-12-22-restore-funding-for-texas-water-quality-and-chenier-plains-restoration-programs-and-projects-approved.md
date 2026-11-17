@@ -29,5 +29,5 @@ Background on these funding approvals is provided below. Before voting on whethe
 - [McFaddin National Wildlife Refuge Shoreline Breakwater Project environmental compliance documentation](/~assets/documents/mcfaddin_fonsi_ec_signed.pdf)
 - [J.D. Murphree WMA Levee Project environmental compliance documentation](/~assets/documents/jd_murphree_fonsi_and_ec_signed.pdf)
 
-[RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)
+[RESTORE Council Story Map- See What We Do](https://restorethegulf.maps.arcgis.com/apps/MapSeries/index.html?appid=fc84cd0bac7540839a43b56936a529ca)\
 [Modifying your eBlast Subscription]({{ site.modify }})
