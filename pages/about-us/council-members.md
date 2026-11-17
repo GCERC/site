@@ -78,7 +78,7 @@ members:
   - name: Adam R. Telle
     agency: U.S. Department of the Army
     title: Secretary
-    photo: /img/adam_telle_2.jpg
+    photo: /img/adam_telle_3.jpg
     delegates:
       - type: Representative
         name: Jeff Trulick
