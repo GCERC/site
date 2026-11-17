@@ -26,7 +26,7 @@ cms_hidden: false
 
 ## Reports by Fiscal Year
 
-* [Fiscal Year 2026](https://www.restorethegulf.gov/~assets/fy26_final_afr_v4_111626.docx)
+* [Fiscal Year 2026](https://www.restorethegulf.gov/~assets/fy26_final_afr_v4_111626.pdf)
 * [Fiscal Year 2025](/~assets/documents/pbc52_fy25_afrofficial_final_version_5_oig_12_12_cleanaod.pdf)
 * [Fiscal Year 2024](/~assets/documents/fy24_afr_final_v1_for_publication_vt111424.pdf)
 * [Fiscal Year 2023](/~assets/documents/afr_gcerc_fy23_v7_508_0.pdf)
